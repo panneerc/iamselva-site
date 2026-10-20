@@ -1,0 +1,78 @@
+{
+  "_help": "Edit this file to add/remove news sources. Each section shows up as a tab on the site. 'max' = how many headlines to keep. Any RSS feed URL works. Google News search feeds: https://news.google.com/rss/search?q=YOUR+TOPIC&hl=en-US&gl=US&ceid=US:en",
+  "sections": [
+    {
+      "id": "markets",
+      "title": "Markets",
+      "max": 40,
+      "feeds": [
+        "https://feeds.content.dowjones.io/public/rss/mw_topstories",
+        "https://finance.yahoo.com/news/rssindex",
+        "https://news.google.com/rss/search?q=stock+market+when:1d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=options+trading+OR+earnings+when:2d&hl=en-US&gl=US&ceid=US:en"
+      ]
+    },
+    {
+      "id": "betting",
+      "title": "Betting",
+      "max": 40,
+      "feeds": [
+        "https://news.google.com/rss/search?q=sports+betting+odds+when:2d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=NFL+odds+picks+when:2d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=NBA+odds+picks+when:2d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=Premier+League+betting+odds+when:3d&hl=en-US&gl=US&ceid=US:en"
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Arsenal & CSK",
+      "max": 40,
+      "feeds": [
+        "https://feeds.bbci.co.uk/sport/football/teams/arsenal/rss.xml",
+        "https://news.google.com/rss/search?q=Arsenal+FC+when:2d&hl=en-GB&gl=GB&ceid=GB:en",
+        "https://news.google.com/rss/search?q=%22Chennai+Super+Kings%22+OR+CSK+IPL&hl=en-IN&gl=IN&ceid=IN:en"
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech & Azure",
+      "max": 40,
+      "feeds": [
+        "https://www.microsoft.com/releasecommunications/api/v2/azure/rss",
+        "https://azure.microsoft.com/en-us/blog/feed/",
+        "https://www.theverge.com/rss/index.xml",
+        "https://feeds.arstechnica.com/arstechnica/index"
+      ]
+    },
+    {
+      "id": "india",
+      "title": "India",
+      "max": 40,
+      "feeds": [
+        "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+        "https://www.thehindu.com/news/national/feeder/default.rss",
+        "https://news.google.com/rss/search?q=Tamil+Nadu+OR+Chennai+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
+      ]
+    },
+    {
+      "id": "richmond",
+      "title": "Richmond",
+      "max": 30,
+      "feeds": [
+        "https://news.google.com/rss/search?q=%22Richmond%22+Virginia+when:3d&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=%22Richmond+VA%22+OR+RVA+when:3d&hl=en-US&gl=US&ceid=US:en"
+      ]
+    }
+  ],
+  "odds": {
+    "_help": "Live betting odds from The Odds API (free key at the-odds-api.com, 500 credits/month). Fetched at most every 8 hours so the free tier is never exceeded (4 sports x 3/day x 31 days = 372 credits).",
+    "refresh_hours": 8,
+    "region": "us",
+    "sports": [
+      {"key": "americanfootball_nfl", "title": "NFL"},
+      {"key": "basketball_nba", "title": "NBA"},
+      {"key": "soccer_epl", "title": "Premier League"},
+      {"key": "cricket_ipl", "title": "IPL"}
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>iamselva — Markets, Betting & News</title>
+<meta name="description" content="Selva's dashboard: live market tickers, betting odds, and headlines on stocks, sports, Arsenal, CSK, Azure, India and Richmond — updated every hour.">
+<meta property="og:title" content="iamselva — Markets, Betting & News">
+<meta property="og:description" content="Live market tickers, betting odds and headlines, updated every hour.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0b0f14; --panel:#121820; --panel2:#18202b; --line:#222c39;
+    --text:#e6edf3; --muted:#8b98a8; --accent:#22c55e; --accent2:#38bdf8; --warn:#f59e0b; --neg:#ef4444;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1240px;margin:0 auto;padding:0 16px}
+
+  header{border-bottom:1px solid var(--line);background:linear-gradient(180deg,#0f151c,#0b0f14)}
+  .top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0}
+  .logo{font-family:"JetBrains Mono",monospace;font-weight:700;font-size:22px;letter-spacing:-.5px}
+  .logo span{color:var(--accent)}
+  .stamp{font-size:12px;color:var(--muted);text-align:right}
+  .dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--accent);margin-right:6px;box-shadow:0 0 8px var(--accent);vertical-align:middle}
+
+  .tape{min-height:46px;border-bottom:1px solid var(--line)}
+
+  nav{position:sticky;top:0;z-index:5;background:rgba(11,15,20,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  .tabs{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;padding:8px 0}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{flex:none;padding:8px 14px;border-radius:999px;font-size:14px;font-weight:500;color:var(--muted);border:1px solid transparent;cursor:pointer;background:none;font-family:inherit}
+  .tab:hover{color:var(--text)}
+  .tab.on{color:#04120a;background:var(--accent);font-weight:600}
+  .tab .n{font-size:11px;opacity:.7;margin-left:4px}
+
+  main.wrap{padding-top:22px;padding-bottom:40px}
+  .head{display:flex;align-items:end;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px}
+  h1{font-size:24px;margin:0;letter-spacing:-.4px}
+  .sub{color:var(--muted);font-size:13px;margin-top:4px}
+  input[type=search]{background:var(--panel);border:1px solid var(--line);color:var(--text);border-radius:8px;padding:8px 12px;font:inherit;font-size:14px;width:240px;max-width:100%}
+
+  .layout{display:grid;grid-template-columns:minmax(0,1fr);gap:18px}
+  .layout.split{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr)}
+  @media(max-width:900px){.layout.split{grid-template-columns:minmax(0,1fr)}}
+
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  .card h2{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0;padding:12px 14px;border-bottom:1px solid var(--line);font-weight:600}
+
+  .news{list-style:none;margin:0;padding:0}
+  .news li{border-bottom:1px solid var(--line)}
+  .news li:last-child{border-bottom:0}
+  .news a{display:block;padding:12px 14px}
+  .news a:hover{background:var(--panel2)}
+  .meta{font-size:12px;color:var(--muted);margin-bottom:4px;display:flex;gap:8px;flex-wrap:wrap}
+  .src{color:var(--accent2);font-weight:600}
+  .t{font-weight:600;line-height:1.35;font-size:15px}
+  .s{color:var(--muted);font-size:13px;line-height:1.45;margin-top:4px}
+  .empty{padding:24px 14px;color:var(--muted);font-size:14px}
+
+  .tv{height:520px}
+  .league{padding:10px 14px 4px;font-weight:700;font-size:14px;color:var(--accent)}
+  .game{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 12px;padding:8px 14px;border-bottom:1px solid var(--line);font-size:14px}
+  .game .when{grid-column:1/-1;font-size:11px;color:var(--muted)}
+  .line{display:contents}
+  .price{font-family:"JetBrains Mono",monospace;font-weight:700;text-align:right}
+  .price.fav{color:var(--muted)} .price.dog{color:var(--accent)}
+  .book{font-size:11px;color:var(--muted);font-weight:400;font-family:Inter,sans-serif;margin-left:6px}
+  .note{font-size:12px;color:var(--muted);padding:10px 14px;line-height:1.5}
+  .note code{background:var(--panel2);padding:1px 5px;border-radius:4px}
+
+  footer{border-top:1px solid var(--line);color:var(--muted);font-size:12px;line-height:1.6;padding:20px 0 40px}
+  footer strong{color:var(--text)}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <div class="logo">iam<span>selva</span>.com</div>
+    <div class="stamp"><span class="dot"></span><span id="updated">Loading…</span></div>
+  </div>
+  <!-- Live ticker tape (TradingView free widget). Edit WATCHLIST below to change symbols. -->
+  <div class="tape" id="tape"></div>
+</header>
+
+<nav><div class="wrap tabs" id="tabs"></div></nav>
+
+<main class="wrap">
+  <div class="head">
+    <div><h1 id="title">Markets</h1><div class="sub" id="subtitle"></div></div>
+    <input type="search" id="q" placeholder="Filter headlines…" aria-label="Filter headlines">
+  </div>
+  <div id="view"></div>
+</main>
+
+<footer>
+  <div class="wrap">
+    Headlines and summaries link to the original publishers; all content belongs to them. Market data by TradingView. Odds via The Odds API.<br>
+    <strong>Not financial or betting advice.</strong> Odds change quickly — always confirm with your sportsbook. Must be 21+ to bet in Virginia.
+    Gambling problem? Call <strong>1-800-GAMBLER</strong>.<br>
+    © <span id="yr"></span> iamselva.com
+  </div>
+</footer>
+
+<script>
+// ---------- Settings you can edit ----------
+const WATCHLIST = [
+  { proName: "FOREXCOM:SPXUSD", title: "S&P 500" },
+  { proName: "FOREXCOM:NSXUSD", title: "Nasdaq 100" },
+  { proName: "FOREXCOM:DJI",    title: "Dow 30" },
+  { proName: "AMEX:SPY",        title: "SPY" },
+  { proName: "NASDAQ:QQQ",      title: "QQQ" },
+  { proName: "NASDAQ:MSFT",     title: "Microsoft" },
+  { proName: "NASDAQ:NVDA",     title: "Nvidia" },
+  { proName: "NASDAQ:AAPL",     title: "Apple" },
+  { proName: "NASDAQ:TSLA",     title: "Tesla" },
+  { proName: "BITSTAMP:BTCUSD", title: "Bitcoin" },
+  { proName: "FX_IDC:USDINR",   title: "USD/INR" }
+];
+// --------------------------------------------
+
+const $ = s => document.querySelector(s);
+document.getElementById("yr").textContent = new Date().getFullYear();
+
+function tvWidget(el, name, config) {
+  const s = document.createElement("script");
+  s.src = `https://s3.tradingview.com/external-embedding/embed-widget-${name}.js`;
+  s.async = true;
+  s.innerHTML = JSON.stringify(config);
+  const box = document.createElement("div");
+  box.className = "tradingview-widget-container";
+  box.innerHTML = '<div class="tradingview-widget-container__widget"></div>';
+  box.appendChild(s);
+  el.innerHTML = "";
+  el.appendChild(box);
+}
+
+tvWidget($("#tape"), "ticker-tape", {
+  symbols: WATCHLIST, showSymbolLogo: true, isTransparent: true,
+  displayMode: "adaptive", colorTheme: "dark", locale: "en"
+});
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+function ago(iso) {
+  if (!iso) return "";
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now";
+  if (m < 60) return m + "m ago";
+  if (m < 1440) return Math.round(m / 60) + "h ago";
+  return Math.round(m / 1440) + "d ago";
+}
+const fmtOdds = p => (p > 0 ? "+" : "") + p;
+
+let NEWS = null, ODDS = null, current = "markets";
+
+function newsList(items, q) {
+  const f = q ? items.filter(i => (i.title + " " + i.summary + " " + i.source).toLowerCase().includes(q)) : items;
+  if (!f.length) return `<div class="empty">${q ? "No headlines match that filter." : "No headlines yet — the hourly update will fill this in."}</div>`;
+  return `<ul class="news">${f.map(i => `
+    <li><a href="${esc(i.link)}" target="_blank" rel="noopener">
+      <div class="meta"><span class="src">${esc(i.source || "News")}</span><span>${ago(i.published)}</span></div>
+      <div class="t">${esc(i.title)}</div>
+      ${i.summary ? `<div class="s">${esc(i.summary)}</div>` : ""}
+    </a></li>`).join("")}</ul>`;
+}
+
+function oddsCard() {
+  if (!ODDS || !ODDS.leagues || !ODDS.leagues.length) {
+    return `<div class="card"><h2>Live Odds</h2><div class="note">Live moneyline odds will appear here once you add a free API key from
+      <a href="https://the-odds-api.com" target="_blank" rel="noopener" style="color:var(--accent2)">the-odds-api.com</a>
+      as a GitHub secret named <code>ODDS_API_KEY</code> (see README step 6). Off-season leagues show nothing.</div></div>`;
+  }
+  const leagues = ODDS.leagues.map(L => `
+    <div class="league">${esc(L.title)}</div>
+    ${L.games.map(g => {
+      const d = new Date(g.start);
+      const when = d.toLocaleString(undefined, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+      const lines = g.lines.map(l => `<div class="line"><div>${esc(l.name)}</div>
+        <div class="price ${l.price < 0 ? "fav" : "dog"}">${fmtOdds(l.price)}<span class="book">${esc(l.book)}</span></div></div>`).join("");
+      return `<div class="game"><div class="when">${esc(when)} · ${g.books} books</div>${lines}</div>`;
+    }).join("")}`).join("");
+  return `<div class="card"><h2>Best Moneyline · Next 7 Days</h2>${leagues}
+    <div class="note">Best available price across US sportsbooks. Updated ${ago(ODDS.updated)}.</div></div>`;
+}
+
+function render() {
+  const q = $("#q").value.trim().toLowerCase();
+  const sec = NEWS?.sections?.[current] || { title: current, items: [] };
+  $("#title").textContent = sec.title;
+  $("#subtitle").textContent = `${sec.items.length} headlines` + (sec.feeds_total ? ` from ${sec.feeds_ok}/${sec.feeds_total} sources` : "");
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("on", t.dataset.id === current));
+  const headlines = `<div class="card"><h2>Headlines</h2>${newsList(sec.items, q)}</div>`;
+
+  if (current === "markets") {
+    $("#view").innerHTML = `<div class="layout split"><div>${headlines}</div><div class="card"><h2>Market Overview</h2><div class="tv" id="tv"></div></div></div>`;
+    tvWidget($("#tv"), "market-overview", {
+      colorTheme: "dark", dateRange: "1D", showChart: true, locale: "en", isTransparent: true,
+      width: "100%", height: "100%", showSymbolLogo: true, plotLineColorGrowing: "#22c55e", plotLineColorFalling: "#ef4444",
+      tabs: [
+        { title: "Indices", symbols: [{ s: "FOREXCOM:SPXUSD", d: "S&P 500" }, { s: "FOREXCOM:NSXUSD", d: "Nasdaq 100" }, { s: "FOREXCOM:DJI", d: "Dow 30" }, { s: "INDEX:NKY", d: "Nikkei 225" }, { s: "BSE:SENSEX", d: "Sensex" }] },
+        { title: "My Stocks", symbols: WATCHLIST.filter(w => /NASDAQ|NYSE|AMEX/.test(w.proName)).map(w => ({ s: w.proName, d: w.title })) },
+        { title: "FX & Crypto", symbols: [{ s: "FX_IDC:USDINR", d: "USD/INR" }, { s: "FX:EURUSD", d: "EUR/USD" }, { s: "BITSTAMP:BTCUSD", d: "Bitcoin" }, { s: "BITSTAMP:ETHUSD", d: "Ethereum" }] }
+      ]
+    });
+  } else if (current === "betting") {
+    $("#view").innerHTML = `<div class="layout split"><div>${oddsCard()}</div><div>${headlines}</div></div>`;
+  } else {
+    $("#view").innerHTML = `<div class="layout">${headlines}</div>`;
+  }
+}
+
+function go(id) {
+  current = id;
+  if (location.hash !== "#" + id) history.replaceState(null, "", "#" + id);
+  render();
+  window.scrollTo({ top: 0 });
+}
+
+async function load() {
+  const bust = "?t=" + Date.now();
+  try { NEWS = await (await fetch("data/news.json" + bust)).json(); } catch { NEWS = { order: [], sections: {} }; }
+  try { ODDS = await (await fetch("data/odds.json" + bust)).json(); } catch { ODDS = null; }
+
+  const order = NEWS.order?.length ? NEWS.order : ["markets", "betting", "sports", "tech", "india", "richmond"];
+  $("#tabs").innerHTML = order.map(id => {
+    const s = NEWS.sections?.[id];
+    return `<button class="tab" data-id="${id}">${esc(s?.title || id)}<span class="n">${s?.items?.length || ""}</span></button>`;
+  }).join("");
+  $("#tabs").onclick = e => { const b = e.target.closest(".tab"); if (b) go(b.dataset.id); };
+
+  $("#updated").textContent = NEWS.updated ? "Updated " + ago(NEWS.updated) : "Waiting for first update";
+  const want = location.hash.slice(1);
+  current = order.includes(want) ? want : order[0];
+  render();
+}
+
+$("#q").addEventListener("input", render);
+window.addEventListener("hashchange", () => { const id = location.hash.slice(1); if (id && id !== current) go(id); });
+load();
+setInterval(load, 15 * 60 * 1000); // re-check every 15 min while the page is open
+</script>
+</body>
+</html>
