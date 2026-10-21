@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:26:51.208526+00:00",
+ "updated": "2026-10-21T00:16:59.437477+00:00",
  "order": [
   "markets",
   "betting",
@@ -12,6 +12,20 @@
   "markets": {
    "title": "Markets",
    "items": [
+    {
+     "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+     "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+     "source": "MarketWatch.com - Top Stories",
+     "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says.",
+     "published": "2026-10-21T00:14:00+00:00"
+    },
+    {
+     "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+     "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+     "source": "MarketWatch.com - Top Stories",
+     "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
+     "published": "2026-10-21T00:12:00+00:00"
+    },
     {
      "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
      "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
@@ -48,24 +62,10 @@
      "published": "2026-10-20T22:37:00+00:00"
     },
     {
-     "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-     "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says.",
-     "published": "2026-10-20T22:33:00+00:00"
-    },
-    {
      "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
      "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
      "source": "MarketWatch.com - Top Stories",
      "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-     "published": "2026-10-20T22:30:00+00:00"
-    },
-    {
-     "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-     "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
      "published": "2026-10-20T22:30:00+00:00"
     },
     {
@@ -97,6 +97,13 @@
      "published": "2026-10-20T21:30:57+00:00"
     },
     {
+     "title": "Waste Management (WM) Beats Stock Market Upswing: What Investors Need to Know",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGgwNk1iYURNS0NOc0pPczhhMm9RbVBQR0pnLXMxSWVKNHZNT1JXXzI4eXphbkZab2xpRGphcFE3bzNvdGVFVEdOalFsM0kwcEpXakgtem5BSkc4Wldvbkx3eWYwUUxlaXU1MUNJTGJFTzZkRVhCelIyLW5lVS12b0lLRDhvWnQxVE01ZTdZVVctWlFKVXJWTGVNUEI?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-20T21:15:03+00:00"
+    },
+    {
      "title": "Garmin (GRMN) Laps the Stock Market: Here's Why",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUZXNXlJTmQ2RTBuOV9ZaW42eUlTazJnUzJha2JGM3lpVnYzVUgzTGpGYl9paHI0NHJIV2c5OG95eGppTUJ1SG55eU1oX1dxME01QWVDY0RWUm1HemtjUC00anBFdzJsQW1GV2ZaM2JNVW5VN002WGhMRElXQy00azJkOVlwTUkwbHphU3RkZG9naUR1a0hLWnhR?oc=5",
      "source": "Yahoo Finance",
@@ -109,6 +116,13 @@
      "source": "Reuters",
      "summary": "",
      "published": "2026-10-20T21:14:47+00:00"
+    },
+    {
+     "title": "Stock Market Today, Oct. 20: Salesforce Agrees to Acquire Braze for $5.66 Billion: BRZE Stock Soars 52%",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlJtcVdLWWt5b0xJQ2NndDVjUTdELUN2X3lUcXh3d0RnbXlDUGg2dUhOdG5DRVI4RzFHUjlrUEQ2SjVDOVpORm9YQlBlQXdlcTNUcXIyUDVFdExyYVNJa3lVZUdHZ29jTFd0QzdtZDVEdF9iaFFzdnAzRXhLakhNaTkzN1A0Rl9RVzBLdDNtZElkYWJk?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-20T21:09:42+00:00"
     },
     {
      "title": "Stock Market Today, Oct. 20: Netflix Q3 Revenue Rises 12% on Pricing Power",
@@ -153,6 +167,13 @@
      "published": "2026-10-20T21:00:04+00:00"
     },
     {
+     "title": "KLA (KLAC) Stock Sinks As Market Gains: Here's Why",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEkzMmFEekxyYmNiUGJMallxVDRhd2hMVEJZUUJiYkFyRmJ0dko0OXRpTm1fcDBrVTBlSVlqWDNpTXduZUNFZHBfc3pJakR3OENEZGNXeGx2RWN5TDdjUVBGUnJRRzNUTzFHVVNRdnlUN1VLMDRXTTdZYllidjVzWUhYcXhzQnI3Ui1aemxpZDNQbVRFbHRv?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-20T21:00:04+00:00"
+    },
+    {
      "title": "Carvana (CVNA) Laps the Stock Market: Here's Why",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPME52R0k3b2VOdTlIalgweGFfT0N3N0xKbFBFUXV5cllHY0pEcVJwcUkzaTA5Qjdqdk15cTZaRUVTQVJSNEtTUHFDektTV1BYbzFJNUUtaE4tTnBRX0hsR3hPeXF2cHl0OGhYSF9KR2M4cGFHWnU2NTYtRUFhLUpONG5MZkl4NHh2MWh0RV9lVlNoYm1zcHY3S0R3dw?oc=5",
      "source": "Yahoo Finance",
@@ -167,15 +188,15 @@
      "published": "2026-10-20T21:00:03+00:00"
     },
     {
-     "title": "Cardinal Health (CAH) Laps the Stock Market: Here's Why",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0cwLXNmUUt3OF9ZZkxQejg2NTkxeDVHLVFDdWdfVF9IUVRsZ2ZUVXpmajJQSjZPUFFqai1HVnZ4THBSbGNvWFJUblE5a1YzYWlsVGpfRWxNcVdmZUZLdXp2eFBvV1NNX243cmJyeU5yQXViYlozM3hQZVY1MG1XRFJkaDJWNDhvVlBHenBhNE16aTZuZ2Z6Y1hCNA?oc=5",
+     "title": "Duke Energy (DUK) Laps the Stock Market: Here's Why",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUNKeGhrZjdMajZvNnNtTTU3LWY0X3Q4SG1kRzJEUlloZFZXRGQ0SnZWSUZFS0o3OUZGNThTUjczeEdJSk5WRkxlUFFXb1VPSy10VExvRFAyMjJxcVY3d0hwT1hVZjhYR3ZDcGhSNnFWVFRlRzdrOW9YOWVuOExySmg5b3YtVHh6eVByRGpQUjRxcFFEY0E?oc=5",
      "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-10-20T21:00:03+00:00"
     },
     {
-     "title": "Duke Energy (DUK) Laps the Stock Market: Here's Why",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUNKeGhrZjdMajZvNnNtTTU3LWY0X3Q4SG1kRzJEUlloZFZXRGQ0SnZWSUZFS0o3OUZGNThTUjczeEdJSk5WRkxlUFFXb1VPSy10VExvRFAyMjJxcVY3d0hwT1hVZjhYR3ZDcGhSNnFWVFRlRzdrOW9YOWVuOExySmg5b3YtVHh6eVByRGpQUjRxcFFEY0E?oc=5",
+     "title": "Cardinal Health (CAH) Laps the Stock Market: Here's Why",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0cwLXNmUUt3OF9ZZkxQejg2NTkxeDVHLVFDdWdfVF9IUVRsZ2ZUVXpmajJQSjZPUFFqai1HVnZ4THBSbGNvWFJUblE5a1YzYWlsVGpfRWxNcVdmZUZLdXp2eFBvV1NNX243cmJyeU5yQXViYlozM3hQZVY1MG1XRFJkaDJWNDhvVlBHenBhNE16aTZuZ2Z6Y1hCNA?oc=5",
      "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-10-20T21:00:03+00:00"
@@ -197,20 +218,6 @@
     {
      "title": "Allstate (ALL) Outpaces Stock Market Gains: What You Should Know",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE56T1FLSlVrUmZlYzhOWjFiSHRIX3lGb3ZTeUVybWpHZVpEakxZWm9CU2hDM3dZQUxKTHQtcFA4amxKN0E5TlZmSjRCcFJCYnBxOW11dXQ3QjdKakJEN3JnUmVxczhLNEY3dl9RWDRtMFJobjNzZzdkX1gxYjBxREpEUjM3SXdSWUhFY01MUDhlemhDX1dTVXlnZ0ZyUkJYalhn?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T20:50:04+00:00"
-    },
-    {
-     "title": "Why Affirm Holdings (AFRM) Outpaced the Stock Market Today",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTRQZDlxVlR2NU4wRjFpMGNlaDc4OEZIaEliNy03ZkN2dGs2cTdob2d3em9GNTVpNkhKWDQ4WjJGQXBjcnpXQ3VBNGJDd2g0Qkg1RFV6Tklyd1BzRHdSN1RNNmFuU3lCeThfNExpejRrV3dobi1CcFl1Sl83RWc3dGlieV94WHJBZTZ6Z3JVNmRJemFPcU9BNlB3b1VLTlk?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T20:50:04+00:00"
-    },
-    {
-     "title": "Aptiv PLC (APTV) Outpaces Stock Market Gains: What You Should Know",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQllKQ0ZYMGh5anQyNWZoRDlnS0xzREU4U1JDVFhrTHhHNkxkU09EZjBHNThzanozZTdGOTZBSldVV2N4STh4SGMxdThjRnVTMFlYMTRZWXhKbURDdnJ4NGZsZDR2ZDhhLUZiTW5iWHRXaUdBVFpZbTQ3VDk1c2hHdnd2WjRJcnk3dG9ZOHI0U2ZSQ1EyTUF6eUxR?oc=5",
      "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-10-20T20:50:04+00:00"
@@ -244,6 +251,20 @@
      "published": "2026-10-20T20:50:02+00:00"
     },
     {
+     "title": "Why Owens Corning (OC) Outpaced the Stock Market Today",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjNra2gyRGh4VEdRQXl5YjdoSFpvbjFRTU5yUE1lSGZjOGF5dUZIanFneldzdENqYlh2SFdSZzBTTi1pamwwMGp2V3dVZ3QwY1FDQVNiRmFTZWxUc2NKMlNTaFEtcVdDQ0xjUWdCWkxfQm9VVkhPNFdYYzVtUDhicUx6WGdjZlEtMkRkUTdCdHNFWm0yWVVodDhn?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-20T20:50:02+00:00"
+    },
+    {
+     "title": "UiPath (PATH) Outpaces Stock Market Gains: What You Should Know",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHF6VUZDMGd5amJOMG5TYV8wUkRqdlU4amhGT3R5aE5DajNBdnZFSi1wbElGOFV1M0RuWk0tRVVmbFllaVphVW5qMzZUNWhBaWlaWUxVQjhwTUgzTk1hcDNqclR3MGFweFRIcnFTNXM1dndNZmw0X05Kc0NtOUpPMzFCQm4yaHlMVGtDUVNvR2N4OHpGeWdqV0FNMWVWNXM?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-20T20:45:05+00:00"
+    },
+    {
      "title": "Qualcomm (QCOM) Beats Stock Market Upswing: What Investors Need to Know",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUhDUktjYmFvYlo1QzdTQ0JsYVJXOExiaDRfVWFEcDFjMlk1Z1JPUHJiV2VWTVJlem9OMHp1UjdnWk9XNTdrcHFUUkFIXzNZRXpfZXh1S2I0Vk0yeXRoUnJTdjBkMlpNbTZGdXU0WVI3RS1rQlBabmViQ3JBdmhTM2pKcy04SDF4?oc=5",
      "source": "Yahoo Finance Australia",
@@ -270,27 +291,6 @@
      "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-10-20T20:45:03+00:00"
-    },
-    {
-     "title": "Duolingo, Inc. (DUOL) Stock Sinks As Market Gains: What You Should Know",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZWZNZmdzWWxEQVZQb3Zaa1hUSy1IZmpadmQ2M1NmNzVmZnpvUUZFVDhPNXluQ2p0WnlOZFBoVjYxX3NpcWR5dGI3bE9qZlN4WGNOeWIyM0g0c3dTbVdtUnp6Wkx5S0U0aUkybTRtb3RQLXFyTUw2bmlpTjBWVHMzUk5IeHZDQnpwU0gydUZMRzVxNEEzWlRYMVZR?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T20:45:03+00:00"
-    },
-    {
-     "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
-     "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.",
-     "published": "2026-10-20T20:45:00+00:00"
-    },
-    {
-     "title": "Trading Levels & Reports for Futures traders for 10.21.2026",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGNsdklveE1ma2d3LWYxUFlUVVdVY0JOTUZXRWt3QVplRjdzc0FlTmdWcDZyUG1kTGhNOFRlZHZfS0hySmg4R2ZiMjlKb3lMNVpYdFJXMW96dHlqdEdzNFVfbk54dWx3aTAxRG82MWIxRGdaSFI2MWY1bWRzM1h3TjdhRnpoTTdPVHdZVmp5V2hrdUZqQUNSaVd1djd0SWcxemJR?oc=5",
-     "source": "Barchart.com",
-     "summary": "",
-     "published": "2026-10-20T20:37:51+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -300,11 +300,67 @@
    "title": "Betting",
    "items": [
     {
+     "title": "Chiefs vs. Seahawks odds, line, time: Proven computer model reveals picks for 2026 NFL Week 7 'Sunday Night Football' matchup",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYUpOTVM1Q3QzNEllLWVWa1o4N1ZoTGl4dTVfb1dXOW5KdWxvLXVnVnpSMFBLVXRlT2pWdmNXeUpxZVVfSklCN0FyS2llZHFicFItUzY1UzlkSmR5MFF4TnZ5eVhIUkZ6STY5QjE3UXBvWGJ3NU9Hcno0MjVNNElDTWhjdkRpblFEX0lHb2FJRXhIUG9HdFJUclYxRTZ0aU93WnUyOTJQQklCbzh0X09oVnF0cnVRckRIMTRQVS1mQ2RLdFMtdS1tcm5ETl90clFPRmM5d3l3OW9CZTVHR29OYWFULUpfdnFkNGRWcw?oc=5",
+     "source": "SportsLine",
+     "summary": "",
+     "published": "2026-10-20T23:51:07+00:00"
+    },
+    {
+     "title": "Atlanta Hawks at Orlando Magic odds, picks and predictions",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRF8tWlhOUEs3a21zdmg2YXFibUc3THdkajJOZ1VXRGItSmd0RjZaRE14ZXVKeU5sTko0RUdiWUNVWEJoay1MZVh4RmJoRzZGRENsRS1ISHlCc0JtTnhLRXB2OFpmdEREMUhXWUtfUWtvZnNsWDJiZU1zTXAxT2hXQU5vU2licnlZV0x0UlkwUUZmS0dPZ3M1VHYxT0JPaE56LXhyWVAzV2NWa3N3a0tiRjVzNzlMY2I1NkE?oc=5",
+     "source": "Sportsbook Wire",
+     "summary": "",
+     "published": "2026-10-20T23:46:00+00:00"
+    },
+    {
+     "title": "Patriots vs. Bears Predictions: Week 7 Thursday Night Football odds, picks, and player props",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONzRmNjJDVzF3WkhfRWlJM3BBb1cxNHJCeVQzdTl2cTY5UXI2US1MMEdDUDRucDgzX0dkdHBwcV9FT0h4V2oxQ2YwUjlrbVJqbDZmUFFWc2tKOTFaVHJDeVBTbjBpM3NKTlR0M2ZZZnhoSEc1cExTV3NOQkFWM3JwTVZQdnU4cXJGMGJZWGI3cU5VbzNORlRyZVRnZ24wenNOUlVkTmhMd3d3TDV5Xy1z?oc=5",
+     "source": "VSiN",
+     "summary": "",
+     "published": "2026-10-20T23:34:48+00:00"
+    },
+    {
+     "title": "Ladbrokes Champions League betting offer: Back any Premier League team to win @ 50/1",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajgyc0pUeGtpODNhMVVsb01uV0hlNGJQdy1KSFMtd1pkSk95MVhrX0F2T3VDMWlKeG5yY0RsSlgxdU1sU3lYNDRLMFNCcHBmdGs5YVZmLUY5bkRya09yNDFlX2t0cGNweWZpcjNUaExPMFh2UnNvTjJWWTJMUnQwd19jeC0ycmsyU25ieHJCcVgtcFV2RHlvT3lyX2tyZGlmRGlQUkVZYUpnOVF0YUN4RFBIbzZXazhfZlpKT1pveS1LZw?oc=5",
+     "source": "MyBettingSites.co.uk",
+     "summary": "",
+     "published": "2026-10-20T23:34:11+00:00"
+    },
+    {
+     "title": "Ohio State’s National Championship Odds After Julian Sayin Injury Update",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFZRYTVIbVZNWmhZUkVFNjg2dzJGMmc5VmR2RjZLbi14bUVCRXRKTWJmWDBnN2hDQmQ4Qkhoa0ZVQ0lobl9MMW9tZFhTRUdrVFFYTVN2em9GTUk5VjVIODMxclprTXBGV2lEUXFqV2dDTVZyNktlNnZIbk50RWhrTFo4WkJNeE5CdVpOaVlwNnFBaExScndpVkY0RGR2NkxvVk4wYllQZkxVVzBTMk1kakllcGgxQVdwVmJPV3lB?oc=5",
+     "source": "Sports Betting Dime",
+     "summary": "",
+     "published": "2026-10-20T23:30:00+00:00"
+    },
+    {
+     "title": "Thunder vs. Spurs odds, prediction, time: 2026 NBA Opening Night picks by proven model",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmNEdDI1YUFobHdfdm5KTkd3UFJEUzRQNFdfTXgxZzJBa1pyb1lRTElvc1NKUERiaU1OdnlFZi1WVmdrNThkY1ozWGVhd0NoYkZ0dUJaNGVTT0VONnV0Vkw2bG80QVdKeHJ6ajhJY3ZCR2FhejZCbzlsY2VYQzFaSk05UGszN3BMQThBVFlRUjg1a0Q2UEJ0NGpiZDVRaHQ4QU42RzdEUWQ1aXl6TkhVYW5hVQ?oc=5",
+     "source": "CBS Sports",
+     "summary": "",
+     "published": "2026-10-20T23:25:28+00:00"
+    },
+    {
+     "title": "Thunder vs Spurs Picks Tonight: 3 High-Level NBA Player Props",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ3hHbk44ZGo1bnNBYkhBOHhLaGY3Ym5ZVU4wM1ZxX1liSHRfZEZELTU3VERzc3pSQWJDTHJJenVwSDBDYkRhdlh5UUptcXcwMFhWd0JoSExGdDFONTR2eld1QjIxMXRiNkoxSm5GRUtkTVhwd0tSV2lmZkJQclpHSUY0QThHTi1ramUtRkVYQ0s0enA2eWNTeXB3R25hS0Nfa3g2Qm5paThOWm5ISXBxUE1jT0FSUm13YVc1Y2F6REI?oc=5",
+     "source": "Action Network",
+     "summary": "",
+     "published": "2026-10-20T23:09:00+00:00"
+    },
+    {
      "title": "bet365 bonus code: Get £30 in Champions League free bets",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0ZSZVdCZ2RkdDFzcWRuRG94cFFCb0ExSnlsT0lSU0tER0dQYVI4S3VDZWcwUnd1dGlpRXlGeGd0Y3hwSTh4QmZudjVoNm5SbFg1VHA1eHZlM0R5c1F0aDBOWVA5dWRoZHVxZ3JLZllJWEs5MXNqSXZub2RxUWZuM2FzdVd3YmNWQk9JMHhDclVEUlBxZ1FNcWdJcGM?oc=5",
      "source": "MyBettingSites.co.uk",
      "summary": "",
      "published": "2026-10-20T23:03:50+00:00"
+    },
+    {
+     "title": "NBA player props, odds, picks, lines: 76ers new star LeBron James part of best bets for Opening Night",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSW9vTHA4V1MzNEZMUFpybGgyenBtYk90MFc3MlA4czdJZ19JUTE1R1k0Uk9mM3dVNHVGNGV2a3JCLWNpYkZaZzBTWDNEazVwNlJfdjRJNEp2b3REeHhLWTIzLXdQUXB3SzVnbThiRGREQTIxanp6aWRqcHRiR2E2NWNybFBFTnIwekV1dkZhdG9sMG55c2ZxdTlLMExiZDVDNlgwYjdVM1N5V3Zsdlk5SWFKOXg2YlYyc3Y3b3ZPWHBuYUNXNjZpQi1obnNjN084X1FV?oc=5",
+     "source": "CBS Sports",
+     "summary": "",
+     "published": "2026-10-20T22:31:30+00:00"
     },
     {
      "title": "NFL Week 6 betting trends: 49ers overtake Rams, Eagles’ odds crater",
@@ -314,11 +370,11 @@
      "published": "2026-10-20T22:21:00+00:00"
     },
     {
-     "title": "76ers vs Knicks Prediction, Picks, Odds for NBA Opening Night",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWGtuanlycmVGbGFNWlZiZmVqWUw2dG5IM0RUREFJZDdMT0VKYnNHWXRobHJhSEdoUEhkeGg2MTl1eDV5LWVVUWUyNVpMdlJFZXZXcExILXhEVDBvNjJCN3NpRWNGd1hTN3d6ZmpvcVRpWGNRd2FoSU1nWlVLNU1nMS1Vcnk5R3hBZW5hWE1BalRCUnlWTHlLZzhHQWxLUQ?oc=5",
-     "source": "Action Network",
+     "title": "Thunder vs Spurs Prediction, Picks & Player Prop for Tonight's NBA Game",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1VQNURGMmtmSnlTN1ZwOTZ2ZmVqUTVmRGhrUDM2YkNycVd3YnA4REJFZTZaclpGX1dJWVlINzZRYmZmeDVNUmRsTlJ5aTEwalk2dUxOcFdndDhpTXBPaDZOU183T3NJTjljTzZ3dXk0Qk5SVUZLNzFDQWtkYWFjUTFoTzdvaXlvV2VGb3FwMWYtdURsQ2pwRXotbw?oc=5",
+     "source": "Covers.com",
      "summary": "",
-     "published": "2026-10-20T22:14:00+00:00"
+     "published": "2026-10-20T22:06:00+00:00"
     },
     {
      "title": "76ers vs. Knicks prediction, odds, start time, betting preview: NBA picks, best bets for NBA Opening Night",
@@ -340,6 +396,13 @@
      "source": "CBS Sports",
      "summary": "",
      "published": "2026-10-20T21:35:34+00:00"
+    },
+    {
+     "title": "Why the 2-4 Rams are among Super Bowl favorites: ‘They can still beat anyone’",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0lpenFIVUVmUURIeHYtMmRVbjdkcUVhUzF3eFZhcHMyYzVTM3JBb1lqSHk2eTJRRHFqUFl0QzJ0WkxpYTJuaGdlSU5jTUswal9TQzk5SElwM0hOMDNtSGc4WklxeGxxS2hKT2ViaW40MUJEdHk3YlQ5eHlTN01PZjRMTkFNcHVmUDBIWUdBdDJsd1lRSE5rag?oc=5",
+     "source": "The New York Times",
+     "summary": "",
+     "published": "2026-10-20T21:33:34+00:00"
     },
     {
      "title": "76ers vs. Knicks NBA odds: LeBron James and Philly open as biggest title liability, look to ruin banner night",
@@ -377,13 +440,6 @@
      "published": "2026-10-20T21:15:00+00:00"
     },
     {
-     "title": "NBA Predictions and Moneyline Picks: Tuesday, Oct. 20",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83X2hlSjVsc1N2M0o3d0g4WmtsMFh4bk9kRUJNMlhiVjZ0bE94WEI5V0lRUjlQRlBEN3pJOFNXb0V4U19QUVFxWU8ycG43YVh4TklmcTNuMmI4bURLQkZRRmlvbzdaR0xoOUZCLW5B?oc=5",
-     "source": "Covers.com",
-     "summary": "",
-     "published": "2026-10-20T21:04:00+00:00"
-    },
-    {
      "title": "76ers vs. Knicks odds, prediction, time: 2026 NBA Opening Night picks by proven model",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcTU3emJjM2RtNmt0cmpjY2hoN3JvS2VCMjl2bk52R2RPQktNZXIwV3gzTzZmNXFSMk5tWXNIVXlKYjN0cVYwUFdKZUR4dzh6WFhEcTlzQ19OMmZoZ2t3clhfYy1MTTJJRXA0WHNsLTZlTWY4NEhEaW1hOFVub3d3dU0zamZZZXRCeElHUmFGeWlsb3RfN1k4TE01Vm9CWVZkOGo5WEl4Y01qc1ZsSkVZc0tpcjRudk5CSlVQMzRSTW5mbDAxYjVMQlhUY0hUanFvc0k0?oc=5",
      "source": "CBS Sports",
@@ -399,38 +455,17 @@
     },
     {
      "title": "Missouri State vs. Delaware prediction, odds, time: Week 8 Tuesday college football picks from proven model",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcldaZzFNLU4wYWxVLTBvU0dRdVMtcENwOC1OdTZZU05vMkw1Znh2bHoxcjdhNDBKUTl2M0Vxb0V4N2t3UUJ1N2hENnJvVkx0TDN5RXplSVBnOUI3UWxiUmVRWG1qQ1FIUGlyaHFnUkQyODhpcWtfcXpqZXFQSFZ5VzVJRnRNTWRnd2V0N1lWd09QVHNTMHRXZFBsY2tSR0NTcnE2Q1JPNVRXaWxMaUhtY013R3drNFlYZlRCZzhoTUNBX1FVd1NFVGFrTlI?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM3U5WWlGV0ZqR1dzNGlvRm1HVnlnS2JhQWVfdERKSHQySVlxMk1mWklzcE5waWZ1Q0R6Q0drSXJKLUJZWW4yclAxU2YzT1pzZC1VbUlkOXVKVV9hc3VTU216cFJ2emtUeGVYOEt4SzIzYVRzeGNhRFhXdTVDcFVhV0oxdFZ6ZGpsMU43X2t5YkoxMEpCNWlRclpoQUtPWW05b3BoOG56NDRxdE5saUctVFFaYTdXLVliMXVpWXM4UlptakFqQUF4ZjlrZDN3QlFEVXc?oc=5",
      "source": "CBS Sports",
      "summary": "",
      "published": "2026-10-20T21:00:55+00:00"
     },
     {
-     "title": "NFL Week 7 Picks & Predictions: Best Early Bets (2026)",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd213MGZCdU5PYkxLRE5BZWpVOW0xdjR3Tlozamg4MXZ5T3hjVGxuTS13YW1rTE4wb1dNQWJZQUs5MlZZbXdTQzJBakNYUUcyUkxKdHJPZlVPcEJ5VVcySzFJdDFUSTBxcVowellHRzh3Sm1vbnhwREVOV01MZVNQS2p1NThoZEJsVF9GRlNTeEQ1d0xxODZNal9aalNTMVFUbkNMcFA3bnlkMGdUaTN5Y2l3bl_SAboBQVVfeXFMTmFkLThEbHBVNjV4cFZhQmt2TU1kY1haOGdPTlNrVG45cjhnWTc1Z2I1bTdsRnBnend2d0pFTUV2dHl0ZjQ2Qk9YWnA0Q0FRU3ZqOVZOdlctX3YwWjBEc0NwSUwtSmFUNldxQlI0bGZrVHMzbDVsUml3VDJwajNtTmxRLTNUa3ZZWnFkajQwek5JOEVYaWxGSTNSMHVzWjcxSG9rLVJHYjM4UWFHcVJCSlJoemluQjMwaHpB?oc=5",
-     "source": "BettingPros",
-     "summary": "",
-     "published": "2026-10-20T20:47:36+00:00"
-    },
-    {
-     "title": "76ers vs. Knicks: NBA Prediction, Picks and Prop Bets (Opening Night)",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY3dVdEdGT2hwRk9qOU5wa0tDUlA2MXp5UGxxVVAzTkJxeG9EN3Brb1FyRDJ1ZG1nN0ZzNjE2ZTlBRW5nOW1ucjJPa05lZnVJTG1QalZWQWlHM0JHRlp0Y3pROXd4V3c2NG1JdkxrbndhMnBicEl1cGxzbUIySFJzUGJNT1Jxc1VVRGlQU3pYWEJqcm1FWVc4bFZtSnJPZw?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:42:01+00:00"
-    },
-    {
-     "title": "NFL best bets Week 7: Bears to cover vs. Patriots, Bengals-Ravens under, more picks",
+     "title": "NFL best bets Week 7: Bears to cover vs. Patriots, Bengals-Ravens under, more picks - The Athletic",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTk5pQnhaeWNXVlNSdGl5cjBsMzl3bU5iQ01xUm1ZckI0TlZRZ3ZDZWhYdW5vWTl6akNyNzZpSGVKYVRZekNTdHREUG5QaTZ2SUpSYzh6VndwdjhUc1lJT1pmaERoeVgtMTFQdXpTZ1VXdTRtbnZjRlp2b04xQ01KaWlzSm9tTVpqUXE1ellhRTB1WlprWEROU0N0VzBhUUF6eW92TVJ3?oc=5",
      "source": "The New York Times",
      "summary": "",
      "published": "2026-10-20T20:40:12+00:00"
-    },
-    {
-     "title": "NBA Best Bets Tonight: Spread, Total & Moneyline Picks for October 20",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzdiMkR4LVJ1Y0czZ0I2QjFyUWRvaHlfVHRiMWQ4bnRrQmtRVUhxM0ZXZTFPUmxFN1RRWmF0VkQxaHBIVVJON2dUMkFhOTFFV0szS0pkVHpuSXpwLVpMYm10bWhvSm1TUkl3Z09jUVMzNS1Qblg2am40STE1ZE02U0l4SFhaaG5NRlRxSTJMajZrT3ZWWXd2ek1DZzhnOVp0Z3pmQ1BGUGUxek1yM0FB?oc=5",
-     "source": "Action Network",
-     "summary": "",
-     "published": "2026-10-20T20:38:00+00:00"
     },
     {
      "title": "Vikings vs Colts Prediction, Odds, Picks, Best Bets for NFL Week 7",
@@ -517,11 +552,11 @@
      "published": "2026-10-20T20:15:00+00:00"
     },
     {
-     "title": "76ers vs Knicks Prediction, Picks & Player Props for Tonight's NBA Game",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcU9iUlZ2V0xvcVRzYkJod0VOTjItRW81TWhfSFkyMjlFaFhJYkxScXQ0bnhiRElTR0hxdmd5N0FiZUVVemtWUjFuc1hkOTdvYzA1QXZtZmMyUmdFOU1WR3kxaTdRNm9Ba0psY000bjhfdTRFbksybVlBQjhIcE9Nd3BqMzhZUHN1VmRuMnlDdEotUjg?oc=5",
-     "source": "Covers.com",
+     "title": "NFL will proceed with plans for Steelers-Saints game in Paris despite unrest",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV3JFRzFsU0FDMzZoN04wWUNBZy1OcnNXSjlZclRNSGxoUVFQdmNZdHF2Qno5OVZFNFMtUXN5M2lqampIMFFFeFFzRjExMXliV0tmSXlXMXRxWG53U0RLS1hRMUJacVZlenBWeHoxdXVsd3h1U25wYlpCaGRTUWMwdnNBSU9WaWgtell6ZDJkRVo?oc=5",
+     "source": "The New York Times",
      "summary": "",
-     "published": "2026-10-20T19:58:00+00:00"
+     "published": "2026-10-20T20:11:42+00:00"
     },
     {
      "title": "Updated Super Bowl 61 Odds: 49ers, Bills, Chiefs Lead; Rams in Freefall",
@@ -543,41 +578,6 @@
      "source": "TNT Sports",
      "summary": "",
      "published": "2026-10-20T19:30:53+00:00"
-    },
-    {
-     "title": "Today's top games to watch, best bets, odds: Knicks vs. Lebron and 76ers, Spurs vs. Thunder and more",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV04zNnRUTkZ1a0N2TzEwRFJRVFdzMFA0MjJRbzNhMWxQQTRySkVhVlAxOUs5TF9QRGhqSzBwOEZ6V0RJbW94R1JJaVh2cnFUb2NJMVpZeTBSLTRqRDFFZXZEOW01Q040V3kxYzBtWnZxWHpvNHpwMGJBYmlTX2ZQOGJCeFhxNTJRMG9DR1J1OC1XU1MwbG05ZTJNU1hvSk5UOGFWa1VYenRrVExFeGhOWnEyb2hSUjlGZnAyejNBaUozSTd5VWpMeTlObUloUQ?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T19:30:47+00:00"
-    },
-    {
-     "title": "South Alabama vs. Marshall prediction: Tuesday night college football picks, best bet, odds",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeEhmeWk5a1RzZ2owZnlpTEc0bWtZRDJDaUNyQU9WR3dVUjQtOXR4bC1oTDdDX1czRE9qOTFlZ2VIdlVDZkp6a01ILW5TdEl1bEF5d25MXzc1S282WExHOGNRY3AybFJOT1BaalVneW5UYnhqRFpzSFpTdll5UE9QV01CN0hWczJzNlBVYmUyOUZWOFhzYy1CN0FQYllDT2JXVTU0ZzRMSVFwVnFDd1ZEaVU4eEV4eVpPalFCaU5PWDdhSTVr?oc=5",
-     "source": "New York Post",
-     "summary": "",
-     "published": "2026-10-20T19:30:00+00:00"
-    },
-    {
-     "title": "NFL Week 7 betting odds: Lines and totals for every game",
-     "link": "https://news.google.com/rss/articles/CBMi4gpBVV95cUxNQ2pmWHlCakswQThqRXQwWWhOLV81aUNFRm1QQ19kRTVxaDZSdTc1azZVSlljRV9SSXg2UDhsUjBOSnlObjN2cjRib2FXTlA2ZGRKZWhLMmF1NG8yVFRDTnJFeHZFT0FEdmRlU2RnU1pqLXVkWHlBY3ZHWFo3MlFoRlN4ZjA5U01uamowWE5FcTVQbzcyTHlwNlpTNzFBNDBqdUQtb3YxWThqUlpXMEtjd3ZPTXZMWGozYms0eVlHSU1PN3FVZ2hpTHg1TFRyVzd2VmE5cWZjdUFUOFM3SUs0WWZDTGp0eXd5bHlEY2ZhYVdhbnozSVFtWXY0SFVvSjJkcEF6R081MWFPWHhBV0ZMM2tUN0V2OWhfckFoVEtlb25zNWxvSS1fUlRSSTJ4eG54enFrVGVyZkNzV0lnWG5wbEhjRjkwRC1FUUFDZHNIVlJzeThWc3FyZ203cElVellVd0x4QUJNb2ZGUzhvN0Jnc291eVlic0JNR20ydkZBX3NrZXlBTTdjNzNjTlVFTmFrMG1LX3FTLW13WURPakgtT25yc1hRX3lfN0l0anFZWnlyY1ZwRDR6dlcydVVaSXFVSURTaHBqNVpaczc3MHk5aUE4dzI5RmpyU081NUJheGJDVklLZ0pSVjRvNVdCMFhYQTg5MVJ6djBTUjZSSG9kLXFaUHhOZGdPY0p0MU5hTmZUWWhpOHFxa29scFVkOGNwZTRzTnhueTY5bTZIak9ja1ZUb1c5STREaUtrV3cyenRidDBGQWJRN2FwZ1Q5cGhhT1psdVhtS3NULUdyTVlIOVRSU0xtSm9IZDJiX1paMnYwSXpNZE1tdFZyT0ZNRkM4OXRvZm1TdnVIMGZUM0EzdFFfd2Q0R3FaWmVadDVtRHhuUmZ5MEdOQm1PVFUwZWoxN3VsaHRqZHBSZDZiS01fNE1hVVRSWjdkRnMtYTJiYlJ3ajZJeXdmRTRnVWV2ZHJGaTM2d0FiNkNtME85ZExwdnpsMVppZG05aEhZNG5mUmZKNTI5ZW5fdGRLZE5fcmJUai1BWHVXbWVYVG1ZRzVHbGRPcms1ZGtWM05YRTZLdy1fb0FDQkVKZ0RIWVRaLW5uRXJoWVFDbGhTMEVuZ2RNQ1E0VGdwS1RpUW9DS0h4c3haNVVXcDJkV1ZyWFc5aVZNTXRLMlN5czR1c2d4YlprbHk2T2dzcWpJd2J2VkZRVE05VS1RM3RqbXI0aG05a0JudnJ4SHpHaDU3TW9jMWhJbHVUVEdsVDl0UGFrbTJVa2JDaC1sY2hOWmNCRWx3TExEazVEOXZjQjFXdENWWTZINk1vTXYyc3Q1ZzNrb25oWWtYR0dKVW5PaGlnQ0Rsc1BvX3otcXZmcllWT0trVGlQLVl1eHczQTVaeVhtN0VHcTNBa2pnY09ocDZXN3pMdDBDMW1xaTk1Y01MXzlRUFBKVmJ5YVd4YVBwX2ViUVdjOHBOcmNOM3RmYW16eWJ1dWxHSndZN3ZXR3J5OThkZ2d0TU5DVWJhbnoyVzdPcDZjeHhINXJfVjVIRmNCYnVuVHJkZ0V0NjJyX09GWkVuWFpyNTBORnpteUo5RkxLY2duWjFISFd4bUFIckkwU0c3d2EtalhTaWY2dFZPbWRNUHhsaEZfSXJiQmpHWTRGZnJVYU5DdFFZS3Q4MlpSUE0yb0JMaEdHaVBmLUM1VmlkOE9sMUk2bEJyX2lueTc1bUtVRmtyY012Zkh2ai1JOVNkM09ZMDNsYmRMemlZczgzUG8yd2NkRm5DZFRVTzJIMF9FVkstYVFwMEpxWTVhVHpUcWItdGhGdnF2LVRSczhudFdEdERR?oc=5",
-     "source": "ABC7 Los Angeles",
-     "summary": "",
-     "published": "2026-10-20T19:28:37+00:00"
-    },
-    {
-     "title": "Philadelphia 76ers at New York Knicks NBA Prediction, Picks & Odds for Oct. 20, 2026",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUDZ2VHg5OHpQX2dvZUd3UjNIMXRvdXBWb1J2UlNsaTZ0T0JzX0cwZklNQ1lsZFdWcUxSanJuVVA0MTlocnpxSEdaSzA5ODczM2lsM2d3YkhBblNQZFRfbF9XOFRLUjNaMHktR25saXJ2LUpqdlNHRFBLcEIxekNycmcwY2c5MWxiRU5rZ3VoUnBaVnVPZnB3TnAzMXJJd2hCSGVjTG1R?oc=5",
-     "source": "Athlon Sports",
-     "summary": "",
-     "published": "2026-10-20T19:10:16+00:00"
-    },
-    {
-     "title": "Patriots vs Bears Odds, expert picks, team and player news, betting trends, and stats",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMmw4RWtsdzVZNFFHY2NaUndXOENERE16cWFVZnZnUDZOb0JOSjNYVUZVMGRfNFAxV3U4d05fV0h5cXd4aUNpUTlDZ1lHYXpYRjhkU3pEaEU3eGtFX0Q5c1Y3Q1gzYk1lOVRXMnRDd2M0amVfaERkUlltMkVSdVE2ZzBOTlZaVE9QZFpuWXNPYXA1c2hiZ2pvQzZ0YURheHRqTjlOWGhZOFhSRENWVHp4MU1vdm41bWtGeDZLUFBTOVd0Zw?oc=5",
-     "source": "NBC Sports",
-     "summary": "",
-     "published": "2026-10-20T19:09:09+00:00"
     }
    ],
    "feeds_ok": 4,
@@ -586,6 +586,20 @@
   "sports": {
    "title": "Arsenal & CSK",
    "items": [
+    {
+     "title": "Highlights: Royal Challengers Bengaluru vs Chennai Super Kings | TATA IPL 2026",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS2lBbUNrY0J5aENkWnFqRmlCQl81UXZuNDRQalZweWtXU2ZPamFuNUN4MGpNWUdOVTBsanlra0hZYzFzNTdRbGZRc3owOVo5YlpidTZzWFlNTWt3dlBEWFNXYnpjT21IZ2x6Z0stRXl6Yl9pbGZIeE5xbzBDSEFoVURYTUIyUXlja19id1Z5SjZBZi16dDBiWXJ5RmZhdWttcHc?oc=5",
+     "source": "Cricbuzz",
+     "summary": "",
+     "published": "2026-10-20T23:36:46+00:00"
+    },
+    {
+     "title": "Lacklustre attacking play isn’t sustainable for Arsenal",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ3o1SWtNTWNxN3dIZnA5R2FMQlU2RmQ5M3JoWW9jYmZDUTBUbHlhUEFxZ00yTndwVzRBb0lzVFNseURleGpkcmQ0dFNrVzdselAxUUg3MFFvRzRSOXoxUndnSmgtVU5tclE5ZmYtejZ1VWZTcklmLXBzSjhSdlJTdlFRaDJHUmctME1zNVlKZElwY2c3a0hYOS0tOA?oc=5",
+     "source": "Times Series",
+     "summary": "",
+     "published": "2026-10-20T22:19:49+00:00"
+    },
     {
      "title": "Bayern Munich vs Arsenal: UEFA Champions League stats & head-to-head",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Cb2MwYnd6NFgxMTdSMkZraTQ0b05OQ1NJcGlvTVhnSkJYMFNZRkJyQkROWlNXOWg4TXBKVFVvdEFpZkNCeFpXRml2SVpfR2JCTWhJMFZxSGN6blpteEFnYTNuZFcydw?oc=5",
@@ -606,13 +620,6 @@
      "source": "FC Bayern",
      "summary": "",
      "published": "2026-10-20T20:58:57+00:00"
-    },
-    {
-     "title": "Bayern Munich XI vs Arsenal: Confirmed team news, predicted lineup and injury latest for Champions League",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd25nTjFhN0lXYmpMb24tUENENHRXbFZ0bXRtd1BJZUJ3bmxOQTB5cGc5em5sdXhlYkNzU3V3NDF4MFFYVjhmbW1jZmxpNXVudWlKb0gxS2tITkhtMGdmdEZQbnR3TXpsbmVDQnNIc0RyeVlmNkpXenllYmVJWjdhb3NrSDZreWppeHB5ZFFObDdxY0NYbTByZVVuYlF1eVFBcnpsN3lUWXRQcHBWeTl6TXk2bzRTVDFaTDRnYmFhc3RJSWJCODgzcXRtZkExZWxyUzd6NXZDQ29SMEtLU0F3TU5WVlBLQQ?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-20T20:58:49+00:00"
     },
     {
      "title": "Could facing Bayern give Eberechi Eze respite from Premier League malaise?",
@@ -643,11 +650,11 @@
      "published": "2026-10-20T20:00:58+00:00"
     },
     {
-     "title": "Arsenal set for injury boost as Hincapie return timeline revealed",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWw5a3FnNmRHenN1ak1Md05JTXN6T01DSnpkV3lYeXZkOTJQUnNiX3lMTllrUWdWeEJYVDFyclFDYjJ1bk1Qa1M4RG9OLVN0RHpfdmlDanY1SUlMaGpfTnZRMF9XVkQ5V2tCOExTZGtfbnhTc2h3WnNRbTNQNEZ6Tm9PUS02aHJLb0RSTXhmdGo?oc=5",
+     "title": "Arsenal injury update: Hincapie, Tzolis, Saliba latest return dates",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYjQ5dWhiRl9wT1VBVE1qTnRCOUNsLWdKNDVqOGhyeFdrY3Z6U3kzaG1icHMzVXQyWGdFYS1KcFpaS1NyVjVJbHNZSWJqM2lrMGlPZ0NNNFJ2dmdSS0liUE5WQlZTZHdlZmNTU3ZuVFIzQ2pfaWVHSWVsWFhWd2JqazNEM2JRNnJhc1E5N0pLTG1tZUduVHA4S2pBUVhTZTFZdmJWM0ZvaVdqc1pSWHZrSEphNDVxOWN4T1lpcllKdWd0ZU44bXRj?oc=5",
      "source": "London Evening Standard",
      "summary": "",
-     "published": "2026-10-20T19:45:03+00:00"
+     "published": "2026-10-20T19:38:47+00:00"
     },
     {
      "title": "Arsenal XI vs Bayern: Confirmed team news and predicted lineup",
@@ -671,6 +678,13 @@
      "published": "2026-10-20T18:50:16+00:00"
     },
     {
+     "title": "Arsenal set for injury boost as Hincapie return timeline revealed",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWw5a3FnNmRHenN1ak1Md05JTXN6T01DSnpkV3lYeXZkOTJQUnNiX3lMTllrUWdWeEJYVDFyclFDYjJ1bk1Qa1M4RG9OLVN0RHpfdmlDanY1SUlMaGpfTnZRMF9XVkQ5V2tCOExTZGtfbnhTc2h3WnNRbTNQNEZ6Tm9PUS02aHJLb0RSTXhmdGo?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-10-20T18:47:39+00:00"
+    },
+    {
      "title": "GT vs CSK, 66th Match, Indian Premier League 2026 - Commentary",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVJ5OTNfaWNQMGhnWDNyM2pOT2NkbTUyczVwS3Q0TW0zZTA2aU41amZXVGxhd3ZIYy1mWlhmXzd4R3VqaUhpZFNZcVNqSHpQSjBNM1BCSUZUX1JlR20tN3A4V3pTeWFORWMyODlQM2s2TExZcDdFOV9UbVBKOGI1akRxTWhFRmZNMjhZNnNfSnM2U0dfT1RJTkJTSkdrTVpQ?oc=5",
      "source": "Cricbuzz",
@@ -692,8 +706,15 @@
      "published": "2026-10-20T18:17:00+00:00"
     },
     {
+     "title": "Bayern Munich XI vs Arsenal: Confirmed team news, predicted lineup and injury latest for Champions League",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd25nTjFhN0lXYmpMb24tUENENHRXbFZ0bXRtd1BJZUJ3bmxOQTB5cGc5em5sdXhlYkNzU3V3NDF4MFFYVjhmbW1jZmxpNXVudWlKb0gxS2tITkhtMGdmdEZQbnR3TXpsbmVDQnNIc0RyeVlmNkpXenllYmVJWjdhb3NrSDZreWppeHB5ZFFObDdxY0NYbTByZVVuYlF1eVFBcnpsN3lUWXRQcHBWeTl6TXk2bzRTVDFaTDRnYmFhc3RJSWJCODgzcXRtZkExZWxyUzd6NXZDQ29SMEtLU0F3TU5WVlBLQQ?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-10-20T18:04:13+00:00"
+    },
+    {
      "title": "'He's a bit of a passenger' – Ex-Chelsea striker questions Saka's Arsenal role",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZkVULU9qSWl5d1dCbUROZmdsMUNqNzVxU09KYl9IeG4xUEJiczdpb215QWtZRHQ1VEVGMDhBakkxTHNUb1N6alczblVOSjJXSlJhbm9raXlnYWhiV1pwc3pDdlkyTmxJSHlhb2Juc3JMeURHNTFTdFk4eXV3SnZYN0Jkbm1MT3E5N1d5R04weFN3QmUxN3MyZnBLQXRlZTRMY2xEYTIzVWVIemdkZ2Jac0FfdU9FQm1DTVN5UXE5RmluYmtC?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEY5TzRIa2d1ZmlRa2FLWUY0aGM3ZFQtb0hxTlFLZk9YeHcyV09zU3RYS1cwT1hxWjBhNFNSS3dQSldYS2FSbDVLSXRGckxtWll6cUx0ZThJX0ZJX3BBek9KOTdlZUJtcHdUT1Q1d1p5V0ZwX3Y1SjJfekozN0lhV1BrMEprZ0FVYXF0dHB2WnJNNE5jd2FwNVpYRWd0bHlhbXFfN0pFQzBpWkxUa2RXYlp3NXhDdzZaQ0RsLWhEWkxsUQ?oc=5",
      "source": "DAZN",
      "summary": "",
      "published": "2026-10-20T18:00:00+00:00"
@@ -748,18 +769,11 @@
      "published": "2026-10-20T15:20:36+00:00"
     },
     {
-     "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Scorecard",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUGNNT2VpWTZsMHROSzJhTDNBcklaMHJZcGpwN2ZyeTdzY3l5dWZvZy1KVUduOGpLX1V1Y3dqZ0psOTBRZFBDMTk5S19ObzVqTmRhMG83bFEzOVpQQXlnWk9ldU1maldqSlF0bUhEZkZWQmd6Sk41OHZLZzRRZWNTUE4zc01JcVpMQVpKcTJidVRNQ0kzaXM4X1lPQkhyLUdkWmZaQw?oc=5",
-     "source": "Cricbuzz",
-     "summary": "",
-     "published": "2026-10-20T14:38:41+00:00"
-    },
-    {
      "title": "Bayern confirm who will take charge against Arsenal amid Kompany absence",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONThpVEc2NkNkVERZZWd3LXVKXzN6R2xQTDhkaFJ2MkI0SElqOEtUZ0RIWVpQYWdhTzJYc1BJbHhtNGZXdnpBS3Q2Uzl5NG1Wa1hWTm5Jc0pKVWx5cmlXaWQzRUpVWlAxRnF3YnNjNDhHdXFwZmNndGQzdjc2N243WHI2WUNFc3BiYllIX2RucW4zcEczNHd6LTJSRlk?oc=5",
      "source": "London Evening Standard",
      "summary": "",
-     "published": "2026-10-20T14:32:24+00:00"
+     "published": "2026-10-20T15:04:13+00:00"
     },
     {
      "title": "Training gallery: 45 photos as we build up to Bayern",
@@ -818,18 +832,18 @@
      "published": "2026-10-20T11:12:35+00:00"
     },
     {
+     "title": "Arsenal consider January transfer swoop for Champs Lge hat-trick hero Tresoldi",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1dLMUVudzNuZWR4REEzNUxieDNnWElvYVczY2xwS0c2R25kZFhIdDd3RU5lYXZpMHlMSU1YNVQyNjhWcFFnYS1RYjZ2djFFWm94RkVtaWFrOXlVazg1a1ZvRUJwYXpGdTBhdmtBYm5HdkpLRkd6MldWeTNqaUU0YVRNdkw2cDl5bE9scEVaRnFjcWM3aHMzckw0S210YVM2a2ZBUg?oc=5",
+     "source": "The Sun",
+     "summary": "",
+     "published": "2026-10-20T10:46:00+00:00"
+    },
+    {
      "title": "Nwaneri: \"I wasn't nervous about going in goal\"",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFFvckJuM3BWSG1tTm91YU1BallBb0EteHRHcUNKSkFlYnBJd0J6YnBFT2xOY0IyNFFTN0xHcVRyd1VMV0F6NGFvQS1BS3JDWVpHaXl1ZWItcmNueXNPQjlWc1JKc2x1Zy1Xd0M3eFVOUjNGUVU2NG5XNEdnVVNaVXM2LXo5SUt6X3dpbjRR?oc=5",
      "source": "Arsenal.com",
      "summary": "",
      "published": "2026-10-20T09:43:29+00:00"
-    },
-    {
-     "title": "Stanley Kubrick, Miles Davis and Arsenal F.C: Pranav Arya’s Essential List — LBB - LBB",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdWx0QVBQUndoQ1MzMk5XWUJDbkx1anQ5SVZObWRhOXlCNHhrNTEyQk1jVXl3ei03bmxCZDdhQ2VQVV9TdEZiMU1qUVZRbUlDU3kzNWxheTVlYVE1cE82Umo3QTBlaFAyT2VIUTdHY1RxSWpLYmRGcHdITHF3QVFfQXZHMVhrM2pYQk5Ebm5NU09sVjVDYXZubkI4YUJ2dkRG?oc=5",
-     "source": "Little Black Book",
-     "summary": "",
-     "published": "2026-10-20T09:42:17+00:00"
     },
     {
      "title": "How to watch Tottenham Hotspur v Arsenal Women on TV",
@@ -851,20 +865,6 @@
      "source": "Arsenal.com",
      "summary": "",
      "published": "2026-10-20T09:19:39+00:00"
-    },
-    {
-     "title": "Why Arsenal summer signing cannot face Bayern Munich as rule explained",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZktQMWlEZ05pVWNpV09ObWpXVUZycGdzNEtkekRfVV82MGE5Q3N2ZGVSZUxQbmE1NXduaVZ0LWFrM0ZaWnpQZFVRZG1KTW5oeVhXUGNCS2NKZDNZSWJEeEZaMXpuT1p2aTZ6UHdkeEk5cjRHTVBwQ0pJcFdCRVhBMkh6clgzXzYyZ08xUkdJeUNZRjBDQjlVLW91eVJqTFhCdHJzeUV5OFhlUHdsSzhHVA?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-20T09:16:57+00:00"
-    },
-    {
-     "title": "Arsenal opposition profile ahead of the Champions League clash",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUdaemg3N1dGX3E2UHh3enY2LU9FTlAyM1NLNXF1VF9HYXhIWE1GVzVTMFVRM3I0R1otUy1xcFpsZ09LRjJBajJadENpdzVnbkUxalFQbzR0NFFLcFR0ZUFZVXEyMmh2N3o4Z2pYVGFhcmZzaGpWQUJyS0xyb1I2bllHTUl0M0VvTFN0NGVWRVY?oc=5",
-     "source": "FC Bayern",
-     "summary": "",
-     "published": "2026-10-20T08:51:00+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -873,6 +873,13 @@
   "tech": {
    "title": "Tech & Azure",
    "items": [
+    {
+     "title": "YouTube might be testing hiding the dislike button",
+     "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+     "source": "The Verge",
+     "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu,…",
+     "published": "2026-10-21T00:00:56+00:00"
+    },
     {
      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
      "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
@@ -963,13 +970,6 @@
      "source": "Ars Technica - All content",
      "summary": "A lifetime ad-free subscription is available.",
      "published": "2026-10-20T20:20:12+00:00"
-    },
-    {
-     "title": "TikTok has started censoring searches for popular peptides",
-     "link": "https://www.theverge.com/science/1014825/peptide-tiktok-search-ban",
-     "source": "The Verge",
-     "summary": "Trying to pull up information for certain peptides on TikTok is now returning a \"no results found\" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility…",
-     "published": "2026-10-20T20:16:04+00:00"
     },
     {
      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
@@ -1161,6 +1161,34 @@
    "title": "India",
    "items": [
     {
+     "title": "CapitaLand unveils INR 1,940 crore Chennai data centre with 53 MW capacity",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSk1FdThnZGl3NjkxYkRZNEQ0cWxGem1uMjZfYkQyajZvb0Nta2pPVGlFUWxsc0lpSGIzSlF6Mi1YRzdfdEZqLWlLRGNNdlZJbUlTc1Fxbm1aNmhNUWhpZjFlYzJkenhRNVNXSFd2X2ZFenpoS1AxSloxUm1GWElGMDlNNklpZW15Ukw0RnNQYTNGZ2M3bmZaLVlWNkoza3A4VDkwR0tfdzlObkdwbU1NTEFnN3NlZkwtaFpWZFFUX195bDc1?oc=5",
+     "source": "Prop News Time",
+     "summary": "",
+     "published": "2026-10-21T00:00:43+00:00"
+    },
+    {
+     "title": "Top officials from Ministry of Civil Aviation, AAI review Chennai airport’s T3 Terminal project",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQb1ViQi1Pak5IWEdLNVJhb1JrTmczcmNlTDM0c2c5cFphdHEwNFBJQlNNaElSX2RQSWF4QVVKRFFLS2gwdGQ1UHdaSnNUeEpacWduT0FsYmFXOXJLUFZSNUp4akJXbzRPY2p1V2VFcjMzLTlRcnNKNDFjV1pycjVzanRueEdxUWN1d25ZNkc5cktVdnN6Vm93N2RtMGREejhsT2tDQlYyeTRBdTdRcmxuZm1TVHRFazJacmpMMDc3RDdLMFBHV3ppcWxka0NoX05QdEZfWXlRN1gteGhzU1dsSFgwTTR2cGc5N0JPRWtIZ9IB9gFBVV95cUxNbkRnMXZHS3RjTjE0dGhBWG1tb0tCREQ1bzczX1dRbWZLYlhtc2s3VlYxRHJJRG1QVFFyVTBhRnY3YnpxX3dzSmd6U1N2N3hmeU5CcmRMRnNmUmJSbE5VN08yQXVfYmZXaEp3b1BvSi13R1o5NEJLOEM1Z1dpYjctbEtYaktFZHRlQ3ZCNVc4UFotbHBxeFZRcGFwa0FtcE10QkVyNmN4d29UVmgxbmJBUVlqcUg5YTVpSVMxMWEzUllobmxQOVRFN2JXVlZuUDNYWEdYQ2E2N0p4OUg3R21YRE4ySnVnZ0E5TmoxM3h6R1BaR2haSVE?oc=5",
+     "source": "The Hindu",
+     "summary": "",
+     "published": "2026-10-21T00:00:00+00:00"
+    },
+    {
+     "title": "Rising Crimes And Farmer’s Plight Dominate Conversations at 60th Shiv Sena (UBT) Dussera Rally",
+     "link": "https://www.thehindu.com/news/national/maharashtra/rising-crimes-and-farmers-plight-dominate-conversations-at-60th-shiv-sena-ubt-dussera-rally/article71605414.ece",
+     "source": "India Latest News: Top National Headlines Today & Breaking…",
+     "summary": "In a separate bid, the Eknath Shinde-led faction staged its own event in Goregaon, as rally participants urged accountability from officials and warned of political consequences if justice for students amid recent paper…",
+     "published": "2026-10-20T23:33:29+00:00"
+    },
+    {
+     "title": "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+     "link": "https://www.thehindu.com/news/national/west-bengal/left-parties-should-sell-books-from-party-offices-not-at-durga-puja-pandals-says-west-bengal-cm/article71605199.ece",
+     "source": "India Latest News: Top National Headlines Today & Breaking…",
+     "summary": "The remarks by the Chief Minister, Suvendu Adhikari, come at a time after a section of leaders of his own party condemned attacks on the book stalls set up by the Left parties at Durga Puja pandals",
+     "published": "2026-10-20T23:16:25+00:00"
+    },
+    {
      "title": "Dasara gift for Singareni officers, Dy CM fulfils long-pending demand",
      "link": "https://www.thehindu.com/news/national/telangana/dasara-gift-for-singareni-officers-dy-cm-fulfils-long-pending-demand/article71604614.ece",
      "source": "India Latest News: Top National Headlines Today & Breaking…",
@@ -1175,6 +1203,20 @@
      "published": "2026-10-20T22:57:00+00:00"
     },
     {
+     "title": "Governance concerns at Chowgule Steamships over offshore deals",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2JtZ2prc2FoU094VDJzR2d3cFNmVDhsTzZWQ05PSm4tOWhDVXJNNy1KVDk3NzR3cFZ4ZlRGS2RaNmJmNlNiYVhBRlFiX05FWkpPYXBzVEtYMGdnSS16Y1FHNmJZVkdUN2Z2RzYySEVXcnpndlVOZ1JpRlVsNzFkZ2JqMmNyNVlMWnIzTjYwSWkwcG5WemZXc3pXUndVZGhLUXJiX19CWkVMMEZycHpuM2ZiN3F1T09UQjZvM0Via25XUnNBUW9GcXF1NVgybWMtU3NEem5xNWLSAdgBQVVfeXFMTVdibWdqa3NhaFNPeFQyc0dnd3BTZlQ4bE82VkNOT0puLTloQ1VyTTctSlQ5Nzc0d3BWeGZURktkWjZiZjZTYmFYQUZRYl9ORVpKT2Fwc1RLWDBnZ0ktemNRRzZiWVZHVDdmdkc2MkhFV3J6Z3ZVTmdSaUZVbDcxZGdiajJjcjVZTFpyM042MElpMHBuVnpmV3N6V1J3VWRoS1FyYl9fQlpFTDBGcnB6bjNmYjdxdU9PVEI2bzNFYmtuV1JzQVFvRnFxdTVYMm1jLVNzRHpucTVi?oc=5",
+     "source": "The Times of India",
+     "summary": "",
+     "published": "2026-10-20T22:30:00+00:00"
+    },
+    {
+     "title": "PE-VC investments shine, may exceed $39bn this year",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2dIMEhqTmNIUnQtbzE0TmoxWjRtSVRMTUJyZ0VHVksyTzlUU2Z5YWQ3Y2NUQVljdEpwSHowbTFBUDJEY25JWnVySU9sWDNlSWdFbFJnQmJJQ0Zjb3NXb0s4c3pMRlJzRnFfajIwR29xRFJCMUprVWhvVk1RSklTNWxFTThndEE0b1VPcWx0cGdtZ2IwZG9oR09MSlVuRlpFLUtGMWtOb1NKdlIweWFkY0I3Zko2WFJSWmZETXFmb2JJWVRULVQ00gHHAUFVX3lxTE5nZ0gwSGpOY0hSdC1vMTROajFaNG1JVExNQnJnRUdWSzJPOVRTZnlhZDdjY1RBWWN0SnBIejBtMUFQMkRjbkladXJJT2xYM2VJZ0VsUmdCYklDRmNvc1dvSzhzekxGUnNGcV9qMjBHb3FEUkIxSmtVaG9WTVFKSVM1bEVNOGd0QTRvVU9xbHRwZ21nYjBkb2hHT0xKVW5GWkUtS0Yxa05vU0p2UjB5YWRjQjdmSjZYUlJaZkRNcWZvYklZVFQtVDQ?oc=5",
+     "source": "The Times of India",
+     "summary": "",
+     "published": "2026-10-20T22:30:00+00:00"
+    },
+    {
      "title": "Rubio pushes for India to buy more U.S., Venezuelan oil",
      "link": "https://www.thehindu.com/business/Economy/marco-rubio-oil-purchases-india-mumbai-october-20-2026/article71604269.ece",
      "source": "India Latest News: Top National Headlines Today & Breaking…",
@@ -1187,6 +1229,13 @@
      "source": "India Latest News: Top National Headlines Today & Breaking…",
      "summary": "\"We moved those injured to private hospitals because we realised that the best treatment could be provided there so that there is no more loss of life. I am happy to announce that there was no death among the 25 injured…",
      "published": "2026-10-20T20:02:06+00:00"
+    },
+    {
+     "title": "'Russia is a big machine': Trump says Ukraine 'has to want' to settle war with Putin",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObFhNeFJoOU5qRVE3cHVGTHJfOXUwYUYxaXZ3bExOUDdxUWRoUkg3WERONllsb1k5RDY0QjZMekllZ1RnektXd1NxbC01bDVJdnFndklCMkN3SWdrLTBUVTBVYU5Oa0lDdE55MlRrai1aX1NGX2RLcjk2emRBWHpodlJYRlI1aVc4TF8wRi1iVnZaeWMtZ0xTODFBM0RWUmVMd1JTanNpRFZhaTI4Yjd0eU9SX2hHeENyaVg4b184QUNvb0NtVzFCMlgzUEc5X0NtUk43bWN1clBmTUZ6VTVRUzFRLWN2VnQzVkE?oc=5",
+     "source": "The Times of India",
+     "summary": "",
+     "published": "2026-10-20T19:50:00+00:00"
     },
     {
      "title": "Chennai Mayor alleges online harassment; lodges complaint with police",
@@ -1217,11 +1266,11 @@
      "published": "2026-10-20T19:16:30+00:00"
     },
     {
-     "title": "Efforts on to host four consecutive WTA 125 events in India in 2028: TNTA president Vijay Amritraj",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQzJrLXhQRmJsU1VJWVY5TkdWUzVXdUkwN1ZVenE3VEh6aHpuNm5CaWMyZWJZUlluMWdHOGFTVFRIRXc0aC0yTVlzd05LblQwNDJaMzNyZ3pWTFBmdlgzdXNmOGJhS1VJN0lPV0d4X09YSXRzZFNtNXdpUXZyTlM5UEF2clNjeXQwVU0yZHFmS21idzJIbFlnMTlLWm5WNTdZMjlDelFhS0prU05uV3JqYURLTUliS2MwUkJWUWQtbFhrSVlYcm41b0lGdTcybm1mVGdNXzRIc3l3ZVBYT2k3ZkhRTzNXYVR6QVh2aHpEXzMyUdIB_wFBVV95cUxQVGhFbjdHMllzYUQ3X1VhcF9SX1dsUjlQLU85Mmw0V2szUFdOZW9lVmhFazhqOV93V2ExTFd4ejhRYVZ2Y3lQbHNuenA1U09oRVFCdHl5Y3M4TkNCZlpiNkVfUkRxcEVIbDlJd2hqT1d1RVJrT0JoVjVsaW5NUEVoWG93aGFuemxvLW5UN0poQnpkMmlpQ2Y4cFBNU18wTUhuVzkxUUlieHMzX3M2dE1QZXdjSVI5d3JKS2tEa29jU3NfQ3llVGIxQUVHbTZhR2E2OEhwMUhGOWNZcnQtekV2SDJiMlYzakpQUlZ3SlZ0VHJpZ1N5VW01b2NRTU5NSWM?oc=5",
-     "source": "The New Indian Express",
-     "summary": "",
-     "published": "2026-10-20T19:11:27+00:00"
+     "title": "Thermal power plants must undergo annual fly ash audits, CPCB submits before NGT",
+     "link": "https://www.thehindu.com/news/national/tamil-nadu/thermal-power-plants-must-undergo-annual-fly-ash-audits-cpcb-submits-before-ngt/article71604788.ece",
+     "source": "India Latest News: Top National Headlines Today & Breaking…",
+     "summary": "The submission followed an NGT order on a petition filed by the Tamil Nadu Fly Ash Brick and Blocks Manufacturers Association, which had sought clarity on the CPCB’s role in conducting regular audits of fly ash…",
+     "published": "2026-10-20T19:15:00+00:00"
     },
     {
      "title": "Kashmir clerics, including Mirwaiz, say eviction of Delhi’s historic Race Course mosque ‘deeply disturbing’",
@@ -1278,13 +1327,6 @@
      "source": "The Times of India",
      "summary": "",
      "published": "2026-10-20T18:28:00+00:00"
-    },
-    {
-     "title": "'Don't think there's pressure anymore' - Harmanpreet keen to 'enjoy' post-captaincy phase",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORXE1LW1CVFJsMDY0dDNRZERGZzk3NTI4dTFUSHJLd09YdWR5TnRtSm5GWXJWRDVtZ1dQajhDYVd3OVpOTDR3ZUROdGJrTWtnVDlxR2pWX2lzcHhIemdKVVc0YlN0YjN3N09QUURxUkFxMnlRanVhekQweDZnUjVTNUhvN2dtajA3dDRqTzhGeVE5OWlDaS1wQzdNVDVNUWIzYUNIWUNNZURWWnpveVFiddIBwgFBVV95cUxOOG01eDRfemM0NXR6QzBSQWgwaXRBSGRTVnVNbGVfdmc0XzdwVDhPazlzaEQtZlJGcHdYeTJPVnF1Y0dqUUJON2p5WHN6QmZrN2tYUDI5SFdEbU5xWkNzelJ6VktocXJ6bHVNZlotNHlVNl9kYTk3YnpaWHFTV0ZkZmtRbzNpdU82amZqbnNKbUhfM05KOXM1OGszVnBZMWVkLUtUWWYzRHB3NWlOM0VWeTFNdTFkd2pnS2JzZ2xyeC15UQ?oc=5",
-     "source": "Cricinfo",
-     "summary": "",
-     "published": "2026-10-20T18:20:17+00:00"
     },
     {
      "title": "Chennai Metrowater desilts 227 streets",
@@ -1397,48 +1439,6 @@
      "source": "India Latest News: Top National Headlines Today & Breaking…",
      "summary": "After laying a wreath at the Taj Mahal Palace Hotel, S. Jaishankar says India expects its partners to show ‘zero tolerance’ towards terrorism",
      "published": "2026-10-20T17:18:51+00:00"
-    },
-    {
-     "title": "Dussehra celebrated in Belagavi",
-     "link": "https://www.thehindu.com/news/national/karnataka/dussehra-celebrated-in-belagavi/article71604653.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "Family members of the Patils of the old city performed the pooja. They received various palanquins carrying revered deities such as Venkatramna, Maruti, Jotiba, and the Aapti tree",
-     "published": "2026-10-20T17:18:08+00:00"
-    },
-    {
-     "title": "Health Department issues circular on maintaining medicine stocks in hospitals",
-     "link": "https://www.thehindu.com/news/national/kerala/health-department-issues-circular-on-maintaining-medicine-stocks-in-hospitals/article71604608.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "The circular directs that an updated list of the medicine stocks in hospitals be provided to doctors in the OP (outpatient) departments. This will help doctors have a clear idea about the medicines available in the…",
-     "published": "2026-10-20T17:17:41+00:00"
-    },
-    {
-     "title": "Orionid Meteor Shower 2026 Peak: How To Watch Halley's Comet Fragments",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmMwckJmVnFqOWRzb3FZajFPaGFRRkVmNEJrYjBhcHhQVmltOFdqN2lJSnRUMjJJeGgycjBtWTN5ek5vZjZ5Zmp3eWhvcVhKYmo1UzZVODQ1MXdldWJsWEJERjBqMW42QlM2RE9EaEt5Vmk5cmdkRm0waEdwX1hia0hOR3U1MUVDc2xGZG55UzFKdThsbHpqajNfLVppTzZDRmhtSE9UbllRUdIBsgFBVV95cUxPZGRIWGVXU3RLS2thbERtTnpuZXRsNGFwNURKcldsdktqRWNieTY0dTZxV3lsX3hNRnRIUXAyRlA4M001ODB2MlJRb2FrR1dnQ21HTEpOR0xFQzNLVjc1QU9EbEcyemtsTFhwVDJOeTYwZlJtTlE4WnpfNkx1c3p6ZFNGbEFyTlZ6QlZ6MHZIWlFLWXRSLUFSTkctd3FZMlRyR3l4UG5MNk1ETjR6eHM1WTFB?oc=5",
-     "source": "NDTV",
-     "summary": "",
-     "published": "2026-10-20T17:08:41+00:00"
-    },
-    {
-     "title": "Newsprint makers seek PM Modi's intervention over coal shortages, demand 75:25 allocation ratio",
-     "link": "https://www.thehindu.com/news/national/newsprint-makers-seek-pm-modis-intervention-over-coal-shortages-demand-7525-allocation-ratio/article71605332.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "In a representation to PM Modi, the association sought timely coal dispatches under existing fuel supply agreements with Coal India Limited subsidiaries",
-     "published": "2026-10-20T17:05:18+00:00"
-    },
-    {
-     "title": "Quordle Hint Today: Wednesday, October 21 Clues And Answers",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkN3d3ptSUxOblJ5OEZuNjNIUDRwdHpwb0tiWmFIWG04S3pJVTNHYjloUWRXUnRTVlZ5cTVxbGRfSkNzNUdVeHd0MkNtSDEzR3Uyc284Q25fMjRYdTg5TkNsNUhuWElkTWhvTU1Ed2FNYTVJZXd3akFsNTJZelAxS3RHMm0xTDNaS0o3WWpzUFM4eWNBS3dpNUpXOVk2VnFQbThMRlpRS2VNRHc?oc=5",
-     "source": "Forbes",
-     "summary": "",
-     "published": "2026-10-20T17:00:00+00:00"
-    },
-    {
-     "title": "Hat-trick hero Sai Kishore seals seven points for Tamil Nadu",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOW5fX2dNdjlGZk01eHVKYnp3NWQzc0dlZHZCUkc2THFJS3g4bjB4WGhHNHRCTG1QNGE1TGVLZEk0NUxENTJPTHVHNVMwRDlGQW5FQjJwLUNSc2tTYjhLN3dSbEhkSHBqWDZnNWJWNGhuMlc1M2Rtdl9INElJNF9kY3pSdFlFWEV4OUJBQm9FWnVEQ0h0X3JlMThwRHBYLVN4RXJRdXpQWnFaV3RDcVZobllQNzRHajI5UVh6RkxzUzlLaXJkNmRmWkp5MXA3NkxYX1NveWdzMNIBpwFBVV95cUxNLUNoS1dUUUxGVGh2aHRuTURtaHczeGU1OGRBRC1WY01lMkRIMjFnOUpxaWstdEkxMjFiWWVuTzBXa0RselhlLU9hTlpuWU4weEtjWUJiejJYRHBDRVZxb3hZY2txU3lfRmVCT2p0dkZpVlRnNXpNdEZMdFlRYW04cE1KT0JpY090TS1qMmFJOUxRbmJHcEpUakNMOVI1QzVlaGlnUEVMdw?oc=5",
-     "source": "DT Next",
-     "summary": "",
-     "published": "2026-10-20T16:59:20+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -1453,6 +1453,13 @@
      "source": "NFHS Network",
      "summary": "",
      "published": "2026-10-20T23:22:44+00:00"
+    },
+    {
+     "title": "Swim RVA disputes VDOE ruling on license requirement",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOUdUeklxTld6ZG11MjJmOUtFSzlkTS1pdnpkLTlkd25VNTloeGxaUE1vcnFzdWJCZURXR1N3emZfaVlvZER2QlRqUDdwcnhzSjFwaG13TW54TjNRZXhraEhUSDExOXA4cXBvRFYxSHF0dDVKNDJlRkxPSDkybTllblVMY3hwV1dCbW43TndweERuZjR20gGoAUFVX3lxTFB6Q284Ukg1b0tjOXMzVW9RVG9sU2ZBYTIzRl9IUzFnSFhfUmlHR19kWmhrSF9iSE0xck0zWTdvNjUzeWNYd2stZkxFZ0lkeC1nYmZHLUJjUUFNS3IySm1qeF9aVmxmeXFhcWlqaVBUbjBiSy10Q1pCdFVkX19mUHJQX0drM0NzVll5QXFPcTVPT0ZjUEdsZC1COTlndEhtX0ZQX0FHbXkwSA?oc=5",
+     "source": "WWBT",
+     "summary": "",
+     "published": "2026-10-20T22:27:00+00:00"
     },
     {
      "title": "NBAA leans into business aviation intelligence",
@@ -1560,6 +1567,13 @@
      "published": "2026-10-20T11:50:51+00:00"
     },
     {
+     "title": "Philippine Cardinal Warns Charismatics Against Rise of ‘Spiritual Celebrities’",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXpYbzlUUUxsN0c2cVgwdVV0ZjI5dGdBdzU3VHdTLWxiU3FzS01adWxXQUVWUHg0VmEycXV2X0NMT2g5cFYwbHplM3Q2ZHI0UjhJLVFJc2NGdnlmVUs5SW9KbWhlWGxrTjNicHZSS2Jqcmg2YUdjWjEzajVqaFNnTmVxdlJHb2w2WnFhbFVBV201Nk9ydndVVENtcmJyQ1RYQnFSbjBRX3BFMk0?oc=5",
+     "source": "Radio Veritas Asia",
+     "summary": "",
+     "published": "2026-10-20T10:55:36+00:00"
+    },
+    {
      "title": "Virginia's flu-related ER visit rates are up fivefold from last year",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOc2luMWpqZE1Uci1pb3JCOGhtZ2VrSmpDd2wzVUJCTzB6bmd6VU8tZU5sdVJIYjR6dU1WdmI0MU1UbGVIajNmdHBZYUR5SUlGMl9MazJ3SVlJRHhramFDczZTR1duNDBtMVFJNmJzSUVwUlpxTVRHbTV1V0hkVDVtSDJFUC12LURBNHh5bXFaeUFOZw?oc=5",
      "source": "Axios",
@@ -1586,6 +1600,13 @@
      "source": "WRLH",
      "summary": "",
      "published": "2026-10-20T04:21:16+00:00"
+    },
+    {
+     "title": "1575A Durham Park Mews, Richmond, VA 23220",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkNKMkZWM2Y1VS1CWnFHTWd0T3ZsTjNyQXZ6UzNzcjEzaU5uOC1hMWlpQy0yclV1VVZFSXpVenFDN3oxQTgzRlBTMGY5SUFCcXZaNWNqc2JBcVdXR0lnV2lqSGNEZFRmdGNGMWFTalNXaXlROGlrVm00VXJ2UFl1ZUo4RVl6cFZnUGdBWUxsN09OWDJnNkYwdQ?oc=5",
+     "source": "Realtor.com",
+     "summary": "",
+     "published": "2026-10-20T00:46:44+00:00"
     },
     {
      "title": "Spanberger, Va. SCC Staff Seek More Conditions for NextEra-Dominion Merger",
@@ -1635,27 +1656,6 @@
      "source": "WSLS",
      "summary": "",
      "published": "2026-10-19T20:22:02+00:00"
-    },
-    {
-     "title": "Neighbors concerned after escaped inmate found outside Chesterfield home: 'How did this guy get away?'",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTV0bUZpRHg0bjBaSmJXY1BVdGljT1c1cVZfelFrY185RFQ2WkgxeHJXdENReFoxN05ZNkFuQmZoWHZUTXh5NUhuT3JKYW9jTEJNelJXMzJFYjBGQmY5RU40d1ZObjdnYkxyRW56b1VZSFRUZnFKWWlGdFV1ekpZcVk1YllNcDhlZHJXQlhzenpHZHB0all2bVZvZVBDTjdqbVlES2g5UkN0MjFBS0VMd3VqNExjZzBwRVB6TDJieE0?oc=5",
-     "source": "WTVR.com",
-     "summary": "",
-     "published": "2026-10-19T19:45:27+00:00"
-    },
-    {
-     "title": "NBAA and Rolland Vincent Associates Partner on Bizav Intelligence Service",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdmNWNHB0YmNMQi0zaUtDM2g2dkp2OW9fOXBMWWhkX19xdi1wa0tWaDJYMVJ6ZDY1RElhb2Y2R1lxUUxad3RaRzBpTDFtUF8ycmg2VXVMNzJjai1ycGtMdEViSEtuOEN3WTdfQ0lOeXY1T2FKaTR0bkV0cklqWE1zTHUxMkw0S01yQ1c0NHFFNmo4SGtpM21SZGV6UnZIbUh3dUphM1BMdUhUcTBad0hnb1dzaGRudG4xcTBB?oc=5",
-     "source": "Aviation International News",
-     "summary": "",
-     "published": "2026-10-19T19:33:41+00:00"
-    },
-    {
-     "title": "Salon de Résistance | The Midterm Algorithm",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11dkJpT0RKd0JpMkdNR254SWE5ZzlvandndThPZGktdktvZkJGdXdPaFI1bC1Bam9uaFp2QnIycF9qTDE2ZG5KM3JWWDdaX2ZCdEVyeWpVNmJIcVd4RjJXMGpZd3pGWFJMMjdOUnljNEl0b2d4?oc=5",
-     "source": "RVA Mag",
-     "summary": "",
-     "published": "2026-10-19T19:18:33+00:00"
     }
    ],
    "feeds_ok": 2,
