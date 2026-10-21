@@ -13,18 +13,18 @@
       ]
     },
     {
-      "id": "betting",
-      "title": "Betting",
+      "id": "sports",
+      "title": "Sports",
       "max": 40,
       "feeds": [
-        "https://news.google.com/rss/search?q=sports+betting+odds+when:2d&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=NFL+odds+picks+when:2d&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=NBA+odds+picks+when:2d&hl=en-US&gl=US&ceid=US:en",
-        "https://news.google.com/rss/search?q=Premier+League+betting+odds+when:3d&hl=en-US&gl=US&ceid=US:en"
+        "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=NFL+OR+NBA+OR+MLB+when:1d&hl=en-US&gl=US&ceid=US:en",
+        "https://feeds.bbci.co.uk/sport/rss.xml",
+        "https://news.google.com/rss/search?q=cricket+when:2d&hl=en-IN&gl=IN&ceid=IN:en"
       ]
     },
     {
-      "id": "sports",
+      "id": "teams",
       "title": "Arsenal & CSK",
       "max": 40,
       "feeds": [
@@ -63,16 +63,5 @@
         "https://news.google.com/rss/search?q=%22Richmond+VA%22+OR+RVA+when:3d&hl=en-US&gl=US&ceid=US:en"
       ]
     }
-  ],
-  "odds": {
-    "_help": "Live betting odds from The Odds API (free key at the-odds-api.com, 500 credits/month). Fetched at most every 8 hours so the free tier is never exceeded (4 sports x 3/day x 31 days = 372 credits).",
-    "refresh_hours": 8,
-    "region": "us",
-    "sports": [
-      {"key": "americanfootball_nfl", "title": "NFL"},
-      {"key": "basketball_nba", "title": "NBA"},
-      {"key": "soccer_epl", "title": "Premier League"},
-      {"key": "cricket_ipl", "title": "IPL"}
-    ]
-  }
+  ]
 }
