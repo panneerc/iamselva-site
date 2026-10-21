@@ -239,7 +239,7 @@ async function load() {
 $("#q").addEventListener("input", render);
 window.addEventListener("hashchange", () => { const id = location.hash.slice(1); if (id && id !== current) go(id); });
 load();
-setInterval(load, 15 * 60 * 1000); // re-check every 15 min while the page is open
+setInterval(load, 5 * 60 * 1000); // re-check every 15 min while the page is open
 </script>
 </body>
 </html>
