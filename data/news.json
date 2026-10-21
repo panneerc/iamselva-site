@@ -1,9 +1,9 @@
 {
- "updated": "2026-10-21T00:17:39.663971+00:00",
+ "updated": "2026-10-21T00:27:44.074543+00:00",
  "order": [
   "markets",
-  "betting",
   "sports",
+  "teams",
   "tech",
   "india",
   "richmond"
@@ -12,6 +12,20 @@
   "markets": {
    "title": "Markets",
    "items": [
+    {
+     "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+     "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+     "source": "MarketWatch.com - Top Stories",
+     "summary": "Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.",
+     "published": "2026-10-21T00:24:00+00:00"
+    },
+    {
+     "title": "U.S. stocks rise after companies deliver strong profits and oil prices retreat",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU5JUHpCVE5nNDBhbEctTDUxbHBoSzNkY3o3US1mNFhIeW9kajVOYUNmVWFCQURFZldKMnJsVFRJNXhONkc0a1Z5NDcwYmdzVGIwZGZnTHZJWGZEMktIeVdkYkQwMXBVd0hfTVFqd05UTmVIM1Z3ZHhvcUhoaUg2TVJWT2I3cXBGM0xINmw3cDZSSHl4MVpua0F6dVpHenBQeDEzNngzamFPUWR2bXhn?oc=5",
+     "source": "Pittsburgh Post-Gazette",
+     "summary": "",
+     "published": "2026-10-21T00:18:33+00:00"
+    },
     {
      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
@@ -39,20 +53,6 @@
      "source": "MarketWatch.com - Top Stories",
      "summary": "SpaceX just gave Wall Street a big reason to believe in the AI boom as demand for its computing power is off the charts.",
      "published": "2026-10-20T23:10:00+00:00"
-    },
-    {
-     "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
-     "source": "The Guardian",
-     "summary": "",
-     "published": "2026-10-20T22:57:00+00:00"
-    },
-    {
-     "title": "U.S. stocks rise after companies deliver strong profits and oil prices retreat",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLU5JUHpCVE5nNDBhbEctTDUxbHBoSzNkY3o3US1mNFhIeW9kajVOYUNmVWFCQURFZldKMnJsVFRJNXhONkc0a1Z5NDcwYmdzVGIwZGZnTHZJWGZEMktIeVdkYkQwMXBVd0hfTVFqd05UTmVIM1Z3ZHhvcUhoaUg2TVJWT2I3cXBGM0xINmw3cDZSSHl4MVpua0F6dVpHenBQeDEzNngzamFPUWR2bXhn?oc=5",
-     "source": "Pittsburgh Post-Gazette",
-     "summary": "",
-     "published": "2026-10-20T22:51:57+00:00"
     },
     {
      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
@@ -83,6 +83,20 @@
      "published": "2026-10-20T22:05:51+00:00"
     },
     {
+     "title": "META_TITLE_SECTORS",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nSERQQVRveU9INHo3SS1sSXV6MEFLSnRtb2c5TDJMbGQ2V05RUHZRUGEwU3dPSVN4RkUyanJwWTBMU01CNW11NWtkcjNDbDAyN0dibVVCYWZRUQ?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-20T21:51:11+00:00"
+    },
+    {
+     "title": "Stock Market Today, Oct. 20: IREN Slides on Funding Worries and Rate Fears",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVG9HeWFyd0pJR0dwVmVvZmpmREVrMmJtbFZwRWhWUlBDWTFRczJ4M1A3b2tGSnZXdnpGQkg3RjVTenBXX016bmJHR2RkS1M0Z0NBOU5yOUxEaUdVc1RBa3FsamlmdHNabHJzVlprc0oxU2xsQ2QwRFluNkNyZ0pMZjNVTkhvWmZaNHQ2dDkwVEs0b0lfUmpfWnRnd2JaNEdwS1o4Ykd0Nzh0ME0yMEhER3l3cjZnSzBjcWVpWEw1eUQxd0lUc2xITUgxT0c?oc=5",
+     "source": "The Motley Fool",
+     "summary": "",
+     "published": "2026-10-20T21:49:44+00:00"
+    },
+    {
      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
      "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
      "source": "MarketWatch.com - Top Stories",
@@ -97,11 +111,18 @@
      "published": "2026-10-20T21:30:57+00:00"
     },
     {
-     "title": "Waste Management (WM) Beats Stock Market Upswing: What Investors Need to Know",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGgwNk1iYURNS0NOc0pPczhhMm9RbVBQR0pnLXMxSWVKNHZNT1JXXzI4eXphbkZab2xpRGphcFE3bzNvdGVFVEdOalFsM0kwcEpXakgtem5BSkc4Wldvbkx3eWYwUUxlaXU1MUNJTGJFTzZkRVhCelIyLW5lVS12b0lLRDhvWnQxVE01ZTdZVVctWlFKVXJWTGVNUEI?oc=5",
-     "source": "Yahoo Finance",
+     "title": "Stock Market Today, Oct. 20: AGNC Investment Rises on Stronger Sector Tone Despite Book-Value Decline",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeWJJRWNIU2lBLVM5a1BIZ1N4eGFab19RRnNhaDY5OEN2TzAtM19FNGljcWJxUXJ1OWxySkYyQlkxOFFtcmIxLUstOGRkZ25fR25LMHBDSEkwWFJGYnd5NjQxdTJSUl9IQVBFVG1SNkotZWxHQkx5RWV0NlZSdHBEem9xVExLb29EZE5SSWJLUEhxQmRYN0NuUVl5dzIzSmV6ZDJmcjZRNTNNb3ZEczlTUzl2MnhBUUcycUhXZFZ0OWsxZDRFMno3VE1oU1pyVThMbjNzTTlXOG5CQjVGNUhMMk03VUhLdU03UXlqNTU1bGQ?oc=5",
+     "source": "The Motley Fool",
      "summary": "",
-     "published": "2026-10-20T21:15:03+00:00"
+     "published": "2026-10-20T21:28:53+00:00"
+    },
+    {
+     "title": "Stock Market Today, Oct. 20: SpaceX Stock Gains After Market Close on Q3 Earnings Report",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNXIydTVqa3FFd2doV1RHYkJ4UUVDNDhYYm1mMERZVnJHQ21aNmxYazd6ZUhiWm1CZzlYVXRreXpOTUZGRzRudjB4S00yZXhZVEtKS2NSZUFhYk4zUjQ3QlNrX2J2N1V5bk5BUnJaN1JXMnczZFlMQ1hfY3Brd2lRbmMxTkxma1BVelhQX0dDMHBwRk9Ia0NVaFZjUEZmZ193VHBKTmwyY1VaT0JlLUJpdE1QUXlJSGdHOWc5YTlWV3F5b0NGRS1UZkwwaThPTkswYzg2VnFBNkp2enJQX0tN?oc=5",
+     "source": "The Motley Fool",
+     "summary": "",
+     "published": "2026-10-20T21:24:50+00:00"
     },
     {
      "title": "Garmin (GRMN) Laps the Stock Market: Here's Why",
@@ -125,25 +146,11 @@
      "published": "2026-10-20T21:09:42+00:00"
     },
     {
-     "title": "Stock Market Today, Oct. 20: Netflix Q3 Revenue Rises 12% on Pricing Power",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXV1NnM4OTNRS0ZleHBqVld0Zmk4Vk81bDJqZDRKaWlHN1A4dnJlNk1UN3YwekhsVlE1RW14T0NUWGVvLWlGZ2kxOW8yR0lZcmJUX0VVRWh0YzhuRzZGOVlneEx2alpqQ2JOOThLTmlyNDhtSGkzbExkbGh3bzZhVWhBYlRXQjkwVzRmNnk5VUhWeHZ6?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T21:09:01+00:00"
-    },
-    {
      "title": "COMMENTARY: Trading Day: Oil reversal lifts spirits",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaU1PVWVqVTFDdTIyTFEwTzRRRm12eVZCd19RNnhPY2tKY29HOURqclNJNnJoeHM5TlBVaDI3SE5JdUROOEtTNXJyZm9NX29jcmVmYVQzZDdiMnllRnA1M3h4VzR5YjBuanlSaXBqUTUzdmE2THI4UGpULUVMNzRpOVRuY2hyQU9sYl94dXFSR1pKQzlKc0ZPNFNBd1A3RXpSSTIwR0hB?oc=5",
      "source": "Reuters",
      "summary": "",
      "published": "2026-10-20T21:04:23+00:00"
-    },
-    {
-     "title": "United Parcel Service (UPS) Beats Stock Market Upswing: What Investors Need to Know",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOENyYTVBaGM4STE1elpmZE5aOVhheFZiMFliODFQRTJvREV5MFRHMDFKSldrMnp6TnpNUkg1aEpFSVdlNXhQSlZQOE02blFmVWZLSlZuLTF1OGg4LXY0czhhUnB2NkgwemtkMXp1R2c5VU8yTFJvVEs5UTk3cFMxVUY2TnJpLV8wREJCbnN3VHc1X3B6SGwtbVF3?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T21:00:06+00:00"
     },
     {
      "title": "Axon Enterprise (AXON) Laps the Stock Market: Here's Why",
@@ -162,13 +169,6 @@
     {
      "title": "Gladstone Commercial (GOOD) Beats Stock Market Upswing: What Investors Need to Know",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnJoRkpQZXo4LXNrUTU2Y0t6NDVycElvVzMxcF9GM2xQdS16cmZyWVVnWUlUSUUxRTZqOXJLZWVhOHphWXNDeEJBSGxNdnlTWDdHS2Z5NllLMElhckRiMmxJNklveFQwZDJJODEtY3BPR1JTeGJETXUwcnU5d0pjcXppY0Fwc043QmZNZ3FJVERULTNGUU9IRWFUNXhDS2FsVGk3Nw?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T21:00:04+00:00"
-    },
-    {
-     "title": "KLA (KLAC) Stock Sinks As Market Gains: Here's Why",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEkzMmFEekxyYmNiUGJMallxVDRhd2hMVEJZUUJiYkFyRmJ0dko0OXRpTm1fcDBrVTBlSVlqWDNpTXduZUNFZHBfc3pJakR3OENEZGNXeGx2RWN5TDdjUVBGUnJRRzNUTzFHVVNRdnlUN1VLMDRXTTdZYllidjVzWUhYcXhzQnI3Ui1aemxpZDNQbVRFbHRv?oc=5",
      "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-10-20T21:00:04+00:00"
@@ -216,6 +216,13 @@
      "published": "2026-10-20T20:57:00+00:00"
     },
     {
+     "title": "Stock Market Today, Oct. 20: Netflix Q3 Revenue Rises 12% on Pricing Power",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUYzNVNiVlRyUjZ3OG1TNkJqTW5LMTAxclQxNnVOWXRhQmxUQm0wQy1GdDlxQVBsMV92MndoTl9SLVpIRmx3TzlJMkg1ZXRTRHVzNFR5QjdJVlFzNEI1bXItYmluVHgzMEZZWERhUzVPWjRha3A1WTYyZlZ0NGNqc2ZmZk50ZVRsdUZDNVFhNjBOejc0Vm1OTm1QSEFYdTROWG5OSUROd1ZlWU5SR0JSaW0xblV5ZHF1cmdsS2NTek1JSFlHMWF0NTJRMA?oc=5",
+     "source": "The Motley Fool",
+     "summary": "",
+     "published": "2026-10-20T20:54:04+00:00"
+    },
+    {
      "title": "Allstate (ALL) Outpaces Stock Market Gains: What You Should Know",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE56T1FLSlVrUmZlYzhOWjFiSHRIX3lGb3ZTeUVybWpHZVpEakxZWm9CU2hDM3dZQUxKTHQtcFA4amxKN0E5TlZmSjRCcFJCYnBxOW11dXQ3QjdKakJEN3JnUmVxczhLNEY3dl9RWDRtMFJobjNzZzdkX1gxYjBxREpEUjM3SXdSWUhFY01MUDhlemhDX1dTVXlnZ0ZyUkJYalhn?oc=5",
      "source": "Yahoo Finance",
@@ -228,34 +235,6 @@
      "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-10-20T20:50:03+00:00"
-    },
-    {
-     "title": "Ulta Beauty (ULTA) Beats Stock Market Upswing: What Investors Need to Know",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTk16M2kxY0ZfZ2d1Y0h6T1Q3LVUtQnU1ekJVYktwd3Ztd1FnOEE5MENYeXNqZk1pckRIQ0txRFFuY3cyV21Oc1h5clhmU0l2Nmtiam9TbG9GUW9tN2pFUjllUXhBeW1fS3J6U20xV0lyVEJIaXNNbllQNUZ1dm9uVkd3RVZpYU5aNlRHQ2RCbDBNbEdWdnBpZg?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T20:50:03+00:00"
-    },
-    {
-     "title": "Why SkyWest (SKYW) Outpaced the Stock Market Today",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTQ3VTBxVlQybGcwYWkwbXVDeUlLdTl4YnVhSTFoeXVHRVZudG93YWZuR3lmSXhvQUdHc3I5cjhtenV3WmpSa2kxMEJELVZ3MHl6ZTgydkZtM2hmYmFvZ1U2MWdGN0xwMVIwQmI3Yl8tX1lWZWkycUdHTkx4bnRScUFiNTBpOXdZMl8tanExQl91dnQ0RkRUdkZSMlk?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T20:50:03+00:00"
-    },
-    {
-     "title": "Why Okta (OKTA) Outpaced the Stock Market Today",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ0ktdjVFRXN5Mk54S0JsRXQ5aXM4Qm5JVTg5Nm1RYXhXR1drSUZ1czZQbjY1UExrY0l6LUNhNUt4cENkU3gxR1dxWGRlRkN6Y240RGNHM0JLcVBSWmRTU3ZYMHpfRXFEcnNxMGFOT2JUNTJqbG5YRkFwZzVrakZOc3IxektGT0ZzaDBKcF9WR3BHUVUxMllINQ?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T20:50:02+00:00"
-    },
-    {
-     "title": "Why Owens Corning (OC) Outpaced the Stock Market Today",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjNra2gyRGh4VEdRQXl5YjdoSFpvbjFRTU5yUE1lSGZjOGF5dUZIanFneldzdENqYlh2SFdSZzBTTi1pamwwMGp2V3dVZ3QwY1FDQVNiRmFTZWxUc2NKMlNTaFEtcVdDQ0xjUWdCWkxfQm9VVkhPNFdYYzVtUDhicUx6WGdjZlEtMkRkUTdCdHNFWm0yWVVodDhn?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-20T20:50:02+00:00"
     },
     {
      "title": "UiPath (PATH) Outpaces Stock Market Gains: What You Should Know",
@@ -279,6 +258,13 @@
      "published": "2026-10-20T20:45:04+00:00"
     },
     {
+     "title": "Lowe's (LOW) Beats Stock Market Upswing: What Investors Need to Know",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFV6OGNZa3FWX0FJU2N2TGhLQWlIS0hmMXhPVGh0M3hrNmNWVFhPMUhKd3Z3WkhVQm5nWUt1Q2xYelk4NTJOZWVqQ3JhZjNOZjQxdDg1a185MWhqbDJIcVc4dEE4a2pOOXVDN3NRNXBYMnJVOF9jY1RVUXVnVXVrTXcyMA?oc=5",
+     "source": "Yahoo Finance Australia",
+     "summary": "",
+     "published": "2026-10-20T20:45:04+00:00"
+    },
+    {
      "title": "Coinbase Global, Inc. (COIN) Outpaces Stock Market Gains: What You Should Know",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWVV0YUJDbTkxSDI1S1lmdmFveE1sSlRRUTVZZGI3UDI4UGpqeHZrZktOQXN6OUJEVDM3U3c5cHlZWHMxNnBMajNLbFNVVWVvSlpNcnMzVUxKTHEzVXlHMFpzbkJNS0ZOS1NwTVpJRkhpdkh3c28zMzQ1dXI2Vlh0NlZlcVJ2SVM2MW9pX3VfaXNPQll0elNqWHFRQXVfeDA?oc=5",
      "source": "Yahoo Finance",
@@ -291,299 +277,313 @@
      "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-10-20T20:45:03+00:00"
+    },
+    {
+     "title": "Trading Levels & Reports for Futures traders for 10.21.2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGNsdklveE1ma2d3LWYxUFlUVVdVY0JOTUZXRWt3QVplRjdzc0FlTmdWcDZyUG1kTGhNOFRlZHZfS0hySmg4R2ZiMjlKb3lMNVpYdFJXMW96dHlqdEdzNFVfbk54dWx3aTAxRG82MWIxRGdaSFI2MWY1bWRzM1h3TjdhRnpoTTdPVHdZVmp5V2hrdUZqQUNSaVd1djd0SWcxemJR?oc=5",
+     "source": "Barchart.com",
+     "summary": "",
+     "published": "2026-10-20T20:37:51+00:00"
+    },
+    {
+     "title": "Netflix stock sinks after announcing Q3 earnings, Q4 revenue forecast falls short of estimates",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNEJkYUJaMXNVbEhiRTVINEhQZEptTkdWWFpkQkhDc2hDMkREQVRteGxITEZGVlYwcnZzSUdmd1ltclFkM2hBTnp2OGVWSVJEaWlub29QdHVMVC15eTRISWRPUGZLT3NaS2FiZHhwNGxtOExtUDBQUUpHejhDOFRmQ2pFQXhKRUNuN1JnM3RiR281VjlfT1ZvS1IxX2FWZ0tZQ3VjMTAzRERHQnowczhMNGJRUU1YeUFPdGNxVDNOWFFrZ0FOckdkNDdZNDFwaXhtaF81VXhJSzRLb1hVVW5JVks2Q09vVVViQ3dVN21n?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-20T20:35:25+00:00"
     }
    ],
    "feeds_ok": 3,
    "feeds_total": 4
   },
-  "betting": {
-   "title": "Betting",
+  "sports": {
+   "title": "Sports",
    "items": [
     {
-     "title": "Chiefs vs. Seahawks odds, line, time: Proven computer model reveals picks for 2026 NFL Week 7 'Sunday Night Football' matchup",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYUpOTVM1Q3QzNEllLWVWa1o4N1ZoTGl4dTVfb1dXOW5KdWxvLXVnVnpSMFBLVXRlT2pWdmNXeUpxZVVfSklCN0FyS2llZHFicFItUzY1UzlkSmR5MFF4TnZ5eVhIUkZ6STY5QjE3UXBvWGJ3NU9Hcno0MjVNNElDTWhjdkRpblFEX0lHb2FJRXhIUG9HdFJUclYxRTZ0aU93WnUyOTJQQklCbzh0X09oVnF0cnVRckRIMTRQVS1mQ2RLdFMtdS1tcm5ETl90clFPRmM5d3l3OW9CZTVHR29OYWFULUpfdnFkNGRWcw?oc=5",
-     "source": "SportsLine",
+     "title": "Gardner finds the tempo to set tone for summer ahead",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzQU0wTTMyNXlNOTBlbTE0WHNYaXhxNEhQbF9hTDdiNVhBaUEzSVVfeXpsOEZTc3BTcnJYNjBtTzlYV2Q1NTdfLWhTeXRDeFBBNVE?oc=5",
+     "source": "cricket.com.au",
      "summary": "",
-     "published": "2026-10-20T23:51:07+00:00"
+     "published": "2026-10-21T00:17:37+00:00"
     },
     {
-     "title": "Atlanta Hawks at Orlando Magic odds, picks and predictions",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRF8tWlhOUEs3a21zdmg2YXFibUc3THdkajJOZ1VXRGItSmd0RjZaRE14ZXVKeU5sTko0RUdiWUNVWEJoay1MZVh4RmJoRzZGRENsRS1ISHlCc0JtTnhLRXB2OFpmdEREMUhXWUtfUWtvZnNsWDJiZU1zTXAxT2hXQU5vU2licnlZV0x0UlkwUUZmS0dPZ3M1VHYxT0JPaE56LXhyWVAzV2NWa3N3a0tiRjVzNzlMY2I1NkE?oc=5",
-     "source": "Sportsbook Wire",
+     "title": "Haynes steps down as Sixers general manager",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTDFlVGpxb3pjMnlSOVhBVHBGOGNyWFBFOFMyODM1eUEtZXpsdlJPVjRxRXkyY1pvNlN5RlYyUEd0M1hjeW11VmVZTi1FdFJKa2d0MXZ0VGZpUTNFMXhNYVRMM041UExDdklKQU56elRpOWR4dFFmVjN5dEVRbGM5bHFVQXRWUzdXaVhKcXN4RXN1a1RRaHdoMVQ5WTd0YktWeXZ0RElmRHp2RVEzS2djMGZLR2hRV29ZZC1wejFyb2x4ckxlRU8wQVRzWnRzQ1BDM2x0V1VDZkQxeWh1Y0dXZldGaVphbDZSTlE?oc=5",
+     "source": "cricket.com.au",
      "summary": "",
-     "published": "2026-10-20T23:46:00+00:00"
+     "published": "2026-10-21T00:01:00+00:00"
     },
     {
-     "title": "Patriots vs. Bears Predictions: Week 7 Thursday Night Football odds, picks, and player props",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONzRmNjJDVzF3WkhfRWlJM3BBb1cxNHJCeVQzdTl2cTY5UXI2US1MMEdDUDRucDgzX0dkdHBwcV9FT0h4V2oxQ2YwUjlrbVJqbDZmUFFWc2tKOTFaVHJDeVBTbjBpM3NKTlR0M2ZZZnhoSEc1cExTV3NOQkFWM3JwTVZQdnU4cXJGMGJZWGI3cU5VbzNORlRyZVRnZ24wenNOUlVkTmhMd3d3TDV5Xy1z?oc=5",
-     "source": "VSiN",
-     "summary": "",
-     "published": "2026-10-20T23:34:48+00:00"
-    },
-    {
-     "title": "Ladbrokes Champions League betting offer: Back any Premier League team to win @ 50/1",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajgyc0pUeGtpODNhMVVsb01uV0hlNGJQdy1KSFMtd1pkSk95MVhrX0F2T3VDMWlKeG5yY0RsSlgxdU1sU3lYNDRLMFNCcHBmdGs5YVZmLUY5bkRya09yNDFlX2t0cGNweWZpcjNUaExPMFh2UnNvTjJWWTJMUnQwd19jeC0ycmsyU25ieHJCcVgtcFV2RHlvT3lyX2tyZGlmRGlQUkVZYUpnOVF0YUN4RFBIbzZXazhfZlpKT1pveS1LZw?oc=5",
-     "source": "MyBettingSites.co.uk",
-     "summary": "",
-     "published": "2026-10-20T23:34:11+00:00"
-    },
-    {
-     "title": "Ohio State’s National Championship Odds After Julian Sayin Injury Update",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaFZRYTVIbVZNWmhZUkVFNjg2dzJGMmc5VmR2RjZLbi14bUVCRXRKTWJmWDBnN2hDQmQ4Qkhoa0ZVQ0lobl9MMW9tZFhTRUdrVFFYTVN2em9GTUk5VjVIODMxclprTXBGV2lEUXFqV2dDTVZyNktlNnZIbk50RWhrTFo4WkJNeE5CdVpOaVlwNnFBaExScndpVkY0RGR2NkxvVk4wYllQZkxVVzBTMk1kakllcGgxQVdwVmJPV3lB?oc=5",
-     "source": "Sports Betting Dime",
-     "summary": "",
-     "published": "2026-10-20T23:30:00+00:00"
-    },
-    {
-     "title": "Thunder vs. Spurs odds, prediction, time: 2026 NBA Opening Night picks by proven model",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmNEdDI1YUFobHdfdm5KTkd3UFJEUzRQNFdfTXgxZzJBa1pyb1lRTElvc1NKUERiaU1OdnlFZi1WVmdrNThkY1ozWGVhd0NoYkZ0dUJaNGVTT0VONnV0Vkw2bG80QVdKeHJ6ajhJY3ZCR2FhejZCbzlsY2VYQzFaSk05UGszN3BMQThBVFlRUjg1a0Q2UEJ0NGpiZDVRaHQ4QU42RzdEUWQ1aXl6TkhVYW5hVQ?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T23:25:28+00:00"
-    },
-    {
-     "title": "Thunder vs Spurs Picks Tonight: 3 High-Level NBA Player Props",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ3hHbk44ZGo1bnNBYkhBOHhLaGY3Ym5ZVU4wM1ZxX1liSHRfZEZELTU3VERzc3pSQWJDTHJJenVwSDBDYkRhdlh5UUptcXcwMFhWd0JoSExGdDFONTR2eld1QjIxMXRiNkoxSm5GRUtkTVhwd0tSV2lmZkJQclpHSUY0QThHTi1ramUtRkVYQ0s0enA2eWNTeXB3R25hS0Nfa3g2Qm5paThOWm5ISXBxUE1jT0FSUm13YVc1Y2F6REI?oc=5",
-     "source": "Action Network",
-     "summary": "",
-     "published": "2026-10-20T23:09:00+00:00"
-    },
-    {
-     "title": "bet365 bonus code: Get £30 in Champions League free bets",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0ZSZVdCZ2RkdDFzcWRuRG94cFFCb0ExSnlsT0lSU0tER0dQYVI4S3VDZWcwUnd1dGlpRXlGeGd0Y3hwSTh4QmZudjVoNm5SbFg1VHA1eHZlM0R5c1F0aDBOWVA5dWRoZHVxZ3JLZllJWEs5MXNqSXZub2RxUWZuM2FzdVd3YmNWQk9JMHhDclVEUlBxZ1FNcWdJcGM?oc=5",
-     "source": "MyBettingSites.co.uk",
-     "summary": "",
-     "published": "2026-10-20T23:03:50+00:00"
-    },
-    {
-     "title": "NBA player props, odds, picks, lines: 76ers new star LeBron James part of best bets for Opening Night",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSW9vTHA4V1MzNEZMUFpybGgyenBtYk90MFc3MlA4czdJZ19JUTE1R1k0Uk9mM3dVNHVGNGV2a3JCLWNpYkZaZzBTWDNEazVwNlJfdjRJNEp2b3REeHhLWTIzLXdQUXB3SzVnbThiRGREQTIxanp6aWRqcHRiR2E2NWNybFBFTnIwekV1dkZhdG9sMG55c2ZxdTlLMExiZDVDNlgwYjdVM1N5V3Zsdlk5SWFKOXg2YlYyc3Y3b3ZPWHBuYUNXNjZpQi1obnNjN084X1FV?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T22:31:30+00:00"
-    },
-    {
-     "title": "NFL Week 6 betting trends: 49ers overtake Rams, Eagles’ odds crater",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX09ZRHMzTGJVdFo5UzVVOURWRFdsclJRUHk3SGpNZnh3cXdUaFk4blpZSXktZWx6UWpKczZxc3MtSk56a0x1YTdONHlvZXExU1hSTGVpbnFBTU1TbmJHbEJpckJ0YmZWX2RhcWhKc2I3SkUwbG1udXhDMkM5TDNMbWszaVJxSmtKeHZuRUJrM1FVcHNkRmZJRU0wMjI3aTI0Mm1iS1h3?oc=5",
-     "source": "New York Post",
-     "summary": "",
-     "published": "2026-10-20T22:21:00+00:00"
-    },
-    {
-     "title": "Thunder vs Spurs Prediction, Picks & Player Prop for Tonight's NBA Game",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1VQNURGMmtmSnlTN1ZwOTZ2ZmVqUTVmRGhrUDM2YkNycVd3YnA4REJFZTZaclpGX1dJWVlINzZRYmZmeDVNUmRsTlJ5aTEwalk2dUxOcFdndDhpTXBPaDZOU183T3NJTjljTzZ3dXk0Qk5SVUZLNzFDQWtkYWFjUTFoTzdvaXlvV2VGb3FwMWYtdURsQ2pwRXotbw?oc=5",
-     "source": "Covers.com",
-     "summary": "",
-     "published": "2026-10-20T22:06:00+00:00"
-    },
-    {
-     "title": "76ers vs. Knicks prediction, odds, start time, betting preview: NBA picks, best bets for NBA Opening Night",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUtiWnhldk55UWZxUDh1dmZ5NU82RTIyWnByQ1pYMWM1UGxnMmRMLUV1LUs3cjZGcGpWRUZjbkpLVGxzc2RpLWNTUGt2ZEQ4TGVZTjBlUGVYcjRqYjBHWmdpSU43Uk42T2o2NjZFWGNfNnhuS0dNam0xNER0Znh6NGhIbDVramFXcDJGcFFQN0RzVV9fREhXUWhpX1BKRFViV3RmajdsMHdmUVdzbFdDLTZ6Vkx0eUk2THlBVVJaVi1UdUNtVmU5b2J6cW9IMXNWMHlmQURBQQ?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T21:57:33+00:00"
-    },
-    {
-     "title": "2026 NBA Opening Night odds, picks, best bets, predictions, player props: Experts, model backing Knicks, Spurs",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSVdYeXJUT0FPQzJ0M28ya19wODVPQWNBdWZoTlUtZU14VzlzVmFVMFpWcUl0WkkwUTFyWHAwQ0hqTGprNW5kNENJN2I4NkR4REp5YmlSWUgxT2phcm5NS2l2M2phQVlIc3VLWFIyRmMtcFowS0RiZVAydnUwYXJhaFNSZGlGYWdpZ3ZfZXlIcVFKVXdNZHFvZkdqQ09LSVVIbVNvM3hnNkU3X0dLWWloQlFXejlScXN1R0lsYlhkRzI1Q2JwVmNkQTFvbXJRWjluUHBUQTg0VjhhdjQ?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T21:39:32+00:00"
-    },
-    {
-     "title": "South Alabama vs. Marshall prediction, odds, time: Week 8 Tuesday college football picks from proven model",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOXFIT0ZOOThWVDJYRkJQMVFlQ291dlJDd2JjdENYODJneC1nOGxlY182bVNZdFU1LXkyNFlkOHMybHZjUndlUHotalNMaDVSVVEtdGtSSkJwTWMxZGY5TVdqQTFyV2k3MW1mTHloQVJUQURCa0Zsblh1N2VYYW9lT2p0WDg2dDc4LUJBUGxsR3M1MDJrUV9uSzJMaHF5RzNhcTN4Z0lCdERORFg2VWhOWnhRTmREWmxCNHhIMkdTSnNFUkYwZXRPV0oydw?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T21:35:34+00:00"
-    },
-    {
-     "title": "Why the 2-4 Rams are among Super Bowl favorites: ‘They can still beat anyone’",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0lpenFIVUVmUURIeHYtMmRVbjdkcUVhUzF3eFZhcHMyYzVTM3JBb1lqSHk2eTJRRHFqUFl0QzJ0WkxpYTJuaGdlSU5jTUswal9TQzk5SElwM0hOMDNtSGc4WklxeGxxS2hKT2ViaW40MUJEdHk3YlQ5eHlTN01PZjRMTkFNcHVmUDBIWUdBdDJsd1lRSE5rag?oc=5",
+     "title": "Eagles won’t be punished for handling of Jalen Hurts’ blood clots: Source - The Athletic",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ1hzTXJ6Ql9rNm5KYWRIV1gwMXlRNHc5dWNTZTRQZjNWTHh3RjBKSWNxT3N1R1ZUTWhmbGp0ZEpSQjlBVTVaNjd0aU95WjVUZHMtU0ZHUDVXSTM4OEZCOXRlVDhLNWVaMVpGa3RacHV1eW1BVEFubTRyZGhYcmRfNXdFQm12QzJ4SXVRNnIzbkhxRl8tcWxWbFRn?oc=5",
      "source": "The New York Times",
      "summary": "",
-     "published": "2026-10-20T21:33:34+00:00"
+     "published": "2026-10-20T23:59:45+00:00"
     },
     {
-     "title": "76ers vs. Knicks NBA odds: LeBron James and Philly open as biggest title liability, look to ruin banner night",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjkyb3lBQjBxazhxOVVJM1haS2l3MkUybjEteTF5cXlNQXZ4am8zVEIwR01Hc204SXRqMTlUbVJGRk5vbXlUTUJpcVNCX09ZcHpwM1R4V3AwM1N5cWx6VVRGdG9aM1lkQnVfVXpCVHdQLWpuZEY0MXhYT2ktRkZwMW1HMHZfSDRwd21idmJnRHlKNV9tRGVVWXhmV20tVXRGZlhfWndWMlhCbWt6bEtKOXNnOTY2Rzc1eUZSWXljNWYzbWM4amp2WF9zcEZOdHNJaklPUHF4STdETjVKVmo0?oc=5",
+     "title": "Lesotho vs Mozambique | Match Highlights | | ICC Men's T20 World Cup Africa Sub Regional Qualifier C, 2026",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObDFuRFo4NlFtZDdKMzR6ajJQczBiNUJOb3BLdjktdFhiVlpwY3ZoYkZZN0lYZW51U2hYTFFOUk4yRXJaRnRQNk9URVFON3dvQXJLRnFmWVQ2RkZlbGFSUFBCbTRuSDNscV9ZRXl4cy02UUlRUkctanJPMF9tY0RtMnVZLXNmNlF0cmNlMzR4T3plNENBOTMtZXQteks1Wk9hOHllQWF0Ynh0aHc5bUxUX04zcnBZdkd6bVdKYldIVHNfZ3l6Rm5WRWZCRTVqUjQ?oc=5",
+     "source": "ICC",
+     "summary": "",
+     "published": "2026-10-20T23:58:37+00:00"
+    },
+    {
+     "title": "MLB Gameday: Rafters 10, Javelinas 11 Final Score (10/20/2026)",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZekNuWS1HdTN5RUhYaTRnNVRiRkZmbzJYaUVWTm91cTRiZTVWZWJlV2VXUHM4SElPM25kaWZLbHd1c2xiRUFkYTk5dWdjaUFPNWlzM0wtbXE?oc=5",
+     "source": "MLB.com",
+     "summary": "",
+     "published": "2026-10-20T23:53:55+00:00"
+    },
+    {
+     "title": "Check out the New York Knicks' glamorous NBA championship rings",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT09VaW5kMExONDNUMjV4Rk9FMkRmcmtJRjhWVms2Y1BkQ2VCeXg0cW94bTJyQ292eE1oVGU4eGMzeG8zbVpudDBYN3NsNHNxNFFPOHlXZ25qUE10T1RqZ0dlaDdXV2YxMjBBbkF4WlhKZHVQdEMxWlV0MTZkQXFEQnNoY2FZMHMwSTZiNDM3ZldGWmxJX1RtdUxSRmNhdWpXeVktVWZxaWV5clBicFQwOUhOc3NkVGZ6TEE?oc=5",
+     "source": "USA Today",
+     "summary": "",
+     "published": "2026-10-20T23:53:00+00:00"
+    },
+    {
+     "title": "Hazlewood's 'dodgy prawn' bigger factor than Lyon omission: Starc",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBySFFuYnVXT1BDU2stNnpPSzFRN3pXUmxwLWJWdkl3VG03WUV0V1FBWkZ6WVh5SDlDcmQtYlRMZXdhdGlnMFVMZ0dWTmh2djc2?oc=5",
+     "source": "cricket.com.au",
+     "summary": "",
+     "published": "2026-10-20T23:45:26+00:00"
+    },
+    {
+     "title": "Week 7 Injury Report: Patriots at Bears",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pcW1QVDJGUVpLZ2ZhS1B0OTJ2VTJhb0RoQ1dJc0RhaWo2R0xEOU42Ykt4clNEdFBOYmplM2hwaWxMU2pjZDFOUUZ2Zkx6VWtnRUFJUTFvQlJBMGY5UUFBRm5qdU5wekQ4NFVMM2h6cDdlTHc3ajYw?oc=5",
+     "source": "Patriots.com",
+     "summary": "",
+     "published": "2026-10-20T23:42:35+00:00"
+    },
+    {
+     "title": "NFL chief medical officer: Eagles' approach to Hurts was 'appropriately guarded'",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmpRZnZZM3J2QmRyd25BdEFzRmpEME1VanlMSmo2Vi1WSHB2dFJSclcxdEk2MVJQMFVTMW5Ga1IwNGFnV1NlTW5oaEhKWVZJazVsbWdCcjN5R2VGSHhPRElMUXE4ai1ocmRNN3YtUkgxMHhMeERjaVN0azF5bndGcFBXNHdxNzJ5OFpnU0J3M3V1UnM0R1R3?oc=5",
+     "source": "ESPN",
+     "summary": "",
+     "published": "2026-10-20T23:20:00+00:00"
+    },
+    {
+     "title": "NFL supports Eagles' treatment of QB Jalen Hurts' medical situation",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlp4bnptaHViTnN5Y2JtZllLUVBvLTdFSllEZ2MwUDVBQ0k5OFZhc21QbU1DRjZHdkg3NTU3M0VaRWtZRXplTEFmamJfc29GM29lT29ROWcyVmtib2tXMC1uZjZoTF9XVjNrZnQ1V2tQNXZSc3NtendENnJ3RGdXZ3ZTZ1dmY09TZTVkTzlzc0JORzEz?oc=5",
+     "source": "NFL.com",
+     "summary": "",
+     "published": "2026-10-20T23:17:50+00:00"
+    },
+    {
+     "title": "Every Easter Egg Hidden in the Knicks’ NBA Championship Ring (Exclusive)",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVVZDWjZyeWxvS2UxUmpJS1UtREJ5dUJYRVFjY2pEZ0psR04zVFoxSWZDVUNfa1IwdEZuRWc2RUtsZTloWS1hSDkxV05RRVVEMEZQUVlMQkZkMmFhdmVnZFFfRHlpdVNtUVdkbVIyVmxYY0RBRXNiZWF5WXZsVHJaZHR6czkxNVo0OFhhdkVWQjU0Z3p0NjZRYVpISnpzdw?oc=5",
+     "source": "People.com",
+     "summary": "",
+     "published": "2026-10-20T23:15:38+00:00"
+    },
+    {
+     "title": "Australia on the back foot as Bavuma plays captain’s innings for South Africa",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczRteG41a3JSVVZEalp1dUhsLXlObmc5YTlzVDdjWVZZeDJZbnhZNlM4MTFzaGZXN0dYenk4TTUzYkk1R2Z2eTkyVEU3MzAtTmYzdklnT3VLdUFvVUU2SklDRnlRMEp2bkRrbDR6WUNLTG9fWmppcnZfekViVWNWMml3UEJlbEw2ZFJLalNycEtoRlBHazNudGthNWg3cUl6WG9RQWdRcEdwSmxDSl9kQ3o2SWlEM0hfaXo3MXN6NA?oc=5",
+     "source": "The Guardian",
+     "summary": "",
+     "published": "2026-10-20T23:11:00+00:00"
+    },
+    {
+     "title": "NFL Power Rankings: Vikings Status After Week 6 Bye",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SRkROYTVKb0FXMGl1QVNWVDVTYURVa1ZrXzNfekdaeHVyRmxFUEtocEdfZ245amRrcHJ6bnktb3VTUHZLeVFXZUFwTVNtZ2NpcFZEWVhHNGxfVlZ1aW10MlpVV3JBR041YUhjaHNPNENjdFZra0FrYWFn?oc=5",
+     "source": "Minnesota Vikings",
+     "summary": "",
+     "published": "2026-10-20T23:10:10+00:00"
+    },
+    {
+     "title": "No jeopardy but loads of fun - Champions League sets new goals record",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ckg5je34l0q5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "It was goals galore again in the Champions League on Tuesday, with the competition setting a new record this season.",
+     "published": "2026-10-20T23:03:11+00:00"
+    },
+    {
+     "title": "The night 'ruthless' Ngumoha came of age for Liverpool",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ck0e0zydv33go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Rio Ngumoha produces a coming-of-age performance in Liverpool's comeback win over Villarreal, writes Aadam Patel.",
+     "published": "2026-10-20T22:56:55+00:00"
+    },
+    {
+     "title": "AJ Dybantsa (ankle) ruled out for season opener",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPalk0bFpGQjZtZGUxUi1QR3daVTlWUVpKdVpNek5uRFV2Wm5OUUpqdFlKSnVpZ3BsMzdDR2g3SDhCbGI1T3lHUWpEbWlYU2xXZHkwU0VpeE9uUmdKTzBSbWg5a2RXdk9fR1NQVF9Lb0JPWWg4b3NENjV2SnY4TVNjNkRRWHp0bkQ1SldNQlJkNU5aQXFXenZfS3JKYzh4R0VXQkN2SEZVTUVzWmJiYWJhWjZlRQ?oc=5",
+     "source": "NBC Sports",
+     "summary": "",
+     "published": "2026-10-20T22:56:48+00:00"
+    },
+    {
+     "title": "Paul George moves into 8th place on NBA all-time 3-pointers made list",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vZWhWX2p5ZWpKRnFWR3ZOd1FfZlJaUWdKeDdaZlduZUZ5M3dLSjdiVGRveWE5RzRoSzhPNUJybGdDN3ZkWktvVXJhOVlDYXNLcFNzeDZUN3pac0wyeUpfQ3F4S3ZhcWVZeDJOS29iME5RX1hDSWR1OHdn?oc=5",
+     "source": "NBA.com",
+     "summary": "",
+     "published": "2026-10-20T22:54:55+00:00"
+    },
+    {
+     "title": "Cricket: Bavuma battles adversity to put South Africa in control",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak55YkhaV19MMFlkZEpwQlV1OWw5aXEyYmJUWHUyaHk4Rlk5TUlCdi15MkgtSy1OLTgyY3hNVXVQd2lQU3VRdEhYU1I0OUVkODVDdWdUWE9BVkNfR0QzeVhKeFVLRnRUWjk4Y2dINEJCMFFiTU14WDIybVdhY04xdUZLU2tjd2JfelJaV2huWE1YMUEwZUxGS0ZVUEZmazhBLTFBeVFwY3lCU2txUURXU2RLcDg?oc=5",
+     "source": "The Hindu",
+     "summary": "",
+     "published": "2026-10-20T22:54:33+00:00"
+    },
+    {
+     "title": "Cape Town, Test cricket and New Year in South Africa: Follow England on tour in 2026-27",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVlFMaWJXN0tCX1ZMb0tkRFBzQzBfX1Qxbm5KdGNCaGpKRkxKTTk2M1RuRFF5aFg3UjFhSnpCWE84d2tJdTBfUU1FRTl1VlpITU9KTjdMSlkyekZQVVFMYjZKWjN5TDI1MXA2d21IRHBPd3FLMm5KbWFfVXg5ZUswZnRSaHdJRGNDQjlGSkxOVlIxbnlRdnd0SlVIVlZsdEszSW42SF80RGZKMkNIR2dSREdXakxWSVd2d29pWXloSHI2NUxTNUVvcWdIdE1lSk13eFBMeTZXZDg4cm5UV2pxOQ?oc=5",
+     "source": "The Cricketer",
+     "summary": "",
+     "published": "2026-10-20T22:52:29+00:00"
+    },
+    {
+     "title": "Minhas rips through England as Brook’s men wilt against Pakistan in tri-series opener",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXRaOXZuUWY4czhXcmtvLWFLTnlwbEZoTE1HUFNIaThnOEx2MzJwQXZ3b1lYQnhLSlVmZHREcnVVMzh5ZkM4ZnAzWTMtX0VRS1E5dkFkc3B6ZTNpdU1YRFB2d3lZNFdmZzFRNWxiRm1WQVFRaXJqbVFqbUY2ZUp0YnlNLVlwSi1JMkJTVl9xN2l2UlVoR1FucUgtTFF4UmlfaGVhSTlEaHJqanZiaWc?oc=5",
+     "source": "The Guardian",
+     "summary": "",
+     "published": "2026-10-20T22:37:00+00:00"
+    },
+    {
+     "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Phil Foden's magnificent man-of-the-match display in Manchester City's Champions League win against AEK Athens serves as a reminder of his talent and ability to influence games.",
+     "published": "2026-10-20T22:35:32+00:00"
+    },
+    {
+     "title": "Knicks host Sixers at MSG to headline 3-game season opening schedule on NBC/Peacock",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GaWdPWFZUeHB4bGRlUWJZaW41WEMyamdrbHBLNVM1MXliNHV0ZjdzNnd3NlE3c0Q4bkQzUzFVMi1aVUNhV0tzZEhXT1NuXzh6TndTaTZPVkgzMTRSTi1ZdnZmSmFkT0JkQVNv?oc=5",
+     "source": "NBA.com",
+     "summary": "",
+     "published": "2026-10-20T22:31:48+00:00"
+    },
+    {
+     "title": "GB men take fourth and must wait for LA28 Olympic spot",
+     "link": "https://www.bbc.co.uk/sport/olympics/articles/cj040qydgw6no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Great Britain just miss out on earning a spot at the 2028 Olympic Games at the first attempt, placing fourth in the men's team final at the Gymnastics World Championships.",
+     "published": "2026-10-20T22:31:41+00:00"
+    },
+    {
+     "title": "NFL, Saints address plans for Paris game during Week 6 as protests escalate in France",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNazBTM2w0eWo4cHlLeDl1dUI3ZGwtOW5iV0hYXzQxLXlta083N2VXWldQTHh4YXdlV3M3enNFQ3ozZ2VYVWtRSDBaeGlBQXZpY2ZPeV9GZkpieU1GMENGQ0tJUU5tWTFBdUJRV0dWbWNMWl8tdmJLTFhzSGg5Qlk2NEtmMHYwUUFoUjZaYXNNVFQ?oc=5",
      "source": "CBS Sports",
      "summary": "",
-     "published": "2026-10-20T21:30:55+00:00"
+     "published": "2026-10-20T22:26:00+00:00"
     },
     {
-     "title": "Colorado Buffaloes vs. Oklahoma State Cowboys Betting Odds",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOci0taElGWkRmMnd0azNCYm5pMldYUEM5dEJZdVkyOElaUll5cVZNVThCYkpNam9LeEdOUU5pMllXZ04wbWdQeGluelBxblJxNnFTV1pPS1IwRzZfMTJvRS0zT3JuaFFvdVdvRzBrX1hkcHloYnVBZURUSE96QkRNLXEyN2h6dXBSWXpxSU9qN1MyWkZ3OWtRZVpheG5aazFJ?oc=5",
-     "source": "Sports Illustrated",
-     "summary": "",
-     "published": "2026-10-20T21:30:00+00:00"
-    },
-    {
-     "title": "Spurs vs. Thunder prediction, best bets: OKC gets revenge vs. Victor Wembanyama in season opener",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNF92dVk0R2ZrNWIwaldoSkM1V1RhS3dIajRNYy1zeVJiQzVLR0hMTzc2ZXItV25XWkZ4di1XWXFIa3RPWXFULVMwZ01CVXlGVS03Vjh3RUNJd3poN29kNk95WnpyY25oY2FFMDIwTGhTQUE4VFQwSzRob1VaYjBNckE3YjBKM05kcklMWDNlWm5tYVlPMlM5R1RmQy16RFdVUTJEalJZMDZaSWNXOEE?oc=5",
-     "source": "New York Post",
-     "summary": "",
-     "published": "2026-10-20T21:30:00+00:00"
-    },
-    {
-     "title": "FIU vs. MTSU prediction, odds: Week 8 college football Tuesday picks by proven model",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmE0VlUxQVgzakNNMXhBSkFmQXNjNmJhcE1nR1RZSGt0NUFRMEpxR2FadnRrNXliUEVIVlNMSWUxa3ZYcDRxR1kxclVRaXRlN2pIbjBlaHhkUjNZWHI2dzdsM1ZrdHUwQ1pReFBzOEl5enprWFAyNFhkQjE3T3g3MXN6TWliZWdvREdWdThxZGFCd08wa0FzemQ5aEoxRXJxWlhSQ2x0VVFOM3FfZ0F6Zjl3?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T21:15:42+00:00"
-    },
-    {
-     "title": "New Polymarket promo code “CUSE” updates $25 referral promo in time for NBA opening night",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkRjSDc5S25ZMHZHakp0TVczdkdTMFZ0RFRoUW9MVEJ2aEhsVVBIcy1hX2V6ZVVTT3AzRU8teW5kX01QZ2JJQUFhZ1h4YzRaXzhfQ1VUU1VVYVNUb191WDZzLTNXWjI5cnhxU2pQRHBMUkRHVE5wVms2bU9jNVN1b0ZmWkxYRkpiSm83emMzU09vSUFlTUU0bVVSWExDVVpZb3NFX2llZmlKWl9WNnJVcWNNZ0xHWmh1SmZEV2syVkdjLXI2Z0lHRnJMUVA?oc=5",
-     "source": "Syracuse.com",
-     "summary": "",
-     "published": "2026-10-20T21:15:00+00:00"
-    },
-    {
-     "title": "76ers vs. Knicks odds, prediction, time: 2026 NBA Opening Night picks by proven model",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcTU3emJjM2RtNmt0cmpjY2hoN3JvS2VCMjl2bk52R2RPQktNZXIwV3gzTzZmNXFSMk5tWXNIVXlKYjN0cVYwUFdKZUR4dzh6WFhEcTlzQ19OMmZoZ2t3clhfYy1MTTJJRXA0WHNsLTZlTWY4NEhEaW1hOFVub3d3dU0zamZZZXRCeElHUmFGeWlsb3RfN1k4TE01Vm9CWVZkOGo5WEl4Y01qc1ZsSkVZc0tpcjRudk5CSlVQMzRSTW5mbDAxYjVMQlhUY0hUanFvc0k0?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T21:03:01+00:00"
-    },
-    {
-     "title": "Thunder vs. Spurs predictios, odds and best bets: Model backs San Antonio in West finals rematch on opening night",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY1RQdWhtOV9CVkNXZUx3ZHVfb0NQbDloQXllQlo4elY1cjF1bWV6cWxvMTZVTE9tTE0tUU85eW5qZmJNdEdKQ1ZUOXBlVXBNYm02VkpLcVdyZ09HV1p6LUtjaW1CNGpTYWsxUW5YeFM2QXBJVGZLN1AyNVJOampUM3hGZlgxT0lWTVMzakVaTXNWQ1BDWDJvcEljYm1rUGVCOWQ2aFN2SDBXaEFpc2NtT0xqVjNCMjJlLWRDSWhsMmFYNjlCdmdLZjkwRFhIb21MMHlNZFRQejRFZ01GN0JPSnJtRllfd1BibUlaLW8xTQ?oc=5",
-     "source": "OregonLive.com",
-     "summary": "",
-     "published": "2026-10-20T21:01:00+00:00"
-    },
-    {
-     "title": "Missouri State vs. Delaware prediction, odds, time: Week 8 Tuesday college football picks from proven model",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM3U5WWlGV0ZqR1dzNGlvRm1HVnlnS2JhQWVfdERKSHQySVlxMk1mWklzcE5waWZ1Q0R6Q0drSXJKLUJZWW4yclAxU2YzT1pzZC1VbUlkOXVKVV9hc3VTU216cFJ2emtUeGVYOEt4SzIzYVRzeGNhRFhXdTVDcFVhV0oxdFZ6ZGpsMU43X2t5YkoxMEpCNWlRclpoQUtPWW05b3BoOG56NDRxdE5saUctVFFaYTdXLVliMXVpWXM4UlptakFqQUF4ZjlrZDN3QlFEVXc?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-20T21:00:55+00:00"
-    },
-    {
-     "title": "NFL best bets Week 7: Bears to cover vs. Patriots, Bengals-Ravens under, more picks - The Athletic",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTk5pQnhaeWNXVlNSdGl5cjBsMzl3bU5iQ01xUm1ZckI0TlZRZ3ZDZWhYdW5vWTl6akNyNzZpSGVKYVRZekNTdHREUG5QaTZ2SUpSYzh6VndwdjhUc1lJT1pmaERoeVgtMTFQdXpTZ1VXdTRtbnZjRlp2b04xQ01KaWlzSm9tTVpqUXE1ellhRTB1WlprWEROU0N0VzBhUUF6eW92TVJ3?oc=5",
-     "source": "The New York Times",
-     "summary": "",
-     "published": "2026-10-20T20:40:12+00:00"
-    },
-    {
-     "title": "Vikings vs Colts Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlNHMVlETUU2NkpnMDZ3ZWt0bk9oOUNBMWFUZnRrd1FQRGZzeHpJZVJXcC1sUVUtR0JuRl9JSkUwZlluQWFJQlVNbDRMS3lEMHY0Y0E3TVBrTmoxbHlmeU1CVEtzYzBCaEhhanhXTzVMaFA3NW9wRnY2S0FMX3lrVXlhTy1DQllJMFk4Um1rN1l6RDRyS1dOVGdZRHM1UTYzUThJbQ?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:35:14+00:00"
-    },
-    {
-     "title": "Ravens vs Bengals Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbzFVZmZTaHY5X25sZUN4elhWWkhpUDlzbF9pbEFvcVRzbnBsaklIaTZGZGpwZ0c3dWxKdTZoV2pYNGNOb2tYVldOZVZRY3pNTUZNMW1LZ2FzdDJIS2tQMEN2MFhOZ0NQN25mRXh6c01Uc2RKVnZKZENQRXZSZnlWNTAyYWJmQnFkNkVUMHN4MnR6YXdGTWtjUjJBMEtjWUpuR1M1TWpn?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:35:13+00:00"
-    },
-    {
-     "title": "Lions vs Packers Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXJzemFheXcxSDJaQjlEbUpHTzYxcXRNaWlFZDl5SlcyTjFidnpXSWxQSXdYODlpYmlFSk5ITGYzRjJWQW5yNUVBSTVOcGRoVTZCQm9QVERRQUtIaUR2THprZEFXbkhUY2pDNkVsVFExNl9BVl8tRFhrNlZNN0VlLUZWRndRZ1pMQldJc2I5dXZBaThzV2RfQkhWaXZJdnd5c05yZQ?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:35:13+00:00"
-    },
-    {
-     "title": "Texans vs Giants Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ1ZqbFhqWEVDR2szNzlBR09CTWI0YlpEQV9EdkIyWE1iVzUwcGxFMWVYcjlGb01LZWYxTW1uaFlaWFBuUjRDNF9yVElhbHg0UU9hRkF2d0NmUFJhWl82QmtuN1BEc2xvaUQ2N3ZXdV80RHdYOFZTQ09oRHR5LThCLVFuZEVxVVVPZ0ZSRnFaUUczOHVlUlFmYTQ1QkFsRHRQRWhXVQ?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:31:11+00:00"
-    },
-    {
-     "title": "Broncos vs Cardinals Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWtLNE8zem9UR0YxaTAwTTRiMmVvWFVlc3NEV2g5LUNsZnlLenBpdUJLSTJxZlVZRFlocU5zNVRUU0I3Q044aUdSS0pnVFlHNlRIZVM0M1g1T0o2QTB2N2RxVzdGQTRuUTZZblFIaTZISkVNZ1JSOTVBaHFwU1V0TF9GMzNOTUxYQlFDR0szUFVPRXpXZy1mM2stUEdjaUdCc2Y3NVUxa21Pdw?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:31:11+00:00"
-    },
-    {
-     "title": "Panthers vs Buccaneers Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkswRTVVUmg3enZlRFJWX1BUN2pXNHpGSVlpU2V3NGN3cVhDTGZkY1psNkZJbm5vZE54VU4tUWkxQjFNTEJmTi10TzQyUUVmNjN3OXJ5TXlodTR6Nl9mZHN2emxzZkRBVVcxcXk4S05FVThvOVEtUmg0VTU2azdTT1VlSkFTa1dpS3I4aFFBaTUyUEJDaVlndEYya3gwTHhjb0Z3eV96ZGl4eHZq?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:31:11+00:00"
-    },
-    {
-     "title": "Rams vs Raiders Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY1lybk12ODA2SG40bi1hSnNuUnlBbzBfNnB0ZjlKa3hURXJWZE1vcnJ0RzB3OUVuSm1nYy1fcmZNay0yc3RsRXUyWnRtWnA4d1ZtTDRxU1d6aUp3RWhzbU5MdEcwYWRwS3dabWVNZzQ2OUV2NFlCaXhSVktkZzRxQmk4ZHN6UVEyRVVKOTd5WkxmVjM3YlpmNFN0RFkzbEMwUUxB?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:31:10+00:00"
-    },
-    {
-     "title": "Browns vs Titans Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekxRaE5jOGpBRUlMdEk4Y0lwWlpiRk14WFpZTWRCZGdNczdPeFZfYktpUmY3aHM4dXV6OEdleXd0WG00SUtmMlN3NHh5emxVTEJDQkcwa1d2azg4Q0gtMldOQmdhekRsY1F0SWJmWmtzMlZpRVExeHlBMUhGZlhzNlNreFBVOGZiejJUTXlZeTBlOHV2dGpYOG96dHZpSHVKOXVrQg?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:31:10+00:00"
-    },
-    {
-     "title": "49ers vs Falcons Prediction, Odds, Picks, Best Bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmc4aDREb2hFY3BYVUZVdkxuMEF3RHJua3psNHJDbWt6SHJLSDJMY0hVRDVxXzU2VWF5VFRBQUVxQzhTdlo4VVZvMGMwVkNaSW5ZSHVSQ1ZWVHlxQWlndm5xY2VBczI3aWZEX01JWDgzeGJRR0JLeVhxM09RaWFBVDlVOTJUX3l0M3hTanlBdzNJbEZybTVaU2lmcjh5TGlabm5ldg?oc=5",
-     "source": "FanDuel",
-     "summary": "",
-     "published": "2026-10-20T20:31:10+00:00"
-    },
-    {
-     "title": "NBA Parlay Picks: +3300 SGP for 76ers vs Knicks Tonight",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXd1NjQyRkNsaWRGMFZNcU04eF85Q1RZRVFhTmdGTWZqWEJQSnhPaDBBb1ZNZE44TUN0QXRwZkwwdmF5bW9rTWFRM0p5VTc4UkVOUHJWcHU4TkJpY3VGc2xFQU01WGQ2emk3RmFXWjlYaktJbmh5WlA3UDROUGYxempKSGxLblFn?oc=5",
+     "title": "NBA Trade Rumors: Kyrie Irving, Anthony Davis & 10 Blockbuster Targets for the New Season",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNVlKVHotUWNPRTVhMnRoVEVrN19tN2kyeEo3RFUtQkhpV2g1Z0FuNFpUWk9uS3RlamVDTDhFN3BRdGYtb2M5LWVVdlhCZk8tWDVCNzNHSVhFQS1SRTVuSy1LQmFydzJnOHJqdVVoV3NFb19uRUhBeEl0cFF1UkJCd25LX2E?oc=5",
      "source": "Yahoo Sports",
      "summary": "",
-     "published": "2026-10-20T20:28:11+00:00"
+     "published": "2026-10-20T22:24:23+00:00"
     },
     {
-     "title": "College Football Predictions Tonight With 4 Best Bets, Prediction, Picks, and Odds",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDFKNTVuajI1VW4xOWxfcHpFbEozSlcwY3g0NWtPR1hyb0pURUY1bGFZemgwQ1h3SXJHTGRTUmhRcFREZFRQMC1EX0ZyVGk4TkZtVW9HbWdTT0FYUjRfczdxU2RhOFMtS0xaLV9vVlotczJ4TS03SDJNWnBTcHNNcnlpQ2o4ZUFQVWktZlJQZU9VeWRXdWxPbElUR2lUckhoNFpSeGhSRzFUbUpyRXpQejV3?oc=5",
-     "source": "FanDuel",
+     "title": "Knicks reverse course, hang banner for NBA Cup title",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkdKdVFOeTJDQ0x5Xy1wNXhqUEVBQUFjQklGS1BXc1E5U1c0VkxtVWhQVjZZZkt4b21DSnJlcWxrTDZiUjhxVkZaUFFCUXJGYVpvSlFFMWtLSEE4QnpRMndVWlNrMElCbFVXVzQ3R1JNVGRIdFd2TTlGUm95bFo3VWVRbldKaDBDRHpfNFlR?oc=5",
+     "source": "ESPN",
      "summary": "",
-     "published": "2026-10-20T20:19:03+00:00"
+     "published": "2026-10-20T22:24:00+00:00"
     },
     {
-     "title": "Experts release first-look Seahawks vs. Chiefs predictions, picks, and best bets for NFL Week 7",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGZfWldPN3R2YXBXV19pN2dNQnVDeXhkcG9valRsU284RzF1c05STXBKX3BmNWNobnlqY0NqUHhQcEI4bmlRSmdNS3BmWEF6cTduNHptcDgxbUZnd3lNRGJoVGFPd2Vsak5iSEdseDdJTlZpUkdXYmJ5MDRTdzVYbjFDdDRjYVBueHgydG1wY29qWnJiOUloMk1oWnhPbllLcHZNb1kycGhtLUV5OWxfZDNxT2l5NlhHT1lNTWdzT1lxVVRiaGZMd1VTcFc3NzIwY2ltU1p2TQ?oc=5",
-     "source": "OregonLive.com",
+     "title": "NBA Fantasy Week 1 Playlist: Schedule tips and lineup advice",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3VQTUY0ZFRUc1o1TzZ0UEFCVmx6NTkwcFJGaExDSE9mOUFvWDRMRDE0a2VURWNGVDF3ZnlLSVExcE8waDlTc3BuSDVKSUJjeVVWNWc0TlNvMmFQb2REY2pXSkdqMi1feU5DNEtPYnBkcW0wN3R4QUtkMy1DUHFSaEF6b2toQlVSN09pQw?oc=5",
+     "source": "NBA.com",
      "summary": "",
-     "published": "2026-10-20T20:15:00+00:00"
+     "published": "2026-10-20T22:18:58+00:00"
     },
     {
-     "title": "NFL will proceed with plans for Steelers-Saints game in Paris despite unrest",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV3JFRzFsU0FDMzZoN04wWUNBZy1OcnNXSjlZclRNSGxoUVFQdmNZdHF2Qno5OVZFNFMtUXN5M2lqampIMFFFeFFzRjExMXliV0tmSXlXMXRxWG53U0RLS1hRMUJacVZlenBWeHoxdXVsd3h1U25wYlpCaGRTUWMwdnNBSU9WaWgtell6ZDJkRVo?oc=5",
-     "source": "The New York Times",
-     "summary": "",
-     "published": "2026-10-20T20:11:42+00:00"
-    },
-    {
-     "title": "Updated Super Bowl 61 Odds: 49ers, Bills, Chiefs Lead; Rams in Freefall",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3pPVlJXbFdDX2paRnhvd0Y5SDAzazhwREJ3WTM5VE9nRi10U040Zi1RZC03ZEUyS25VNjVabFFlSmhGenprYmtBckhjZ2I3WWxpRzd4ZEpVSTJ6QUVzbDhtWW1EaTFvYloxOThyZlZFQnJ4V1F4Z0Q3ZDc4eXkta2dlMVNuSi1scncyNkh0aTE3dFdVT0FTV0MwOThQVDRJMmp4dXd3aXkxaTIw?oc=5",
-     "source": "Sports Betting Dime",
-     "summary": "",
-     "published": "2026-10-20T19:49:00+00:00"
-    },
-    {
-     "title": "Missouri State vs Delaware Prediction, Odds, Picks — 10/20",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHRodDFqSjdMV0ZZeDNWRnhzTFdkbkp1VnFQcTlvWGFtOW1qUTFlUWZOMEZYaDNaSTVJUFRjOWJYYWVGWUJFaDJqVGRUbEtFQU44SWNaWDlQeFdqSlJwN0NIN0FSc3Byc1JveW5vdHluS3UtWEhZWXAxUHdhR0dkb0JaVEVUT0ZXTFRTelJ3WQ?oc=5",
+     "title": "How to watch 76ers vs Knicks for free: NBA Opening Day, live stream, TV channel",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbTFXQWl2SHpmNTcyVDNGRXVaTnU1UjRiQXFvbGJQblV3VjBKNzN5bURfc0xZMU51aEdIaHlQMXI1M081ZFVsWkpYc3l2UkZYUGFnMEstV3V6ajhyNTl5Nk1aM3ZPa2UxZmo0MDNzUTEyd1hWVUZEZ1A1Qm5FcFlqTw?oc=5",
      "source": "Yahoo Sports",
      "summary": "",
-     "published": "2026-10-20T19:48:25+00:00"
+     "published": "2026-10-20T22:00:00+00:00"
     },
     {
-     "title": "Premier League Golden Boot odds: Favourites, latest prices and betting tips",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zc2t0QXlNVEhkQlNhdV84RDNvS3dlN2p1SXFYeUdyTTdPQmRVMnFmbDhYRTBvdTROckltdzZCbnFpMEk0RFVIb1IwMTQ1cS1DZGxOOXVNNlZJZGlsQTBtRGJkMnBMWDk4d0U4Qkl5eHZMRmE5aXEwTklKMWk3Zw?oc=5",
-     "source": "TNT Sports",
+     "title": "Eight Former Trojans Make NBA Opening Day Rosters",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRkEyYzNUSWt6bTktcC1nOTZDZDk2eklRbVI5UURiWFU1X3pDWkNzeldPUE54OGdyblBVaDh1RC1Vd0RuWUhPQVp5WDg0VVpsTllWUHZQSGdHaU5KOFo0aGtVT25YVHVKdHFEOEJaZEhwZ2JQMGYwckp2MW9VckY2dklPWE5tVlhzN0NzS0tqSFRNVjJ1aVNXUFpvX095Y01YYVp1TGZGYw?oc=5",
+     "source": "USC Athletics",
      "summary": "",
-     "published": "2026-10-20T19:30:53+00:00"
+     "published": "2026-10-20T21:59:24+00:00"
+    },
+    {
+     "title": "Sutcliffe makes first Scotland start against Australia",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq2e9jyj1pzjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Glasgow Warriors hooker Aicha Sutcliffe will make her first Scotland start in one of three changes made by interim head coach Dave Butcher for their final WXV Global Series match against Australia in Canberra on Friday.",
+     "published": "2026-10-20T21:36:45+00:00"
+    },
+    {
+     "title": "Carrick wants more clean sheets to turn season around",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cje362v35175o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Manchester United boss Michael Carrick needs more clean sheets as he looks to change his team's fortunes, as they take on Como in the Champions League.",
+     "published": "2026-10-20T21:27:35+00:00"
+    },
+    {
+     "title": "Giants release RB Najee Harris after starting him over Cam Skattebo in loss to Saints",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaUg2bHRnMDc0aXhzSlNMUkxOMV9lS1pQcXQwNXBOR1RqUzdPRHJDYmE2d3JDRWo3ejJncWxMOXlGb2g3a1lYUUYtWThMaXRpdTFiRjNQbFdyRVNPYmVSZTA0b1gzaDIzb3poOXpDbkJWRU5qNDlfN0dzLVdPSENHZTRBN0tremMxaUk5ZmNDMWs4MXVfdkhyaFVSSFc1N0l6cVZuX3lmRU04STlPU1JzQkRQSnRJSVB6dnNmVENMTWQ0eU5VYkNDQU9YU1llMEE0MlZUSHVJRVNXd1JJ?oc=5",
+     "source": "Yahoo Sports",
+     "summary": "",
+     "published": "2026-10-20T21:19:52+00:00"
+    },
+    {
+     "title": "NFL Trade Rumors: Hollywood Brown expected to be available",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPalNLZXFBbTdyWHhVQWdYWkMzQlEwYlg0TjMwYlRvQ1ZKY3lseG9RWlUyeFhpSEx4UVcxMU0tVUxpaTRPZVZCMWlkMFNIbmFzNlQ2Zk9LSEhMWlE1Tkc2V3M5MmhJcGFZdzVab1dzVXpiYTZRX19ocTN5a3FNLXk5dVJmTzVSSVB2aU9mWFViSnQ5OEZucjlMMUtYcHZENUh1ZVdqTXFlMEc?oc=5",
+     "source": "Bleeding Green Nation",
+     "summary": "",
+     "published": "2026-10-20T21:15:09+00:00"
+    },
+    {
+     "title": "Brewers-Rays World Series inspires both dreams and nightmares around MLB",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTjA2WTF1RUlDM3lGbjMtQXBtRVo3Y2VncWd6MkE2amE0LTVLV3FXVm1pTks0SFJ2TTVMODI3dHFGUmliM0pBWGZxY0cxODk2Z2tFOE5xTGRJSU1IQkQ3YU95TjNJbGxfM0RGUHc4MEtKWnNtYzZyYjc4c2Q5NFlpUkUxMjRJRDhSQk92dHpOUW8yZVRiMHZhUEoxTjFIU1NfSjllejJBYVp2Q2ttZnNiYlZ5OVlEajhxZXluNzdad1JhUVFYYVNBd1RpRmdDZEtx?oc=5",
+     "source": "USA Today",
+     "summary": "",
+     "published": "2026-10-20T21:10:00+00:00"
+    },
+    {
+     "title": "Why this World Series is unlike any we've seen in some time",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUVZPZ3JFYXA3ZHZyVHhXbHc4emx5eTBTNVVkWXU4N04zTHFwMDU5V2V6bzMySm9YNUhyU2I0WXp2bWpwNDFRSlNoMlpKcUJseEdBeDNFS1VYNHc3cUtGV095T1JRdEZ3Qlg0U2tLWnJDR3FXNmxTREIydGg4WFVBaF9vMlR5MHJRVWfSAZYBQVVfeXFMTVlacHF0TXB5Zkh1OFNkdXNFR0IxR0swNDNGZWVlX1dORmNpWmxNS080TXJ1cWt3STZyY3B0MHJXTVg5RjByVUJCNVdwTEtSX2ROZXl4NGs0dUFEd3dEZDhYZEVpZkI3OHA1MWJ5QXE4bW8za1U2WUFPUDhfcnlTLU16bXZOWFZpaUJCZXFfMnZFQUVfSVNR?oc=5",
+     "source": "MLB.com",
+     "summary": "",
+     "published": "2026-10-20T21:00:00+00:00"
+    },
+    {
+     "title": "NBA Fantasy: Fantasy basketball bold predictions",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lMmNlQWJuZHVITWZCWkdYS0xsZHBmc0xWZlBKWmtnZWItQ3JXZ0wtdjUyU1ZhWkNlZmI3TEhnTkNuZUNCS20xRndEN0o0Y2owVWZVMGwzT3NwRkh6UGx4ektqZlpFN3dWUnhPYUVxcWsxM1pTZWxDNG5CdE0?oc=5",
+     "source": "NBA.com",
+     "summary": "",
+     "published": "2026-10-20T20:58:52+00:00"
+    },
+    {
+     "title": "Joan Garcia 9.5, Gordon 6 | PSG 4-2 Barcelona: Player Ratings",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3lRU3QzbWNJODhpMnpDbFZBOHRjSWlXQUtqcUlhNVEwQnhNcWZ4SEIwRGRoNmtlaUR5Rnd1cV9peTZmcjJEeWo1eVYyYXR6VlBEMEtkazFFMGFsMUJsWFU5ZEFBUGE3eGJMWXBYVTVucHZKX1BYS0tEN3QxVEZTWlp6ZDNiVGpYU1ZvMUhB?oc=5",
+     "source": "Barca Universal",
+     "summary": "",
+     "published": "2026-10-20T20:58:23+00:00"
+    },
+    {
+     "title": "Audit regulator looking into Manchester City accounting",
+     "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
+     "published": "2026-10-20T20:56:53+00:00"
+    },
+    {
+     "title": "Kindel conscious, stable after medical episode on Penguins plane",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBESXlJRTEzN2tEYk50QkY4ak96TDFPVnVyRXljOEJWZGVZbkJVejRIMERYRWh2YlQwb3N1SlZPcDZ3YWFSOGxadlpxV28zQndOT0V4T3o0cHNXcTVHQVVtUzZWM25uWUdUT3NyVHJVTm9SRFU?oc=5",
+     "source": "NHL.com",
+     "summary": "",
+     "published": "2026-10-20T20:49:35+00:00"
+    },
+    {
+     "title": "Week 7 NFL MVP tracker: Chiefs' Kenneth Walker III making legitimate case; Bryce Young enters top 5",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXJrUkNabXNTMkMzMEM1dlRHMk1aZlRCREoySEl2TkU2VDNGY0kyVlRTR1VqYWFxMkd0cjJaUm9SaXdoUk03ck11ZHV2QnhzcTVJUFhsSkRjcnFVWDNVT2ZVVXdMWmduR3NwTEluYVdNVWdqdElJQzN0MUtEU2dmYmJ5RFdxclNMcnktb2ROUWd0WjVXVU9QV3pPZHhpX3o5cGpCd21DNlZoRWlXNEljRVE3dXRvWFZYTzdXZ09R?oc=5",
+     "source": "NFL.com",
+     "summary": "",
+     "published": "2026-10-20T20:41:54+00:00"
     }
    ],
    "feeds_ok": 4,
    "feeds_total": 4
   },
-  "sports": {
+  "teams": {
    "title": "Arsenal & CSK",
    "items": [
     {
@@ -657,18 +657,18 @@
      "published": "2026-10-20T19:38:47+00:00"
     },
     {
-     "title": "Arsenal XI vs Bayern: Confirmed team news and predicted lineup",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTmduWU5RRU5CYVA3OFFyU1NaRXV0cUFLTG9IT3dkSzNDMk5ET1BBVndCOXk3THpCd2VrdDZVQmFjUFNxeXdlcy0wT2xLVTRfcWR1UFlzWkFieG1UMjBvM0ZtTi1CM3VYVmVvZTE3amR5WmVTZXJjZkdHVTl3bktjZEJydy1abDFDUk5mQWNyajR6RXVkaWQ2TFBSYzhGX0hTenRkS3dhMThONVZNUG1PQkVsTGNUbFF6dGJJQm9uMDhuQmFvcjFfeXZmTlI0LUZqS0hZakszUHAtOHhFMlZud2tyYUoxcG8?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-20T19:38:44+00:00"
-    },
-    {
      "title": "David Raya: Arsenal star sets sights on top prize ahead of Ballon d'Or ceremony",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWXRfdDB6MWhJWUJBWU1xckhsRzIyTlE4MGVET0JNWUVLWjB3Rk5PZDRxZVZNcVd4U3NXNndRU1ZxSDV2SnNDZndhZHRjRDVTRUdHZy04bGpSZVNfdlZ4T2djTU9XNXdhN1lkMmZqcUN4MnpCR1otRjU3Y3JEYTBibUt1YXNNUzdvbVV5TEFES1ptOHk3cUticlY5Q3c?oc=5",
      "source": "London Evening Standard",
      "summary": "",
      "published": "2026-10-20T19:27:05+00:00"
+    },
+    {
+     "title": "Arsenal XI vs Bayern: Confirmed team news and predicted lineup",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTmduWU5RRU5CYVA3OFFyU1NaRXV0cUFLTG9IT3dkSzNDMk5ET1BBVndCOXk3THpCd2VrdDZVQmFjUFNxeXdlcy0wT2xLVTRfcWR1UFlzWkFieG1UMjBvM0ZtTi1CM3VYVmVvZTE3amR5WmVTZXJjZkdHVTl3bktjZEJydy1abDFDUk5mQWNyajR6RXVkaWQ2TFBSYzhGX0hTenRkS3dhMThONVZNUG1PQkVsTGNUbFF6dGJJQm9uMDhuQmFvcjFfeXZmTlI0LUZqS0hZakszUHAtOHhFMlZud2tyYUoxcG8?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-10-20T19:22:12+00:00"
     },
     {
      "title": "CSK vs PBKS, 7th Match, Indian Premier League 2026 - Scorecard",
@@ -699,11 +699,25 @@
      "published": "2026-10-20T18:35:11+00:00"
     },
     {
+     "title": "Can Olise play for Bayern vs Arsenal after Champions League red card?",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb3ZuQXVDYjhnTy1ZYS1aay1wcGt2WFZOSDRxV0ExZFBrcURWbG1FRWRvTkMtcGEyS2owUDVDaU1lZG43b004VDVfdlZkbXB4QkZtd2YyQWhkV2JFSEVVcWVKN2lKajlTZEF0UHhZMDBTY1lqUHA1NjRjQVVnTlBXb3VrNjVvSkpvTS1WSXVpTmEweFljd3E1bDg3SEtuclNpLWdPQ0ZHcElJVVItN3d4RG5abXc1NDQxZnJOQmVjR0xQT2xUbTFtYXdkdUFuTTZldzFR?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-10-20T18:18:24+00:00"
+    },
+    {
      "title": "LSG vs CSK, 59th Match, Indian Premier League 2026 - Commentary",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUt5RWZqMGs2aF9rbWpDTkJfTXVkVDd4NWd2YTBVQy1FVFYxdmIyUUR3NXNobnBIUURrZjZqai1QaExuNFdwdTR6SnZsVnViZGpWc3dBSXFhT3U1WTF6dTdyS2RzcU9MVmhRbDRyajJPbVY1eGNlOEZaaGJFQnFXdUs4VXVfdTh0ekJNOUFEaUFUSnN3SU92djk2aXF6LTBZckE?oc=5",
      "source": "Cricbuzz",
      "summary": "",
      "published": "2026-10-20T18:17:00+00:00"
+    },
+    {
+     "title": "Mikel Arteta's pre-Bayern presser",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTBYeUczckJDMlBNcVc5XzFBbnBHUHpabjQwTEF2Ml9VbW9YWElvaWhLQTlFeXZrdG1CSW9yUG1HSUMzTE1seG5fWF8yaUQ4OHJCMHRsOW4wOERyV1BUeEhaVTFERU5vZnRCVUpwUG1NaGdkRjl6c0Z0RDJ0VnFCTw?oc=5",
+     "source": "Arsenal.com",
+     "summary": "",
+     "published": "2026-10-20T18:08:00+00:00"
     },
     {
      "title": "Bayern Munich XI vs Arsenal: Confirmed team news, predicted lineup and injury latest for Champions League",
@@ -727,13 +741,6 @@
      "published": "2026-10-20T17:58:38+00:00"
     },
     {
-     "title": "Can Olise play for Bayern vs Arsenal after Champions League red card?",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb3ZuQXVDYjhnTy1ZYS1aay1wcGt2WFZOSDRxV0ExZFBrcURWbG1FRWRvTkMtcGEyS2owUDVDaU1lZG43b004VDVfdlZkbXB4QkZtd2YyQWhkV2JFSEVVcWVKN2lKajlTZEF0UHhZMDBTY1lqUHA1NjRjQVVnTlBXb3VrNjVvSkpvTS1WSXVpTmEweFljd3E1bDg3SEtuclNpLWdPQ0ZHcElJVVItN3d4RG5abXc1NDQxZnJOQmVjR0xQT2xUbTFtYXdkdUFuTTZldzFR?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-20T17:41:45+00:00"
-    },
-    {
      "title": "Inside Training: Focus on Forest",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zU0RXdDhsRUFsN19rSWctZUFQSUFaWnk0UjVkVGRwalB5VVJfelAtdEx6dVpWR29lZFVWRVVVY3hKdC16Z3FYekxsckZMU2J1VFNmYUhtVjZrU0JXY2s4?oc=5",
      "source": "Arsenal.com",
@@ -746,13 +753,6 @@
      "source": "Arsenal.com",
      "summary": "",
      "published": "2026-10-20T16:49:30+00:00"
-    },
-    {
-     "title": "Arsenal at Bayern Munich Champions League match preview: Champions collide",
-     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPM0hLNE1WamFOdWR3dlVOVXVmbHVDbTlsMUZrTFlTQnNKbGNMYmhUQ3licWs5YVlDaE9VaTNWRGNoQVZNYl9RWmtyTUV5M3pXZm1CWDBxUml4M243MlBQLXIxN21sTlpSaGI0a3BHc0ViUndfaTZHemJxN0M0NFJjaEswMGxPZHBUcmVvNm1UdWRueC04bFQ1ODZ4bEwzaFVjUzRkTml3RC1kVjE5VFBqMUp0NE5vaTF5bm5ScXVxUkx2QV9ZM090Q0JXUURiaTFjTmFEaGhBUDFacDE0NHZaaVRfMEloM1BzalVJQ3VTSUtwSDhMSG1UVHc5Q3V0NDh6UlV3UVZ5N1ZRUDlK?oc=5",
-     "source": "The Short Fuse",
-     "summary": "",
-     "published": "2026-10-20T16:00:00+00:00"
     },
     {
      "title": "SRH vs CSK, 27th Match, Indian Premier League 2026 - Scorecard",
@@ -783,6 +783,13 @@
      "published": "2026-10-20T14:06:15+00:00"
     },
     {
+     "title": "Kimmich misses Bayern Munich training before Arsenal clash as new footage released",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0NIQUtQWFJ3dG00UVFlS1VPWlQwZEhUTEZST0NBSFU2YXBuaXZkU0xwRWpoeDY1YVhaZ0JOanQ1b19pV1VWVjR1cEN4VXlMYXhoMWk2SlBJNm5zdmFhSDhXbWJvdkl3czlsSFpveUNvOFBoNU1RYml6dVVWcHRDcG1vWTZ1bUh5aE5zSzFERXFPNnkxSFV6eUt1bk1OQQ?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-10-20T13:19:46+00:00"
+    },
+    {
      "title": "Early bird tickets on sale for three WSL fixtures",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdW94RE1OckI5RmVfUU1RVXJMOXhxUm5DSVVKeG5zbGJ4WDlvc3BOMS1yeGF6el9vY1hRMlp4UE4zWUUxYnZpUFRtQWZvRDJMcGFJOUlDT0JSeGtLRjAxRlVsX3p0dnd2YTJPYnVwSEt4VmlnY1BUanhxN0oxU2hHamlLcWZyb041QVF1UHdidmRYNkt5OGc?oc=5",
      "source": "Arsenal.com",
@@ -795,13 +802,6 @@
      "source": "TNT Sports",
      "summary": "",
      "published": "2026-10-20T13:12:00+00:00"
-    },
-    {
-     "title": "Kimmich misses Bayern Munich training before Arsenal clash as new footage released",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV0NIQUtQWFJ3dG00UVFlS1VPWlQwZEhUTEZST0NBSFU2YXBuaXZkU0xwRWpoeDY1YVhaZ0JOanQ1b19pV1VWVjR1cEN4VXlMYXhoMWk2SlBJNm5zdmFhSDhXbWJvdkl3czlsSFpveUNvOFBoNU1RYml6dVVWcHRDcG1vWTZ1bUh5aE5zSzFERXFPNnkxSFV6eUt1bk1OQQ?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-20T13:01:58+00:00"
     },
     {
      "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary",
@@ -1119,13 +1119,6 @@
      "published": "2026-10-19T20:21:53+00:00"
     },
     {
-     "title": "Designing for sovereign AI: A shared foundation from edge to cloud",
-     "link": "https://azure.microsoft.com/en-us/blog/designing-for-sovereign-ai-a-shared-foundation-from-edge-to-cloud/",
-     "source": "Microsoft Azure Blog",
-     "summary": "A flexible sovereign architecture allows organizations to place each workload in the right environment, apply the controls it requires, and maintain consistency. The post Designing for sovereign AI: A shared foundation…",
-     "published": "2026-10-19T19:00:00+00:00"
-    },
-    {
      "title": "[Launched] Generally Available: Azure DNS enables DNS-based load balancing through Traffic Manager linked records",
      "link": "https://azure.microsoft.com/updates?id=573917",
      "source": "Azure service updates",
@@ -1152,6 +1145,13 @@
      "source": "Microsoft Azure Blog",
      "summary": "The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. The post Managing open-weight model risk in enterprise deployments appeared first on…",
      "published": "2026-10-16T16:05:00+00:00"
+    },
+    {
+     "title": "[In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover",
+     "link": "https://azure.microsoft.com/updates?id=576542",
+     "source": "Azure service updates",
+     "summary": "Azure Files customers can now copy and synchronize file share data across storage accounts, Azure regions, and subscriptions within the same tenant using Azure Storage Mover. Schedule incremental transfers to maintain…",
+     "published": "2026-10-15T19:05:18+00:00"
     }
    ],
    "feeds_ok": 4,
@@ -1204,14 +1204,7 @@
     },
     {
      "title": "Governance concerns at Chowgule Steamships over offshore deals",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2JtZ2prc2FoU094VDJzR2d3cFNmVDhsTzZWQ05PSm4tOWhDVXJNNy1KVDk3NzR3cFZ4ZlRGS2RaNmJmNlNiYVhBRlFiX05FWkpPYXBzVEtYMGdnSS16Y1FHNmJZVkdUN2Z2RzYySEVXcnpndlVOZ1JpRlVsNzFkZ2JqMmNyNVlMWnIzTjYwSWkwcG5WemZXc3pXUndVZGhLUXJiX19CWkVMMEZycHpuM2ZiN3F1T09UQjZvM0Via25XUnNBUW9GcXF1NVgybWMtU3NEem5xNWLSAdgBQVVfeXFMTVdibWdqa3NhaFNPeFQyc0dnd3BTZlQ4bE82VkNOT0puLTloQ1VyTTctSlQ5Nzc0d3BWeGZURktkWjZiZjZTYmFYQUZRYl9ORVpKT2Fwc1RLWDBnZ0ktemNRRzZiWVZHVDdmdkc2MkhFV3J6Z3ZVTmdSaUZVbDcxZGdiajJjcjVZTFpyM042MElpMHBuVnpmV3N6V1J3VWRoS1FyYl9fQlpFTDBGcnB6bjNmYjdxdU9PVEI2bzNFYmtuV1JzQVFvRnFxdTVYMm1jLVNzRHpucTVi?oc=5",
-     "source": "The Times of India",
-     "summary": "",
-     "published": "2026-10-20T22:30:00+00:00"
-    },
-    {
-     "title": "PE-VC investments shine, may exceed $39bn this year",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2dIMEhqTmNIUnQtbzE0TmoxWjRtSVRMTUJyZ0VHVksyTzlUU2Z5YWQ3Y2NUQVljdEpwSHowbTFBUDJEY25JWnVySU9sWDNlSWdFbFJnQmJJQ0Zjb3NXb0s4c3pMRlJzRnFfajIwR29xRFJCMUprVWhvVk1RSklTNWxFTThndEE0b1VPcWx0cGdtZ2IwZG9oR09MSlVuRlpFLUtGMWtOb1NKdlIweWFkY0I3Zko2WFJSWmZETXFmb2JJWVRULVQ00gHHAUFVX3lxTE5nZ0gwSGpOY0hSdC1vMTROajFaNG1JVExNQnJnRUdWSzJPOVRTZnlhZDdjY1RBWWN0SnBIejBtMUFQMkRjbkladXJJT2xYM2VJZ0VsUmdCYklDRmNvc1dvSzhzekxGUnNGcV9qMjBHb3FEUkIxSmtVaG9WTVFKSVM1bEVNOGd0QTRvVU9xbHRwZ21nYjBkb2hHT0xKVW5GWkUtS0Yxa05vU0p2UjB5YWRjQjdmSjZYUlJaZkRNcWZvYklZVFQtVDQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX0RUT052cnl6QmxSRUJQbUdBVWlpVVktdUVWSHFrcC15Ykx4LTdlREpnaU1mTzcxU2l3eTlBZDFWS00wVWRyNzVUb3JRRU9BZmE3QUJMMlZoZ0ZSNy1jYnBTOVNqQlMyTWpXWWVTaXJaMlFIVXVoaldESlppMm1UV3FkQ3UxSmZTTnVldWttMndqZmFIaXphWXY1Uzc3bFRyR2VCZmFoTVkwdktfbDlaUUZ5SjJiWVl4azdNcm9hcGhCc1lHQUtDQnBOUWRMOVdTczhv0gHYAUFVX3lxTE1XYm1namtzYWhTT3hUMnNHZ3dwU2ZUOGxPNlZDTk9Kbi05aENVck03LUpUOTc3NHdwVnhmVEZLZFo2YmY2U2JhWEFGUWJfTkVaSk9hcHNUS1gwZ2dJLXpjUUc2YllWR1Q3ZnZHNjJIRVdyemd2VU5nUmlGVWw3MWRnYmoyY3I1WUxacjNONjBJaTBwblZ6ZldzeldSd1VkaEtRcmJfX0JaRUwwRnJwem4zZmI3cXVPT1RCNm8zRWJrbldSc0FRb0ZxcXU1WDJtYy1Tc0R6bnE1Yg?oc=5",
      "source": "The Times of India",
      "summary": "",
      "published": "2026-10-20T22:30:00+00:00"
@@ -1222,6 +1215,13 @@
      "source": "India Latest News: Top National Headlines Today & Breaking…",
      "summary": "S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity",
      "published": "2026-10-20T22:27:35+00:00"
+    },
+    {
+     "title": "India, US ‘perfectly aligned’ on key issues: Marco Rubio; defends ties with Pakistan",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcUhTN2xIZjd6bzlsWGhaNGhhUkMtRDZsbDhUNkh6YVVsQndDZTVYMFFMRldkLXc5S0laSDhHZ3NpQTBfVmRyS2NyYWtHOGxVZGZrWlIxcUZlbEdkVlFxSXFLVDd2QWRGM0VRT0RVUWdSY1M3Q3ZCN1pWQ2VRRUk1dHdzdURVclJPVElXcmhmRnVWVHE3TVRlRzhjOEhiWUdra19UOTZfQzVJQk1OYTF3M3VaR1k5Ymw2MFhNVm5BQ0I2cVdaSE5sV1BGOHdTTDNKSDJPb01YbnZESkJIa09xUA?oc=5",
+     "source": "The Times of India",
+     "summary": "",
+     "published": "2026-10-20T20:45:00+00:00"
     },
     {
      "title": "Bengal CM defends decision to shift stampede injured to private hospital, cites better care",
