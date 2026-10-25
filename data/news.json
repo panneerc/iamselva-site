@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:55:00.870939+00:00",
+ "updated": "2026-10-25T22:23:02.677048+00:00",
  "order": [
   "markets",
   "sports",
@@ -13,11 +13,109 @@
    "title": "Markets",
    "items": [
     {
+     "title": "Corning Stock Has Lost Half Its Value Since June. Is It a Buy Before Its Next Report?",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb2VuT1UxQUduM0NxVFU1OHpDUlNPTE5UcHY3QkJVSHZkWFNLMFJhUV94RG1xaGQwZ0hDX0RLbEZKRDh4NVQ4REM5anhKMjBFODFGZ3I4OWRLejJIV2Q4d0FHbXF4Y2FmeS05SWQxRldHd01pTHc5UGJBb1huNThuNjFHbldVNWMwWVh2NkFJNkJ4dnEzNU9Ld2xwODNQcGhKZVhNZVdCTXh2b3hZdDFEeTFTdkp2RUx0YTkydVRtcUV4MDRr?oc=5",
+     "source": "The Motley Fool",
+     "summary": "",
+     "published": "2026-10-25T21:49:05+00:00"
+    },
+    {
+     "title": "Stock-Split Watch: Is Sandisk Next?",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1RZM2kwMlFYdnluM2paUzFndnE4a3Iwd0xlYnQ3TzRQWWdKLW11bHdleVJGRWVPeHVIWVFtdUZ5TDgwY1hXdDJkVEpZRlBtd09EcW51bHVTbjdjLVFoSnhwdDYxSXVpdGdkZ2JtZTdadzF2VDFfV3lMcnpHTjNkS0tFa1VkMlFUakIzVGgxQlEzMEw1NU50VVRYRQ?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-25T21:49:00+00:00"
+    },
+    {
+     "title": "ServiceNow Stock Rebounds as SaaSpocalypse Fears Fade: What to Expect from Earnings",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1JFRENpYmZHOFFWTThHR28tUWpjc3l5VU55cnd6bXI1UUdCT2xTUXlyUHhTZmlYM2hWWW9LSGhnakx0bXF0RE5NRWxQYTNFTWJwVkhGaEh3QlRkUHhEbGtkamdqQXV4aU1nZUFZTDRmSVNGTjFpcURtY3hHRmZVMVpmVDZDT29WaFdLQmdjZjVBeHBicXVRejhSV2VaVC1paXNkM1dkbDNGTk10NVpzb1FvTWpYRXdYSzdTYjFoUVAzeEMwaDd2Zy1CSWxFbnNPaEtKdGNn?oc=5",
+     "source": "Benzinga",
+     "summary": "",
+     "published": "2026-10-25T21:25:06+00:00"
+    },
+    {
+     "title": "Reddit Stock Drops to Crucial Support as Earnings Loom: Will It Rebound or Fall Further?",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMDAzZ3luQXYtLWExd2c4ZVJTaGlhNWFkRVZwX1UxaEU2TjNqRnVxUzRrUGpNYzZnaTA3d0NUaHlFVTNqT3hJWFdVUUp5YnJSWEJpOU5Mczl5aWJmaGtndDExN2tEeFc0WnZZTnM5VFpNWGxoQnlHTGtEbTBCbFhZcGFiZDZ2YnVlcS10c0ZBUTg2b1hYVVBtTnZ1NzRfMXBrWXlTSmhsVDA2aFlHX2p0cEdrVHlRRXo2eFBGMnh1SFRxbXhiY0NxcVh0SXNYeElvaFE0aXFocjlMdjg?oc=5",
+     "source": "Benzinga",
+     "summary": "",
+     "published": "2026-10-25T21:15:07+00:00"
+    },
+    {
+     "title": "House Foods Group (TSE:2810) Stock May Trade At A 28% Discount On Cash Flow",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1p3anRXQlZmRjBZQTNrNTgyUVJGcU5Rc0x2bUJac28zNnVwMGs5OU45SHpLVk5xcEdvNjdZVi1MWFU4bEltY0h5Q092cnRpN2tVN2tOSGpZRkVjSnBaeTdCMkJGZlRxUnFNZFJVZTlLTzhjWEl0ZjFPQk1xS1Zrc0RleFNwSHA1U2xIdHY1VkhhLWZRR3c?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-25T21:08:13+00:00"
+    },
+    {
+     "title": "Boeing Stock Forms Rare Bearish Flag as Earnings Loom: Will It Drop Further?",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXJzc2VBeXhmYTBaOVNDN2NmSlkyTFVPT1I1WnJnNllJRkhqajluaFNNVVJzakF4OTJ3NEk0Q0k5cFdTb09HcWlLSnkxcmxhNHh3UjREQ0NzT0ZlZW9ZdW0zeDM2ZkxQUTltQ25MMGJBNVV4eEFDR0RuMGFRRHhZeFdyREM5X2w0eXlsSTRCalJMNnVKS045c2xpSXdJaDVfWkJqUUIwbVUyRzdmcU1EUXR6VGVSckVpUEZWaHVLaDRLTDJKUV9ZQThqWQ?oc=5",
+     "source": "Benzinga",
+     "summary": "",
+     "published": "2026-10-25T21:05:14+00:00"
+    },
+    {
+     "title": "5 Insurance Stocks to Buy for a Decade of Rising Dividends",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnMwcDY3cUk3ekttZ0RWWkhlTV93TTI3d0RKd05sT2k4R2xoVV95bFJZZEJLaHlHWjZPdldySDJfS19KS3R1LXhOVDNXSVpYSnRPZnVpYTdkdnRIbUR5c3c0dURYc21tYVBmQVIxZUUzUDVfbUs0blEyVnQ0NXFIVHhaN1FfSmwtUnY1ZEpXNlJVQXQ1c0lXVkVR?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-25T20:50:00+00:00"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "source": "MarketWatch.com - Top Stories",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "published": "2026-10-25T20:15:00+00:00"
+    },
+    {
+     "title": "3 AI Stocks To Own In October 2026",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnhHT0JIand2R3lPNXJmOHFhdU9lSHU3clh0RmMzc0pMVThKb2R3dDktcUU5WmRYdGhKTDlsUU53a01ESHU2YVlJTTNDelJuMzJRMldYZ2Fuc1Y2dHdqaUlaa1NBTUFBUFdyOURFa1BZOE11SVlucmdlb2hCaVFsWkhXTVRqREdSbkVBSDk5UC0?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-25T20:10:10+00:00"
+    },
+    {
+     "title": "Canon Marketing Japan (TSE:8060) Stock May Trade At A Small Premium To Cash Flow",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzVwdFhMMkF1NUxaZDNZdGNyWXdfNkxRc085cWFWb3BlenZhOWwzZ2RzRUtTNVZZcTRtQkg0SzFfLV9GbUpjaHV3Y2ZfcUJSMGFNT3VCMU5OVk5Na21ibXRqMTNkSjFOakxzWHlEZzF6RVJqOVAtZ09GVzNLT0RuSHdVZExWcWpPWDFCM3FzMnpWQURRQ1B4YWVlVQ?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-25T20:09:34+00:00"
+    },
+    {
+     "title": "Apple's Market Cap Grew From $350 Billion to $4.6 Trillion During Tim Cook's 15 Years as CEO. Here's What That Growth Curve Means for Apple's Next Chapter Under John Ternus.",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbXNzb2ZhakIzS1BBeGpYVHlKQ2pzNzJjMkxTZ3VHZFJxeUpTS3BKN3BuRkxCYzQwcFMzdFBOVXZLYVd2VnpndVBXM1h4VzJocDFRVF9GRXM3T0FiY19aRFFWTmV0MzJGQmdSV2NYMkhkb1B6YmxpTDhoanFoTjRaRXdtdkx1cmNYSWFfdEIwaW96X3NfYlE?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-10-25T20:05:00+00:00"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "source": "MarketWatch.com - Top Stories",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "published": "2026-10-25T20:00:00+00:00"
+    },
+    {
+     "title": "NFL Prediction Market Promos: Best Offers for Trading on 2026 Season",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fSzJvMUpoanl3amE2MXhNUFBCbVY4S0s0dmdzY3VoNDJpSjlJNTBhdWxxb2hZSmhOaUdnMEREUEVJd3NVdlRvNU55dVY2alZVbVlFbjV1WENiLVpKN1hhbUtROTZUcHB4LVF0WV9HS1V3aFJJ?oc=5",
+     "source": "Elite Sports NY",
+     "summary": "",
+     "published": "2026-10-25T19:41:40+00:00"
+    },
+    {
      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
      "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
      "source": "MarketWatch.com - Top Stories",
      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
      "published": "2026-10-25T19:30:00+00:00"
+    },
+    {
+     "title": "Bitcoin's $80K support faces key tests amid Fed decision, tech earnings, and $11.7B options expiry.",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVXZoM1lWNDBzNFd5OTFtQzM0SXItUzRvZE1NVDE2LW81WWk0QkszYTA5Sy1HZmFGVHVOTHJyS3l5NGN3SjZId0E2SG52cFFlanBoMXZmdmVUMzlxb1Rud1hRNVdKcldFUlZmSUFRTlU3dlp0cElSVHlPUnRpNUV0cUw2SHpNcm1q?oc=5",
+     "source": "Pluang",
+     "summary": "",
+     "published": "2026-10-25T19:24:36+00:00"
     },
     {
      "title": "Futures Due; It's A Doom-And-Bloom Market",
@@ -62,11 +160,11 @@
      "published": "2026-10-25T19:05:44+00:00"
     },
     {
-     "title": "Groupe Bruxelles Lambert (ENXTBR:GBLB) Stock Could Still Be A Bargain On Sales",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLTdfYmpIQjF6cUVKNWZvYXRJVURMQmhRTW9hWlVEc0h6Q2szSzZld1ljWC1YMmFQc2E1Smg1QXAxbmdnbWVDbkczR1VvVnl4U1BTcjF5MGc2OXpoSmFYcnpXT204ZUN4NmZBNnROMjBoTHM3UUN6cmppYmg0OVJmZkZ3cExEdklkWlNvRnY1dkcxY1hXcm9BX1dHOWV1OGVsQVBv?oc=5",
+     "title": "Up Over 100% in 2026, Is CrowdStrike Still a Buy?",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbTc5LVo2T2RWQVdmVFZhc2J6STgtTXIxWVdwaE5HbnJxQlBQWjBTRzE3YmwtZmxTRk94X0hnOEdRZ3UzNjg4RXl6VGNjdF9LSU9aRGFmSk92aG16V0RtMmIwaHhPVmk5VXFzZmVwS2VUWlJrR3JZd0lRWC1IQXNlS2ZVOXJ4Zkx6eHIybXFDT2kyeHFHRXZ2N3VON1c?oc=5",
      "source": "Yahoo Finance",
      "summary": "",
-     "published": "2026-10-25T19:05:11+00:00"
+     "published": "2026-10-25T19:02:00+00:00"
     },
     {
      "title": "Archer Aviation Stock Is Down 50%. Is Now Finally the Time to Buy?",
@@ -76,11 +174,25 @@
      "published": "2026-10-25T18:43:00+00:00"
     },
     {
-     "title": "SpaceX Could Be a Game Changer for These 2 Dividend Stocks",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMHNPZloyQzJmU3pVZGN0cGpVUG9QQXBWclNRakw5RzlHQllIN2tzbEplYVRYM1htOE1nN3RocXNGaW91SFRnUjBYX2pnSjMzNmk0c2hyNmR3S2thT3JJVGtpalUxMHc1NVdLMjlQNjloQ1B1ZGQwRmRVT0RBUDc2OTA0d2ZYNURpcmdFUjZIMmJPZktQVzIw?oc=5",
+     "title": "Kraken lists Saffron's governance token Spice (SFI) for trading, expanding DeFi options.",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM25KcjFGRTYwdE1zOGhGaWpNUWk0LVY0T04tM2pLM0kwWGNZdUtpQnFtdFItekotWW5PWGJLdW1nOEtGQkpDa2NoV1locGlOUFdsNVJPUEJSV2NhdDNhRUg4XzZQbUNnWmpWQ2JfUURJcXpVX000UW0tUFdHQ2hrSXA4dVhYSWNGaFd1ajhPWDk0MGsyT2hhaEt3?oc=5",
+     "source": "Pluang",
+     "summary": "",
+     "published": "2026-10-25T18:33:59+00:00"
+    },
+    {
+     "title": "Are Options Traders Betting on a Big Move in TOYO Stock?",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEFCYTVlYTdyUGc3TGpwLVUxYVduQ08tY2JuNGhHSkY4U2dEdnVoVnVsYlJMS3pJSGRrS1pPejlaMEctN18tX3pjbjBVbjVlMGNpdWtncmFRU3pMel80SG5Gc2xVcUVacjhIVkJ1eEd5VC1Qd2JLNzN2M2FEVWc1VTR3UmtuZ0hsLXhNdVdNV0NiM2ZUdzZjMDJJRGE0cGlkVWlsbjVWaUdnb281VVhDbA?oc=5",
+     "source": "TradingView",
+     "summary": "",
+     "published": "2026-10-25T18:28:00+00:00"
+    },
+    {
+     "title": "Is the Options Market Predicting a Spike in Alcoa Stock?",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1MtNU1PTmVmdTBEeTZzNGx0N3dLXzJUOUdJdDdHaFg1bng5Ykw4Szc0UzI5YldMTS14ampxNFJKaWJsYWZ4WWpaOVNEcDd1U29hczR1a3o5cjJ0eW1KemdaYmZ1WDdUS1N3V1EzX1ZUT0hoc285MjFrSFMwQVpMbkx6WmpYem9UR2ZsU205TWJrQTF2cmt5QzdwZGtRVElGeXI4YVBB?oc=5",
      "source": "Yahoo Finance",
      "summary": "",
-     "published": "2026-10-25T18:21:02+00:00"
+     "published": "2026-10-25T18:25:00+00:00"
     },
     {
      "title": "Magnificent Seven ETF Pulls Back: What to Expect from Microsoft, Google, and Amazon Earnings",
@@ -88,13 +200,6 @@
      "source": "Benzinga",
      "summary": "",
      "published": "2026-10-25T18:15:29+00:00"
-    },
-    {
-     "title": "Open House Group (TSE:3288) Stock May Be 50% Undervalued On Cash Flow",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdmp2cm42UWpyemI5cFRMRHFrY0JaWkt2VXhYYVRnbjZfaG9CTWY1RS0wNlhDLVNMb0gyZ0JIek84cWVjM2l0SnhIRFpSWlExdmVKaFRSTUNVZG9KWUlUVGpyckVOTjMwNFM4ckdvemRUdEs1VVJIc0djcF9IXzhqY2phWEhXaGJ0MkZkVkg3eEwycXVM?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-25T18:11:26+00:00"
     },
     {
      "title": "Tesla (TSLA) Stock Gets Fair Value Bump As Analysts Split On AI And SpaceX",
@@ -132,13 +237,6 @@
      "published": "2026-10-25T17:10:05+00:00"
     },
     {
-     "title": "Isuzu Motors (TSE:7202) Stock Looks Below Fair Value On Cash Flow",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWXV5YVJRWUdYdHRsYWdiZl9pSWhxM2ZZOGVBN2xuenhjQkVNLTZtYzMwMHBrNk50aHNpcHZLZ1VFbDRHOFhraWJsaXA5Zk83ZlZPZFU3Rmdia3ltS2gzVHNVQ0Y5di1acXdTTjJPTFQ5TUZYN1ROT3J0ZkRRdGxnam0wN2xiZVJkQ25mblpBS25xSjVMbi1F?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-25T17:09:05+00:00"
-    },
-    {
      "title": "Tradeweb Markets (TW) Stock Looks Fully Valued After The Trumid Deal",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3RGSmpPOUpSeGpPWms5SDNVdUd3NUpQbkYycTJBY29qYlBpTzFEc3ZjckdfODc1YUN3S0hxb19yRzhLY21XMTg4OC1BV25ISGZNdEF2SWNtWkJETFV2TkFEcVd2SlZPQnBuYlNCNGFleUtZYnRFNnotN01LRnN4dk1aN0EtellWU2wxeTJ6M1lVQm8xcDdHQ0VfRXY?oc=5",
      "source": "Yahoo Finance",
@@ -162,16 +260,9 @@
     {
      "title": "Virtuals Adds Automated Options Trading for Bitcoin and Ether",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaDJKUEwyYTVMTFZJc0F3MVQ5d3ZLazlvckE5Y0pCRGV6dXpwZ3FSdms5OU1xcTRzUFB0SWwxRTdaV0U5SzQzVFVFY2lIUjJNMnJ3VXZtOTFzRTA?oc=5",
-     "source": "www.tokenpost.com",
+     "source": "TOKENPOST",
      "summary": "",
      "published": "2026-10-25T16:48:40+00:00"
-    },
-    {
-     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-     "published": "2026-10-25T16:45:00+00:00"
     },
     {
      "title": "Should You Still Invest if a Bear Market Is Coming? History Offers a Clear Answer.",
@@ -181,25 +272,11 @@
      "published": "2026-10-25T16:25:00+00:00"
     },
     {
-     "title": "SpaceX Could Weather a Recession. But Its Stock Might Not. Here's Why.",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNblFzZHhrdzlRbnJCNHE2YS1HX29iSmRFeTdzaFVpQzBod0trT2hjT0czMmJrdFYxWEJkNzNyYW92Wi1zZUs0c3g5c0RsTVU0dnFOUjg0Q0ZQdGxmNG5BY0NSNS1tQ3hfUEJCTTJDTHZZTl9oZjJQZGxVZHQ4bDhvX3d5WDl4NzBNMU9QMUFYenBsblRhcHBtb1V6V2JyZTZtZ2RB?oc=5",
+     "title": "Can Caterpillar’s $72B Backlog Save Its Stock From a 10% Slump?",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX21MNndFWVE3dG9HNnZHaFBCX042UlJMX2hYaDdfRlRUd1pkWXF5N3o2TXB4dlV3NTgzdWFtcFdiNU9fRDFBci1MbTJMc2ZxRS1GZGx0bHlEbEFYWW1PM0ZjUEZfMzZFMDNDeXB1MXJWal9kVHRLME9VdVRmT3lWdnFILXdiYmlqdFlfYXNqOEdBaXZtcDlnLUFKZEhkWTdm?oc=5",
      "source": "Yahoo Finance",
      "summary": "",
-     "published": "2026-10-25T16:05:00+00:00"
-    },
-    {
-     "title": "Lumentum Holdings Inc. (LITE) Stock Price, News, Quote & History",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zMG1wX2dRdnd4cjgwU2R3dklRZUh6UnlUa2tXMlhIWWZIQ3lMWVdvVlNta3pETFFpbkNfczN0cnJWaWtqS0JwaDhzZkE4RnBNMXc?oc=5",
-     "source": "Yahoo! Finance Canada",
-     "summary": "",
-     "published": "2026-10-25T15:53:27+00:00"
-    },
-    {
-     "title": "Warren Buffett bought this company in 1988 when ‘no one’ wanted it — now it pays Berkshire $848 million a year",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzZRVndLaEdKRFhlYnc5UmthejhUV3dMUERyRFo1c2FYX2lMMjZtNExUZnhpVldfZlV0VHNqdkxmbWtZS0JTZzQtekM0bUx1d3lCSHVjTlp0MDR5RVdQVHhoM2t3anBPYUpjMUNJN0YwVWpGU0NUZmpkUGtrUWQwMmE2TkxiZjZoSHNKZExudk1aQXRKSnJGUlIwa3ZfQmky?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-10-25T15:17:00+00:00"
+     "published": "2026-10-25T15:28:37+00:00"
     },
     {
      "title": "Memory chip selloff contrasts with improving stock market breadth: Kobeissi",
@@ -214,83 +291,6 @@
      "source": "CNBC",
      "summary": "",
      "published": "2026-10-25T14:58:26+00:00"
-    },
-    {
-     "title": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Warren Buffett's Advice.",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDJOdlM4U0pmUGcybzY4a1d3ck5pMVU5cHE3Wl94Y2V0MVdza19SMlZQZm42RDJZTEsxSEkwUkdnNnhJRWVrVmNlTjRyRjZMcG5NdUdJWHMwOXpFYklHeXpaQXRLUnNhR0lLLWlCTVZsMkI5X2plSUFTRHZhSS1KUmdET2J1VmZjV0h5ZXVsMFNvdFYxa2VqMg?oc=5",
-     "source": "The Motley Fool",
-     "summary": "",
-     "published": "2026-10-25T14:34:00+00:00"
-    },
-    {
-     "title": "Brookfield Corporation (BN.TO) Stock Price, News, Quote & History",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1aUppd2hUYmRBRi1sREx0aWpTN0tFSkJmdGJUZGtyTVlmQmR1WGgxbHFGWFJjYy1QczBmTmQ5MjgzVWEwMm05UmhJeDB0VE9pSnlV?oc=5",
-     "source": "Yahoo! Finance Canada",
-     "summary": "",
-     "published": "2026-10-25T14:31:21+00:00"
-    },
-    {
-     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-     "published": "2026-10-25T14:30:00+00:00"
-    },
-    {
-     "title": "TSLA.O",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NVlA5X1VtZkpsMHdqSUN2bm1IWm1lcmFLVjZqaWFMOEd1X2FpRVoxQ05WOUc2VWV0QVZONE5aazJuLWZSTHNNcHlDSHJKcnhtS3dmaUZhU2tGY29JNWc?oc=5",
-     "source": "Reuters",
-     "summary": "",
-     "published": "2026-10-25T14:17:19+00:00"
-    },
-    {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-     "published": "2026-10-25T14:00:00+00:00"
-    },
-    {
-     "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-     "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
-     "published": "2026-10-25T14:00:00+00:00"
-    },
-    {
-     "title": "Zero-Day Option Traders Are Betting Against Big S&P 500 Swings",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaW9NZFpvd292NzhoTHBaRFZOZEZvR3lsSWhCMmtUS3F1OTJUelZsbzkyX1llbFNLdk5SVlNzM09RRXMxMzd6dVlTTUhLcFZ0Z0UxZ3NlNlpreW41d1c2ckh1SWdSQlcyR1hueVhtejBTaHNlMFdjdFNMQ2NNaENMOU1iOVpya0JQZUpqVHJQVUlycjVIaFRjQ0ZoeThiUHpKem0tZThCSUpXV0NJYjdGMGVIbw?oc=5",
-     "source": "Bloomberg.com",
-     "summary": "",
-     "published": "2026-10-25T14:00:00+00:00"
-    },
-    {
-     "title": "The Stock Market May Be About To Break As The Earnings Trade Unwinds",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQTRPYzhyZVZvZ1dLTUxybFVrZ0lfRTc1WS0yV1BvY2RQZGJwT0tGUjhTV2tWQUczaFBBWFR3VFNFYXE0YmE4RWNLcUJrUVNpZWZkZUhaZjNqaXZHQ1dENC1rcG9TVjdmQ2lEVmhoS0FTR29VUlFzNERwcTl5eGc0b1dFSExTeWctbEZQaUFuNWEtX2J5Qm5UUzV6NTNoNS1SRjVr?oc=5",
-     "source": "Seeking Alpha",
-     "summary": "",
-     "published": "2026-10-25T13:55:15+00:00"
-    },
-    {
-     "title": "Bank of America warns of 2027 stock market risk few expect",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcUhaRk91N2p0N3N0NnRQbDBJdmIxNUEzd21tZjlJOFdtT01RVFpoT0Q1Si1OTXN0LXh0cUQ5M1YwTXN2SUZxbU1taG4xZUF1RUU5M21kTFlIVDBUbS1Yb3R1ZDZXdmNRWFY4NkxlZkZIZ3M0WW5qVTM4MXhPS2VvQnJB?oc=5",
-     "source": "TheStreet",
-     "summary": "",
-     "published": "2026-10-25T13:47:00+00:00"
-    },
-    {
-     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
-     "published": "2026-10-25T13:45:00+00:00"
-    },
-    {
-     "title": "5 myths and misunderstandings about investing in the stock market 🤷🏻‍♂️",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wTV9WNGtOZDIzOExtbEZPRTVNaC1yNHZydEJnS1dUWXoyZVJLWjAtTWJKYnE0ajcxZDVRNVBhNnpnRmpzQVI0MGRoZVpuaGg2MWhGMXVOTGUzb29QMXdFYzlUZ2YwY3RHMnVDelRRUjNVamk0TUM4bHFQMm8?oc=5",
-     "source": "TKer by Sam Ro",
-     "summary": "",
-     "published": "2026-10-25T13:41:25+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -300,284 +300,284 @@
    "title": "Sports",
    "items": [
     {
-     "title": "Carolina Panthers running back Anthony Tyus scores first career NFL TD on 12-yard run vs. Tampa Bay Buccaneers",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdDBoRjNRRFh6VFFodHJKN05DT3k2RUh5bTNONjhrWjFnZ1p1cHVRSjByVTRyR2RhYWFZMmZvLVlRYk43OHhkM09nOXZvYzFSVW9iNVA3UkJZV0RoR0VxcnhJRV9XZ3JvX2pGVXZNUFdQTDFQXzJDOFpzeWtPSzdYd3Uxb01rQU96SVZfS1BwSUxpOWFOaThEVVVJNA?oc=5",
-     "source": "NFL.com",
-     "summary": "",
-     "published": "2026-10-25T19:53:51+00:00"
-    },
-    {
-     "title": "Christian McCaffrey injury update as 49ers RB misses time vs. Falcons",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS29pWXJURXgtVzRsa0tuV3MxU3lyUEdNWG9iaFk0V0RlU05MSHRDTmRGRlJ4SERuSExUWE9hYmJRc0xhdzk2Vm5QTUszYl95VXFwQTFjXzkyM2RQWWNQYkkwWksyTGxUNVQ5aXBWY1ZBQk41aDR4NkdlWGVUZGExYnFJM0o4cmNFNFNfcDY5UUQwbXZlc21WbDl5U1pWeXpmT1hpZEp3VmNfcFE1YU9aaDFxTzBLc3R0LWhjaU9kZTRRQm8?oc=5",
-     "source": "USA Today",
-     "summary": "",
-     "published": "2026-10-25T19:25:43+00:00"
-    },
-    {
-     "title": "Dunfermline meet Queen of the South in Scottish Cup",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.",
-     "published": "2026-10-25T19:24:20+00:00"
-    },
-    {
-     "title": "England stunned after Shadab Khan’s miraculous century delivers one-wicket win for Pakistan",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVRiY1d0Z3NZaFl3U2pXbFhsRW85N2h1ckxJc24zS2RWZFJmdUNvV0RFZ0paU01Ib1NjaTF2bWlpSjY5UFA0OHdZWlcxdWxaR1kxOEhXTlRGUzN0LWwwTVJGXzluem84aHJLQlBwYXJFbm1rNlBBeWFrWjhDUWhBckFDTGJCbjUtbTI4aE51dTVlWHFxVklxYW93eG1HbHhH?oc=5",
-     "source": "The Guardian",
-     "summary": "",
-     "published": "2026-10-25T19:24:00+00:00"
-    },
-    {
-     "title": "NFL fans visiting Paris in high spirits for Saints vs. Steelers game, undeterred by protests",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcldRbE9EdG1TRHcyZ0ZXdWJ0UUJHaGI3akJiQ05PbFlXTWdlRTF5UVRJR2U1dkVaeUR1cGY0bl9CRnN1UDZaSV9yVDlqMl9uRjVtRGFyMWFzM0cwd1p1VTRYZUY4UkhnZnhza2xIRTZnV2ptVzdZZGo0UDFRbmJNZTJzVjFhVDhiSXNBOGpmZDFMMnQ4VW9LRTQxQXNKT1kxMVpoN2xVdUc5YW05dDJrWnA5dFBDSmRaSnc?oc=5",
-     "source": "NBC News",
-     "summary": "",
-     "published": "2026-10-25T19:23:10+00:00"
-    },
-    {
-     "title": "Houston Texans cornerback Kamari Lassiter grabs first NFL sack on Giants quarterback J.J. McCarthy",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQck5HVExKdTRtNVdweXRVWC13dVFKYjdDUzBqaHJzTUdJNTJGOVJPMzdkbjVzOWU4WUl6ZXpyS2NzbU9zYXV5a3dKZnItUGJMMzB5RlJyU1dxUTdCSGR6b1JodkV4SmxNQURCYWRzN29VZEM4WGhyeU5HdUoyLWtBdg?oc=5",
-     "source": "NFL.com",
-     "summary": "",
-     "published": "2026-10-25T19:20:10+00:00"
-    },
-    {
-     "title": "Time, place unclear for Game 6 of Valkyries-Dream WNBA Finals",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUmRtR2UxUWtyY2NJX0tqczNPdkVzRUV0a0d5V3FyY3RPWTVENU5NRUV1T05kZkRaVTQ1MDBvTHpZX1RtODFaNXptMzBLSkFldmg3bGJpR1Q4clA0Z3RLUWl2RFRGQ3ZRZ3hMMFozM1FNRDdXNk9CZ3hRQm9USEx6b3BEY3ZvNExvMXUzWkJYV1dBREtqZmtlZWRR?oc=5",
+     "title": "United States Grand Prix results: Kimi Antonelli on brink of world title after win in Austin - as it happened",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQldPS05vcVBSZmNDUXRzZ1Z6eHNoNHdCZnQ3Z0c0ZWFrZ2dweTUxQzVKNURsVzIxRXZNb0dyWjNUcDVCVC1OaDFrNWVJaE9NaU5nVDlQX2dVbFFJXzI0bUZZclc0ZHEyY1g2Yms1ZUZWaUhrdlZQTk8tVEFQTHJ4SEhKMnNWTkh2NEl1emlVZEFjbzNYTTlKbGUxWTZGcFF2ckpOUlpJNDE5WUV6c0szOER6VUh5VWNlSjVJSGhR?oc=5",
      "source": "ESPN",
      "summary": "",
-     "published": "2026-10-25T19:08:00+00:00"
+     "published": "2026-10-25T22:19:10+00:00"
     },
     {
-     "title": "49ers RB Christian McCaffrey returns vs. Falcons after going to locker room with thigh injury",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWURsUy15aDUxUjFmWW55SEtIM1BTcV9yWGc2b0Vtd2JQTHhmX0Zva0hMVHZud1k3SG9ST05lcFZuTEtVRXJYTTBnSnhEUGVMUk90NDZobzRLb0U4X0U3S0FOX01iQ2hiMERwVEVkN0xxYXhxQVNJU2hvTHRsMFViWU9WTjFRX2FQQXZNU1c3Tlk?oc=5",
+     "title": "Who has made Troy's Premier League team of the week?",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+     "published": "2026-10-25T22:16:14+00:00"
+    },
+    {
+     "title": "Antonelli wins in US but has to wait to secure title",
+     "link": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Kimi Antonelli needs only two more points to seal his first world title following a dominant victory in the United States Grand Prix.",
+     "published": "2026-10-25T22:13:05+00:00"
+    },
+    {
+     "title": "Miami Dolphins vs. New York Jets Live Score and Stats - October 25, 2026 Gametracker",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mMTRpbmk5cUtPeTVCbGt2RGpJbWpBaFlFdXNjbEJ5QmRnekJuNXkweWRXb0RHUWoxNDRtbi1QTTlBdjdfb2xUaFJPRjFrVllZTVEzZFpyejFMSGkzRFl2RFA2Z2ROZzktemU2VndHaFM5Uldnd05nMQ?oc=5",
      "source": "CBS Sports",
      "summary": "",
-     "published": "2026-10-25T19:07:00+00:00"
+     "published": "2026-10-25T22:02:29+00:00"
     },
     {
-     "title": "F1 LIVE: US Grand Prix 2026 UK start time, grid & radio from Austin",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sRGx4Ynlkd3Y4XzVYVENlbHhLT3lWNlIwS3NKZ0ZiTHBXUk8xS2xHV080QjczeXBkQkFZQVdFNGdXY0NlejB5RGVnVEI3WGNCbDFCTFI3WkdzalNsSGRxRE93?oc=5",
-     "source": "BBC",
+     "title": "English cricket county dumps one of its legends",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVW9zNEV2WnhnZ3R1NVhHMWpRT0VYMEw1b3FmYk1HaEg2S2tnQnFiNkM4ekstekZZdkYwMW5lSEhpcHlCSUZlZjRDTzhqTEYtWUo0Sm9QLWo2UVFSV3VyMGdOZmlMYkp1cldxUC1XX1Q4dVFpaEZxTERHTDlnX0M4d3dLaHdHUzRxUDdOVkp3cFozQQ?oc=5",
+     "source": "RNZ",
      "summary": "",
-     "published": "2026-10-25T19:04:23+00:00"
+     "published": "2026-10-25T21:55:41+00:00"
     },
     {
-     "title": "Ferguson, Henry miss Wellington T20I as New Zealand revamp squad for series fightback",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUThhaXhWTEpycjhLeks3MENlT2hEcXN1RWNsZHNBQ0JIWHl3b3hyS2tFczBsazdoQ0l1VnZ3cjVUUkFPU2YyV3BnNEpraFB6THpmVHhWaVZaQmhld29TelRHUmJxVkhmYmhBOFRGaVRRWVpYM09vdEpzRFd2aWxjM2NOT1A2Uk5JQ1hLOWdqXzNQR2lEeXNrellLblA0OHBkeTNKT0h2bUxrZDBxUGFGQ2FJdVNYdEQweUxJZ0s0V0Fkc09GVVVoQWl2Z2hWNklHc2E2Y3FwOVN2ODhR0gHfAUFVX3lxTE91Mjh1X2lfWUNqR0QzNnZ5NjRIQThzQTN4bDg3Z09nSkdDWGVzVXZNemJZOTRPU3V4TGtWNFktb29ZaVlzejY1VDhfZzlYRS1yU3lDR2hURmhWSGtxdHJSeG15Si1DektnaHFiWjRES2RLcURGTEJKSTdjTVhITXpFalNZNl9LVTNPaDBpMVZkcGQyNHlfc2hvMS1zVXB3VkVTVkd4WE94N2hTVTJmNUtwMkl2aGY5bjFTYjJjN25qMC1ORGxMTmZzTy1ubkJLOE05cXlRLUQ0YkxIcVNJVW8?oc=5",
-     "source": "Rediff",
-     "summary": "",
-     "published": "2026-10-25T18:48:41+00:00"
-    },
-    {
-     "title": "Cricket Video - Mississauga Skyhawks vs Vancouver Guardians 4th Match 2026 Match Highlights | ESPN.com",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT1RYdGV4OWQxeTNKQWYxVm1mSVhKQUhyeEZFaGt5N3JjcWxiMHF5VFFmVmZtYkpSUG5NNlh0VExRMVR4cGlmTGNXaF9QZnVzQTNYOWgzWFJNcGduWWprMzJvZ0ltdGVSeGtpUmxaT3JseURyWHd1SG9ldkJHZ3ZneVFWbml3eWtwN1dQX1lqNjJwOEphcmJ2YjU3UFlCMkxsUEw5emhRcXBzcndmUlVXTkdn?oc=5",
+     "title": "Falcons hand 49ers first loss, deliver petty post to top NFL Week 7 trolls",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mWTVLUXUybjU5ZmV0VFpFcm0tRjluaWRJN3BPZ0p1ZDlJdTg4SUdZSF9lZ2RETC1LbU40RkszeUllZUtoYlNlNGJTc3ZaWmxKSlFObDdnUmQ5c01BVnNPTWpHMTd2UlZua0xkQkgtTQ?oc=5",
      "source": "ESPN",
      "summary": "",
-     "published": "2026-10-25T18:47:04+00:00"
+     "published": "2026-10-25T21:53:57+00:00"
     },
     {
-     "title": "The Football Hub: Reaction to Sunday's action",
-     "link": "https://www.bbc.co.uk/iplayer/episode/l00590b3?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "All of this weekend's talking points from the Premier League.",
-     "published": "2026-10-25T18:46:19+00:00"
-    },
-    {
-     "title": "Pressure grows on Sage as fans turn on Palace boss",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.",
-     "published": "2026-10-25T18:36:12+00:00"
-    },
-    {
-     "title": "Marchant recalled by Borthwick for England training camp",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmq5nyywq8n1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Joe Marchant is recalled to the England set-up after being included in a 36-player training camp for this autumn's Nations Championship matches.",
-     "published": "2026-10-25T18:35:13+00:00"
-    },
-    {
-     "title": "Lincoln Riley has reached the end of his USC leash. Now comes the reckoning",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSFczbm1kckRPOG55TEMtVEhBdlV2OFV1UFd0TjRSTXVBaVN1cks2SDJOdzZMNlFxcnNkSGd1dkJxOUVqTUpRbk9FMWs2enlURjJuVXhfLWlEMFI0MUE3ZmxlbmVaVjNhOC1YOHdVeGUxN2U0bTR6VkxlRDZWdVlLOXpnVVhIRVpyUXFPeUFPV0VxMXhUZ290Ny1lUldhUnlYeU1UU21xbTRWZ2V0LXRITWVuS1E5WGpLWGl2REtTVWlfX0E?oc=5",
-     "source": "USA Today",
+     "title": "NFL experts' Week 7 takeaways: Are the Vikings and Giants serious contenders?",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYnhkRFBIUlBPTW1rNi1EZDlyZW40N3h2MDAzQWNCQ2Y1eld3LUtLVU5BQ1Y2dHNCODRoQ18zU28zZDF5SVlYNDlwVGkwbWljakNraU5FQU1IbGJSWTJOc2FPMlM0NjVYT3dKRmZOcHR1eHR0enh0dHZGX3pxQ3dpdy0td1YxMHc1c2RfMjlUNEJRbGxMUi03SzBhdVQ4ekFB?oc=5",
+     "source": "NFL.com",
      "summary": "",
-     "published": "2026-10-25T18:34:48+00:00"
-    },
-    {
-     "title": "Aaron Rodgers leads Steelers past Saints in NFL's Paris debut",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZi04ZU1nYi1JX2J6Qk9yWGNqSFJRWjB6ZzVNeXFNWXJjaHYzc1N2dDFNX0RvbG9NQXI4NldqNXhyS0plMDFZTDNra2k2d05vQU8yaVZrU0N6eTVBMjB2NGFJZk5uUEVxU0ZCTDlITTFUZTlQcXB2Z3gycDdxZ25SMmpnQVdWbWU0a2VqeXNfSUU4Ym9rMkFDOEVvd1o?oc=5",
-     "source": "CBS Sports",
-     "summary": "",
-     "published": "2026-10-25T18:28:00+00:00"
-    },
-    {
-     "title": "Paris NFL game set to kick off in calm atmosphere after fresh demonstrations",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODlPemRDNnlZRnl1Zk40aUFGVE5kSzZvSWl0ZnZJTzN2eGpyNTgxZGVhU0FscUhudktnejh4VVgwVGVyR3kwRzlhY0lRUFEtS2YxYzFKWGd2aGllWU1tekdXVDFUSDBoa1RKWE5pc0tRZ1ZSc1ZJeEF1dm85aWdwWmRWNE8zQ1BjaG8wdElGanNmZS1PNHI4RDJNaE5RM0FtS05XUWFIT193SDJoVEE?oc=5",
-     "source": "Reuters",
-     "summary": "",
-     "published": "2026-10-25T18:25:28+00:00"
-    },
-    {
-     "title": "Chaos or concern - Hanley's striker cameo poses questions for Hibs",
-     "link": "https://www.bbc.co.uk/sport/football/articles/c6d93eeq27gqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Grant Hanley was called upon to be a makeshift striker for Hibs against Celtic, but what does it signal for the Scottish Premiership's bottom side?",
-     "published": "2026-10-25T18:14:53+00:00"
-    },
-    {
-     "title": "Isak finally living up to price tag as Liverpool patience rewarded",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Alexander Isak scores his sixth Premier League goal of the season as Liverpool make it four wins out of their last four under Andoni Iraola.",
-     "published": "2026-10-25T18:13:55+00:00"
-    },
-    {
-     "title": "Women’s Cricket: India Beat Zimbabwe by 121 Runs to Seal Women’s ODI Series",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObE55RmwxcURZNnVYSkRnU0FpaVYzU3RRd01xSi01TXIzTkktSWdZZ0dDX0JOSkh0TGZQQjlQaDBCUEw2SjZIV3ptdFBiN0V1bVFJdFMxSHN0XzgzcXZyNnp3SEJMaXlhVDBCSndVYndKc0tiUjkyakhfelM5TDZoSW1ibEdycUs4R2hCOThEOEF5VEE?oc=5",
-     "source": "News On AIR",
-     "summary": "",
-     "published": "2026-10-25T18:12:51+00:00"
+     "published": "2026-10-25T21:46:07+00:00"
     },
     {
      "title": "NFL Week 7: Big takeaways, questions and fantasy spin from Sunday's games",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONURtQWdOd29CLVJTMkkwVG9seFh4QTRRMHVUZDJIbnJ5Q0d5UzJFTnJ6c3NYb2txSV9oNXdoV0RMVktTeGlud3A4T2hGS1NrbVNnSzc1Smx3UUpSaGlDMlJIR1FYM2xjVy15d0dYdDZsNldEZlV1UWVCQXlqMGs1YTRxdkFENnc2SFBWNTRqdC1CMnc?oc=5",
      "source": "ESPN",
      "summary": "",
-     "published": "2026-10-25T18:00:00+00:00"
+     "published": "2026-10-25T21:40:12+00:00"
     },
     {
-     "title": "Punam Raut retires from international cricket",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUFjV0xWUlR2SXNhWHR2SlNkWURhcXFJSEwyR1dwaUt4SEJqbDQ3RzJkZnZ1cjR6VkVKNWhyVmJHN1F1Uy1sSWVHY0RGWkRoT2N1RWN0RkIzU0o0ZnRmREVOOTRKWXJiOW5RZjRiR0xzcU5hYTNLRy1GbDlRamZFSXcwOWh1OC1QazR3blRaV3hjYy1YWG94MmNTdlN5emM2b25kZA?oc=5",
-     "source": "Cricbuzz",
+     "title": "NFL Mock Draft 2027: Updated draft order and projected Top 10 picks after Week 7",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3Fwc0R1aS1rb0NDVlhnX1M0TlMtMk9tcXl3QWZYZ3VQWWxhd1FGWDF0TWhfbXFqU0VJbkNUank3UGhBMThOM1JibFNYbXlrZXdxSEZKRWVheUotR3dHRHVjdjJZd2tQZzk2ZmZmWi1tZVp1cnYxQnBIaW5zZ3h1eXJxMk5nZVJObDRpdWs3ejJXcUx0VmtBZnl6aFlydHRzNUtGcTE0aw?oc=5",
+     "source": "FanSided",
      "summary": "",
-     "published": "2026-10-25T17:56:48+00:00"
+     "published": "2026-10-25T21:40:00+00:00"
     },
     {
-     "title": "Malard stars as Chelsea beat Palace to extend unbeaten start",
-     "link": "https://www.bbc.co.uk/sport/football/videos/c699zk701n2yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Melvine Malard scores twice and wins a penalty as she helps Chelsea come from behind to beat Crystal Palace 3-1 in the Women's Super League, as the away side extend their unbeaten start to the season to seven matches.",
-     "published": "2026-10-25T17:56:35+00:00"
-    },
-    {
-     "title": "Aaron Rodgers breaks tie with Peyton Manning for third-most TD passes",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2Rsc1ptSWd6YTUyMm5rV1JpSmVOVnduT1ViTm9XWUljSzlfaUdMbS1SOUcyZ3loOUNTX0VnNThUVjZXS0JmT3lNaDY3aUd5SC1QazF4QmIzeXhjV1p4dmZ0Ny1uYzUweVFIRC1kWWdUZWFtejVzeEduSm9VSGRLMmtGazNVZmtDY0lvMWFkczVhVGw2ZkVnWDNkaWVZWkFlQlhhMkxlcw?oc=5",
-     "source": "ESPN",
-     "summary": "",
-     "published": "2026-10-25T17:56:00+00:00"
-    },
-    {
-     "title": "Anantnag Corporate Cricket League Draws Enthusiastic Response",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEpmZWFXYkNsUEl6eWF0dnFON0VCb0lkRGFRd0VnU2R6UmNnQWNCR1c4dHNYdkxneDZWdzViNkpuc3NudVpxRmVEWWZGcmt1dDJjR2tqYm43LU1oLVVYOUtNTU1jaC0yVk1UV282S1FsLWVlQThQcUVlbkhUMUl5Tm05d21jcFJZQzZWMG5DYWh0a1Fya3c?oc=5",
-     "source": "The INS News",
-     "summary": "",
-     "published": "2026-10-25T17:40:41+00:00"
-    },
-    {
-     "title": "2026 NFL season, Week 7: What We Learned from Sunday's games",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjlkMy05Mm8wRVhpMmlVdjBablkwUG1IUVlESnZpS1RfS2p4ODk3dnV0Wi1iRy1SZC1maHNzeDdVUC1tbm5ZTnhNSlhhUGFVMGphVFFqZ21vMEtIQ1AzdlFpbUg5VW5CUVJabHRYc0xUS1FmS2ZlR3lDMGVsQjZkSVdYMmNNVjQtajlZ?oc=5",
+     "title": "Aidan Hutchinson's fifth sack of 2026 results in 10-yard loss for Jordan Love",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcV81blByNXR2YzlGUEZRWWtZNjZjWjNDUUNEZ0FlTGVEbk9jaXJ1TnNNSjJBc0NSb2kyTm0tdUlHWVRtUHpHUnU1c2xfMl9uVG9ZdzJES1dVRVBmTkg3UmxnanVwQW5EN0t4SVRCOUh4am5wX210QkMtZlBRREJmVTMtTWltc19XaUJfUzhydzRySm9sWGoxSFdzdVhuRFROWlN6bnVOSQ?oc=5",
      "source": "NFL.com",
      "summary": "",
-     "published": "2026-10-25T17:25:47+00:00"
+     "published": "2026-10-25T21:32:33+00:00"
     },
     {
-     "title": "UFC 333: 5 big takeaways as Alexander Volkanovski ends the featherweight GOAT debate",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV1pNdEZKUDdYSUh1WVVyOHV1UWxMdGR4Mk1YSkl0WERBZW1DTl9uMW9nQ3JuMVBqZDMtbU0xaVVxXzFwYk5QUlEtOUdMWTFsSmZ6ZGQta21jYjJSTkY5VGZtX2F0NGMwbzI1ZWthWEFLN1pza2lseTlxSzkxVzg3N0htRWtHRWRtUm5WNDlvSEMyY2J0cExyYVBMZHdyRmowUkwyVThOOHdDeWt6endoLWJoM0dKZUxYTWdKdlB2MEUyNk1mdS1pVkJLZzc3NzRQY0RxRWlxTHZrVWRMRUVHZ3VUb1gxTlFndm9TLXZHUGZRSnN1OFJqb0RqdTZrZw?oc=5",
-     "source": "Yahoo Sports",
+     "title": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Game Summary",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOeVg2T0QxbGpJMVJ0dFRmYmpzb3hzM3l2eXBrRDFwVGJsVC1FWVMxWHh5MFJLUkJxX0x6VXQ1eUtmRlRMck9PRXFxLXg0MUdMZzFRQVZZdjdTUQ?oc=5",
+     "source": "NBA.com",
      "summary": "",
-     "published": "2026-10-25T17:21:15+00:00"
+     "published": "2026-10-25T21:27:24+00:00"
     },
     {
-     "title": "Smith stars as Quins beat Saracens for first win",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/crjwe6j90p9lo?at_medium=RSS&at_campaign=rss",
+     "title": "Manchester United & Michael Carrick: Air of inevitability around manager's future but owners' problems far bigger",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55YWZYZW1vSDNaNmRodjQ1eElBR2hlQUFtbjFOSkR4NFQ2aFV4Y0dYbXR0V0tUQXNhcXNhdmpkeGNVN1NLa1Z1c1ktNWtta1N5cTNyaFROWUlheGo1V2xkejUxclRjdmRR?oc=5",
+     "source": "BBC",
+     "summary": "",
+     "published": "2026-10-25T21:24:21+00:00"
+    },
+    {
+     "title": "End approaching for Carrick but Man Utd owners' problems far bigger",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "summary": "Marcus Smith sets the tone on his 200th Quins appearance as the Prem's bottom club topple London rivals Saracens 33-15.",
-     "published": "2026-10-25T17:18:38+00:00"
+     "summary": "Manchester United's fans sang their support for Michael Carrick during the 3-0 home defeat by Bournemouth, but voiced their opposition to virtually everything else.",
+     "published": "2026-10-25T21:24:21+00:00"
     },
     {
-     "title": "Jarman claims historic second silver at Worlds",
-     "link": "https://www.bbc.co.uk/sport/gymnastics/articles/cmz7xynx81lwo?at_medium=RSS&at_campaign=rss",
+     "title": "Howe open to Man Utd talks - Monday's gossip",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "summary": "Jake Jarman becomes the first British male gymnast to win two individual medals at the same World Gymnastics Championships as he claims silver in the vault final.",
-     "published": "2026-10-25T17:17:04+00:00"
+     "summary": "Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl, plus more.",
+     "published": "2026-10-25T21:09:37+00:00"
     },
     {
-     "title": "College Football Rankings: USA Today Coaches Poll Top 25 released after Week 8",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGdmZWhnM2ttaXNxZFRZNEw0Umk3RnkwS0NsRC14NFUzWUpfYlByT3h6RmE3QUZLMHdlUmVnSzMxNmVPajFqUWlxc09ZSWp1TEFIbGIzNnZiRkFkYk5tM01ScDZZTFMta0RXSTBaaW9qMm9QSG9nZVVKUm9hLVdnQjRJMlctTG5xWk1GbllseHlSQ2RDeEoxaDJnMDZwQQ?oc=5",
-     "source": "On3",
+     "title": "Aaron Glenn: Disappointed in myself, but totally believe we’re on the right track",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmFBUVBhZEk3b0gyR2FWNFdhNXJKZWI1RTlCZXRSOVNvanN6UndjTElxTmI0ZG96b0dJOGxtV3JKVHh6MU1jMEFHM1NRMDh1NG1IdlRkYkhUczhGb2hlbXFmQ2FfTlY4Nkp6R0V2VC1Hc0F6OUo5RDJfa0RfUkVweGJlZUVqMWVNSzIxQXZ2QlZ6cHhuTTJOZ3NlSmVhYWUtdFZDWFJRa2JHTnBmbk5vZUhhNmVRSjNKTHdvMENXZkljbVhDU3NneklCNnF4TjREWGhSTFZOSQ?oc=5",
+     "source": "NBC Sports",
      "summary": "",
-     "published": "2026-10-25T17:10:06+00:00"
+     "published": "2026-10-25T21:06:54+00:00"
     },
     {
-     "title": "Is it time for the NBA to start looking at the WNBA’s coaches?",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcF9BdjZGeE9OcHc4cXBPVVprMVZuMWhETnNHVk5CMnZqMURZdHAtQVhUNFcxdElUclJocDhZaEFfaFM1cDllOUp4MlFoUmhFVk1ERnZ3dGlOTDlCN2xoMFZVNDdxMHhaT3BrTVVwN2luZUhpV1RsbG9qUzhmSnlyNWxvNUNsUDlqdHRhS1VXelQweS03cUZyR2JB?oc=5",
-     "source": "The New York Times",
+     "title": "October 27, 2026: Pakistan vs Sri Lanka Cricket Prediction Market",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXpRVnpHUGhob0M5aHdIRURNd2ZyOS0tQXdDME9DSzR4N0w3YWN6cTBvSE9JbkNHSG1LVWRTd0JIc0hZXzBqTW5mSW5pUldmajF5OXNMbWRMeDdGdmg5VmZkQVhPdkUtU2NaQVExOWZ2a1dZMXJScFI4bHZaM0VvcE92akF3ZVJLTnhEMWMtb1hiUDJxR1Z3WGM1a0o?oc=5",
+     "source": "Robinhood",
      "summary": "",
-     "published": "2026-10-25T17:03:43+00:00"
+     "published": "2026-10-25T20:58:35+00:00"
     },
     {
-     "title": "Carrick 'saddened' by Man Utd situation after Bournemouth loss",
-     "link": "https://www.bbc.co.uk/sport/football/videos/cr5ynqy55l68o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Manchester United manager Micheal Carrick reflects on a 'tough day' after his side lost 3-0 at home to Bournemouth with his future in doubt with United without a win in their last eight games.",
-     "published": "2026-10-25T17:02:59+00:00"
-    },
-    {
-     "title": "Baylor fires coach Dave Aranda in seventh season",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmJWWmM0cVVRN3NRaUczbTMyTVlCQ2xmOUkxVDR3MDNCTUI1emdKQURjaHlYSW1JdHlJNnVDYXcyQm5hMlQ5TlNiWFRYSnVMeXdnN3dmT3BSOVZYN2FKRllxR2JPSGxwYW9uMlVNT3pHLU4xbDgyVmpvYWRIWnY0YlJrQVczSUN3V0NDRDRBTGFvcTZlT0RBMHVYaE1NVkFpU2EtS2t3cHo?oc=5",
-     "source": "ESPN",
-     "summary": "",
-     "published": "2026-10-25T17:02:00+00:00"
-    },
-    {
-     "title": "NFL Week 7 odds, predictions, expert picks: Who wins Packers-Lions showdown? Rams get back on track?",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2VvRzRpZEFfTzBPSVlkOWVPLVItQzFERGtNWE1aNFFWWWtCWk1kb1pRdG1sUDUyRTBLeHdkYzBfVXJDRFI2ZFhuOFhBLUJUTlFMdS1oX1o3VmVKZHhfbjNFOVZlQUN1RDAxWDRUS3JxUWtRemszRmp4cTR0dHdUQjFIS0dWRkN1Y3ZINHNsRldPdWZmYlFkOGU4cjhzWUtKUjVv?oc=5",
+     "title": "Joe Burrow throws 4 second-half TDs as Bengals rally past Ravens",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUJQMUZFS3VkTUdrajhPZnJKM3Q3NmhyeGhjNkM0TDVTYjRQUk9YTE9PNlV6Z2FfRm1lSEFVWkdRYVc1T2FuSVZ1S3VRS0VLYkpPNTQwdWlNc1p1bmg4d2laUWZfaWg1aHpxS21xZTBQaUpETDN3akkzdDQzSHFWTGhlb00xZmlVdDJZSjVubkhQNmpQWHp3UFUxNWxZdkZuNlE?oc=5",
      "source": "CBS Sports",
      "summary": "",
-     "published": "2026-10-25T17:01:00+00:00"
+     "published": "2026-10-25T20:54:00+00:00"
     },
     {
-     "title": "NFL Week 7 Sunday afternoon open thread",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGFDR2QxcTZ4NGZ6THNOREZKZDAzUW4yaHB4enZmNEFMMEZBU0xNdFdHY1MwRnVLMkJMVEtHS3NwWVlUd1h5eFpkcUFWTFZLa1VQelpMQVVpQTV2RmsxY19vbTJJcFpnU0dYR0w2UzJocTlxZ3FwVjR3bjhsTTRXQlRn?oc=5",
+     "title": "Mumbai Indians reset: Two ex-India cricketers in race for assistant coach job; T Dilip likely as fielding coach",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT1hDdXZwWkI1MVNHZlJuVHQxMmxNMVAxVDUzdFVSUGN0Ym5GaUpER1dIVHpTZTY4NFRlbzRaMkZwRG9sTW9LbFNneTBZdVZwbDRSTGNDMFZjalptWDNDd2lvSkhKcVVqQkRsRkpkdEkxakpTY19vMmdGbzVlaUlrRGFB?oc=5",
      "source": "Yahoo Sports",
      "summary": "",
-     "published": "2026-10-25T16:59:12+00:00"
+     "published": "2026-10-25T20:54:00+00:00"
     },
     {
-     "title": "MLB Gameday: Browns 3, Indians 4 Final Score (07/03/1949)",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tRW04Y21keDJJMFVLZTdmQzBiSlk5MXpaU01XTW5qNlFtd2hoLXZSdEs2dzNudm5DUS0xQklxQ0JvaENyYzE2TlB1R2NlM0VtOGRBanBmTHl0YU1aN2hpNUg3dkxyWHJZY3RyMWFRRnc?oc=5",
-     "source": "MLB.com",
+     "title": "Michael Penix Jr.'s best plays from 3-TD, 213-yard game vs. 49ers | Week 7",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUJNbDZTQ0Nqc1hwUVhhenJBWTBJZEtWZXh2aENTLUR3c2V2aEw3TExWLVZmOHBFREdKUUlHM1NSOVJBY1dQODg1TnJDR2c4bFhFdlM5enpqZnpyeEpDMFJyMExEYnJoVXBzdUczcnlxUWdwN1JQQndyaUY2ajRfc3JtNFNxeDBuLS1mX0RxZ1BEOHNZMWF2Tko2NXQ?oc=5",
+     "source": "NFL.com",
      "summary": "",
-     "published": "2026-10-25T16:55:38+00:00"
+     "published": "2026-10-25T20:53:12+00:00"
     },
     {
-     "title": "MLB Gameday: Athletics 3, Browns 11 Final Score (08/26/1949)",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IbkJDd29walJEQW1JR3ZBXzBZMUF4eVI2MjVydEgtQ1hBeVdGajQ3SHYtc2VESTFCeGJjZlNsaGFQWkRGM044V25IUmpaaHN6Z3BhZmMtc1ZFc3k1UTYwVlRKVzlQRmg3N1pNYlBHdWc2emc?oc=5",
-     "source": "MLB.com",
+     "title": "England stunned as Pakistan star given out then recalled for winning ton in one-wicket thriller",
+     "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPNUVlVXRrQlFybWhPM3lGcThLS1g3Z05qbkhqS01LaWFlUkdyclFOSHBnd294ZTR6NUdjTHgyODE0V2pUcF9UWlRfdG55UFFGblV3UVpIaTVzMTZQMS1WS19QTFB3YkFtVFBtdXZWekljQzd5NHBSV2YzaVJlS1hwSXVnVVhPai13Zk1TbGFsbVhibzVHWkQwM3hyeDBfREx1bzhLd0dDeEozRk8tVlExYmRXZzVCVWVxQXhJeENIRXJxRUJtcmRsSDJ2RHp6aEo5LWFGVHZuYk5Tb3l3XzdENzRnTENmaXc3SlFOLXpMcXdZbWt6QnR4QWowM2JxdnZDaDczVHdxQnpmblpwb1NUY0k1QkxpNTRFTlVBbjFMQVdZYWRU0gGkAkFVX3lxTE81RWVVdGtCUXJtaE8zeUZxOEtLWDdnTmpuSGpLTUtpYWVSR3JyUU5IcGd3b3hlNHo1R2NMeDI4MTRXalRwX1RaVF90bnlQUUZuVXdRWkhpNXMxNlAxLVZLX1BMUHdiQW1UUG11dlZ6SWNDN3k0cFJXZjNpUmVLWHBJdWdVWE9qLXdmTVNsYWxtWGJvNUdaRDAzeHJ4MF9ETHVvOEt3R0N4SjNGTy1WUTFiZFdnNUJVZXFBeEl4Q0hFcnFFQm1yZGxIMnZEenpoSjktYUZUdm5iTlNveXdfN0Q3NGdMQ2ZpdzdKUU4tekxxd1lta3pCdHhBajAzYnF2dkNoNzNUd3FCemZuWnBvU1RjSTVCTGk1NEVOVUFuMUxBV1lhZFQ?oc=5",
+     "source": "Fox Sports",
      "summary": "",
-     "published": "2026-10-25T16:55:37+00:00"
+     "published": "2026-10-25T20:46:39+00:00"
     },
     {
-     "title": "How to live stream RedZone for free: NFL Week 7, watch, TV channel",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnFUQjVoSEpac3NYX3pyUW91blYzcFZhWW5kalNxaGZYR3hRaU5UQWNQZ094Z1pEbnR6UElyaEx6WTBEMTZHMEZRRjhvb0pucnNwQ1A3TDhiRHJIYUlRaFdBLUhMTDBsZERwUGxfZVFIeE5UbWk4OWp0NzBiczlaQ21fdw?oc=5",
+     "title": "Indiana Pacers vs New York Knicks Apr 11, 2027 Game Summary",
+     "link": "https://news.google.com/rss/articles/CBMirgRBVV95cUxOUFdyQ3VtLW13MlZnTE1PcHVWcDlUSnhjYTZ5a3p2Yk5kN1otTU9EWG9rdDN2WVhxNkVBaTFsUFp4Z1lfVkVsSFlsUE12SUpIdkQ1VUxuRldhZVhBb1FteUZpekUxM05MVWpZRC1NaVZHdlZBZGNJNndPWEgtak5JS0E3cjJrU2p6eWdFQ25vanlDa0pjc1R1N2lTOEMwRGwzdDVRdFdwVXlQRkNjNXZEZ3N1Zms2RFZLOUFwTmJOU1kxc0NjbUV3bm15clk1OV8tdzAwaDAyN2gzUHN5R2lMTGNmcGtkSGt6MmYweDVHYWdGaEhFcjl1M2NMdl9ORkVFMHhFVjNuVHA0eE9HUE1KZ3EwQjU3dE82SExmMk9ldHR0cWMxMVpZaTNnczIxZTFBUTNXSV9BT2xQc1pnaHgtMDgwQlI0M012VFB0ekRPbVgtaU1yaXBRZExpMjFuUUJ2VzdHY2JsYXk4Q25YLUJPM0ZOeGNmckw2b1FwSDBfSFVCUk95SlVJcWN0WHJWRGducjJ1WHZhWGdJMkhnRUZYS1JGajhZaUFrNHlyclEzUHRKamJ2bU9pYXhIMnpKeDZpaHhFWWxCREdwaUdmblVRUGN3RkctY1BvOE1oS0pPc3M0TlA4dGx4MFVDTnBDWVhyR3J0MmFNVEt0WVVqRXFGOGZRZ0Eyd014ZzF3SjNWNmVyblF3dUxjVllINGhsTG13Sm5rUHZ3YU92MklMdkE?oc=5",
+     "source": "NBA.com",
+     "summary": "",
+     "published": "2026-10-25T20:44:02+00:00"
+    },
+    {
+     "title": "Cleveland Browns vs. Tennessee Titans Live Score and Stats - October 25, 2026 Gametracker",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iT2xWWWNXZnc2SW5PZDlBbl9SN3o0M3hZRW9mREFFZzNOU0VjY2F6ZWVLZjZ3ZHNFdUNfZmgyWEphbUk2SmpLUkZtUlh2ZXQ2TS1kX29NVVdYckVuVEI4Z2NSazRDdVdGdTd6ZFRWbkNvNk5zekF6UQ?oc=5",
+     "source": "CBS Sports",
+     "summary": "",
+     "published": "2026-10-25T20:39:47+00:00"
+    },
+    {
+     "title": "Updated 2027 NFL Draft Order After Week 7 Results, Who Could Chargers & Dolphins Take?",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLThHeGFUNDQ0c21nZE1GMXZBenB6Q05OenZScllyRDV4TDJlM2FFN01XUlhrdFd1TzRLZzJuSDdHUHd2dm9EQ1pMRnM4OU82TDFPcWVOek1WYS1MNWtvS1k2eFhMRDNLTWwzNm1lS05ENEZJekFETjBNQVh6VFFZdUpGMzF2UkYzMEttSjBhS2RVSFBPRWJyTnVfbzJPeGNPZUo2S1p4cVpWVGhPUU44RElNNUNodkxGYktka1lNLXJub3l1Q0E?oc=5",
+     "source": "Bleacher Report",
+     "summary": "",
+     "published": "2026-10-25T20:37:16+00:00"
+    },
+    {
+     "title": "Cincinnati Bengals vs. Baltimore Ravens Live Score and Stats - October 25, 2026 Gametracker",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwbi0weWZMT3E1aEJKUTljRGM4X1hBbW1Hcmw1dUFOXzk5YkNLU0VBLWd0UDA2MGlqcmpLbmYzc3dsWUZiUEo0MG1OYzJXSDN1UVo1TVc1UHhYaXNKeTdJNlV0MWsybzhIOEpnSm52REl1bzNiLVMxYw?oc=5",
+     "source": "CBS Sports",
+     "summary": "",
+     "published": "2026-10-25T20:29:47+00:00"
+    },
+    {
+     "title": "Indianapolis Colts vs. Minnesota Vikings Live Score and Stats - October 25, 2026 Gametracker",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWV0gtS2dYUGE0ZnlCWG5UZnRWMGZyZnFnd2pUYS1CM19XblM5RnpuZVI0eDNoOW9TYW1iYW5SOEswZnN3dEtVanZZd1hoY0JxazlFUXBiSTNkVUNGZS1HYTcxMXpLS19nMVJNNHNDQjYycGhuV2d3Rg?oc=5",
+     "source": "CBS Sports",
+     "summary": "",
+     "published": "2026-10-25T20:29:47+00:00"
+    },
+    {
+     "title": "NFL Week 7 Winners and Losers: 49ers undefeated no more, as injuries finally too much to overcome in loss to Falcons",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbjFpQThKMHBweHpiQm9OM3k0TEU2Zm1Jc20wYW80TjFSUVRzaTRKeURYYW1Ic2lvVWw1cWMzaWZ4MkxPcWxQR0ppRlpyUUV4eWhKb1c5SUZ0VVVELVR5dy1FSTBIeXRaU09xQ1k4dlViT1FUWWhRVVZJSEZqWXB0T1VBZ3dQa2xFczltQTVTY0Y5QkVMYi1ReERDY29tOWV5NjlYRGdEOVZJUTBCeW9hdkdLQmFzR1pjN2JVY3J4cUl2ZWo3dVJCdU5oNkgtdmRTX09NS2pkSV9XN191Ym85X0lHRUZ1bWlwU0NhamZhZUlLbnYtVVlPaUN3?oc=5",
      "source": "Yahoo Sports",
      "summary": "",
-     "published": "2026-10-25T16:55:00+00:00"
+     "published": "2026-10-25T20:24:50+00:00"
     },
     {
-     "title": "‘If it was up to me it wouldn’t end like this’: Jimmy Anderson confirms Lancashire exit",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekVhS0hsY2JTVWZ1WHZlZE1KRUZpNzdXWnFhVmRxMVByak9iOFZKWXJkc1FOT1Z1SnBCeGFwcGxmY2lHUUd1bGZaeXd6ZzhMZkNXN29MQ2FmTkhsNmhCZ0prU0gyS0R5dHBFZnhGNDdlZ0JVWjY1eGRFY3ZUbWt2NEstUFVUNGVxMWNKa0J0T0FTZUt0cXRTdg?oc=5",
+     "title": "Wilson beats Jones to secure NI Open title",
+     "link": "https://www.bbc.co.uk/sport/snooker/articles/cqwyrgg0nylwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Kyren Wilson wins his second Northern Ireland Open title in three years with a clinical 9-2 victory over Jak Jones at the Waterfront Hall.",
+     "published": "2026-10-25T20:20:09+00:00"
+    },
+    {
+     "title": "The four NFL teams interested in potential Jonathan Taylor trade",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGdzMTAzQ3hMUWpCZGRNdzFfbW9HcFNsUThYRWhOVzNSdlh5V25oNldaQmZmTVhDbFFaWVAwNG5fMzl1ckdNVE9PdjhXTnVNVUFoYmg2eUpCYUxrdFBpNFVXQnRaN2tpOTA4Vy1Ga3dDdTgyajJQOElDSnNGdXVJbjBJWkpkandDeEdVZzhVVmVic29IakQ5X1VRSGdhWVRLei1nSw?oc=5",
+     "source": "New York Post",
+     "summary": "",
+     "published": "2026-10-25T20:18:00+00:00"
+    },
+    {
+     "title": "NFL Week 7 Late Games open thread",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LRF85eE9Cazg3ZFU0Qy15cTFOZG9vbzZaTC1ObnF1RzdNOTZtTHppbWhoWEN3bmtOcm1kVHdDZ0dqX1RzeVBjdWc0aDJRUk9EQlFqb3FSWHdGNEs2YW5lRjAxeEo2SXR2a2dfR1hXWVdvQnpHMnhoUUVR?oc=5",
+     "source": "Yahoo Sports",
+     "summary": "",
+     "published": "2026-10-25T20:17:14+00:00"
+    },
+    {
+     "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Manchester United's winless run stretches to eight matches in all competitions as they're beaten 3-0 by Bournemouth at Old Trafford - a defeat that leaves United's manager Michael Carrick under severe pressure.",
+     "published": "2026-10-25T20:00:19+00:00"
+    },
+    {
+     "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "An own goal from Brighton's Pascal Gross swiftly followed by a goal from Alexander Isak, sees Liverpool beat the Seagulls 2-0 at Anfield to move into the Premier League top four.",
+     "published": "2026-10-25T20:00:09+00:00"
+    },
+    {
+     "title": "How to watch Lakers vs Jazz: Live stream NBA, TV channel",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUb0ZiWW1BSU8yd1RVMUJJUVdaVDRUUmZMRjRtdWVsWHVTSjQxcldMSzJnVjdVUlV5bDJ4R2djSU5YUHFROVI5YVNzWnpjZVFKLUM3bkxMVlhjQmhGSlI4MllLUkNYbXNMWFc3aGhjYUVHT1NsSVh6X2dQZGJRVWM?oc=5",
+     "source": "Yahoo Sports",
+     "summary": "",
+     "published": "2026-10-25T20:00:00+00:00"
+    },
+    {
+     "title": "Sage continues to struggle as Palace lose at home to Newcastle",
+     "link": "https://www.bbc.co.uk/sport/football/videos/c9gkvellmxg1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Crystal Palace's winless run stretches to four matches as they're beaten 2-0 at home by Newcastle, leaving the club just a point outside the relegation zone with the pressure mounting on manager Pierre Sage.",
+     "published": "2026-10-25T19:59:46+00:00"
+    },
+    {
+     "title": "Hull draw third consecutive home game after being held by Brentford",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cmlylkydwl78o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Hull draw a third consecutive home game after Dango Ouattara's equaliser helps Brentford grab a point in a 1-1 draw at the MKM Stadium in the Premier League.",
+     "published": "2026-10-25T19:59:29+00:00"
+    },
+    {
+     "title": "Sunderland stay bottom after goalless draw with Leeds",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cj75pv5zp95po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Sunderland remain bottom of the Premier League after a goalless draw with Leeds in difficult conditions at the Stadium of Light.",
+     "published": "2026-10-25T19:59:07+00:00"
+    },
+    {
+     "title": "How to stream and watch Steelers vs. Saints in Paris: Halftime show and protest details",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzdDTk5QVjhXLUhRZTBYc3oxcUsyWXlndDdtN2dkcjFBandlb1BtZzFaOG1lZHVPX3RkallKeXhxcThDdmliTVI5aGR0WWRYbENxVi0yZGtHTmhlMjNhTTJ5LVVBWnNmbzVCX2pRZTJsYm9oVU5IejNvRkNGenJRS2ZIcFYzOWdjQVNxbHVEZ1NkRjR2Q0Y2TnktdFNVZw?oc=5",
+     "source": "The New York Times",
+     "summary": "",
+     "published": "2026-10-25T19:59:04+00:00"
+    },
+    {
+     "title": "Can't-Miss Play: Skattebo's BEAST MODE-style TD run gives Giants the lead in backflipping fashion",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWm5qOFYweV85cXc3SG5kUXp4a2Q4eVJ4d19vcnZhQ20tZzhVN3hYaXRFMlFtTGhYT205RWFjM2RqMVdIbXZYS3loYm9DV01tZ00xaWZ1VnR5RHBqLVc0M0tGdnlrbjBDeHBwdk16cTNTT0dvTldLMk9iRGVvQ2JvUWE1VGlzbDNGSm1vTkh1TU5NTzdScjhuVjJDMGV3NFlHdWJWWmlMT0xhTWVHOWszVEdaTzBiSUF4eUhHVFFaY2U?oc=5",
+     "source": "NFL.com",
+     "summary": "",
+     "published": "2026-10-25T19:58:25+00:00"
+    },
+    {
+     "title": "Birmingham get first win of the season after edging past Charlton",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cqy8lj00k1m7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Wilda Leidhammar scores as Birmingham secure their first WSL win this season, beating bottom club Charlton 1-0 at St Andrew's, as the away side's wait for a first point goes on.",
+     "published": "2026-10-25T19:55:12+00:00"
+    },
+    {
+     "title": "England stunned after Shadab Khan’s miraculous century delivers one-wicket win for Pakistan",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVRiY1d0Z3NZaFl3U2pXbFhsRW85N2h1ckxJc24zS2RWZFJmdUNvV0RFZ0paU01Ib1NjaTF2bWlpSjY5UFA0OHdZWlcxdWxaR1kxOEhXTlRGUzN0LWwwTVJGXzluem84aHJLQlBwYXJFbm1rNlBBeWFrWjhDUWhBckFDTGJCbjUtbTI4aE51dTVlWHFxVklxYW93eG1HbHhH?oc=5",
      "source": "The Guardian",
      "summary": "",
-     "published": "2026-10-25T16:53:00+00:00"
+     "published": "2026-10-25T19:55:00+00:00"
     },
     {
-     "title": "Carrick future under major threat - can he survive?",
-     "link": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+     "title": "Late own goal gives Liverpool point against London City Lionesses",
+     "link": "https://www.bbc.co.uk/sport/football/videos/cmp3g9ee4e1lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "summary": "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday.",
-     "published": "2026-10-25T16:51:48+00:00"
+     "summary": "A stoppage time own goal from Jana Fernandez sees Liverpool snatch a point against London City Lionesses, as the two sides draw 2-2 in the Women's Super League.",
+     "published": "2026-10-25T19:54:45+00:00"
     }
    ],
    "feeds_ok": 4,
@@ -587,11 +587,32 @@
    "title": "Arsenal & CSK",
    "items": [
     {
+     "title": "Who has made Troy's Premier League team of the week?",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c804013klnn0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "After every round of Premier League matches this season, Troy Deeney gives us his team of the week. Do you agree with his choices?",
+     "published": "2026-10-25T22:16:14+00:00"
+    },
+    {
+     "title": "Arsenal Feel Like a Different Team This Season, But Why? – Opinion",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWXltVlVPLUJ4LTVIUEpvUW1EUzJreGFMRTh5T0ZQUENFOXo0TG9vTFVhUzhieGpacU1oWlJrcTBxRXBEQkc1TnVxZ3JWT2pzRGNxSWJ5U2pvWldLd1d4NTh1ZXp0M0xPUXBLaUo3ZmJpclNxMURqUUxNR2taN3d1Rzd6NHItMjVneFFqa2dCVWxNWVl2aWJvcTQybmlDT1dSSElFWjR2WXJGTEZNNi1PbDYxdXBHM2pBeEh4U1Z3UmY?oc=5",
+     "source": "Yardbarker",
+     "summary": "",
+     "published": "2026-10-25T20:07:48+00:00"
+    },
+    {
      "title": "Arsenal connection revealed as Dayot Upamecano lauded for Bayern exploits vs Freiburg",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1RyV3dvZDE3a2xvTlZib1kyRnVKSFhDOFlBS0g4ZTV2WmVTNTZaNUVrN2gtaUlRREIyLTlOS0xyUW1sRlVTR3RlbVU2ZmlUMEg5aUNFZFpjX0JqRDRFM0hTbWNYTlkxRGpJd3BzcFNYN0RUMUMyTFI3Rlo0MWd2ZTI1TldRRk5WVTdHcGEtcUV2a0JZWFJObnFnb0NlNHct?oc=5",
      "source": "Bulinews",
      "summary": "",
      "published": "2026-10-25T19:16:00+00:00"
+    },
+    {
+     "title": "RCB vs CSK, 11th Match, Indian Premier League 2026 - Scorecard",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTVVMWNtbFZPYi1CcF9PM2x1TXFZOU0yRUxOb29JdkJGNGxpdXBHbzYyTnJ0bHZFMWExbDVxYUZnUWdHMk5hNDlvX2JHeTZWOHNqVUxIN0haSHdUTHNxZkhoTkhaYkNrMnBuN2xUWFd0YjNUNTFQYUZQbk9QNEFGbWplMG1GeFVTSFpsc1pFbGNiSVdVYllkQ3RrcnV3dl83cm1URGNB?oc=5",
+     "source": "Cricbuzz",
+     "summary": "",
+     "published": "2026-10-25T17:40:37+00:00"
     },
     {
      "title": "CSK vs PBKS, 7th Match, Indian Premier League 2026 - Commentary",
@@ -601,11 +622,11 @@
      "published": "2026-10-25T16:56:09+00:00"
     },
     {
-     "title": "Arsenal star already ‘a legend of the football club’ after Everton win – Keown",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZUFIQ045bFZQLWUwQnRDMVR4Z3BiMHdOLXFjWjl1OEV0MU1PeUxxVzVfS0QxajhLWGF6d2ZlRHNhNFdjdTdVZnNBUHhMUW5UMFd2RDhJUFBEbF9HcmRpS091dFJscnFrUkVScjJsX2stblpCY1BDRURRM1lwMHd4UzNjNTJuUQ?oc=5",
-     "source": "Football365",
+     "title": "Arsenal dealt new injury worry as 'slight' Calafiori issue is confirmed",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFJSMGhEcnp0dnBNZG4yOEZPck9kclkzZVItOE84a09CNFVsUTUwZzJhbERxTl9nT1ZpOTRhVlRxSHhSdlJEREVjSEttWC05bnpnNnNGTnlnREtfT05NT1RHeU9WenlZQ3lBRURYXy1zV1hTMXRFSjZHMmNDd3lsRElPdkRwY01Bc3FvUjFobkZGcm1NT1M5aUpaYlhJSWhoSF9jS2RBV2ZGUQ?oc=5",
+     "source": "London Evening Standard",
      "summary": "",
-     "published": "2026-10-25T16:05:26+00:00"
+     "published": "2026-10-25T14:57:55+00:00"
     },
     {
      "title": "RR vs CSK, 3rd Match, Indian Premier League 2026 - Commentary",
@@ -615,11 +636,11 @@
      "published": "2026-10-25T14:42:02+00:00"
     },
     {
-     "title": "Arsenal legend makes Premier League title claim and explains what's 'weird' about Viktor Gyokeres",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUU5kd2toYW1BdGwzbjZ1NHhKSlRmZG9rR0R5OUtCb1Z0dG56RkhNeDVWakt1S0Z2NjlMUU1zX25WMjN6bUNiZWNXV1luQUZlRWx4TzJNSFNUVnNhUzBkd3JZVzVjUlVOSFlGdGEyazlhdDhkclluWDF4Mi1oWGRmWTExcHpicVZKb2xld3NuUnJld9IBlwFBVV95cUxPNTdyOEpHWG5TVkU2YV9kNk1ES3Q2Wk95UVBRcDc3cjExNF9iaWxwTzU2eUdBaVJqc3NIMU8taFlvWXp1Y19oSzZiQk1FZ3Y2NmF0THRYR05qYUpETjRuSUVjMDJZX3VicHVjWi1MbENablc2OEZxV0ota2YxNjFPZk9DUEtJbjdhZ0phbUJkSTRMbHlpR3pj?oc=5",
-     "source": "Football London",
+     "title": "CSK vs MI, 44th Match, Indian Premier League 2026 - Commentary",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0NKamxkcFdybTVpSnVyOVlSSzBWZkR2Q0hmVlItdW03aFNiTktpWmZCU1JUNUxfSXZEbUFROUQyOXN1d0ZoWlNhX2NOSWNaNXlqdFlqWXVNcGE4cEZjczVwek5QVmlTZUZDX1U3dzRjLU5uZUhhV3cwUXBrazJiUjJGSEppWnBvTXpTTC14c0YxMm5jOU9JcjFtU1pBanJH?oc=5",
+     "source": "Cricbuzz",
      "summary": "",
-     "published": "2026-10-25T14:28:17+00:00"
+     "published": "2026-10-25T14:27:50+00:00"
     },
     {
      "title": "U18s highlights: Aston Villa 1-3 Arsenal",
@@ -629,25 +650,11 @@
      "published": "2026-10-25T13:51:12+00:00"
     },
     {
-     "title": "Arsenal player ratings: Two 8/10s as 'colossal' defender scores 9/10",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVWNQakdiZVVNS0JpQUNVRzdyQ3pjdVhXNjNpVE1xUWgxMGxPMWp3UzlrMkhOcnV1eEU1UE5OSXhQSF9nRWxpd3NqZWVqOG9YTk1rLTQyVUtjSnBpbWhxOFh5WWdSMWVXR3JzTVRDZjJ3S2ljRnREMUtIRnlwdF8yMC1qM21jeDF4VXBkNW9TalFyZjNZNjFHdG1uYmRXNVYxUjlrZ25CMA?oc=5",
-     "source": "London Evening Standard",
+     "title": "Arsenal star already ‘a legend of the football club’ after Everton win – Keown",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZUFIQ045bFZQLWUwQnRDMVR4Z3BiMHdOLXFjWjl1OEV0MU1PeUxxVzVfS0QxajhLWGF6d2ZlRHNhNFdjdTdVZnNBUHhMUW5UMFd2RDhJUFBEbF9HcmRpS091dFJscnFrUkVScjJsX2stblpCY1BDRURRM1lwMHd4UzNjNTJuUQ?oc=5",
+     "source": "Football365",
      "summary": "",
-     "published": "2026-10-25T13:29:40+00:00"
-    },
-    {
-     "title": "Moyes’ Assessment Of Arsenal Loss",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXBxQXRRaFBQUjI0T2RIdGVDR3B4d0ZWZGRzME03LTc5ZDUyUGg2TXlVZERxOWhoZ2lBTzJhVk9TZ0h0RVU4dHJTOFNXV3BCSHFNOHAxZkUyMjdtVEtXWWw3MDFiRTVLRlJkNC0yTnVTeVc4WFJfaUh1ODlKTENGSDR6Z3haQVd3?oc=5",
-     "source": "Everton FC",
-     "summary": "",
-     "published": "2026-10-25T12:37:43+00:00"
-    },
-    {
-     "title": "Arsenal dealt new injury worry as 'slight' Calafiori issue is confirmed",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaFJSMGhEcnp0dnBNZG4yOEZPck9kclkzZVItOE84a09CNFVsUTUwZzJhbERxTl9nT1ZpOTRhVlRxSHhSdlJEREVjSEttWC05bnpnNnNGTnlnREtfT05NT1RHeU9WenlZQ3lBRURYXy1zV1hTMXRFSjZHMmNDd3lsRElPdkRwY01Bc3FvUjFobkZGcm1NT1M5aUpaYlhJSWhoSF9jS2RBV2ZGUQ?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-25T11:57:37+00:00"
+     "published": "2026-10-25T13:03:59+00:00"
     },
     {
      "title": "Mikel Arteta hits back at officials as Arsenal manager punished",
@@ -655,13 +662,6 @@
      "source": "London Evening Standard",
      "summary": "",
      "published": "2026-10-25T11:48:05+00:00"
-    },
-    {
-     "title": "Noni Madueke recast after audition process as new Arsenal role emerges",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORHJpeElTLTlJRzJqZHF6ZUVxNHBSMHhqNTlWOF94UG5uUFNqV1A0cVNmdy1SajgxX0hRdHJQSXpkVG5KdkF1SVI1WDVQU2t6YVlMc2tSTnVONWY1STJDTzh5d2ltSHNwbklKcEVDaDBHNEV3TFNRM2FIbUJiUDYzUWlhMndpN3dfc2dWNw?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-25T11:08:44+00:00"
     },
     {
      "title": "CSK vs KKR, 22nd Match, Indian Premier League 2026 - Commentary",
@@ -748,6 +748,13 @@
      "published": "2026-10-25T09:21:33+00:00"
     },
     {
+     "title": "Who was Ken Friar? Arsenal remember club icon who left remarkable legacy",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmI0OERtbWxLU1d0NXlaM2pUZFB5SDJmbDNwbFdjdjRtU2NzY1VHTnhCalRjWHhJZjZYdU9DYW56eV9zSW5GemhVSDhGSW0wNW1hNVEzM19aVVRoYlpTOUZRMGpULWdKS0Rmd0ZqcW1sUXk5MFJjR29zZHRVT3BQNnA0SHE2MDR3SnJwaw?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-10-25T09:12:13+00:00"
+    },
+    {
      "title": "Excitement grows as u16s head to 'unique' Messi Cup",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOXNxVjYwNEZZZ3JfcUduT0IxcUYwRzdHcWduMHpDQm9MU0toRDRQN2prd19QQzJacFJsUzdpcFBxRWkxRXlHYVJqTERMbmtvQ3BKcjhOT0RpRzBjejJjYk5SRl9NSTNLTEE2QkZUU2t4Slc0dlJ3T08tWTBSY3Z0a1JKTHBpSWxUZ2dZWC00RndaVkVyYVE?oc=5",
      "source": "Arsenal.com",
@@ -797,20 +804,6 @@
      "published": "2026-10-25T05:23:41+00:00"
     },
     {
-     "title": "MI vs CSK, 33rd Match, Indian Premier League 2026 - Commentary",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeGZrMGdtY3p2VVV4M3JuYzgwb0dkcUF2TnhDLTJUaVhFUFIzZ1B5TXJ6eVYwSUVTVUlfNWxIYUFvUnlFTmhTa1hMWmFmSlRTZmV3QzF3UjZCUnZmanJZakxpc1E4OHZRTHI2ZV9RU3Y0NThlSjlYWm4yR2I2blJYdG9zT1RwdUwya3RoU1h4NE54ZVBLQWRDVGNJWnJndDdp?oc=5",
-     "source": "Cricbuzz",
-     "summary": "",
-     "published": "2026-10-25T04:22:11+00:00"
-    },
-    {
-     "title": "RCB vs CSK, 11th Match, Indian Premier League 2026 - Scorecard",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTVVMWNtbFZPYi1CcF9PM2x1TXFZOU0yRUxOb29JdkJGNGxpdXBHbzYyTnJ0bHZFMWExbDVxYUZnUWdHMk5hNDlvX2JHeTZWOHNqVUxIN0haSHdUTHNxZkhoTkhaYkNrMnBuN2xUWFd0YjNUNTFQYUZQbk9QNEFGbWplMG1GeFVTSFpsc1pFbGNiSVdVYllkQ3RrcnV3dl83cm1URGNB?oc=5",
-     "source": "Cricbuzz",
-     "summary": "",
-     "published": "2026-10-25T03:33:22+00:00"
-    },
-    {
      "title": "\"How Good You Are On Paper Hardly Matters\": MS Dhoni Reveals How RCB Have Leapfrogged CSK",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNFpzWTM5T0dJUEU1SjF4S2NyWUZWV2FvT09XWWNpSC1TeHR3cGlweTRvYnVUT2wybTJCM0I3TWhHTk9Nd0IwSXN4MUdqcjhRWkU3dlUxV1V5cnhaQUl5ZDNkMVpSakpYaUlRNFZ0c3MyaDdUR3duUUtaRWpUT2hsWUpnSlhhcFk1N2lyU1RMT05BYTlZbHlBM3pxblY5S01aS1BTeHh3UkhjVlNuUDVaNFRURkJNTk1uU3I3bF9SWjgxWHAyWnJr?oc=5",
      "source": "NDTV Sports",
@@ -846,13 +839,6 @@
      "published": "2026-10-25T02:27:59+00:00"
     },
     {
-     "title": "'We were all scared': Arteta reacts to Arsenal injury fright in update",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkd4R1NnOFNsTEh3MFlQZ3dVamVtUF8xZXV3NUNsNkpPMTkwQjM5c0UzeFp2STBGZ3ZQWU1tTVhBeTBiaUlvalllb0xUWXd1WmtJLVZNQjNYTW1KN2N4Tm9XSWhTMzlxY0F0Um9FR0pjbWVlSklUU2NTYkRmZEl5N2xGdm4wdWNtRjBKczJJTFBENnA3ZUFteXRFcw?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-10-24T23:58:42+00:00"
-    },
-    {
      "title": "U21s report: Leicester City 4-1 Arsenal",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcWVwRTZ4SVBZcUhNTDlhOGx1dXdkLVFmNFRBN3FiRE8yT2pHNDlaWENGX2h0bjdlbDBfMU5RYm5zOFRaRXBacndsVzRYVVV1a2RGOEtnbjJSMlZPMFN4UThsNVd6c212MFg4NHM3Ql9RQTV4bTNwci03bTJJSmtPUjhrZTVlYTA?oc=5",
      "source": "Arsenal.com",
@@ -865,6 +851,20 @@
      "source": "Arsenal.com",
      "summary": "",
      "published": "2026-10-24T19:18:32+00:00"
+    },
+    {
+     "title": "'I have images' - Arteta accuses other managers of leaving technical area",
+     "link": "https://www.bbc.co.uk/sport/football/videos/c5gm0470wywyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Arsenal manager Mikel Arteta says he has been collecting evidence of other managers leaving the technical area during games.",
+     "published": "2026-10-24T19:03:05+00:00"
+    },
+    {
+     "title": "Highlights: Tottenham Hotspur 1-2 Arsenal Women",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlFWcmpPb3NXOXpxQTd6R0N0dGxUU2JBeGlaZTliS3p4LXdBbXRNTXBORGNOR0lxY1lZcXJFVi1OYjBjUjhxRVlQOEdWR1hGUEoxM19WbHJmcTAwTWRRTDN6c09BYnhiNXkwZjBNOVBoUGF4cUUyTDdpUmJWbVhjbXpMekoyaC1jUWNzcWpUV25iZw?oc=5",
+     "source": "Arsenal.com",
+     "summary": "",
+     "published": "2026-10-24T18:54:28+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -873,6 +873,27 @@
   "tech": {
    "title": "Tech & Azure",
    "items": [
+    {
+     "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+     "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+     "source": "The Verge",
+     "summary": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10…",
+     "published": "2026-10-25T21:40:27+00:00"
+    },
+    {
+     "title": "Scott Walker’s The Drift will get under your skin",
+     "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+     "source": "The Verge",
+     "summary": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying:…",
+     "published": "2026-10-25T21:08:09+00:00"
+    },
+    {
+     "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+     "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+     "source": "The Verge",
+     "summary": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch…",
+     "published": "2026-10-25T20:16:19+00:00"
+    },
     {
      "title": "Zen Browser is the Arc replacement I was looking for",
      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
@@ -921,27 +942,6 @@
      "source": "The Verge",
      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image,…",
      "published": "2026-10-24T18:32:21+00:00"
-    },
-    {
-     "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-     "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-     "source": "The Verge",
-     "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project…",
-     "published": "2026-10-24T15:00:00+00:00"
-    },
-    {
-     "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-     "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-     "source": "The Verge",
-     "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various…",
-     "published": "2026-10-24T15:00:00+00:00"
-    },
-    {
-     "title": "What to expect from Apple’s ‘Pro and tell’ event",
-     "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-     "source": "The Verge",
-     "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it…",
-     "published": "2026-10-24T14:15:00+00:00"
     },
     {
      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
@@ -1161,6 +1161,48 @@
    "title": "India",
    "items": [
     {
+     "title": "Hinge damage suspected to be behind iPhone Duo screen cracks",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY25YUEtyVHZOdEs2X3NCcGpmMHlidXN1a1IzSUg3ekxsSUdTRS1LYjBrSTJqVEp1NWFIYzBPcS13dXJGcjZnOWdoYWtxQXNqRjRfYnZKSGZUTHR6SW9pazdMbDJaMHlod082TU4xeUI3Qm1iVmFPOVU0UXBPSWhoUWF0QXBJT3dyWDNqb0Zqd2t4MHcwV2dMdFdWVUdDXzFES3NDSjlB?oc=5",
+     "source": "AppleInsider",
+     "summary": "",
+     "published": "2026-10-25T21:28:00+00:00"
+    },
+    {
+     "title": "Cyclone Alert Grounds 500-Plus Fishing Boats In Tamil Nadu's Vedaranyam",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHI0RGVUdFVKUWpHcXk0bUdoNHkzdEU0UjllejF6enhnaEktcUdzVlltaXRfOEZIV2J6UVI0S0tNdjRWZmdOYXpnQUZsMjVtSmZHd3VPSnFUYmhfVlZCV2k2dEx6dFZ4YTY3Q05MX0cxN05OUUtDWmplRHBKczdzUXYxQnl2UjBYRXVlbk5yR3Jxa01oaUlHZTdGNW80aW5WRl82enpWVEU3QzQ?oc=5",
+     "source": "NDTV",
+     "summary": "",
+     "published": "2026-10-25T20:26:42+00:00"
+    },
+    {
+     "title": "BJP slams Kharge over ‘indecent’ remarks on PM Modi",
+     "link": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
+     "source": "India Latest News: Top National Headlines Today & Breaking…",
+     "summary": "Party says it would hold nationwide protests on October 26, 2026 against the “inappropriate and offensive remarks”.",
+     "published": "2026-10-25T20:21:19+00:00"
+    },
+    {
+     "title": "Jamia student protest intensifies amid restrictions, heavy police deployment",
+     "link": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece",
+     "source": "India Latest News: Top National Headlines Today & Breaking…",
+     "summary": "With classes suspended, water facilities on the campus were cut off and no entry or exit was allowed",
+     "published": "2026-10-25T20:13:38+00:00"
+    },
+    {
+     "title": "‘I am here. With you’: Nobel laureate, Venezuela opposition leader Machado returns after nearly a year in",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQc0pGWGgzRE1NZzNTT2VQSGZQMFNuck4tZVo5VW50YzZGcXVWamFXZ3NHSFo5LTJnTmpvTk9VaE1pcjV2M09ncDNWeGpreWduTG9rX1g2ZU1Bc01aNHZabFRvLWUydTRhMGU3ZllOZzZlajBDSTE1VFhyWk1yREFLX2U5WXRZd2xUZjJ4TVVnck5NX2NqSzU3TGdOZ0M4MXlqQjZPOEtYbmhzSDFoY0hLWTRjNFZsYU5IRDlKLXRIckFaREhxbFpsM0ZDZVlIXzYzU0Vfa2dJTmFMZ1pCV3FrOWZGVUw5aHZXVS1fcXlLVlNHZGxtbk54al84dWlEOE9UaVRWSk1RMGw0MWhCLXhjMlc2dENxLWs?oc=5",
+     "source": "The Times of India",
+     "summary": "",
+     "published": "2026-10-25T19:41:00+00:00"
+    },
+    {
+     "title": "Monsoon tracker LIVE: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
+     "link": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+     "source": "India Latest News: Top National Headlines Today & Breaking…",
+     "summary": "IMD says the cyclone is likely to cross the Andhra Pradesh and Yanam coasts on Wednesday morning, with winds of 115 kmph to 125 kmph, gusting to 140 kmph; set to have worse impact than last year’s Montha cyclone",
+     "published": "2026-10-25T19:34:51+00:00"
+    },
+    {
      "title": "Melioidosis in India: a potentially deadly infection that may be going undetected",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ2p6VVJ3QWlfa3IyZkkzT05QTF9ybGYwZDVDOHV0Njl3aDdNY0diNVJlVkFjVFZrQmk1bnB4VTE3MW5samlqSzNYVVRoelRtRzBXRHZXbUdnc0dBaXp2Tm5GRzVLd1BRMVVhYzQwc21kbHdiZHJvTFdVTmVoTlp0MVNGXzhfTUhWNDNMOFpmbGpyS1V6V3k4VE5qS25yajZhaUREZzZ6MWUyTUtfUllBd0duemh6bXduWUVwT08yODllT0RsQmh5ZTNZbFRpZTQwTlYxa25tdXHSAd8BQVVfeXFMTmtCMDgtRU00cDZUZ1IzNWlMS1RCdWJRdDlwZmVTR19mNHMyVm5FUFhNMGpzWWo0ZnhTVUlrWVJ5TjY4MktzdTdCdWEyRVlmNS1fSWdUVG1ndEZTSThZa19nQ25Ka19RM3VJRTZrQ2pVZ0tGaERYLWRiRkgxVzZseG5mQUN2bDVKZDNTTFR3MU9YRzR5UzE2ZWoxSFZ3cnlCc1RhdTN1aEdEdktyZldmNUtIQjZPRF9kbzhkWFpQUVNOYTQtcEh6Rk9iZzdianhzVU5RcnJPNHpRaDBqLWFGYw?oc=5",
      "source": "The Hindu",
@@ -1196,6 +1238,20 @@
      "published": "2026-10-25T19:01:23+00:00"
     },
     {
+     "title": "Fresh case registered against granite baron Veeramani in minor girls abuse scandal",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ2g5dHVfTXh6Nm9wc29vZjJEWHdaZ1lYaFMtcExXUDg1eFlkZ0xSN1ZWdmkyeVVxTHdGUnFYZ1VYMFFMRUhHUWpFdHhMcXhxcEVyVkF0b2E2QkFValJRd2hZamFmZkJhNk1KNWVKNHUzTndGbWhfY2hWVmp3WGhSaE1aU3VMTnV0X1dEd21ld3hrRU5SVENZbjU0VGFaRXl6cmlBQWNvNXM3SW5fWTZmYmJXbHM2UWNLMVpKNE02dURDa0pGSTN0SUY2RjM5NGRaUVRyRDlTTXBPTkVKeFZqbw?oc=5",
+     "source": "The New Indian Express",
+     "summary": "",
+     "published": "2026-10-25T18:53:03+00:00"
+    },
+    {
+     "title": "KIeron Pollard informs Joburg Super Kings of his unavailability for SA20",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPY29lUmIxYzdpb3JZa1BoaXNIQTY3ekt1S1Z0QVhaRENnRlFTem9pdzUwNUVfaEdqX0oydGJUamxlOWlucnhyLWVZWkRMT05PQ3BrSE0xTXRYdDlpamktUlVQa29wVDRwYl9oOFFVeUM1b3gwc18tc3gxYVlpMy1RLVZSdG8yN3RhMG5aOHl0R2NqWEhfdTdlWFJZcm1MY3RfYWdIODVGR0tTZHpYdkFOSGNHTGg1LXlsejJ2THlyMWlLZFpONThfWQ?oc=5",
+     "source": "Cricbuzz",
+     "summary": "",
+     "published": "2026-10-25T18:51:52+00:00"
+    },
+    {
      "title": "Congress leader Kripa Alva questioned in ‘sting operation’ case",
      "link": "https://www.thehindu.com/news/national/karnataka/congress-leader-kripa-alva-questioned-in-sting-operation-case/article71623365.ece",
      "source": "India Latest News: Top National Headlines Today & Breaking…",
@@ -1210,11 +1266,25 @@
      "published": "2026-10-25T18:42:45+00:00"
     },
     {
-     "title": "Chennai’s beloved ‘Damu Appa’ passes away at 72",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTNkb0dGSHhzVlB5alB0MnpaaHpBSHRVd19JZ1hCZmZfWFdBRW5jM0doTHBudHEtRnFZWk8tZ1dfR0dmZE5uZm40d0wzQnpIT29pMzAtamJuS0F0MDN0V2pTcmJJWHF4aDdoRzJWWE1zWlJ2bFVqSnJUOWhmR0JoWmhSM0VGR3FrQ2tYcVJJZkdWVnZuRXlNeXF6d0VnRWI4ajVlRVhmRWtHQkR3Mk9hR3VwZno3MnZtRkpV0gHAAUFVX3lxTE8zLTV6RHJNbGt6dTlsRFFWRnFLeFAyd1ZtSTZNdUtIRTVWckdvR3FXOTVhendKN1RFenhzUTlVU1NvcjNNYnV2c2dQRm5icGh3Wi1kbjZETGMwcmU5UW5MWFJXSHJJNEc0X0ZLRDRNb29GY2Y4MnJMWk5hZWdFYkxSSU9xZTN3TnlhOVZaOGRFeU90U0k0emhpdXRRSnZIV0NBVW9PYmQ4NnB2RF9fbjVTYmRnYjB2NFM1UEFYSjl1WQ?oc=5",
-     "source": "The Times of India",
+     "title": "With An AI-Generated Funeral Of Himself, Man Tries To Escape Murder Trial",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWd6ZmpKaUlxaUc5YWIzS0hVYnpjTldOYzduNEJYVGFjckcyLXFKOXRSSzlfTEw3QzNzQkg3d3lPRFpLZlZQRWNCa3dlUUg1bTNCaHBLV1Z0bVRYWm5kQkJQamk1MjhqeVdaX3kzN01oWWtrUkJsaFRtU2g1X2tXblB4SlFpN3JzSG9qbWxNWklaWldRZC1IenNmb2J3VVhsdGM0NlpVbW4xZTZCLU5QTm5FWTRBN3VpTTl0MGRkcVdQMDdl0gHMAUFVX3lxTE9ZX3d3ME53MzF3MU01VXJhY1l1UTVZQU9qZ2tqUjI4ZlZkcmo0NGhZU0Z4YVRyZF94VlV5X0p6LWhWal9zMWtSTTQzTmIxSldrblBOZUluam1uUlAyV3JVUTFEMUUxcW1xZlVKVjhPMnJZMlNkUlNadWpXUmpUODdnNTgwcHpFM0t3QUVsVnJQMVJpTzlFTFdzTTBnMWVCbnR6X0Vmc3BWV3FSaTdKbGVYMFJLaUNGU0c2eThqZTFNMFo2NUZaa2hOSGJfeQ?oc=5",
+     "source": "NDTV",
      "summary": "",
-     "published": "2026-10-25T18:37:00+00:00"
+     "published": "2026-10-25T18:41:55+00:00"
+    },
+    {
+     "title": "CONFIRMED lineups: Barcelona vs Real Madrid, 2026 El Clasico",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDZYRkdjNFp0VVg5Y2c2QzBrc05FdG44a3BSVzVMb3ZQdHpjU0ctcDJ5clZwQnpPZkRCdjRLenFHbkoyVUxIQ0hsWEoxUzZMcWktdERNdnJPaFA3UXJZVDduM1JCQmJ5ZEhiblp1ZlNyaGNtb1ZGVEFPcWYzMHFIQmxkcHJPVGRhR2hMbUdCb0wxVkZEYlp0ZFhudlp5RGpFRGhhRDdwVWxsVE5QSEdMVUE5ckc0NkFGYU1JYQ?oc=5",
+     "source": "Managing Madrid",
+     "summary": "",
+     "published": "2026-10-25T18:41:17+00:00"
+    },
+    {
+     "title": "Stats - Shadab Khan and Haris Rauf break last men standing records",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzRDbTRIX0xfY1d6NlBCbGJuRUJ6N0FlSEsyMWdweWdqWVVnUVROSVJOSFlzVXJoS0s3LVpZdjFyQTlUUkNMRUtzaTl0MlFfNjBQdHEyTjdnVDdhWkx1S2RjOHQ2cHkzZDZlVTdGX0xxUThob0tsVTliUFJ1QVpzanBnLWd1WldnQi1CZWhGVnlIWnBBVlR6NEJNNnVIQkN6S012cllSc1dzblpiclUtbmc1dUPSAcYBQVVfeXFMT1M3cDBEeDRwNElYZ0xrNW16dGpfeXRNSnM0QmVidy1yUWdfUEJJNHdBbUxLUXFVakRMbzljcmhkZkd4UE5HZmo3RjQ3d1hZMlA0ZnRXOWlqRXZqcnhWaTdnT3VtMUM3dmhKR0pvVHp5dmlmamtORkFJeG5KY2JtNDhKczMyV0Z3eUxtaVVYQ3ZBYXotdldSNldFV21yNTM0NThKTHZmMEpNYVlYUGxwTnprdlQ0ZWRSdzJyMG1KOURPcDZRbWlB?oc=5",
+     "source": "Cricinfo",
+     "summary": "",
+     "published": "2026-10-25T18:38:59+00:00"
     },
     {
      "title": "Dhanush Meets 3,000 Women Fans, Forms Welfare Wing Amid Tamil Nadu Political Buzz - India Today",
@@ -1231,11 +1301,11 @@
      "published": "2026-10-25T18:32:32+00:00"
     },
     {
-     "title": "Apple to Unveil Touch MacBook Pro After Two Decades of Resistance",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
-     "source": "Bloomberg.com",
+     "title": "Polio awareness campaign held at five Metro Rail stations in Chennai",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWV8zWmxkUDkxSkt2bEZHbW5yMXNUR3dxVkFfMDhJYmMyQzNnc29uUktSRUFfUy15Y2FrVkhhX2l3a0gtMDU5M3Rqc0lNMThoWnhxVkpBMms3ZmxSSmpvMFlZUHhnYjh4SnFxdEVleXRDakM0eE9nNjA1SkJQc19HZVhNNnRtdkt5bnN5NHNiT2ZHTl9jNUg2eWRkNmtHdllCZmg2Z29uZ2syR25QblRJWGZaOUh5RWFneG9SbmVwajk5eG55Sy1tUTlhZy0wQdIB1AFBVV95cUxNcVh2djNQWmcwMWwwYmdSelR0aXRUVmJEa1lnai1zajdZa2RHcFdyX1JLNVRXZllYV3VScTNfLVd4MTRkWG9RZkYzU3pPR0hlZGk5OHNYU0VNQ1RueWdLTEt0eXpVbnJwczFSczFKRU9iM0ZySWVHUmtxeE9QMk5pY3RuckItMFpRY0pfWmxkUnJ2cDhoQTViT3JjTnBVUndURGVLR1FaNGo4a2E2M3huTnVWR0IyMVJlYl9KaDhOakE5WGhVWmpaWm1pVWx5MzNUSm5TWQ?oc=5",
+     "source": "The Hindu",
      "summary": "",
-     "published": "2026-10-25T18:30:21+00:00"
+     "published": "2026-10-25T18:29:44+00:00"
     },
     {
      "title": "Kashmiri Pandits flag graveyard en route to Shankaracharya Hill, says ‘cropped up suddenly’",
@@ -1280,13 +1350,6 @@
      "published": "2026-10-25T18:12:03+00:00"
     },
     {
-     "title": "Jamia students climb gates, join protest amid heavy police deployment",
-     "link": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "With classes suspended, water facilities on the campus were cut off and no entry or exit was allowed",
-     "published": "2026-10-25T18:10:53+00:00"
-    },
-    {
      "title": "Like Kerala, T.N. government should pass resolution in State Assembly to scrap SIR, says CPI (M) politburo member",
      "link": "https://www.thehindu.com/news/national/tamil-nadu/like-kerala-tn-government-should-pass-resolution-in-state-assembly-to-scrap-sir-says-cpi-m-politburo-member/article71623414.ece",
      "source": "India Latest News: Top National Headlines Today & Breaking…",
@@ -1308,13 +1371,6 @@
      "published": "2026-10-25T18:06:00+00:00"
     },
     {
-     "title": "The sea and the shore belong to the people: CPI launches signature campaign against govt’s secretariat pl",
-     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWGU3M29xVTNxaEV3a1pueXZRbHdBRURUaG5vUVNCQUVoWFByVzJQT0NKMGg2R2Jyd1RhUUxYVXB5c2R3MUxuS3hCbW45bkdPOHVmTXM4dWRYanB5RU92Y0p6aVpYQjFXX1dyM1BrcXNicjJrMEtnY1NBT1hmX3FoRXNnV2F4cGxIQVdzZjl5MzlLUVlHeDBOMkN1NTJ3TUhjN3dUZ3dTZHQ5UTdXX0wyTTlLQ2ROM0IxMERjZTBQMnpXYnFXQjlScHduNHhFYWFCUVlTV3RpTXlhUm5BQno0NTRMNUY5MlZreHNEUVhZeGRYbi1ZQXVoXy1EMFdKZWFDQV9aN2RvaHpXVG820gGSAkFVX3lxTFBmY3QyelRlQS1KUUFjSTdvS1kzVDN5NHd6YzBsQ2g5T0RmNl83elpqb0RQaXVucmloenI5ZHhsaXJWM0pVMGlBbkh5aWhOTlhMY0VhSGJNYWZIMERMYW5iVy01dHprVWJ3X1NNNTRvd20zdDg1Z3BULXFwTGgyV0tMSnJjaWFiU29UN2FjQ05fT1BBekNnd1JXQ21Bb3ljU3U3QXhmRDBXaHd1NmdTNWh0UkJKc05DN1I4WXJWVi1xR2tCSUJJUGRKejFteVpLU2xDbk1namFnWWN2dXRseUZhQkxsQjIycnJTOFZCcjY3RERCWEprSjVuWVI2OGlvX1pHUGEycHFkLTUxbHlTZDEwRVE?oc=5",
-     "source": "The Times of India",
-     "summary": "",
-     "published": "2026-10-25T18:05:00+00:00"
-    },
-    {
      "title": "Vijay, Tamil Nadu leaders pay tribute to chef Damu",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2pkWWNEZTVVRHpKVUV5U2ltLTQ4b0UwUjNsTG9YU3BCSGc3SVIwOExEYm1iT0hGbmhhYlFOb09wY0hpN0p3c3V2X1c1VmJGckUxNTl3ekcybGtKUUZhbE9leEtvVDVVV0hkaHJ0WDRJdEE0a2dXa1gtNEdMT2JZaC1nbzFRV3N3eWpxSG9wRDl5cXJMaFRCSThYTUxqZmlrUGlleTYtUk52dS1XLWNVZXFLajQ5R0lhWE9Xc1dZYzZZQdIBxwFBVV95cUxNQ19aRHNHUnlMeEtJbmdmWS1LNHAxZEpCNFFfTDB4Mko5U3NIRm9OdDUzYjZEWHA3VUlaZTVZRy05bGhUTkZqc1BPMmFuMnFoclBRYmxlMG5CUVA3UHA2Y0QxNjlDX0R4SEJTT21TWC1ocnBSVzdtWi1rVVk0X3BvSHF5bGZ1MXRaZVpOSTZFYWtxa1JmM2F0bjluMkJkenFBTGp4UHduTkQ0UkM4NDVyanhkT1E4REZWcjF1bUIwZ1BrajRFVG1n?oc=5",
      "source": "The Times of India",
@@ -1323,7 +1379,7 @@
     },
     {
      "title": "NGO-led protest seeks curb on increasing height of roads",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSmhOVFBvQlNuQ09kQkkxMUtHT0V6ZlczckZHTXZLSDBlT3lFbU84bExsM1NTbDVDQ1lhWkZqNXY4U0QyZndSdXVvWDY4VXlROUI4dkluTlpWcE5qTFRCRG1jeU5nVExvMVNpUno4UTJzemotV0hJQWxVUS1veHdsMnJ4RUhNZHk0RVVXS0MxcTl3YmJMbnA0SnJhQ1cySzZGbWVmOE8xVlpPVWlZSWF0TUJ6bjBfVW41ejVnWnJ6RUsxMDI3cXU1OU4tSdIB0AFBVV95cUxPc0JVcG1oeE9seGdoN3NJakk4UjdabmlXS2M1NVMtdFZFdmdELW05ZFFYVXlqR3A4NDdKd3hFaGtvWnVERldmbzBkTUJYYXdBTElFYTQzZDdyamh0REhNb19ucHNQNVYxU2JWLWo2WE0zcktGNFVBSVg2SHBWWWpwOWl4TEdwckxfcGRFZkJkc2J4MDJMRWZMY0Y1UENqLWJCNnBlWUdhNEJFNmlSc3RIZ0JubU4wUXZqeTFyZUNaU0ZzUTlZdk82TWZYLW9aNDFu?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc0JVcG1oeE9seGdoN3NJakk4UjdabmlXS2M1NVMtdFZFdmdELW05ZFFYVXlqR3A4NDdKd3hFaGtvWnVERldmbzBkTUJYYXdBTElFYTQzZDdyamh0REhNb19ucHNQNVYxU2JWLWo2WE0zcktGNFVBSVg2SHBWWWpwOWl4TEdwckxfcGRFZkJkc2J4MDJMRWZMY0Y1UENqLWJCNnBlWUdhNEJFNmlSc3RIZ0JubU4wUXZqeTFyZUNaU0ZzUTlZdk82TWZYLW9aNDFu0gHQAUFVX3lxTE9zQlVwbWh4T2x4Z2g3c0lqSThSN1puaVdLYzU1Uy10VkV2Z0QtbTlkUVhVeWpHcDg0N0p3eEVoa29adURGV2ZvMGRNQlhhd0FMSUVhNDNkN3JqaHRESE1vX25wc1A1VjFTYlYtajZYTTNyS0Y0VUFJWDZIcFZZanA5aXhMR3ByTF9wZEVmQmRzYngwMkxFZkxjRjVQQ2otYkI2cGVZR2E0QkU2aVJzdEhnQm5tTjBRdmp5MXJlQ1pTRnNROVl2TzZNZlgtb1o0MW4?oc=5",
      "source": "The Times of India",
      "summary": "",
      "published": "2026-10-25T18:03:00+00:00"
@@ -1378,67 +1434,11 @@
      "published": "2026-10-25T17:34:26+00:00"
     },
     {
-     "title": "Harmanpreet, Deepti tons secure series win for India",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWVCSXplemZLaVZ6YTljMW52Q09ySkFlcE9nU3UyZTdWandmdzctbDNFZ3A4SEdrVmJuWDNsVndmR2txVHM4em9kMElkWmNJUXB0QWZTLTJ6emszV19uT3RkVDF3SVFFUWxBRDEzZHo3c1lRcjBWU3VRR0ZmNEMtanJTa2tCbzBhajBVa3ItSWM3RkdwUTFvQkpJVk4?oc=5",
-     "source": "Cricbuzz",
-     "summary": "",
-     "published": "2026-10-25T17:23:03+00:00"
-    },
-    {
-     "title": "Sensational Shadab Khan scripts one-wicket thriller for Pakistan",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNERwQzJTZ2pVdUtPMi01eU40UEttLTdlZ2c5Wm9kbDVjbTBkQ003WHNqTkE3QWxYQ2IxM05pdmJHSTJzcWl5c3I4WWROY0UzNkR3S2dyMXZhN1RSZnNjY2U5aUxmbWx1U0JqSnpOY1ZtODVqd09IQjByWHpOUjEwc3RTRlpuR2hhbjlWRWpCWnFnYnp5am0zUURkblozbE52YzlRb1ZNbHd6c2M2aHFqQ2UzbGlNZGV4cWxseWg0Zw?oc=5",
-     "source": "Cricinfo",
-     "summary": "",
-     "published": "2026-10-25T17:18:51+00:00"
-    },
-    {
      "title": "Supreme Court clarifies scope of police custody under BNSS",
      "link": "https://www.thehindu.com/news/national/supreme-court-clarifies-scope-of-police-custody-under-bnss/article71338174.ece",
      "source": "India Latest News: Top National Headlines Today & Breaking…",
      "summary": "Court held that Section 187(2) of BNSS enlarges the window during which police custody may be sought",
      "published": "2026-10-25T17:13:49+00:00"
-    },
-    {
-     "title": "The missing ‘reuse’ principle in India’s EV journey",
-     "link": "https://www.thehindu.com/news/national/the-missing-reuse-principle-in-indias-ev-journey/article71333751.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "As transport electrification gathers pace in India, there is a need to incorporate existing vehicles into the transition in a resource-efficient manner. Along with an effective scrappage policy, vehicle retrofitment can…",
-     "published": "2026-10-25T17:12:02+00:00"
-    },
-    {
-     "title": "Muizzu could stir up anti-India campaign again: Former Maldives Minister Abdullah Shahid",
-     "link": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "Following Maldivian President Mohamed Muizzu’s Pakistan visit, Abdulla Shahid, running to be a presidential contender in 2028, hits out at Mr. Muizzu, saying the President will ‘try to create some narrative on hate’…",
-     "published": "2026-10-25T17:10:02+00:00"
-    },
-    {
-     "title": "Hunter's Moon 2026: All About October's Full Moon And What To Expect Tonight",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2FPUmd4U29IUnhlcFpBa1dzWDloZVpscDlFU3RmTEowX2FjUW1NU2kwOVBKb2p2WkF6RDhwdzRCaFJHUm51MGlYam5NVDR5Mms4Q0VERm1xVEtNY1FzS0lQTmR6TXdfbWlVdDZMajNxbkhfTFJWaVNySktKeS1IYnF1Z3hWSUxkZUdnWkJ5Tk1GekZHYTRrN3BxRUlrYnpCaGhJM1RGclZqUmNKaG1ZRdIBuAFBVV95cUxNcWJ2SF9HUlk2Q1drZ0RNSDlkUm9JTUp2bThKUElldGJKZ0RNMzhwY1lyU0NLMXhkTHZ2VmwtYlVRRGhZUDdybzVEU1N1TTZyb2NMZy0tSFdXYUZkN1BuS2hnVDU3NGJnR2FFeEh0TFlKUnJFNy1rR2dqbjJma29aczhiblpuOUk3MnpUNlE2ajlEV2RsajVIV1A3UE5GU1FUNmZJc05MMjdaczBwV2tHcURub25xeG53?oc=5",
-     "source": "NDTV",
-     "summary": "",
-     "published": "2026-10-25T17:09:32+00:00"
-    },
-    {
-     "title": "Monsoon tracker LIVE: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaWx3TGljdG9aU2t2ODVkOW9McU1xdVYwdG1Gb0NSWi1WNUQzRVUyS3dJSEJ3aEJaeWJudzV1aXo1b2xOT1VqMlNfSUpmUnpKR2toWE5DZ05YdG91OU5QTTNIdmdjcmFVYWJlR01RM0tka2JiR25KcGJnanVCNW1mUXo3dy01YWZ5cEpNSV9HSVNfYVRnYVdoSm9lU1lBTkV1T05iM2tzZDFQcUpIdERRUER3VU9qc1NG0gG_AUFVX3lxTE5CTEcxb0ZWbnVYV1YtVmw1THpiUEZFRFlHSWlMa29XdjgyMVhZN24yYmJnNDR4Y0lfYktLODVRVW56WGNvWW1FZzZuQ19pZ3Ewd0JqTlRjLVphd0tOVE9xTHloTzc3dDd0NG55RF93WE14STBtdnVfUXc3UWVyT3pteVhndE5yOW5NUGM3bkZURC01N3QxWTY1WGZnenNNM1lKcUE3X0p0bWpNb0hiNUhDcFdvQm16QjRQX1RjV0c4?oc=5",
-     "source": "The Hindu",
-     "summary": "",
-     "published": "2026-10-25T17:05:33+00:00"
-    },
-    {
-     "title": "The road ahead for the Asiatic lion",
-     "link": "https://www.thehindu.com/news/national/the-road-ahead-for-the-asiatic-lion/article71309290.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "Six decades of conservation have increased the Asiatic lion population from about 100-150 to over 1,000, with nearly half now living outside the protected area; however, the species remains confined to single forested…",
-     "published": "2026-10-25T17:03:21+00:00"
-    },
-    {
-     "title": "Traffic ban to continue in Munnar after another landslip on Kochi–Dhanushkodi National Highway",
-     "link": "https://www.thehindu.com/news/national/kerala/traffic-ban-continue-in-munnar-after-another-landslip-on-kochidhanushkodi-national-highway/article71623815.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "Traffic was suspended on the Adimaly–Munnar stretch of the Kochi–Dhanushkodi National Highway last Monday after a landslip occurred during highway-widening work. During the clearing works, another landslip hit the…",
-     "published": "2026-10-25T17:00:45+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -1448,6 +1448,20 @@
    "title": "Richmond",
    "items": [
     {
+     "title": "No. 18 Louisville Falls at Richmond",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ0otZHk3TnpqbXlWVURWVzVLSjBma1JxbXp1amtrak1XOFlvRWlhdndIQk4xUFQ1VEVWaHl0dXBrZWw3bm9SWHhqSG9kbngya0QwM2V5eWVvNTZvWEMzRW85MjRPeEhQQXlRbmROaU9aUWw0MlpVWnVLRXFOWlBHRVByQjdKTGtFM3Ew?oc=5",
+     "source": "gocards.com",
+     "summary": "",
+     "published": "2026-10-25T19:42:13+00:00"
+    },
+    {
+     "title": "Richmond neighbors: Obituaries for October 25",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmZ6b0dMNWRmWS1nM2dWR1pfTHE0ckdOckxnNFRsX0RCajFjeFFDeVpueVJaRmhpTHhoMXJOeTVfZmRXckxkdG12YlJBTmdWMWZsMDhTZ2tBSE51dEstQjdwUXRTWnRzWVlOUTd5NTFFSndycHRPVFdUQjZSNzZSQW9EOVRhUjhiNDhHSA?oc=5",
+     "source": "Richmond Times-Dispatch",
+     "summary": "",
+     "published": "2026-10-25T17:15:33+00:00"
+    },
+    {
      "title": "Controversy/History | Beyond the Artificial: AI and the Workplace",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmZWVXk5VjZxblo2NV9VRTkxYVAzbHAwcFAzN1YxdWY4WFAtS2Z5c19SOHVsaksxdVR6ZUtuOGZENnN4aFAxQ2FlNHlURE8zYjVPS3dHOU1hbFVLZG0zM213eWNnVEI1bnlnc2RjMEhSMlBSYmtzZ0kySHNROWlDWFZtcnhpRXpNZGl4UXdya0RkRkhtWXBtM05CMm9BZw?oc=5",
      "source": "Style Weekly",
@@ -1455,11 +1469,25 @@
      "published": "2026-10-25T16:50:20+00:00"
     },
     {
-     "title": "Richmond neighbors: Obituaries for October 25",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcmZ6b0dMNWRmWS1nM2dWR1pfTHE0ckdOckxnNFRsX0RCajFjeFFDeVpueVJaRmhpTHhoMXJOeTVfZmRXckxkdG12YlJBTmdWMWZsMDhTZ2tBSE51dEstQjdwUXRTWnRzWVlOUTd5NTFFSndycHRPVFdUQjZSNzZSQW9EOVRhUjhiNDhHSA?oc=5",
-     "source": "Richmond Times-Dispatch",
+     "title": "Rules Should Not Hurt",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JQ3NLY0MwblVxakM5SVNUUXZCNU5zZmhjc2RmVVFhMExjYjNFTlI4Q19LNDEtbFF4STZNSVQtQ3VLVW1hMXZzZmFfendFeXRCdHpCUEczUnVFVTJLMkJBU2c1bXA5cjhEanRDYU1R?oc=5",
+     "source": "Radio Veritas Asia",
      "summary": "",
-     "published": "2026-10-25T13:15:29+00:00"
+     "published": "2026-10-25T16:39:11+00:00"
+    },
+    {
+     "title": "Man hospitalized after shooting in Richmond’s Diamond area",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVNBM0FYUFZuS0UwMV9MaFItQ2hTVTdtX244anBWY2dMQzlsekUzX2NEekptWndNd0JERnM4SnFvbWtYMWRZcXBFbnRySkxJZEd6ZS1ZbC10OWh6N0NHOTZJRUZET3drdTh3d0dwUWlMNmpma3RnT1lvSl9vczBFRzhueGN4X0XSAYwBQVVfeXFMTnNlUy1SRzN6QnZFZEdMa2J2RC04enRzMmZrZWRuUENnV1FEMEdHR001NDA0Yi1oLWFhbVNCckRZVlBxVkpVZDRhVHRTM28xYlYtS1RRcVZ2dVFHb2hremcwcm8ycDVTLVBaaEh4QmJBaVhkUmxCN1U5NFNjclBZZ3JDeGc2aW9OT2kyMlo?oc=5",
+     "source": "WRIC ABC 8News",
+     "summary": "",
+     "published": "2026-10-25T11:10:59+00:00"
+    },
+    {
+     "title": "Rally in Richmond to stop Virginia data centers",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWklWZnhsWDFVamdFblFlRXMzV2FCSHFaLXBDaFpkNEtKTGpEbGF0U3d5SGNRQUM4ekRYQ2E2M21icEJVaG9lVUx4VmFqeTY2RzB2a2NyMXk4bHRKaHdtaG5HQ194enduSUtKMkFPYTE1YmV2NmpLMlR2UmV0S1d0TA?oc=5",
+     "source": "WTVR.com",
+     "summary": "",
+     "published": "2026-10-25T09:23:59+00:00"
     },
     {
      "title": "2-vehicle crash in Richmond leaves driver trapped, sources say",
@@ -1523,20 +1551,6 @@
      "source": "Legacy | Obituary",
      "summary": "",
      "published": "2026-10-25T05:29:46+00:00"
-    },
-    {
-     "title": "Richmond Zombie Walk shambles through Carytown, raising money for suicide prevention",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yZlBlQ2R6WkxZVS1vOFhCVDRJd0N0MW13bW54bmI1Nk9hRzJMUlJSMlFPMDZIck1pRm90TlFmNzRlWmtHWWVRbGJpVXE4SHh1MHhPTDZCcXgyWGxhREdQSjU1MXF3Tk1OTUVzVVNqNHQxVW00cTdrQw?oc=5",
-     "source": "WTVR.com",
-     "summary": "",
-     "published": "2026-10-25T04:45:33+00:00"
-    },
-    {
-     "title": "Rally in Richmond to stop Virginia data centers",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWklWZnhsWDFVamdFblFlRXMzV2FCSHFaLXBDaFpkNEtKTGpEbGF0U3d5SGNRQUM4ekRYQ2E2M21icEJVaG9lVUx4VmFqeTY2RzB2a2NyMXk4bHRKaHdtaG5HQ194enduSUtKMkFPYTE1YmV2NmpLMlR2UmV0S1d0TA?oc=5",
-     "source": "WTVR.com",
-     "summary": "",
-     "published": "2026-10-25T04:14:13+00:00"
     },
     {
      "title": "Hundreds rally in Richmond to stop Virginia data centers",
@@ -1616,6 +1630,13 @@
      "published": "2026-10-24T12:04:00+00:00"
     },
     {
+     "title": "Unkindness Art Presents Halloween 2026: INTO THE ABYSS",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXpOMDdSTnh1UWNLZGhhNnJWbjBxWlVHTkJzbHJMeS1RUWZTTVFaTFJfU005TXNTM2J0d080SXZxMlp4aFJaLUJIQ211Ym1nSWppRlc5Y0cwejluY2NRNGhkOE9RTkxKRFlzQWJQTlZGYi16U3RMZ1NRdDhKZF9VUjhnZU5PLWk0SFRuQUFzVnJWUQ?oc=5",
+     "source": "Style Weekly",
+     "summary": "",
+     "published": "2026-10-24T07:32:14+00:00"
+    },
+    {
      "title": "Richmond – Pro Bono Fellow",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fbjFpY18yWDh3LUJhMUhnR3JaUUhnQ0VFejlYODc2d2xHcDR4cE5Sc2dsMUc1ZTlfbGQwM1AwMlhnVGpWYlJBNHhhcU05c3g3RlI0ZWdzZkhTYTlqSDNtTnIzWlZZU0hpUGhV?oc=5",
      "source": "Hunton Andrews Kurth LLP",
@@ -1623,39 +1644,18 @@
      "published": "2026-10-24T04:01:49+00:00"
     },
     {
+     "title": "Week 9 Richmond high school football schedule and scoreboard",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRF8wMm4wYTctNExhMGFreWdfVFBvTzQxZTQ1azhId2I0VjVBMlNpcklMTEZWS195SG4tb3l4T1pERlZaZUxXMGlqYWw2c1hqWnRGMERrQTBiVmUteXQ4RGhOUzZrZEltSmxNczFSYzJkUWVpQy1naVBteWtxTnVJcjZXVVFDallld2J2RFk3aS03Ym9uNmxod0YwNWZVTVU?oc=5",
+     "source": "Richmond Times-Dispatch",
+     "summary": "",
+     "published": "2026-10-24T02:30:00+00:00"
+    },
+    {
      "title": "Ruth Epps Obituary (1946 - 2026) - Richmond, VA - Richmond Times-Dispatch",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXozNC1TWi1rdExsdXhVd0tST3QxWlItcXdmWF80MndYQkZEeUF3V3VfckdBaE9vbWc5YUlQMnh1SkZncDBydms1MjZzbi00OXpRb240U0VOQi1GU1dtYnFvVGtYVmVzckI4UlA1U09ZMk9FTXAtZFZfWGwyZ004WjROZGpEM0VkMXhELTZwTQ?oc=5",
      "source": "Legacy | Obituary",
      "summary": "",
      "published": "2026-10-24T00:15:05+00:00"
-    },
-    {
-     "title": "Schedule - St. Christopher's Saints (Richmond, VA) Football 26-27",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ0hadWxiZ2ZPMVc3Q3M3Wk9qaWxGWWFIZXhDUl9BNWpKOU4xVU9qeFJRM2ZiUUZCaHdXM3BLcTQ2bGtTRGxLd3lNUkVSaHp5R3ZtRWhacGlFM3lqMmtocGQ3eVBlRkxhVGxtU0JPYmJmMF80RlpOcVkwNnZRRXFRbnJabWo?oc=5",
-     "source": "MaxPreps",
-     "summary": "",
-     "published": "2026-10-23T23:59:39+00:00"
-    },
-    {
-     "title": "How many people have a disability in Richmond County, VA?",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV1RGdHEwdU02dHVLYXRMM3NJaV9rT2s5SUtKYm5sbE5fWEh6TjNLckRibFUwZS0tYUQ4NHZocEVITVlzYmtDbTRhaUNRNkxidTJPRzN2STBKV3pJNG0tb3JtdEdDWFAyNDVYOXRFdjkyUkgxRlcwSEs5NWJ0Nmc5MU5SQWxjdmhsaGluNk1ZNWR1cTg?oc=5",
-     "source": "USAFacts",
-     "summary": "",
-     "published": "2026-10-23T22:27:18+00:00"
-    },
-    {
-     "title": "Advocates to march in Richmond Saturday calling for pause on new data centers",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXRpNEdWcnVPODZaLTJrTFlJbWJvbGN0b2I3aWNwQWpucXNVdGgxeWVnWXRDZHhfd053WUg2aE5UYTQwNG53bFRpR0R3TTM3SjNjVnF5TnlidU1wcUVaNVJsRlk4SjJ2Qm04MXZpUHNwc21DYWc5Mkw0LXIwUEtJNVZzQjNIRGE2dGhYNXNIS01kQndOT2RsaGZaX01PUUdqWEtsWmRwOEfSAbwBQVVfeXFMTXZlaDgydzllRGpESk91M2IzbXgxUDc5VkkzYmphNE1xSFExZk5hckVLcUxJM3dmaGVGTlhOWGxJdkpOSWE0aUxPTC1rNHRrRms2N0hOY0JyWUtPcVBNN05NQUFmZk9XamQtR1E2ZGtRdVBOekRjVVppWklOeTlQZVlXUG93LWFKZTdZZGN0RnN6Qm1pSmxDVDR4OXdnZkJMd21LNzRpNnhVM29kTnI3OE5uOTlXTlQ3Y1BtemM?oc=5",
-     "source": "WWBT",
-     "summary": "",
-     "published": "2026-10-23T22:23:00+00:00"
-    },
-    {
-     "title": "Man hurt after shooting in Richmond",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0QXRuX1FQOHFsNk55anJ5US1UWEhEVWhhUUxXOGJPTHZvYnU5M0tBbU90d2pjSkFGcDRaSmJpRjhRc3VkeXNLQk50OVBxN1BpbzdEYWhEM2h6V1djaGxvSDk0TzBoWU9kZFRScFhaaExtaWp3NFJTQTR3c1k?oc=5",
-     "source": "WTVR.com",
-     "summary": "",
-     "published": "2026-10-23T22:11:49+00:00"
     }
    ],
    "feeds_ok": 2,
