@@ -5,6 +5,7 @@ A free, self-updating website, hosted on GitHub Pages and refreshed every 5 minu
 | Tab | What it shows | Source |
 |---|---|---|
 | **Markets** | Ticker tape, market overview (SPY, QQQ, DIA, IWM, Sensex, Nifty) and market headlines | TradingView, MarketWatch, Yahoo Finance, Google News |
+| **My Watchlist** (iamselva.com/#watchlist) | How your stocks did today, 1 week, 1 month, 3 months, year to date and 1 year, ranked and compared with the S&P 500 and Nasdaq 100, plus each stock's 52-week range | Finnhub |
 | **Top 100 Stocks** | S&P 500 heat map and the biggest US stocks by market value | TradingView |
 | **Analyst Ratings** | Upgrades, downgrades, new coverage and price-target changes (JPMorgan, Goldman Sachs, Morgan Stanley, BofA and more), plus buy/hold/sell counts for your watchlist and whether analysts got more or less bullish since last month | News headlines (parsed), Finnhub |
 | **Earnings** | Your watchlist's next results, everyone reporting in the next 2 weeks (biggest first), and the US/India economic calendar | Finnhub, TradingView |

@@ -378,6 +378,57 @@ def build_penny(fh, rcfg, cache):
     return {"news": news, "stocks": stocks, "max_price": rcfg.get("penny_max_price", 5)}
 
 
+
+# ---------------------------------------------------------------- watchlist performance
+PERIOD_KEYS = {  # Finnhub /stock/metric field names, first one found wins
+    "week": ["5DayPriceReturnDaily"],
+    "month": ["4WeekPriceReturnDaily", "monthToDatePriceReturnDaily"],
+    "mtd": ["monthToDatePriceReturnDaily"],
+    "m3": ["13WeekPriceReturnDaily"],
+    "ytd": ["yearToDatePriceReturnDaily"],
+    "year": ["52WeekPriceReturnDaily"],
+}
+
+
+def performance(fh, symbols, quotes, cache, metric_max_age_h=3):
+    """Today's move from the live quote; week/month/year returns (as of last close) from /stock/metric."""
+    rows = []
+    for sym in symbols:
+        c = cache.get(sym, {})
+        fresh = c.get("fetched") and NOW - datetime.fromisoformat(c["fetched"]) < timedelta(hours=metric_max_age_h)
+        if not fresh:
+            try:
+                m = fh.get("/stock/metric", symbol=sym, metric="all")
+                if m is not None:
+                    met = m.get("metric") or {}
+                    keep = {k: v for k, v in met.items() if "PriceReturn" in k or k in ("52WeekHigh", "52WeekLow", "52WeekHighDate", "52WeekLowDate", "beta", "marketCapitalization")}
+                    c = {**c, "fetched": NOW.isoformat(), "metric": keep}
+            except Exception as ex:
+                log(f"  metric {sym}: {ex}")
+        if not c.get("name_fetched") or NOW - datetime.fromisoformat(c["name_fetched"]) > timedelta(days=7):
+            try:
+                prof = fh.get("/stock/profile2", symbol=sym)
+                if prof is not None:
+                    c = {**c, "name": prof.get("name") or c.get("name"), "name_fetched": NOW.isoformat()}
+            except Exception as ex:
+                log(f"  profile {sym}: {ex}")
+        cache[sym] = c
+        met = c.get("metric", {})
+        q = quotes.get(sym)
+        if q is None:
+            try:
+                qq = fh.get("/quote", symbol=sym) or {}
+                q = {"price": qq.get("c"), "change_pct": qq.get("dp")} if qq.get("c") else {}
+            except Exception:
+                q = {}
+        row = {"symbol": sym, "name": c.get("name"), "price": q.get("price"), "today": q.get("change_pct"),
+               "high52": met.get("52WeekHigh"), "low52": met.get("52WeekLow"), "as_of_close": c.get("fetched")}
+        for period, keys in PERIOD_KEYS.items():
+            row[period] = next((met[k] for k in keys if met.get(k) is not None), None)
+        row["month_is_mtd"] = met.get("4WeekPriceReturnDaily") is None and row["month"] is not None
+        rows.append(row)
+    return rows
+
 # ---------------------------------------------------------------- research file
 def build_research():
     rcfg = CONFIG.get("research")
@@ -399,13 +450,27 @@ def build_research():
             log(f"  consensus FAILED -> {ex}")
             out["consensus"] = old.get("consensus", [])
         try:
+            quotes = {r["symbol"]: r for r in out["consensus"] if r.get("price")}
+            quotes = {k: {"price": v["price"], "change_pct": v.get("change_pct")} for k, v in quotes.items()}
+            mcache = old.get("_metric_cache", {})
+            out["watchlist"] = {
+                "stocks": performance(fh, watch, quotes, mcache),
+                "benchmarks": performance(fh, rcfg.get("benchmarks", ["SPY", "QQQ"]), {}, mcache),
+            }
+            out["_metric_cache"] = mcache
+            log(f"  watchlist: {len(out['watchlist']['stocks'])} stocks")
+        except Exception as ex:
+            log(f"  watchlist FAILED -> {ex}")
+            out["watchlist"] = old.get("watchlist")
+            out["_metric_cache"] = old.get("_metric_cache", {})
+        try:
             out["earnings"] = earnings_calendar(fh, rcfg, old.get("earnings"), watch)
         except Exception as ex:
             log(f"  earnings FAILED -> {ex}")
             out["earnings"] = old.get("earnings")
     else:
         log("FINNHUB_API_KEY not set — skipping quotes, consensus and earnings calendar.")
-        out["consensus"], out["earnings"] = [], None
+        out["consensus"], out["earnings"], out["watchlist"] = [], None, None
 
     try:
         out["penny"] = build_penny(fh, rcfg, cache)

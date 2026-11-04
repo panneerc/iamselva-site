@@ -105,6 +105,8 @@
   .chip{font:inherit;font-size:14px;font-weight:600;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:6px 13px;cursor:pointer}
   .chip:hover{border-color:var(--muted)}
   .chip[aria-pressed="true"]{background:var(--band);border-color:var(--band);color:#fff}
+  @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .chip[aria-pressed="true"]{background:var(--yellow);border-color:var(--yellow);color:var(--yellow-ink)} }
+  :root[data-theme="dark"] .chip[aria-pressed="true"]{background:var(--yellow);border-color:var(--yellow);color:var(--yellow-ink)}
   .chip small{font-weight:400;opacity:.7;margin-left:6px}
 
   .badge{display:inline-block;font-size:12.5px;font-weight:700;border-radius:6px;padding:3px 8px;margin-right:8px;white-space:nowrap}
@@ -147,6 +149,30 @@
   .mentions a{text-decoration:underline;text-decoration-color:var(--line);text-underline-offset:3px}
   .mentions a:hover{text-decoration-color:var(--ink)}
   @media(max-width:620px){ .hide-sm{display:none} .tbl td,.tbl th{padding-left:8px;padding-right:8px} }
+
+  /* ---------- My Watchlist ---------- */
+  .perf{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:8px 18px 14px;margin-bottom:24px}
+  .prow{display:grid;grid-template-columns:150px minmax(0,1fr) 78px;align-items:center;gap:12px;padding:7px 0;border-top:1px solid var(--line)}
+  .prow:first-child{border-top:0}
+  .prow .who{font-weight:800;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .prow .who small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);overflow:hidden;text-overflow:ellipsis}
+  .prow.bench .who{color:var(--muted)}
+  .track{position:relative;height:18px}
+  .track::before{content:"";position:absolute;left:50%;top:-6px;bottom:-6px;border-left:1px solid var(--line)}
+  .fill{position:absolute;top:2px;height:14px;border-radius:3px}
+  .fill.pos{left:50%;background:var(--up)}
+  .fill.neg{right:50%;background:var(--down)}
+  .prow.bench .fill{opacity:.45}
+  .prow .val{font-weight:700;text-align:right;font-variant-numeric:tabular-nums}
+  .tbl th button{all:unset;cursor:pointer;color:inherit;font:inherit}
+  .tbl th button:hover,.tbl th.sorted button{color:var(--ink)}
+  .tbl th.sorted button::after{content:" ▾";font-size:11px}
+  .tbl th.sorted.asc button::after{content:" ▴"}
+  .tbl td.hl{background:color-mix(in srgb, var(--yellow) 12%, transparent)}
+  .tbl tr.bench td{color:var(--muted)}
+  .range{position:relative;height:6px;border-radius:3px;background:var(--neutral-bg);min-width:80px}
+  .range i{position:absolute;top:-3px;width:4px;height:12px;border-radius:2px;background:var(--ink);transform:translateX(-50%)}
+  @media(max-width:620px){ .prow{grid-template-columns:96px minmax(0,1fr) 64px;gap:8px} .prow .who small{display:none} }
 
   footer{border-top:1px solid var(--line);color:var(--muted);font-size:13px;line-height:1.7;padding-top:22px;padding-bottom:44px}
 </style>
@@ -198,6 +224,7 @@ const WATCHLIST = [
 ];
 // Tabs built from data and live widgets (not plain headline lists). Shown after "Markets".
 const SPECIAL_TABS = [
+  { id: "watchlist", title: "My Watchlist" },
   { id: "stocks",   title: "Top 100 Stocks" },
   { id: "analysts", title: "Analyst Ratings" },
   { id: "earnings", title: "Earnings" },
@@ -302,6 +329,63 @@ function trendCell(c) {
 function keyNotice() {
   return `<div style="padding:0 18px 18px"><div class="notice"><b>This part needs a free data key.</b> Sign up at finnhub.io, then add the key to GitHub as a secret named
     <b>FINNHUB_API_KEY</b>. The README in your repo has the steps. Everything else on this page already works without it.</div></div>`;
+}
+
+// ---------- tab: My Watchlist ----------
+const PERIODS = [
+  { id: "today", label: "Today" }, { id: "week", label: "1 week" }, { id: "month", label: "1 month" },
+  { id: "m3", label: "3 months" }, { id: "ytd", label: "Year to date" }, { id: "year", label: "1 year" }
+];
+let period = "today", sortKey = "today", sortAsc = false;
+try { const p = localStorage.getItem("wl-period"); if (PERIODS.some(x => x.id === p)) { period = p; sortKey = p; } } catch (e) {}
+
+function benchName(sym) { return { SPY: "S&P 500", QQQ: "Nasdaq 100", DIA: "Dow 30", IWM: "Russell 2000" }[sym] || sym; }
+
+function fillWatchlist() {
+  const w = RES?.watchlist;
+  const plabel = PERIODS.find(x => x.id === period).label;
+  $("#wl-chips").innerHTML = PERIODS.map(x => `<button class="chip" type="button" data-p="${x.id}" aria-pressed="${period === x.id}">${x.label}</button>`).join("");
+  if (RES?.finnhub === "missing_key") { $("#wl-bars").innerHTML = keyNotice(); $("#wl-table").innerHTML = ""; return; }
+  if (!w?.stocks?.length) { $("#wl-bars").innerHTML = `<div class="empty">Your watchlist fills in after the next update, within a few minutes.</div>`; $("#wl-table").innerHTML = ""; return; }
+
+  const monthMtd = w.stocks.some(r => r.month_is_mtd);
+  const label = id => id === "month" && monthMtd ? "Month to date" : PERIODS.find(x => x.id === id).label;
+  const benches = (w.benchmarks || []).map(b => ({ ...b, bench: true, name: benchName(b.symbol) }));
+
+  // Ranked bars for the chosen period, your stocks plus the benchmarks
+  const all = [...w.stocks, ...benches].filter(r => r[period] != null).sort((a, b) => b[period] - a[period]);
+  const maxAbs = Math.max(1, ...all.map(r => Math.abs(r[period])));
+  $("#wl-bars").innerHTML = all.map(r => {
+    const v = r[period], width = Math.abs(v) / maxAbs * 50;
+    return `<div class="prow ${r.bench ? "bench" : ""}"><div class="who">${esc(r.bench ? r.name : r.symbol)}<small>${esc(r.bench ? r.symbol : (r.name || ""))}</small></div>
+      <div class="track"><div class="fill ${v >= 0 ? "pos" : "neg"}" style="width:${width}%"></div></div>
+      <div class="val ${cls(v)}">${pct(v)}</div></div>`;
+  }).join("");
+  const beat = w.stocks.filter(r => r[period] != null && benches[0] && benches[0][period] != null && r[period] > benches[0][period]).length;
+  $("#subtitle").textContent = benches[0]?.[period] != null
+    ? `${label(period)}: ${beat} of ${w.stocks.length} of your stocks beat the S&P 500 (${pct(benches[0][period])})`
+    : `How your stocks are doing, ${label(period).toLowerCase()}`;
+
+  // Full table, sortable
+  const cols = [["price", "Price"], ...PERIODS.map(x => [x.id, label(x.id)])];
+  const rows = [...w.stocks].sort((a, b) => {
+    const av = sortKey === "symbol" ? a.symbol : a[sortKey], bv = sortKey === "symbol" ? b.symbol : b[sortKey];
+    if (av == null) return 1; if (bv == null) return -1;
+    return (av > bv ? 1 : av < bv ? -1 : 0) * (sortAsc ? 1 : -1);
+  });
+  const th = (key, text, num) => `<th class="${num ? "num" : ""} ${sortKey === key ? "sorted" + (sortAsc ? " asc" : "") : ""}"><button type="button" data-sort="${key}">${text}</button></th>`;
+  const cell = (r, id) => id === "price" ? `<td class="num">${money(r.price)}</td>` : `<td class="num ${cls(r[id])} ${id === period ? "hl" : ""}">${pct(r[id])}</td>`;
+  const rangeCell = r => {
+    if (r.high52 == null || r.low52 == null || r.price == null || r.high52 <= r.low52) return `<td class="hide-sm">–</td>`;
+    const at = Math.min(100, Math.max(0, (r.price - r.low52) / (r.high52 - r.low52) * 100));
+    return `<td class="hide-sm" title="52-week low ${money(r.low52)}, high ${money(r.high52)}"><div class="range"><i style="left:${at}%"></i></div><div class="bar-cap">${money(r.low52)} to ${money(r.high52)}</div></td>`;
+  };
+  const line = r => `<tr class="${r.bench ? "bench" : ""}"><td>${r.bench ? `<span class="sym">${esc(r.name)}</span>` : `<a class="sym" href="${yahoo(r.symbol)}" target="_blank" rel="noopener">${esc(r.symbol)}</a>`}</td>
+      ${cols.map(([id]) => cell(r, id)).join("")}${rangeCell(r)}</tr>`;
+  $("#wl-table").innerHTML = `<div class="scroll-x"><table class="tbl"><thead><tr>${th("symbol", "Stock", false)}${cols.map(([id, t]) => th(id, t, true)).join("")}<th class="hide-sm">52-week range</th></tr></thead>
+    <tbody>${rows.map(line).join("")}${benches.map(line).join("")}</tbody></table></div>`;
+  const closeAt = w.stocks.find(r => r.as_of_close)?.as_of_close;
+  $("#wl-note").textContent = `Today is live. Longer periods are measured to the last market close${closeAt ? `, checked ${ago(closeAt)}` : ""}. Click a column to sort. Edit your stocks in feeds.json.`;
 }
 
 // ---------- tab: Analyst Ratings ----------
@@ -433,6 +517,18 @@ function build(theme) {
     return;
   }
 
+  if (current === "watchlist") {
+    $("#q").hidden = true;
+    $("#view").innerHTML = `<div id="wl-chips" class="chips" role="group" aria-label="Time period"></div>
+      <div class="perf" id="wl-bars"></div>
+      <section class="panel"><div class="panel-title">All periods</div><div class="panel-note" id="wl-note"></div><div id="wl-table"></div></section>`;
+    $("#wl-chips").onclick = e => { const b = e.target.closest(".chip"); if (!b) return; period = b.dataset.p; sortKey = period; sortAsc = false;
+      try { localStorage.setItem("wl-period", period); } catch (err) {} fillWatchlist(); };
+    $("#wl-table").onclick = e => { const b = e.target.closest("[data-sort]"); if (!b) return;
+      const k = b.dataset.sort; sortAsc = sortKey === k ? !sortAsc : k === "symbol"; sortKey = k; fillWatchlist(); };
+    return;
+  }
+
   if (current === "analysts") {
     $("#q").placeholder = "Filter by stock or bank";
     $("#view").innerHTML = `<div id="chips" class="chips"></div>
@@ -498,6 +594,7 @@ function build(theme) {
 
 // Fills in the data (runs on filter typing and on every background refresh)
 function fill() {
+  if (current === "watchlist") return fillWatchlist();
   if (current === "analysts") return fillAnalysts();
   if (current === "earnings") return fillEarnings();
   if (current === "penny") return fillPenny();

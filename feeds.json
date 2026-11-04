@@ -65,7 +65,7 @@
     }
   ],
   "research": {
-    "_help": "watchlist = stocks shown on the Analyst Ratings and Earnings tabs. penny_watchlist = penny stocks you always want checked (leave empty to only use stocks mentioned in the news). Live prices, buy/hold/sell counts and the earnings calendar need a free FINNHUB_API_KEY secret (see README).",
+    "_help": "watchlist = your stocks, shown on the My Watchlist, Analyst Ratings and Earnings tabs. benchmarks = what your stocks are compared against. penny_watchlist = penny stocks you always want checked (leave empty to only use stocks mentioned in the news). Live prices, buy/hold/sell counts and the earnings calendar need a free FINNHUB_API_KEY secret (see README).",
     "watchlist": [
       "AAPL",
       "MSFT",
@@ -79,6 +79,10 @@
       "JPM",
       "NFLX",
       "PLTR"
+    ],
+    "benchmarks": [
+      "SPY",
+      "QQQ"
     ],
     "penny_watchlist": [],
     "penny_max_price": 5,
