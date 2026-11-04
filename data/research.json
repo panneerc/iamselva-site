@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:20:05.597622+00:00",
+ "updated": "2026-11-04T23:27:31.822402+00:00",
  "finnhub": "ok",
  "analyst_moves": [
   {
@@ -123,15 +123,15 @@
    "ticker": null
   },
   {
-   "title": "Jefferies raises Nomad Foods stock price target on volume improvement",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckQwN3JtdWpzUjA0Q3Ixem1fVjd1Y3FhUFBPQXZGUnpvaExTbjd5MWkzOGZXbVhLelVYUWtDYVd5dS1fNWwzWllIX0VaMTFDMXphVlZmMW1GXzVFUWJYaGJfQXRRdHdrQnJlOWdOdjR2Z1JqUGhFZGVtSl9aYTZjU0pHX0tBdWVkUUI5blFSQmdWd1ctZVZSZUtrSjhPOVAxNTZNTWlsQmFyUk8zbldWc3lXNFhzMHlvd29TQnlrTjhxWHFNdWtmRg?oc=5",
-   "source": "Investing",
+   "title": "JP Morgan maintains Hamilton Lane at Overweight, lowers price target to $144 from $150",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdEsxV0ZHSkRQUmwzcFFXUUFFMW1kR2V4NDVQdThOUUlvWFNpODNuVGozMURRMFpRazVtQ3ZLaEd5OW9XZ2s5Q3F1QmJCMmZxOTA1cTFTeDRIaUVyNmNmX1BoUF9Cb1Y2TzYtX3FaSEhkZGRzWjRwRDFQRWN2eE42aF9WNGYtQUFkREd3MncyMW43ZE9nMUJCZVlHb2RxYUhTSi1YR05tS0Y2Njk2aXZnVEllQWhRcFBRMkxfYmp1X040aWNtRGVNbkVxQ3M1VlFWNm5rVXhKRV9kTU9QMFE?oc=5",
+   "source": "TradingView",
    "summary": "",
-   "published": "2026-11-04T21:59:23+00:00",
-   "firm": "Jefferies",
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
+   "published": "2026-11-04T21:28:12+00:00",
+   "firm": "JPMorgan",
+   "action": "Target cut",
+   "rating": "Overweight",
+   "target": "$144",
    "ticker": null
   },
   {
@@ -255,18 +255,6 @@
    "ticker": "KMX"
   },
   {
-   "title": "Calix (NYSE:CALX) Price Target Cut to $50.00 by Analysts at JPMorgan Chase & Co.",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzcyWVNGbHZBR2Y2YjRMUlRGejUtVHR2TWRwNGVIQ3RmYl9rLVo5WWx1RUdiaHlBX1R6ajNEbDJQWGs2b0ZHVVVmcGFJS2lNd0tOWVk4T0hMaGNQSU9IOWhZX0NSYTdnRW9WaTJxcmM2RlY0MXJZRmtaeWVkZDRxOTJJcmlXM281aERIcDBqb2t4WmNtUXNjWnNqY3ZKbDlpV0dWbUNxeW1GVkdVV3dZS3doLXVBQnFVdUNuaU1jemZyQjZLaThYbkFFRzB2RXNK?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-04T20:30:50+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$50.00",
-   "ticker": "CALX"
-  },
-  {
    "title": "Booking (NASDAQ:BKNG) Price Target Cut to $205.00 by Analysts at JPMorgan Chase & Co.",
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcEt0bi02OTg3MEtSSVVaeXh6YzJHN1BobDFwSWJTSVVUbjAyTXRhOFJpOU9uYnBrWW9EaVpfUlQ3NHBTOUJYeDVIZW5MZURSTkVTVXNwejZDaURHWVpqRXFZZXdTYlBDLVlMNXFuSGUzNjBYbHFEeDB6UEYxeU0wTmtNZjhtREN3cU9aNE8yOGhYUkEtbEp5NG5oOTkyR3IwMjhXU2xWeHNFUGQxSXZnY1R4bG91TU9vSTFZMElObjhjM1pTR01zUzRhYkRtQUlwQmNPMldFYw?oc=5",
    "source": "MarketBeat",
@@ -336,6 +324,18 @@
    "action": "Target cut",
    "rating": "Neutral",
    "target": "$65",
+   "ticker": null
+  },
+  {
+   "title": "JP Morgan maintains Calix at Overweight, lowers price target to $50 from $58",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbE5DNDg4VE9iVkxSRmk1Rktya3dzbmM3eHBBRGh2ckxSS1pfRTluclEya2o0MUxqcGhfTUJrME5CTVIxLVVPenJWY1o0c254LXJjUzR3YWw4MzMxbnhMRmt4LVJKemZoakVRT2VzZ25jU3N2SEdaeEN1OVNzUG5TMjg0Ukl2MlVqSkFQMHVwYnY3c3pDckxJZzI3LWZIM0YtR2Zyc3pKWmR1WWgxemV1eWVMSnRiMy16VFJkRE1tYXZiMnRLbUVBajJYeTNmLXBL?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-04T20:16:11+00:00",
+   "firm": "JPMorgan",
+   "action": "Target cut",
+   "rating": "Overweight",
+   "target": "$50",
    "ticker": null
   },
   {
@@ -444,18 +444,6 @@
    "action": "Target raised",
    "rating": "Neutral",
    "target": "$65",
-   "ticker": null
-  },
-  {
-   "title": "JP Morgan maintains Expeditors International at Neutral, raises price target to $220 from $214",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdG02MV9IWDZiVGxyS1hKUW1xS0kwaWMyTFptcFVoUzBDZ1lQdXJkeUIzTXYxUEtpaVVqYTUxSG1wOWtLaWpad21fVlVyemVMODBuVnVtOGVaUUZHZHlBSjl1cVdUeFJIRnA1eVhQMmVfT1NYSGJlRnVPdGNMUlZzSy13VmlEdzRacmJpSkZzVGVFSXB6SndxdF9UT19HTWEyS0NVbmVzeWNKWFIwQ0Q5U18wZk9hRnMxRkxYYzlGckQ2a3BVTTRLX21oTENXOVRmb1g1TEU5OWZabmN3Uk03VTAtU0RuUVhz?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-04T19:44:27+00:00",
-   "firm": "JPMorgan",
-   "action": "Target raised",
-   "rating": "Neutral",
-   "target": "$220",
    "ticker": null
   },
   {
@@ -699,6 +687,18 @@
    "ticker": null
   },
   {
+   "title": "Morgan Stanley maintains Keurig Dr Pepper at Overweight, raises price target to $40 from $38",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV1BYcEIwcFpIQVoyRENxcUlYZEo0b2trUVRLQmZXemdTODdKZUpfUXRXNk16RmdNTkI0V3pzT3M3WUxXY3ZBUV9ubFVkdnl3MUdpcTdmdDBfb3FSeXloVVAxTTczRU9WX3JOcFh6UHZ6bmExajQ2V0RkM0NDQ0d1ZWN0WGR6dExMVldqUUlpSHB4bEVGX2lMU3Y0cm16UExYSVk4WklHVWRzNW4tVURtTlRFbXFSSnBmZVhJSHBmRVpIX2FaWThoc2Q4bUFlVFJ0RG1JTDJ3SE50aFpaZFhJVFFidGVEZw?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-04T18:11:52+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Overweight",
+   "target": "$40",
+   "ticker": null
+  },
+  {
    "title": "Goldman Sachs maintains Aptiv at Buy, lowers price target to $54 from $61",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUG5zdjMwNU1BTFdUVU44RmUtMmllS1l2dm5NSG42dzVXR1JxY3RUU0hobjBXTGIxcERFWHRsMmxqMTdhQ1JJVU4xNlNteGZzbEs1UmVvYlNleG9Edk43THJtcGlLQlk1azBLZXV5MHhyS1FWMHJTclJyZDR0WDFvUDl0bVc3SXNxaWJGNlJwZXd4QmRoUmNESzZMS19mQnJ0dVA3ejZwc3NqMnNEM3k1bXJBSXdiNDA2YlBYX0MxMndONGxWX3BlRjVXa20?oc=5",
    "source": "TradingView",
@@ -768,18 +768,6 @@
    "action": "Target cut",
    "rating": "Outperform",
    "target": "$59",
-   "ticker": null
-  },
-  {
-   "title": "BNP Paribas maintains Zebra Technologies at Outperform, lowers price target to $455 from $460",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdUpLa1ZPSjNFR2czeFNVWkxMTFZMcXRrZXVEVEItZFNjZUlteEJ1TTdUYUlzOXdONzc0U1lod0NOUnNEeDF6dm5IZWJBcEo0eEpleG9QUFl3amJST3FiUzBuUGU3cWhQNV9xZW04aThUV1cyd1BWcDM0T0tyYTFJeXI0Q3dzWjBkMkwtb2s4MFdnc2dnMDVLUFlCMDV3ZjFjVHZiNnU5OXVHbEg3WUJvaVJsdXVjc0RudWZOUjAyeDBiV3ZzbklfZDdiQ082WVVIcVV2ZUd1Umtad3oxSnV0MUlPVXl3Ums?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-04T17:49:31+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": "Outperform",
-   "target": "$455",
    "ticker": null
   },
   {
@@ -915,6 +903,18 @@
    "ticker": null
   },
   {
+   "title": "JPMorgan Downgrades AutoNation to Neutral From Overweight, $185 Price Target",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYUZNSnJEQW1vZkRoejMzZXc3dG01MEkxUGVNdzJLQWxkdVJBeEVQazhEbVlWXzVUMzl1cUw3YWR5WTl6R0VxaGVKYkV2aW9Ccy0zT05lS3BTdDdxRVRKQ3VjdnA2eFBPbUpqUmdhdW01WjIzcEJXUTIyMFg5RVpDeERJc0ItbDk1djF1OWVwaXlJZnEwUng5VkN0VURfNmRQS3JIZGZyR1hudS1YUVM5Z2oxbjNiNVpPSGc?oc=5",
+   "source": "Moomoo",
+   "summary": "",
+   "published": "2026-11-04T16:24:34+00:00",
+   "firm": "JPMorgan",
+   "action": "Downgrade",
+   "rating": "Neutral",
+   "target": "$185",
+   "ticker": null
+  },
+  {
    "title": "Wells Fargo maintains Amgen at Equal-Weight, raises price target to $460 from $430",
    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSzVBdFJRYjBmdUxhaHpjUXBWZmpRZmdTeGM5XzdGTVR0QUIwYlZYZUlnMVc5Z0d3T2Jmdy0zQ1h3YUFFWld5RTR0SGNBSmpVU2pEbXdJYTA5T1h4eTRVTUtPdnFzVmozbG00TXVMSEk2S3QtWmJGRXRyenI1ZWVhSm1JQjNKSnF0MWlDZE04eUsxMW1QaWh6X042NW5venZ0YlBaMUhxUU9HV19kY01uMWp2c3hkM054SV9GbjI1SFEtQ2V1STRXOUdOSmtkdXhkWGd5TElsSGY?oc=5",
    "source": "TradingView",
@@ -985,6 +985,18 @@
    "rating": "Underweight",
    "target": null,
    "ticker": "FLG"
+  },
+  {
+   "title": "UBS raises DuPont stock price target to $182 on margin strength",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUozWmRwOHJqb05QQzhtTDY0UkxlY0t4ek1QaUk5dlFQX0VGUmh6Y2N6NWFQRlE3LUs1TmZQcE44S3R3X1V5RmZVb1RCM0lKNERfSEJDWEo2amM2RkxFcHpNeUdmT3JmQ1NSZjZqUWtVOXlsU29DaVVXMUJNbEhfdnF2LXJNWi16cHlJcDNzSGd2MmZTSGVOY1FLeGYtZHI3ZUxEdHVqazJ3eWR2VGlrWkxwajFSV01tMlZyQzJtRQ?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-04T15:08:18+00:00",
+   "firm": "UBS",
+   "action": "Target raised",
+   "rating": null,
+   "target": "$182",
+   "ticker": null
   },
   {
    "title": "Vistra downgraded to Sector Weight from Overweight at KeyBanc",
@@ -1429,18 +1441,6 @@
    "rating": null,
    "target": null,
    "ticker": null
-  },
-  {
-   "title": "Morgan Stanley cuts DigitalOcean stock price target on valuation",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSG9teE5Od0ZWNlpUMnlPWUpLRkNHTzZ2WXh4bGZRVUVuVXU1Q3ZWSkl6YlNrTjFyX19qVGozSzhXSmRCMTNUOXEyQjVjaEtucDE4TFgzR3NNdEV6RUp1WnlzRFp0SXVhLTBmMk45VV81eGNhSjZnMVZZRjFXX21MYjBxdnV3SWd2b1JZZjZPd01ia1JHY3o2b1RkZC1iOHNQQnBsLV9yWEhCOV9jdGdKcGRoUDFEWUcwQlUzQ19yU1MzZw?oc=5",
-   "source": "Investing",
-   "summary": "",
-   "published": "2026-11-04T11:55:41+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
   }
  ],
  "consensus": [
@@ -1685,6 +1685,502 @@
    }
   }
  ],
+ "watchlist": {
+  "stocks": [
+   {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "price": 349.51,
+    "today": 5.3058,
+    "high52": 351.73,
+    "low52": 243.42,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -3.4697,
+    "month": -3.6938,
+    "mtd": -3.6938,
+    "m3": 7.2791,
+    "ytd": 22.0849,
+    "year": 23.36,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "price": 555.8,
+    "today": 6.6815,
+    "high52": 551.15,
+    "low52": 349.2,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -1.887,
+    "month": -0.1763,
+    "mtd": -0.1763,
+    "m3": 5.7182,
+    "ytd": 7.7271,
+    "year": 0.7659,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "price": 200.13,
+    "today": -3.1738,
+    "high52": 243.37,
+    "low52": 164.27,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -4.0347,
+    "month": 1.0018,
+    "mtd": 1.0018,
+    "m3": -2.4771,
+    "ytd": 10.8257,
+    "year": -0.0918,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc",
+    "price": 266.03,
+    "today": 6.1191,
+    "high52": 287.2,
+    "low52": 196,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -1.5357,
+    "month": 4.3021,
+    "mtd": 4.3021,
+    "m3": -9.6352,
+    "ytd": 8.6084,
+    "year": -1.3031,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "price": 288.93,
+    "today": 3.1782,
+    "high52": 408.61,
+    "low52": 270.7,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -13.8078,
+    "month": 0.0679,
+    "mtd": 0.0679,
+    "m3": -25.8493,
+    "ytd": -10.5335,
+    "year": -1.3006,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "META",
+    "name": "Meta Platforms, Inc.",
+    "price": 630,
+    "today": 1.4444,
+    "high52": 779.8192,
+    "low52": 520.26,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": 1.3943,
+    "month": 0.9821,
+    "mtd": 0.9821,
+    "m3": 5.6281,
+    "ytd": -5.9174,
+    "year": -2.6156,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "TSLA",
+    "name": "Tesla Inc",
+    "price": 385.19,
+    "today": -3.34,
+    "high52": 498.83,
+    "low52": 297.38,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -1.4151,
+    "month": -0.3277,
+    "mtd": -0.3277,
+    "m3": 21.7351,
+    "ytd": -11.3893,
+    "year": -14.9177,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "AVGO",
+    "name": "Broadcom Inc",
+    "price": 325.48,
+    "today": -2.0022,
+    "high52": 495,
+    "low52": 289.96,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -5.5939,
+    "month": 1.8554,
+    "mtd": 1.8554,
+    "m3": -20.5735,
+    "ytd": -4.0364,
+    "year": -8.3906,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "price": 488.78,
+    "today": 1.0085,
+    "high52": 658.52,
+    "low52": 188.22,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -16.344,
+    "month": -4.1403,
+    "mtd": -4.1403,
+    "m3": -6.6875,
+    "ytd": 125.9526,
+    "year": 86.3663,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "price": 352.11,
+    "today": 4.1807,
+    "high52": 366.5,
+    "low52": 279.1,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -0.389,
+    "month": 0.2789,
+    "mtd": 0.2789,
+    "m3": -5.4654,
+    "ytd": 4.8911,
+    "year": 9.2549,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "NFLX",
+    "name": "Netflix, Inc.",
+    "price": 66.39,
+    "today": 4.6831,
+    "high52": 116.73,
+    "low52": 61.3922,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": 2.3068,
+    "month": 2.1585,
+    "mtd": 2.1585,
+    "m3": -13.7964,
+    "ytd": -32.3592,
+    "year": -42.3507,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "PLTR",
+    "name": "Palantir Technologies Inc.",
+    "price": 171.7,
+    "today": -2.1095,
+    "high52": 212.9399,
+    "low52": 106.37,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -10.8785,
+    "month": -4.7309,
+    "mtd": -4.7309,
+    "m3": 7.8323,
+    "ytd": -1.3221,
+    "year": -15.3393,
+    "month_is_mtd": true
+   }
+  ],
+  "benchmarks": [
+   {
+    "symbol": "SPY",
+    "name": null,
+    "price": 766.81,
+    "today": 1.6518,
+    "high52": 781.62,
+    "low52": 629.28,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -2.3255,
+    "month": -0.1813,
+    "mtd": -0.1813,
+    "m3": -2.2014,
+    "ytd": 10.6215,
+    "year": 10.3916,
+    "month_is_mtd": true
+   },
+   {
+    "symbol": "QQQ",
+    "name": null,
+    "price": 691.95,
+    "today": 0.9733,
+    "high52": 762.86,
+    "low52": 555.6,
+    "as_of_close": "2026-11-04T23:27:31.822402+00:00",
+    "week": -5.5581,
+    "month": -0.7545,
+    "mtd": -0.7545,
+    "m3": -5.3285,
+    "ytd": 11.5528,
+    "year": 8.4167,
+    "month_is_mtd": true
+   }
+  ]
+ },
+ "_metric_cache": {
+  "AAPL": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": 7.2791,
+    "26WeekPriceReturnDaily": 22.3144,
+    "52WeekHigh": 351.73,
+    "52WeekHighDate": "2026-10-23",
+    "52WeekLow": 243.42,
+    "52WeekLowDate": "2026-01-20",
+    "52WeekPriceReturnDaily": 23.36,
+    "5DayPriceReturnDaily": -3.4697,
+    "beta": 1.0963751,
+    "marketCapitalization": 5153569.5,
+    "monthToDatePriceReturnDaily": -3.6938,
+    "yearToDatePriceReturnDaily": 22.0849
+   },
+   "name": "Apple Inc.",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "MSFT": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": 5.7182,
+    "26WeekPriceReturnDaily": 27.7625,
+    "52WeekHigh": 551.15,
+    "52WeekHighDate": "2026-10-13",
+    "52WeekLow": 349.2,
+    "52WeekLowDate": "2026-06-25",
+    "52WeekPriceReturnDaily": 0.7659,
+    "5DayPriceReturnDaily": -1.887,
+    "beta": 1.0635962,
+    "marketCapitalization": 3868973,
+    "monthToDatePriceReturnDaily": -0.1763,
+    "yearToDatePriceReturnDaily": 7.7271
+   },
+   "name": "Microsoft Corporation",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "NVDA": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -2.4771,
+    "26WeekPriceReturnDaily": 3.5677,
+    "52WeekHigh": 243.37,
+    "52WeekHighDate": "2026-10-06",
+    "52WeekLow": 164.27,
+    "52WeekLowDate": "2026-03-30",
+    "52WeekPriceReturnDaily": -0.0918,
+    "5DayPriceReturnDaily": -4.0347,
+    "beta": 2.3391538,
+    "marketCapitalization": 4981229,
+    "monthToDatePriceReturnDaily": 1.0018,
+    "yearToDatePriceReturnDaily": 10.8257
+   },
+   "name": "NVIDIA Corporation",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "AMZN": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -9.6352,
+    "26WeekPriceReturnDaily": -5.4214,
+    "52WeekHigh": 287.2,
+    "52WeekHighDate": "2026-08-03",
+    "52WeekLow": 196,
+    "52WeekLowDate": "2026-02-17",
+    "52WeekPriceReturnDaily": -1.3031,
+    "5DayPriceReturnDaily": -1.5357,
+    "beta": 1.5442097,
+    "marketCapitalization": 2710745.5,
+    "monthToDatePriceReturnDaily": 4.3021,
+    "yearToDatePriceReturnDaily": 8.6084
+   },
+   "name": "Amazon.com Inc",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "GOOGL": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -25.8493,
+    "26WeekPriceReturnDaily": -27.2271,
+    "52WeekHigh": 408.61,
+    "52WeekHighDate": "2026-05-18",
+    "52WeekLow": 270.7,
+    "52WeekLowDate": "2025-11-14",
+    "52WeekPriceReturnDaily": -1.3006,
+    "5DayPriceReturnDaily": -13.8078,
+    "beta": 1.2457957,
+    "marketCapitalization": 3446131.2,
+    "monthToDatePriceReturnDaily": 0.0679,
+    "yearToDatePriceReturnDaily": -10.5335
+   },
+   "name": "Alphabet Inc.",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "META": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": 5.6281,
+    "26WeekPriceReturnDaily": 1.4904,
+    "52WeekHigh": 779.8192,
+    "52WeekHighDate": "2026-09-24",
+    "52WeekLow": 520.26,
+    "52WeekLowDate": "2026-03-27",
+    "52WeekPriceReturnDaily": -2.6156,
+    "5DayPriceReturnDaily": 1.3943,
+    "beta": 1.2840476,
+    "marketCapitalization": 1587502.5,
+    "monthToDatePriceReturnDaily": 0.9821,
+    "yearToDatePriceReturnDaily": -5.9174
+   },
+   "name": "Meta Platforms, Inc.",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "TSLA": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": 21.7351,
+    "26WeekPriceReturnDaily": 4.4205,
+    "52WeekHigh": 498.83,
+    "52WeekHighDate": "2025-12-22",
+    "52WeekLow": 297.38,
+    "52WeekLowDate": "2026-07-29",
+    "52WeekPriceReturnDaily": -14.9177,
+    "5DayPriceReturnDaily": -1.4151,
+    "beta": 1.7802972,
+    "marketCapitalization": 1575174.1,
+    "monthToDatePriceReturnDaily": -0.3277,
+    "yearToDatePriceReturnDaily": -11.3893
+   },
+   "name": "Tesla Inc",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "AVGO": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -20.5735,
+    "26WeekPriceReturnDaily": -20.4346,
+    "52WeekHigh": 495,
+    "52WeekHighDate": "2026-06-03",
+    "52WeekLow": 289.96,
+    "52WeekLowDate": "2026-03-30",
+    "52WeekPriceReturnDaily": -8.3906,
+    "5DayPriceReturnDaily": -5.5939,
+    "beta": 1.4739885,
+    "marketCapitalization": 1589762,
+    "monthToDatePriceReturnDaily": 1.8554,
+    "yearToDatePriceReturnDaily": -4.0364
+   },
+   "name": "Broadcom Inc",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "AMD": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -6.6875,
+    "26WeekPriceReturnDaily": 36.506,
+    "52WeekHigh": 658.52,
+    "52WeekHighDate": "2026-10-06",
+    "52WeekLow": 188.22,
+    "52WeekLowDate": "2026-03-03",
+    "52WeekPriceReturnDaily": 86.3663,
+    "5DayPriceReturnDaily": -16.344,
+    "beta": 2.6375237,
+    "marketCapitalization": 795717.25,
+    "monthToDatePriceReturnDaily": -4.1403,
+    "yearToDatePriceReturnDaily": 125.9526
+   },
+   "name": "Advanced Micro Devices, Inc.",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "JPM": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -5.4654,
+    "26WeekPriceReturnDaily": 7.9015,
+    "52WeekHigh": 366.5,
+    "52WeekHighDate": "2026-08-13",
+    "52WeekLow": 279.1,
+    "52WeekLowDate": "2026-03-12",
+    "52WeekPriceReturnDaily": 9.2549,
+    "5DayPriceReturnDaily": -0.389,
+    "beta": 1.0494317,
+    "marketCapitalization": 933847.44,
+    "monthToDatePriceReturnDaily": 0.2789,
+    "yearToDatePriceReturnDaily": 4.8911
+   },
+   "name": "JPMorgan Chase & Co.",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "NFLX": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -13.7964,
+    "26WeekPriceReturnDaily": -32.2508,
+    "52WeekHigh": 116.73,
+    "52WeekHighDate": "2025-11-13",
+    "52WeekLow": 61.3922,
+    "52WeekLowDate": "2026-10-29",
+    "52WeekPriceReturnDaily": -42.3507,
+    "5DayPriceReturnDaily": 2.3068,
+    "beta": 1.6542119,
+    "marketCapitalization": 271961.97,
+    "monthToDatePriceReturnDaily": 2.1585,
+    "yearToDatePriceReturnDaily": -32.3592
+   },
+   "name": "Netflix, Inc.",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "PLTR": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": 7.8323,
+    "26WeekPriceReturnDaily": 26.0873,
+    "52WeekHigh": 212.9399,
+    "52WeekHighDate": "2026-10-12",
+    "52WeekLow": 106.37,
+    "52WeekLowDate": "2026-06-25",
+    "52WeekPriceReturnDaily": -15.3393,
+    "5DayPriceReturnDaily": -10.8785,
+    "beta": 1.7051142,
+    "marketCapitalization": 421496.4,
+    "monthToDatePriceReturnDaily": -4.7309,
+    "yearToDatePriceReturnDaily": -1.3221
+   },
+   "name": "Palantir Technologies Inc.",
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "SPY": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -2.2014,
+    "26WeekPriceReturnDaily": 4.9662,
+    "52WeekHigh": 781.62,
+    "52WeekHighDate": "2026-10-06",
+    "52WeekLow": 629.28,
+    "52WeekLowDate": "2026-03-30",
+    "52WeekPriceReturnDaily": 10.3916,
+    "5DayPriceReturnDaily": -2.3255,
+    "beta": 1.0172414,
+    "monthToDatePriceReturnDaily": -0.1813,
+    "yearToDatePriceReturnDaily": 10.6215
+   },
+   "name": null,
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  },
+  "QQQ": {
+   "fetched": "2026-11-04T23:27:31.822402+00:00",
+   "metric": {
+    "13WeekPriceReturnDaily": -5.3285,
+    "26WeekPriceReturnDaily": 2.6268,
+    "52WeekHigh": 762.86,
+    "52WeekHighDate": "2026-10-06",
+    "52WeekLow": 555.6,
+    "52WeekLowDate": "2026-03-30",
+    "52WeekPriceReturnDaily": 8.4167,
+    "5DayPriceReturnDaily": -5.5581,
+    "beta": 1.2631718,
+    "monthToDatePriceReturnDaily": -0.7545,
+    "yearToDatePriceReturnDaily": 11.5528
+   },
+   "name": null,
+   "name_fetched": "2026-11-04T23:27:31.822402+00:00"
+  }
+ },
  "earnings": {
   "fetched": "2026-11-04T23:20:05.597622+00:00",
   "from": "2026-11-04",
@@ -3852,7 +4348,7 @@
    },
    {
     "title": "Country Garden Services Holdings Plus 2 More Financially Strong Penny Stocks",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzhFbHh4N3gxa0JVd0lBLVVpS3hNRU9CbjNKTWpFbVl1dDlsekZnak1XZHRlMFhxZUpTQWUxSjdjSVMtbVFZTGNZNzdienc4NEtDMEhST1B2UzBlODdyVEd6MFh6NzhMNnhNTnVkSGFOTUNWVVh0Y1JHX2hDQzBuczA1eGNqRGhIY2FxXy1hdVJxVkVReVdZVXk5X1ZDbXVDMkZIQg?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUhxTWx5dVBQNzQ3Rm5ocWktMFdjNDJ0eDlVWGg2LXJvZUlSb3dFZVdoU1NaYnZiVlhmMXhCeFYxZGs0aHhaaUVxbEhyc0U2MWdoRGJlc0s4ZTFfUms3eUZ2M1hqNkR6R3FWeXFfMHYyZXFGUGg3T09ZbHQ0SjhOVkMxYnNERUEzdWlrQW84cw?oc=5",
     "source": "Yahoo Finance",
     "summary": "",
     "published": "2026-11-04T19:12:45+00:00"
@@ -3926,13 +4422,6 @@
     "source": "Yahoo Finance",
     "summary": "",
     "published": "2026-11-04T17:19:37+00:00"
-   },
-   {
-    "title": "AMD Stocks Rise as $17 Billion Forecast Sets a 27% Growth Hurdle",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXBFeVozeVZ2QjRpeWVBVmQxM3RtVlpvdHVIanl5WkJzaHJPOGFIaXBoNEdiSmZsWHc2Smh5aVpZSV9tblRSTTEwNFRnYk5mV1FMekxzazZmellBZE85VHRiX2U5TmRqSkRVeXBTYmRsZkY4d0hmdG5OTGpLUUZYX1VfY011U3dsNkZmSjFNVkFoRGt2RFE?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-04T17:19:35+00:00"
    },
    {
     "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
@@ -4059,6 +4548,13 @@
     "source": "Yahoo Finance",
     "summary": "",
     "published": "2026-11-04T11:56:02+00:00"
+   },
+   {
+    "title": "Top 3 Canadian Penny Stocks To Watch In November 2026",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE93aVZ5MWdVSnlpQ21NNTZmQWtXMDV1N2ZyLVBic1FTbU90T25ZUnlKUnV2UHBfSGg5c0xXUDRTVlFWTjBDQ3BxZkNXeC1FQ3JrMkIxZHRQR3VadnNOdTBrY3RTQUxQbjJwUEtuWGd4MnprNTdUQVhSNThqNi1LSFRtZ2pWVG5WUlhOM2ItWG5WZFFHT0tj?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-04T06:17:59+00:00"
    }
   ],
   "stocks": [
