@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:14:09.332625+00:00",
+ "updated": "2026-11-04T23:15:11.244220+00:00",
  "finnhub": "missing_key",
  "analyst_moves": [
   {
@@ -312,18 +312,6 @@
    "action": "Target cut",
    "rating": "Neutral",
    "target": "$65",
-   "ticker": null
-  },
-  {
-   "title": "JP Morgan maintains Calix at Overweight, lowers price target to $50 from $58",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbE5DNDg4VE9iVkxSRmk1Rktya3dzbmM3eHBBRGh2ckxSS1pfRTluclEya2o0MUxqcGhfTUJrME5CTVIxLVVPenJWY1o0c254LXJjUzR3YWw4MzMxbnhMRmt4LVJKemZoakVRT2VzZ25jU3N2SEdaeEN1OVNzUG5TMjg0Ukl2MlVqSkFQMHVwYnY3c3pDckxJZzI3LWZIM0YtR2Zyc3pKWmR1WWgxemV1eWVMSnRiMy16VFJkRE1tYXZiMnRLbUVBajJYeTNmLXBL?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-04T20:16:11+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": "Overweight",
-   "target": "$50",
    "ticker": null
   },
   {
@@ -759,6 +747,18 @@
    "ticker": null
   },
   {
+   "title": "BNP Paribas maintains Zebra Technologies at Outperform, lowers price target to $455 from $460",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdUpLa1ZPSjNFR2czeFNVWkxMTFZMcXRrZXVEVEItZFNjZUlteEJ1TTdUYUlzOXdONzc0U1lod0NOUnNEeDF6dm5IZWJBcEo0eEpleG9QUFl3amJST3FiUzBuUGU3cWhQNV9xZW04aThUV1cyd1BWcDM0T0tyYTFJeXI0Q3dzWjBkMkwtb2s4MFdnc2dnMDVLUFlCMDV3ZjFjVHZiNnU5OXVHbEg3WUJvaVJsdXVjc0RudWZOUjAyeDBiV3ZzbklfZDdiQ082WVVIcVV2ZUd1Umtad3oxSnV0MUlPVXl3Ums?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-04T17:49:31+00:00",
+   "firm": null,
+   "action": "Target cut",
+   "rating": "Outperform",
+   "target": "$455",
+   "ticker": null
+  },
+  {
    "title": "Goldman Sachs maintains Amgen at Buy, raises price target to $536 from $481",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbHFwc2s1eGttVzkzbm9GcXVjNVlEVkRuS3pPV2RSUnQzRm9mVlhlRUJmTGttTGNPT2Y0c0VwM3l1YXJwclIxUE5TRExMeTBxR0R0c2V5RnZBbElUTlJiVDloVnZlY1B2M0lfY2NJQmJKMkpJZElFOWIwdEdMTFlFRlhtdkdZZUdxTmtxTVczVFNVdm5KSk1SRjZHYlRlMUhndHpiVDFFajNkcVJzMmpLQjU2N3RONDFiNUw1aFU2SzlLWWhidUtuSjY2eHVjTGc?oc=5",
    "source": "TradingView",
@@ -1179,18 +1179,6 @@
    "ticker": null
   },
   {
-   "title": "BofA upgrades Seagate Technology stock rating on valuation By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3B4a3loWHA2ZXhhUnQ5SUs4VHp0Q2hHbjh6UTdfQ3JMMEVwcEk5U2NDY1ZiR2hFSVV5dlV4U1I4UE5SRkdqNmk0V2pOZTRlczQ4S2xrSldqMEstby1VQWJFUzB0cEtrbGF3dnFGeDgwcllZYzl2V0YwdVE0V3R2MWZEdG1pOUVnNzBiUGtXOW9TOGhZRFdIeVNwdjRycTl5cEJmT2kycWFCbmJqSk1SWGhtbXZmOHlHRlhZ?oc=5",
-   "source": "Investing.com Nigeria",
-   "summary": "",
-   "published": "2026-11-04T13:01:21+00:00",
-   "firm": "Bank of America",
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
    "title": "Guggenheim Initiates Coverage on Lockheed Martin With Buy Rating, $735 Price Target",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTcwWHdiNEJYZ3VfNjc2a3ZXdVlOODJZa05DOFJhQ2gtejhhSmpNTTMxOU5JMVY2UWd6V1NJM1dCd0Y1Yzlvb2ZCZVNsMWlGTGItZDh6WnF3czZrS05JX3hWQnpLT0JLQnVxLXhKQktyMWwwN0QxWGw1eVhrMWFOR0loLVpEUG1rVVVfQ3hXM0xsOGR4aXZKazQ5VGY5dUNCS0VVYmF4NHpRUlJobXpYQUxjV3k5RVBYVkdiY2FBM0phNmFsZ1lRdFRndHg0SHM?oc=5",
    "source": "www.marketscreener",
@@ -1438,6 +1426,18 @@
    "published": "2026-11-04T11:57:39+00:00",
    "firm": "Morgan Stanley",
    "action": "Target raised",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley cuts DigitalOcean stock price target on valuation",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSG9teE5Od0ZWNlpUMnlPWUpLRkNHTzZ2WXh4bGZRVUVuVXU1Q3ZWSkl6YlNrTjFyX19qVGozSzhXSmRCMTNUOXEyQjVjaEtucDE4TFgzR3NNdEV6RUp1WnlzRFp0SXVhLTBmMk45VV81eGNhSjZnMVZZRjFXX21MYjBxdnV3SWd2b1JZZjZPd01ia1JHY3o2b1RkZC1iOHNQQnBsLV9yWEhCOV9jdGdKcGRoUDFEWUcwQlUzQ19yU1MzZw?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-04T11:55:41+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
    "rating": null,
    "target": null,
    "ticker": null
