@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T22:46:26.323819+00:00",
+ "updated": "2026-11-04T23:14:09.332625+00:00",
  "order": [
   "markets",
   "sports",
@@ -12,6 +12,20 @@
   "markets": {
    "title": "Markets",
    "items": [
+    {
+     "title": "Stocks surged and oil prices fell as markets responded to the midterm rout",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnRkLUd3SEJnVkQzeHdYM1E1VUVfcGhHblh1bVp1dTIyTEprN3FQMFZ2b0dFUkVGMzliWmMzUU1VZDVISlNIRG9CMmxuNG1xS2ZjdnF6V2FNcUc1V1B6SG1ZU1B5QUFBQThBY0tPbjBKXzRoSHhNX2hDOGJpQlJ4YjZXWW1FSkVYZUxpcm95aklvSFBiLWxYMk1xYW9vM2kybG5FbmFfVjBfNDdLYXF5NW5R?oc=5",
+     "source": "The Washington Post",
+     "summary": "",
+     "published": "2026-11-04T23:12:08+00:00"
+    },
+    {
+     "title": "This year’s worst-performing S&P 500 stock is finally seeing some major relief",
+     "link": "https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "summary": "AppLovin’s stock is popping after “clearly positive” earnings results.",
+     "published": "2026-11-04T22:46:00+00:00"
+    },
     {
      "title": "Dow posts biggest gain of the year after Democrats take control of Congress",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
@@ -29,23 +43,16 @@
     {
      "title": "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHBnOEludEdwalhTMXRiLWFQbk9RRVVIVGYzY3cwZUk4TmxLY1hnZExZQTZBTExfR2l2TmpJNXUwRWUwc21Jd0EzZklqc2hCbnRta19OU1lQV2NTdjhuNUZxaGQwaHlBZG51eG44WXFxNTNuX1FRYVluOGdaTFptSWRFY3J1ZTdMTlFzY3VmYVhkbDJH?oc=5",
-     "source": "Bloomberg.com",
+     "source": "Bloomberg",
      "summary": "",
      "published": "2026-11-04T22:15:04+00:00"
     },
     {
      "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
      "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
      "published": "2026-11-04T22:15:00+00:00"
-    },
-    {
-     "title": "Stocks surged and oil prices fell as markets responded to the midterm rout",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUnRkLUd3SEJnVkQzeHdYM1E1VUVfcGhHblh1bVp1dTIyTEprN3FQMFZ2b0dFUkVGMzliWmMzUU1VZDVISlNIRG9CMmxuNG1xS2ZjdnF6V2FNcUc1V1B6SG1ZU1B5QUFBQThBY0tPbjBKXzRoSHhNX2hDOGJpQlJ4YjZXWW1FSkVYZUxpcm95aklvSFBiLWxYMk1xYW9vM2kybG5FbmFfVjBfNDdLYXF5NW5R?oc=5",
-     "source": "The Washington Post",
-     "summary": "",
-     "published": "2026-11-04T22:13:09+00:00"
     },
     {
      "title": "Stock Market Today, Nov. 4: Dow Surges 3% in Biggest Post-Midterm Rally in 44 Years",
@@ -64,7 +71,7 @@
     {
      "title": "How do Americans feel about the midterm results? It depends on how much money they make.",
      "link": "https://www.marketwatch.com/story/how-do-americans-feel-about-the-midterm-results-it-depends-on-how-much-money-they-make-e2a43f08?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "Most Americans are “thrilled” or “happy” about the results of this year’s election. Some are especially so.",
      "published": "2026-11-04T22:06:00+00:00"
     },
@@ -78,28 +85,21 @@
     {
      "title": "Qualcomm’s stock falls as twin forces pressure sales",
      "link": "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
      "published": "2026-11-04T22:03:00+00:00"
     },
     {
-     "title": "Wall Street Trading Desks Bet on US Stock Rally After Midterms",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzhCVzhUY1o3N1hNS3pfWXJmcmJXNFhYMnl2SzNKSzVOMF91ZFNBaG1qZ2o3VXNJaW1uSlBBdkJNTzZlRWF6UlJvRlNIME9jYnZhSWRmTVF2SDRKNkRMNmNRVV80MVdxdThLNjRkN1o2cWJoeS0yZXpRYmFNM3RaV2psRUR2Qi1LMlQyM2p1SWtka1kyeVF1UXB3UnpGcWJfWUplanlBWDFpdWd4N2FXeTlFTQ?oc=5",
-     "source": "Bloomberg.com",
-     "summary": "",
-     "published": "2026-11-04T22:02:58+00:00"
-    },
-    {
      "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
      "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
      "published": "2026-11-04T21:55:00+00:00"
     },
     {
      "title": "These stocks soared the most today after the Democrats trounced Trump",
      "link": "https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "Chemical company Mosaic’s stock is the strongest performer among the S&P 500, while several tech players and associated power providers show sharp declines",
      "published": "2026-11-04T21:55:00+00:00"
     },
@@ -113,9 +113,16 @@
     {
      "title": "Figma’s stock falls as investors worry that AI momentum is coming at a high price",
      "link": "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
      "published": "2026-11-04T21:48:00+00:00"
+    },
+    {
+     "title": "Why Workday (WDAY) Outpaced the Stock Market Today",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXd3Yy0ybk9vb1U5NlZ1UnVVRTU5QUc1Z1RQRkozMV9UYmV3b1JIMU9CUDd0VWRaZDE1ZFJ1UDhKYWZUc2dQelo4YkwyMTZxaXZuSXE2em1qMlFLbEZNc282eUhPQUhSd0lLd19MTy1iZmRzQTJVYks0QnEyaFhEN1BvNWNrNTE5bzRuUDMwWDhkZzJITEd1UFJ6eU8?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-11-04T21:45:01+00:00"
     },
     {
      "title": "Stocks Rise as Democrats Flip Control of Congress",
@@ -127,21 +134,21 @@
     {
      "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVc2azZiNTdEZEJUM0RFOERmNk1QaTRQOGdkbE5EOUM5YVE5M2pqVTFkYmJsTC13MnpKaVRSd2ZLYmowSlhpOE5VcjdJNnJleWZsTDJ2SGN2b3JTOE9pdkZLMmdCblZhSE5ucGoyd2k2SEJwOFpVZVp1aWk1aWJYSHdvQ3VTMGtGa3FXa3NYUWxiWEsz?oc=5",
-     "source": "Bloomberg.com",
+     "source": "Bloomberg",
      "summary": "",
      "published": "2026-11-04T21:36:03+00:00"
     },
     {
      "title": "Microsoft and Amazon combined to see a $424 billion market-cap boost — and these factors show why",
      "link": "https://www.marketwatch.com/story/microsoft-and-amazon-combine-for-a-400-billion-market-cap-boost-and-these-factors-show-why-6655d1a9?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "Microsoft and Amazon shares rose sharply on Wednesday, with one portfolio manager noting that a cloud-supply crunch could help the companies raise prices.",
      "published": "2026-11-04T21:33:00+00:00"
     },
     {
      "title": "Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.",
      "link": "https://www.marketwatch.com/story/wall-street-veteran-says-these-are-some-of-the-most-unbelievable-charts-he-has-ever-seen-2c78e677?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "A historic divergence has split the U.S. stock market: The benchmark S&P 500 index has tumbled into deeply oversold territory even as nearly half of its constituent stocks remained decidedly overbought.",
      "published": "2026-11-04T21:33:00+00:00"
     },
@@ -155,16 +162,9 @@
     {
      "title": "‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?",
      "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
+     "source": "MarketWatch",
      "summary": "“Salespeople typically push annuities, Medicare plans and estate-planning services.”",
      "published": "2026-11-04T21:30:00+00:00"
-    },
-    {
-     "title": "Dow scores its best day in 18 months in a broad relief rally after Democrats sweep to power in Congress",
-     "link": "https://www.marketwatch.com/story/dow-scores-its-best-day-in-18-months-in-a-broad-relief-rally-after-democrats-sweep-to-power-in-congress-d7348fc0?mod=mw_rss_topstories",
-     "source": "MarketWatch.com - Top Stories",
-     "summary": "Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.",
-     "published": "2026-11-04T21:29:00+00:00"
     },
     {
      "title": "Wall Street ends higher after Democrats win Congress; data center stocks tumble",
@@ -182,8 +182,8 @@
     },
     {
      "title": "Trump appears to take credit for stock market rally day after multiple Democratic midterm wins",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3piRTcwejNZWDVBQTNYTEE3QUo5cVhPR3NWVUZJYWp1WE56QzU0Qy1RejhLSGlxNHpWU1RNd2xkdllCNzFqR1Y3OGJtS3M4Z3FtR2xuejNZU3BMUXRGeUJMY202SUJZTC1MX1Y3NXIwcWZRTzFSazk5ekxpcDFKdzN6MEstOVBuSkZnb3lRMlVaempUZ2licEM3M1ctNFV4SE5nNGM0bmRWRURhSlZ3YjBKdEFOdmFKT2JpUNIB0AFBVV95cUxQWG15Z0tBVFo2M1VqVEF3ekdvVmNINE5Gc3JDYWRIa1NicUZ4T2lKMTVfbjBobVVwYXJyWGRzWURfU0FGUkg1eFpjVHpGQmZ6ejNycDduRVZfTUprV1FMTDVHVFpjc3FGUTBCVFNpTzBRRFVzOU13aGVESG4taHQ2WS1hR0JNOU9SVzYxN290VlhCdnBtaUNRSUZDN3J5T3hrbzkxbXNCQmxKZDNoSkd3eTgyUmlSd0xxVVJaTm5FbjlxbDB1dU1WNlFVQkpxdnB4?oc=5",
-     "source": "WTVM.com",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelJXTWROVkJsWEw3RHZhWnktWkZzTGlFbDF1N3dmQ1lRVzNSeDF0WjZQNF9QV3BSR0wtdEQ1bWZtTTc0NS1MZ0ZabDd0djVBdDJLYWZPbXR5a1RzaUxJVWFkZGFrQ1V6YkhmeUpkR2pqV0J5ODhRUzdHZkxlZGtwRTl6OE9DZC1yak1LMzBTaXNoaUFsTEM5U3lnZmE3cEpNeGNNMTdvYTZ3djYtX3NDS3Q3cVp6elZTVTF4WdIB0AFBVV95cUxQbEpEVGI2Q2ZiYWlBMC03RFY0OGNINHRFX1BlbmNpNzd4eXhFUndTUHJKVmJoTmxienBUeFU5V2VrX0JCd0IwTU4teVR0UDFqNFFRWjVMT0UyZEM3ZTBjc1NwRXBYeHJ6TWd6dkw3SVRQRlphal9QZTF5RUYxY1dfbXhMdEZib3RyVi1LY1EtZWNfY21MOFFrbU93SWw0aGphZ1dxT2Z0WnNhYkhCYmEzZGk5WlJPMTBPZ1pxRmV2Q3h6alUzTGM0RjU3ZTNOM1Bo?oc=5",
+     "source": "WSAZ",
      "summary": "",
      "published": "2026-11-04T21:22:00+00:00"
     },
@@ -232,7 +232,7 @@
     {
      "title": "10 Best Options Trading Alerts Services",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1Q3XzJNZ2tQT2VtZGEtSXoxN2R3QW0tOURaa3RRYUVtYjFvbUNnbFRBWjNUYnlueFE0bkFmbGcyYURwLUgwTDVOZUJpTWtRMU43b2dieUhjWFpTYzFqYXhNU0xqM0llakFHanFOWmxDSjVFZnMwNlJ6SmFzYTh4ZFotdTNNVmU3dXNB?oc=5",
-     "source": "Barchart.com",
+     "source": "Barchart",
      "summary": "",
      "published": "2026-11-04T19:50:56+00:00"
     },
@@ -242,20 +242,6 @@
      "source": "TOKENPOST",
      "summary": "",
      "published": "2026-11-04T19:46:51+00:00"
-    },
-    {
-     "title": "Wall Street rises after Democrats win Congress; data center stocks tumble",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONm5Ud2VYUjZneURleGJoRnBaVmFUaWJWY3VHYUVCUFBCY0VYODNPRGVZT0lVYjZkT19YTDJ2cURRZXNzaHhFbENmeC1NWkY1c3BJT2NvbDh3Ti0zVmRQMTRqb0N2cEFiR0JGeGlnLWNuNHlqbFdLSWtIR0dHb2VFZkdhWnU2S3FjbmFvTmdDUkJnTWRJa0lsZ1R3?oc=5",
-     "source": "Yahoo Finance",
-     "summary": "",
-     "published": "2026-11-04T19:44:36+00:00"
-    },
-    {
-     "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmplNFEtTXU2b1NKbUJMa01Wd09UUGVIdGVFLS1UM053RUNzRlpKX0pOb3JTcWFzZjlUSkdobEcyVTM5V3U5WTJKWDNnWHN4ejF1dXpGcFZ5eXY5eVVWaHVfZGpSb3pVVW8zWnlWeG5LUlFsWHF4V2FiWlFEbW4wSUt1MDE4UDZUSmdCclYycFdwNERTWTk2MlpCb2hUbUg2Q3Zmc3Jn0gGrAUFVX3lxTE9Rc0NOODZwbWVUdjMwQTNON09qTzYtcFdOSy1MaVRsWTh5TW1jT2NVdndaeW55RkowcXlwOEpiUTVzLXBsWjhWbmtSRWVzZWJBSi1DWnAxUlA3elBKUGdvZFpEQlNBckpUUjNFeWVYbENaTDNDT0Fqczdyd3VoU1JQS2wzcXd6QkRSUUxPU1c0c0J6ak1NUEdGZGk1Sms0X2hBbC1LNUNmV0I0VQ?oc=5",
-     "source": "CNBC",
-     "summary": "",
-     "published": "2026-11-04T19:37:43+00:00"
     },
     {
      "title": "Is the Options Market Predicting a Spike in Pershing Square Stock?",
@@ -281,7 +267,7 @@
     {
      "title": "Who Keeps Crashing China’s Stock Market?",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONExiNUo3N2hQNkpnNXZ6bTJXZ0p5Rk1QNW9PVm9nQkltX2JjRUtiYmVvUzR5b1B5akhOUEd6dTNwR3J3UFhrblJrQ2tfWjVja3ZPSUJ6VmNTVmxzcmpXNGJHN1dQUC1LaDNwRTJlY0o3SE0tX2NlMS1FOHRQOWhaWWhTRGRSeTNnaFBoLUpjdHJjdzhYaTc3Uw?oc=5",
-     "source": "Bloomberg.com",
+     "source": "Bloomberg",
      "summary": "",
      "published": "2026-11-04T19:01:09+00:00"
     },
@@ -291,6 +277,20 @@
      "source": "CNBC",
      "summary": "",
      "published": "2026-11-04T19:00:14+00:00"
+    },
+    {
+     "title": "The Blue Tsunami Doesn’t Solve the Stock Market’s Bond Problem",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2FqQnNEUnBXaXU2aW5fanRJeEh4WEh0YVNqOHFWZmZtWThadm9PMXZmcVd5STh0SC1OX0JLZ21oMFYxRGlSaDVFUFdGSV9tdEpzWmV5TWxxcTRMZFY3UHcxcG4tSnlWY01lMjFGMU5kYmJIbGxEQlZkWTZqZUhxRFlxdV82aGJTeHFBbGdnVGVyYzk0aHc?oc=5",
+     "source": "Barron's",
+     "summary": "",
+     "published": "2026-11-04T18:49:00+00:00"
+    },
+    {
+     "title": "Polymarket Odds: Will NET, ABNB, OPEN Beat Earnings Tomorrow?",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZW9UcTQ0d0ZQdHc5LUpUTC0zQzFHMlp2bUVqTUJPZmRyV0Nib19HVTV6aDkwVnBQM3ZYSzh3bXI2V1BCU3A4Wi1Xa2VIbEZRTUtvX1czT1dfNnM1TzBCcmhRcVdjR1FMbS1GZk9qb0NsUEFPd2tOTVg5dmJ1Z2dtMTVsTFJQN1J6ajZJQnlKU0s?oc=5",
+     "source": "TipRanks",
+     "summary": "",
+     "published": "2026-11-04T18:47:31+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -299,6 +299,27 @@
   "sports": {
    "title": "Sports",
    "items": [
+    {
+     "title": "Mariners hire emerging talent Kanzler as next manager",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01eEM1cVZOQndPV0VMdms3MFNQOGFrLWNqanFzZWhfbE1jZkViWE1oQzl3V0lDVDlCREZwSFNka3pnNHBBUnd4aDlIamJjRGlLWlAta2h1R0kzaklrYVBWOThVNVcxdw?oc=5",
+     "source": "MLB",
+     "summary": "",
+     "published": "2026-11-04T22:46:32+00:00"
+    },
+    {
+     "title": "Como score nine to make Champions League history",
+     "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens on match day four, recording the biggest away win in Champions League history.",
+     "published": "2026-11-04T22:45:45+00:00"
+    },
+    {
+     "title": "No end in sight for Russell as he eyes famous All Blacks win",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmj47p14w5npo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Finn Russell is frustrated at questions about when he might retire as the Scotland fly-half sounds refreshed as he prepares for another attempt to end their hoodoo against the All Blacks.",
+     "published": "2026-11-04T22:40:05+00:00"
+    },
     {
      "title": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
      "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
@@ -321,6 +342,13 @@
      "published": "2026-11-04T22:28:57+00:00"
     },
     {
+     "title": "UAE v Oman | Match Highlights | ICC Cricket World Cup League 2 2023-27",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQmJDV1l6YlBqM2JoSWZYWlNTd3JHUmF3bnA0Yk1LcmtyUHo2M1F5TXhaVGFvZFE0LU5CTHlZb1k5dlg4TFVrc0p1bU11ZUZRSlBtMGJ1czJwZGYycm9xWnE4VEtfaUs1aURQY3R0R096ZVlkRmlubEp1MHFhVTVIVGZZUFg5SFhWVmhhTFJiUHdJUXBXemJrVS1XUElzb3RleXN3RWk2QTlQQnMyTy1iWGttRVF6Y2puZ1FqbVJNTzdPdVNaN1ZBMWd3bDJlWTQ5blN5VmlrZ2VrRUZXTGpXbGRnekk?oc=5",
+     "source": "ICC",
+     "summary": "",
+     "published": "2026-11-04T22:28:13+00:00"
+    },
+    {
      "title": "Emphatic Porto thrash Napoli in second-half romp",
      "link": "https://www.bbc.co.uk/sport/football/videos/cr1ex9vx3y50o?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
@@ -335,13 +363,6 @@
      "published": "2026-11-04T22:15:31+00:00"
     },
     {
-     "title": "Ranking '26 rookies based on long-term value",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTRF9femU2OXZsUmRsem5jSUJLaXdGdnYwLVJ1b3c4OXJWNGtVUlJVaWdQOGtsOUZMYkZST1A0UmwwUjdVY290eXRsemM4c2h3cnFZM1oxSGs2bkpEb1hfbjBvMzBEbUN1YXVJUmJjSXNNYzNfMmFQcHNn0gGGAUFVX3lxTE83dm50Q2E1WkN1YmhKV25iRno4NkVMXzc1X3JNYmRQYmFYdzRsUmJKUVVzWmVGLTVVOFljOTVrN284TGMtQmhqNnZnX3ltQmFGcEN0R0QyUjdSR285X3RuOE5hbUtHcFFlcWlWM1JDZnpBcVIwYlRoQm9LbFZuUnZ6TTVOYmVR?oc=5",
-     "source": "MLB.com",
-     "summary": "",
-     "published": "2026-11-04T22:13:13+00:00"
-    },
-    {
      "title": "Arsenal survive late Slavia scare for hard-fought win",
      "link": "https://www.bbc.co.uk/sport/football/videos/cq4g1jwnzmyro?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
@@ -349,11 +370,11 @@
      "published": "2026-11-04T22:10:07+00:00"
     },
     {
-     "title": "Mariners hire emerging talent Kanzler as next manager",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01eEM1cVZOQndPV0VMdms3MFNQOGFrLWNqanFzZWhfbE1jZkViWE1oQzl3V0lDVDlCREZwSFNka3pnNHBBUnd4aDlIamJjRGlLWlAta2h1R0kzaklrYVBWOThVNVcxdw?oc=5",
-     "source": "MLB.com",
+     "title": "Week 9 NFL odds, picks, predictions: Computer model backs Chiefs and Commanders",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY2ZrVjFyNDdOTlNSUHpyUFZ6RFZyWTUzY29HLTd0N0lVZnFYMDJRaVdEY2RHWTNKRW9WQjlQN2o0MWtrUmJEbkxfVWEzLUlFV2FCRHVtRGRiTHpTcEdyVVJFQjNIME1Kd2k1aTNCaUllVFhKTmdpTDR2UGk5dHYwNTU3enY1RkFHd2h3TEh2alRVSXh1SFNYZnRB?oc=5",
+     "source": "CBS Sports",
      "summary": "",
-     "published": "2026-11-04T22:08:15+00:00"
+     "published": "2026-11-04T22:05:30+00:00"
     },
     {
      "title": "Liverpool crumble at Kuyt's Fenerbahce",
@@ -405,6 +426,20 @@
      "published": "2026-11-04T22:02:41+00:00"
     },
     {
+     "title": "LIV Golf: Breakaway league to wind down after potential financial backers withdraw support",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tR1h6dXc5b3pzRkZZOHpiVUtONzk2NlBHNmEzQldPaFpkVGZMbDJQbC1FZ2o4azBRZk8za2lQVUFaeFJuNEx3YkN1TXB4TURORms5YjhfVEhtRFNQQmpteTh0dw?oc=5",
+     "source": "BBC Sport",
+     "summary": "",
+     "published": "2026-11-04T21:52:13+00:00"
+    },
+    {
+     "title": "Chicago Bulls vs New York Knicks Nov 4, 2026 Game Summary",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mOUFVc1pjYlZVRC1EbWFuenh1dUx3al9UWWZXajlDMUVBRE02VWdRU29ZZmpKNHhOc2tYd2RMdnRmcEl2bE1TVzVNSklSZnVKT281ZFYyMmNOZw?oc=5",
+     "source": "NBA",
+     "summary": "",
+     "published": "2026-11-04T21:50:58+00:00"
+    },
+    {
      "title": "NFL trade deadline candidates include Derrick Henry and another Jets surprise",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjBzdy1LZkpaX08wVS15WGtTdlMyUEFYd1lhWnVMb1JaUEZWeW1Hdm5LNU5vTG1ndm54YjZhcUpZeHVNUWFtQWU3Mzk5YjhfR1JRTnFXczhmSlFwRzF0SkE5ZUtCUWp2TnpMblM5SGJzSU1YazRHZDVyVlBjdWZFZWJxWElScGwwRnc4amg5R2ZKZ1ZVUWZLSi1GSDRjbEdBS0ZJZTZ0T1hfUFJ3X3gwVw?oc=5",
      "source": "USA Today",
@@ -419,13 +454,6 @@
      "published": "2026-11-04T21:41:04+00:00"
     },
     {
-     "title": "Sources: BC Partners pulls out of financing deal in major blow to LIV Golf 2.0",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWEprdzhSS1cyamliZlAzcUNBLUY5UkpaMkRwUGtaRkdMWWNZN1lhaE5CNnMyeFFpR2NNRU9YQVp6bGF1eDJMcF9UMTZKX1BkbFFCYzh4a2M3dVM5TGpScUpwcngwZmFJcU4xRnFQN05PTmVzWVRQWTNqaW9JdmIzVlNVOUNWdzR4NXN1bzRkMDA?oc=5",
-     "source": "ESPN",
-     "summary": "",
-     "published": "2026-11-04T21:33:00+00:00"
-    },
-    {
      "title": "Abdul Samad Hits Double Ton, Deepak Yadav Nails 9 Wickets in Local Cricket",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN293M0d1ZE5iUmRLMkhoaHdXeDhybXVEWEZHSFZCUnpRaWFCZ3kzTm9ucHJsOVBBVjFZRElkY2Z4RDZuM0VzSlBuM3RUbWxldUp5QnVjQkl6NXFaZjYtckUwWV9SZjlmd1pLbG5oaDNacHdwbVJiWnlhODVtUTZRMHRrWTdaQllkdWtYekFsWDRiRXlzLWZya1J2QmZDa25yZzVrc0xVbGRiNi1rZmVSWjE3VVpFdHlRUkR4dWtwRE5vTnlSci1F0gHMAUFVX3lxTE1xRHFzdGQ5Y3Q1Y2VvdUxUSXNpc3R1SGhXTk9MaHFWSVp6LWNubmVNejZlNVA0b1pmV1RrRnJVTXZpQ2RxWnhXQWFBZnZ1dS16VTNZUnBhcG90NnFhS2UyV2dKX0IxTzJ4X0J6LTM2cXh6OHdCNjJud3VMei04XzFHQWhLN1NxM1lqVGkxd3AwV0VxT0hTQVVUcVBaUnVMMTJyLUM3bGtmV0dyRUNCVWdla0JGZ3YtUWM4Umtzam9XQzJMRXRlU0lnU25VWA?oc=5",
      "source": "Deccan Chronicle",
@@ -433,11 +461,11 @@
      "published": "2026-11-04T21:28:34+00:00"
     },
     {
-     "title": "Matthew Stafford's wife calls out NFL over apparent scheduling disadvantage given to Rams",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTREVW9XRUQ3ajk4bTBCeG83WmNvOXE4MlgtODYwdmpmRnBJbDU3YnBlMU5YR2dDU2lvYWljUHZLOW1KVG1pMlZ4d2ppRDcxWGZQend0Q0xaNlFJNmNtV1dXMWZVQzlfMzNISW0yVlZCczFHQUxKWVg2Yl9GZm15YWJ1UU9WdkstQVZGVGpYemhDcDZWV2Rmb0h3?oc=5",
-     "source": "CBS Sports",
+     "title": "Bulldogs In The NFL: Week Eight Recap",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWY4U3hVeVRKai1GT3h6RmlZTEp6elVKbHRBd0ZWQ2Q2cll1eEJQS29aSXBGNUhIMVl6TFpuWThzcTVVdXV4RXRNOWVPZGpIMkMzdzVRUG9sc21rQWZVb1docnE4b0llMVQyVzFGb2M5OGpmRzNVbTRXc3QyUUV3d0E2aXdSb2ZvcGRLYQ?oc=5",
+     "source": "University of Georgia Athletics",
      "summary": "",
-     "published": "2026-11-04T21:27:00+00:00"
+     "published": "2026-11-04T21:26:39+00:00"
     },
     {
      "title": "Astros To Interview Albert Pujols, Morgan Ensberg For Managerial Job",
@@ -461,6 +489,13 @@
      "published": "2026-11-04T21:15:06+00:00"
     },
     {
+     "title": "Milwaukee Bucks vs Boston Celtics Nov 4, 2026 Game Summary",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZbEtKN004OTBWeVFVZ09kRjZXNm96cERWZHR4TGR3aEVOdHFiMVhyUnJoTXcxandrWGY1YjFBSzJUbzFteEcteldtSWI2V0lqSlNxZUdhY2xQQQ?oc=5",
+     "source": "NBA",
+     "summary": "",
+     "published": "2026-11-04T21:12:29+00:00"
+    },
+    {
      "title": "Fenerbahce stun Liverpool. A failed Barcola experiment, and where was Iraola’s defence?",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWxRc09kVW53aUJUWEd3TkdPTndKbDliamhyTXNoMVhYUjd1WHFkdWlTTXVJMG4tczJpeVJKeFJCSGcxY0o4X2Z0Yi1tUk5yM0txUXFUby1vVWR1QzNyNGo2bjNBMi0ydi1hRVJWanFzSUQwZmN2dGstTU1oVU1fdlFTSHdhbWtGTzJaMFFZeTBjVm5OTm9mLTNaMHdJUUxESmFWVWg2d2liNTFwNVpfNGdXRmc?oc=5",
      "source": "The New York Times",
@@ -477,23 +512,23 @@
     {
      "title": "Steph Curry Makes NBA History After Warriors' 5-3 Start to Season",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGZMNHA1VERtTHRzQkVReVNhODFpaExPWDA3YWxGY0JyUVgzOG50bWdnWTFmNi1kWWp6NEduMjRVaGVTVW5Cem1lOXplLVBrV3FfWjgxOEROemlycXVCdWZXSExLOHRuNmowSWZXZDhYYnNWdzV2MjRKYzJZMmRZdWVQQzM?oc=5",
-     "source": "Yahoo Sports",
+     "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-11-04T20:59:07+00:00"
     },
     {
      "title": "Toronto Raptors vs Denver Nuggets Nov 4, 2026 Game Summary",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSGZXOUwwQ1draWYtNkxoU1VmOGFKTDh1NnJXcUFldkhORlhBQ2xORU1BRm1yeGR3cGRkYzhVOXJzUmhSNjhRYjluM2JsdGx3WFRiZ2FCcGc5Zw?oc=5",
-     "source": "NBA.com",
+     "source": "NBA",
      "summary": "",
      "published": "2026-11-04T20:56:12+00:00"
     },
     {
-     "title": "Philadelphia 76ers vs Detroit Pistons Nov 4, 2026 Game Summary",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HYUtvWU9sbm5sWXV3T0RHbmhRQ2RJQ0hHX29FNEFud2Z3aGVxN24wWW1BaktJOHc0VzkyQlBiMHBOUFJKeXlDQURWTnZYcHJXSHctek1CU0JXUQ?oc=5",
-     "source": "NBA.com",
+     "title": "Minnesota Timberwolves vs Houston Rockets Nov 4, 2026 Game Summary",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NWWpacFo1YnFFMmpOMzJpYVJZQzBVQV9SNnhQWDdvV3ptYzZZRFYydjU0U1gyazNOZzRtQUk5cU40Z2ZfdXR5V1d3MVJ4RGdXMUs0QmNxa2hIQQ?oc=5",
+     "source": "NBA",
      "summary": "",
-     "published": "2026-11-04T20:55:31+00:00"
+     "published": "2026-11-04T20:55:36+00:00"
     },
     {
      "title": "Predicting the full 14-team NFL playoff bracket entering Week 9: Bears make Super Bowl run",
@@ -501,20 +536,6 @@
      "source": "CBS Sports",
      "summary": "",
      "published": "2026-11-04T20:47:00+00:00"
-    },
-    {
-     "title": "Steelers get bad news ahead of NFL trade deadline",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSlM4cHR6dm5VQUVGOFUxQXlUcWE3Z29FMnd3TF80bWljS2ROM2F0dTcwbXF2TzV1UG9hdUdPYXZYUWRzY0RnaDZfTkdIOTdOb01kOFJxeWNyRHI4bEhtWmNLaHFoUW42TUxsNGVUbzNkbk9NLUpBMFlZVFBOYkt3Y1hB?oc=5",
-     "source": "Yahoo Sports",
-     "summary": "",
-     "published": "2026-11-04T20:45:18+00:00"
-    },
-    {
-     "title": "Guardians' Clase, Ortiz described as 'cheaters' at pitch-rigging trial",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUWdOVnFueHhfZ2xHZ1lVdWFNbDQ4S2hlREFvcE8xY2hDbXg1dGt3V0lQT0dmN0g0bGJXUklYVFhDeGJSY3lFRzAzLUVTZEdwbldKVGp6VkhGbzMxb1ZxWEkzcEJuMWMzTWQ0TGlVTGFFLWJHYW9ZcVBYTnY5ZF84aG1TWGE2TXljSHFmcFpiamt5VUlxMDlzVTFRTjlYalZZbWZnQUpNVVY?oc=5",
-     "source": "ESPN",
-     "summary": "",
-     "published": "2026-11-04T20:34:00+00:00"
     },
     {
      "title": "Edinburgh's The Insect Café raises £160,000 to launch cricket protein powder",
@@ -526,58 +547,37 @@
     {
      "title": "15 players to watch amid NFL trade deadline buzz",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLTlROFRJR0oxV1Q0S1pLQnRZZmFNc2p0TVJ2ZTNjb2JCeUhJM3RYQi1yY3dRRkNpUFRKdHVpdHQ5ZVZFYXRRZm1mb3RjNlY3cW5EblFRdnoxOTdwZE9IYk5pcnY3RkN5MF93MXJOaVptTkFQZ2dhMzIzVk1Sd2VCd193RzA0MC1FWnJhM2ZJaWtNQ3JHazdnWnJQa0NxWVM2RWc?oc=5",
-     "source": "Yahoo Sports",
+     "source": "Yahoo Finance",
      "summary": "",
      "published": "2026-11-04T20:25:00+00:00"
     },
     {
-     "title": "Detroit Lions LB Jack Campbell: 'I have full movement in my lower body'",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1A5SXUzNGZSVHBVT2lCYVJvUHIxRFZBWWVUcDg2R01WZ0o1c1pCeTk0Ym8xWm9mQ2N3UVY5VEw3RDJfVy1aemxiMzNROGxKOTdtcjlqRU5INURzMmVtUHFra013b3VubnJaa2o4cXNkb1QxMV9SQUp2QlY1Y0dDV0NvWHRnajUzbkRudi0tMnJxcVJHaEo2SHRiSnpCRDVjamRYampYdkhaSE5ZQndHazBLa05ROVlwLWtvdFFnZUdjUQ?oc=5",
-     "source": "Detroit Free Press",
-     "summary": "",
-     "published": "2026-11-04T20:24:00+00:00"
-    },
-    {
      "title": "NFL Week 9 injury report: Player statuses for all 15 games",
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVUDFMSFZ0OHNoQUFTOTB0WVZMUVozNEpRZkxZbWlYdl81RUJObWJlMnZVZ0NVQkQ4cVgybW1LTWU1MWZjLTladTZUZllJUEpsMnd6TFpfVHBoajBtb2N0MnJLNWd2UHNBVXNWdEpR?oc=5",
-     "source": "NFL.com",
+     "source": "NFL",
      "summary": "",
      "published": "2026-11-04T20:19:32+00:00"
     },
     {
-     "title": "Jacoby Brissett trade: Ravens strike deal for Cardinals QB amid injury crisis",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUk4el9DRjZnYTFIWnozdXY3YkpFZWhacFM2ZWJQRXRBUkxpb2JLUjRBLVFvOWJiTTlKMmI0SUJBQ2lrOTdEaFJhRWdpYzU4cTFQRWJiazF2OGduV0M5NjhlLVdnVmhjaTl2eWVGMklOQ3BwVG5odkt3ODFNZUxCeDJLMjMyRG8wYTB5MElHWjBYQQ?oc=5",
-     "source": "CBS Sports",
+     "title": "Warriors withholding Kristaps Porziņģis’ salary as absence from team continues: Sources - The Athletic",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVENqVzZuYnVXdDMzczlSRExBXzNxMUdodmhMV01WSV9lV0QyY3BRZU5rZHVLU25DeFV0bnlkSU9lTjhMWkZ0OVFpTFNWeWcyRDVrNHVHdHd2VVo2YTBmSVJtWmJqZ0RYaGxVMkVTWmNXWFNqb2hYcVlBdGpwV1ZEdURaTnRvRXdsYTdaSGEwUFNNb1ROU0FtcUJZOGpoMUx0R2c?oc=5",
+     "source": "The New York Times",
      "summary": "",
-     "published": "2026-11-04T20:00:00+00:00"
+     "published": "2026-11-04T20:17:57+00:00"
     },
     {
-     "title": "GB sprint star Hunt visits England training camp",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c5x2vzplg43go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Great Britain sprint star Amy Hunt visited England's training base before Sunday's Nations Championship match against Australia.",
-     "published": "2026-11-04T19:59:18+00:00"
+     "title": "Toronto Raptors vs Denver Nuggets Nov 4, 2026 Box Scores",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52SVNIa2JTTDZwNkVhVnhHXzFYdGNMcVpUMU9MNFdJSFBHUUNDTmdNaW9fTlpxeE5maVFFYlNCT3d3Ti11dWE0UllIcTBlUjc0VWFjT3J3cE4?oc=5",
+     "source": "NBA",
+     "summary": "",
+     "published": "2026-11-04T20:13:00+00:00"
     },
     {
-     "title": "NFL trade rumors tracker: Live updates on news for Jonathan Taylor, Jacoby Brissett and more before 2026 deadline",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZDJYbzFFMFg3X2FQX1BZZGdmZU9LY1dWM1N2TFJ3Ym8td1VCZEpuNHFnTHljXzkzSnlGMXZHYlBHaXNMZXhGTkZFT29mRE5jZGxzUXJGQ0EwQWNuX2Z3bVltLXhIYnhteVFWMzdSaEo4WUE2S1J3aG82UVFjSmVMTUhsY00?oc=5",
-     "source": "Yahoo Sports",
+     "title": "KC talks trades constantly, seeks long-term option",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclBJcGVlRkJYUk9tRDIwa2YzT1ViX0ZpRTQ1Sjk5cEUydGlyT3pUeFNIR2hHOGtfXzJtcm54YW8wOE5yVnFSTlRPbF9IZ2NpaWJDbFVuYmNncVd6Z2VCbFVaZDNJZEhzY2JDRFlUYzdhRW5aQkVPLUpuaEZ2TnhlcVNTMzhhNksxVXMxNHJmZUZFS294Q1lnaThqOUxfYXRWTTEwN05LUlFxb3VVUHVtZ1ZxMWh4Zw?oc=5",
+     "source": "NBC Sports",
      "summary": "",
-     "published": "2026-11-04T19:54:40+00:00"
-    },
-    {
-     "title": "NFL Network: Cardinals to trade QB Jacoby Brissett to Ravens",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WTW9pSHVKNG5oaFNWVjhNa3IwV0lXdkhuRF83RHNUV1VwWlJPQW9QTWk1aERxTDU3MWFqemxpZTNIUFdCM1pCbTByM2dzYXZRTWxwWHIyTTZWdFNCT01mQjk4R0Q4U0NKamNFVlYxb1c?oc=5",
-     "source": "NFL.com",
-     "summary": "",
-     "published": "2026-11-04T19:54:28+00:00"
-    },
-    {
-     "title": "Jayant Goyat takes five wickets, endorses red-ball cricket’s value",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0lDQ05tSnlYUnFCNnk4NWhZdlozaXg0UXZoZDUtNVM1V3BVQWl5VUJMVXUyX19TSTVFMjk3WGRVZ3NSOE1LYVBhZU93Y2RMLVFrOC00bUpHazVxV242MFVoTWNSY29yZExCZksxWEVUR3FFNndRd3RGbkdjM0l5VF9pRnY0VHU0bWV0dWhVTTllOW9HT3R4dXp6djFkdw?oc=5",
-     "source": "The News Mill",
-     "summary": "",
-     "published": "2026-11-04T19:52:15+00:00"
+     "published": "2026-11-04T20:07:14+00:00"
     }
    ],
    "feeds_ok": 4,
@@ -587,6 +587,27 @@
    "title": "Arsenal & CSK",
    "items": [
     {
+     "title": "Arsenal FC dealt new injury worry as Mikel Arteta forced into substitution",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGdGTXFzTXRJSS0xUThlZTA3Qk8tMkNzcTR4N3hnNDgxV2NLQWlLNnVEMWtRM3ZFUElzTlVndzJ1YXBJSVRBRjN6VE1kcmc4Q3dEUWFYcGpyd1VrclpaVVRqTjI1VGUzc1M3cXZ4b1hxand6SzM1YWhmMThpZ2xhclo5b19NVXF5QnpXc3l2UHB4b3FGWkdVa0ZLa2VJdkE?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-11-04T23:01:22+00:00"
+    },
+    {
+     "title": "Boring Arsenal: Will lack of goals catch up to the Gunners?",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR29SWWtYMUxqYTNuYWpOY3k5WWVVNTd4LU9CWXRIYUExcUhtN3ppT0lvbjg2aFNnYkFxY0NpeUoyOUpmbG5veHliUTE0YlE2eFAzUzlzVktCYmh1TkszQVFRSmxYcm1pelBERzFVOEFGbWFEVF9MaUhsR3l0WnIyOFU3OWZhbXJnWWJjNkpHWEVzeXN3TlRLSFV6X01UM1RzeWY2WU9wZWo0aFlrVElYUWE1a0k?oc=5",
+     "source": "DAZN",
+     "summary": "",
+     "published": "2026-11-04T22:58:36+00:00"
+    },
+    {
+     "title": "Mikel Arteta concerned by Arsenal's second half in win over Slavia Prague",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjlvYjVHQ3BWTnRQWlVCbGlRdkFyZklydFZXY3BFaE1qSDA1US1FdjR1eVBWVzFmU2FkeENZOTVROFRVSWROblBJdmFROEk4YjNVZUh2dXZhQS1JajMwLWhBV2lJcTgydlMxeDV1T1VWZnB1NHJDa1k4Yi16LUE1Ym9mSGwycEdJejZjUHpRXy0wM2s?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-11-04T22:53:50+00:00"
+    },
+    {
      "title": "How Viktor Gyokeres can force Arsenal rethink after best all-round display",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUEFjWHNIci1raExvVjRybUpROFBLWE45MUhOQVI3TEJHMzVWcWNseVZ5b2R3dEdtYzg1Nm1XTjdERnBnMEw3clEtS0JySXo2b1RFbkNBWmdhUWg4ekh0SlRETGE2bzdHQnYwRU9ISkk0ZFRELTFEMWVuNktxckp1czBxbTctMmR6OGQ4T29VQTQ1ZFk?oc=5",
      "source": "London Evening Standard",
@@ -595,10 +616,10 @@
     },
     {
      "title": "Concerning Declan Rice theory emerges after Arsenal scrape past Slavia Prague",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDdkMk9tSXpvQXdRbXNrYlVEM1dTS0dVQzQ1aklXbXlEVkRPS0lSamFXV2MwSHhKSUIxSVRvYUtiYUVNSGRpajl4MVdnY3lnaTVxSlF0Q2cwTDRRVm9RZERFYTc0ZkxyNjRwRG9tQVN4XzhYWkl3djlvdVpBazJvTEhjSVZnRGlRcXdz?oc=5",
-     "source": "AOL.com",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZkFzbG8weXdvTU9Rei1GaHJwZG1KbTdFMXJRLUU3VUltTjJtemNKcVl3el9IVHNMQi1mbTg5WmtLanBURXdHYlR0LUg0YUc1YlkyMndpbk44a091SG1MTEZWZTNMQkdLU2REdmVDUEtOV3JSemdZbFVtU2RodW1oRHpVTEdTQ0lYY0otR9IBkgFBVV95cUxQak1GQ1VjVzNSLWNybmI5bHZiODJVMHNxclpOZDh0QlFlbDJqN1NxSHcycjJrVVZnelA5NWxIelZlcGtkQUZmcTlrX1JrSnJab2w4bm5tTjB6VkgwczMxcHZfdENDNjdRNnRoVWRRRWFFbHotNDdHZjNvWWNaQmwteXE5S2V6aUNZZVFOdXZyaFRvdw?oc=5",
+     "source": "Football London",
      "summary": "",
-     "published": "2026-11-04T22:31:35+00:00"
+     "published": "2026-11-04T22:33:30+00:00"
     },
     {
      "title": "Arsenal player ratings: 9/10 statement performance in nervy Champions League win",
@@ -620,13 +641,6 @@
      "source": "Football London",
      "summary": "",
      "published": "2026-11-04T21:55:01+00:00"
-    },
-    {
-     "title": "Slavia Prague 0 Arsenal 2: Gyokeres and Madueke keep Gunners on course for top 8",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdnJIZS1wd0tOdV82UnNINzBUTS1IaHNyQnV1NTdpZkpzU1FTOTRJZlhFRzNMcDNtamUwS21Ha25kRnlUcW9ITkZtSGkyNTcyeV9iaVVYczY0SWk2TjZBSmFUYWN3OXNWbFJram1VTmFYMzZqWTVhZ0o2cUZ5bks3THpOZmdjMEFWdmU5cS1YdTFycUluSTBuTVJBaHU?oc=5",
-     "source": "The Sun",
-     "summary": "",
-     "published": "2026-11-04T21:54:00+00:00"
     },
     {
      "title": "Premier League transfer LATEST: Man Utd want City's Aït-Nouri, Hincapié eyed by Barca",
@@ -652,7 +666,7 @@
     {
      "title": "O'Neill: \"We're disappointed to lose\"",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFNDUDM2c0ZHTXJDeHVTLW1CTXlIV0Z2R2l4Q3JzZWJaeE0yNktLLTBZbFMyQTMwa3NhcVA3NEJlMzlhdXZuMDRVa043Wi1wV3M4ek9OUzk2NG52QThRcHllTC1NcnY0U19TM0VkaUV3YWRRTGY2TTRyRmQtbU0yeg?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T19:00:50+00:00"
     },
@@ -666,42 +680,28 @@
     {
      "title": "Slavia Prague vs Arsenal live today: Who is showing the match on TV and via live stream?",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQalgzaTFRbW5peEp1VE01WkVjVHhIWkxiTkJMb2hxbkVpd0JsdmVwZi1QTlhkcy1nMXNiY05HT1NLWm1IVGdZNXlYSlpzMDdoUTJNWnNnYU5QeGpHV09QbTZabG1EbDVhdDV0bGVHX0Z0amRlaUZzaVpDdEJtS1ZiVktsemtKMW1xeFkxN2owaDJoUlhoTmhXc3V6WGpwV0JFb0hvaDNqRXFocUVUZXQyT3F2Q0wxc056aENqYlhoZHVXaURlN1VIT0ZVUHZsMlpPeTBIeA?oc=5",
-     "source": "Goal.com",
+     "source": "Goal",
      "summary": "",
      "published": "2026-11-04T18:51:40+00:00"
     },
     {
      "title": "Team news: Six changes made for Slavia Prague showdown",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM3AySzk3emxoWmFSSUFGOVYxR0ZjZjNXRWlrRmVvWXJScmJrcnJPM2RZRlFrek9tbzBxZWtjeFU0SEJ3S0pqWW1CWGZxelAxY05DcXpYN01vSXMteVNuQWxwbi01ckRnOTFpd0lUSjA2U19jOFpmYUo4MTZuYW95T1NWSVNMempCODVfZ2NEOUdtZ3BrR25fY3Nocw?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T18:50:41+00:00"
     },
     {
-     "title": "William Saliba and Max Dowman decisions made as Arsenal confirm six changes vs Slavia Prague",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVlBFNFZQR1czdE1hQi1rVlE0T280R3ZQdWJ4UHVpT2VHRjlCdU5Wc2IzbjF3bWtubDRnd3ZrcmplTzZjOG9vN1VpczVEbjNSTHZYSGdjLUdOYnJmLTJUSjVLVUtzbXdyNDROM3FuQV9aRm5hek5lanluRUp4WU45Tl9lVEc3NXBi?oc=5",
-     "source": "AOL.com",
-     "summary": "",
-     "published": "2026-11-04T18:50:27+00:00"
-    },
-    {
-     "title": "How to watch Slavia Prague vs Arsenal: TV channel and live stream for Champions League today",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0hTT25kWDFtWm9fVms2WEZHd01nLVY2TXI4b1Q3MVRWUVVfWGNGSktxaEhxTzF5T2cycVl3TVZHRVpRUEJJa0ZzX3JUZ1VyWkd1M1NuTmlqLTRFYXF3a0hvbWpmclRFNUJodTJyWmExdVBvbHlMdGdHY3N2VmFSZG5qTlM1am03R3pRNGl2XzJ6Y014RUdCWlBUdmpFMThobm5mQ3otSHUyTWNSZWhnbV83QXR4OVVCdS1rUzV5LThDMGZCaVZ3c3R6LTB0UWx5WTBqd1RLUGE1enc2aG1j?oc=5",
-     "source": "London Evening Standard",
-     "summary": "",
-     "published": "2026-11-04T18:22:45+00:00"
-    },
-    {
      "title": "Horseman praises side despite late loss",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeGExQUNua3E0QlZVTk9WRTdIdURnSklaX2otbnpHUzR3Ni1fZmRWUmtMdEhPRDl0Q1NoNkFYcy1iNm1IY002QlB6S01KV1VhU1BZTWhabU1kUzlCdHJSYmxFRFpGd2pCZHNST0lCekFBaDZLQ0dQMkZobktrVy1nZDZoVERTV3JR?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T18:00:34+00:00"
     },
     {
      "title": "U19s highlights: Slavia Prague 1-0 Arsenal",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM0EwS1pnQWlGaUE3NDg0OE41Y0NaUzZwcV8yNHpGbWNzOHFfVTlmZEZHeUdWejlSbk9CZFFKUnNsMmd1UkkwWmhZeEUxaUJzU1RyY1U5dWsxaU1rRDZLaEJCMG1FV2ZvX3QtM3FUZ3NkWThfWVZOTXpoQVFkcGZ3LXNSVTZvZnZweHE0?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T18:00:32+00:00"
     },
@@ -720,23 +720,16 @@
      "published": "2026-11-04T17:47:12+00:00"
     },
     {
-     "title": "Slavia Praha vs. Arsenal Lineups and Confirmed Team News: Is Bukayo Saka Playing Today?",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQXBGZDlyUExnTDktX2FGc2xoeV9ZaWpka2JtUnJrcW9lTEl5YkRLUnJYRVNXalczaG5XQkdDbEp2WFNTcWU4bVgwbnZMMHp1NUVSaU4wdUQ3ZHlhZ21Id21UT05TcFJMR2xiYzE2QTFUWHdtR1NwV1dDUkNLOVBMQVE4SlYwVDZiTk8xSXZqQ0tZQmdpVHl5WjFNSGYxcUNSSmZTWUhtam5kTTZuZkNRN2laSXZZeDA?oc=5",
-     "source": "Athlon Sports",
-     "summary": "",
-     "published": "2026-11-04T17:30:00+00:00"
-    },
-    {
      "title": "Gallery: Women training for Liverpool away",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQME5zMmpiSXMtal82VHlaM1lnaVB3WWJPcVIweG9HT0xVTUVmSkVsLUktWkpLVkNCQUhvLTRPRTYxMURzQ2RPQmVUN25TT1ktUlF2R0UtLUgtRVNDanJHZ0gwbkNsV0dpOGRvV3A5YTB0ZVkyZDkybDFTR0FHZDNtazY5MnF4ZmFtWUV3?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T17:02:18+00:00"
     },
     {
      "title": "Olivia Smith's stunning strike against Birmingham",
      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZeVNrTVgxbC1hblZnNTNCeVNDRk5DQ3JqcVZPTHp5YkV3cm5VNDhEYzVvWVNOR1hCUnFIQ0dVcnNTdTcxMm15TkduVEtQZUg3X1pTSFlENDVNQ1FLU2dF?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T16:54:40+00:00"
     },
@@ -750,14 +743,14 @@
     {
      "title": "U19s report: Slavia Prague 1-0 Arsenal",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkMwWm9oeG1sWmhQXzBnNXJHTDZWVG1pOU9IUTRqdWZpRWpXekFxbkhZdXRZMmhPZjNzZGxLa3NBUGlRcV9kNlF4cXRvU0ZNSDB3OG9jWXVKa1RFYTQ3SXFjMDVlVmI5SWk3TW5tOFZXWXNWNUtIbnF0YURIdFlpSlVQS2c4QQ?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T15:42:13+00:00"
     },
     {
      "title": "Stream our UEFA Youth League game in Prague",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGNqVG9VeVpFMlVwZFA2anRIcXEyOG0zZW5BRXNIcW9KZ0QwM1JWRk5mM0hjVGFrb01hRzVGejhxZ2NKejdzVm56U09tNXN6SjhBcGZ4MmF4aHV0WV92YVZUQUxfU1VVQWVXYmtjY2RWRkFaRlZyZnV1VGVyQmdKdXpGeGxsdnNwMU5DdGM2WQ?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T15:41:47+00:00"
     },
@@ -769,6 +762,13 @@
      "published": "2026-11-04T15:01:05+00:00"
     },
     {
+     "title": "Saliba returns to Arsenal training as Arteta is handed major boost",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTZCYUxZNGU5LWhjREExWUpHUEstRXZmVHNyenR3QmVkRDVXaTlYSEtDSTBnRkNtMkZXUHRhZzAzclpuMnVwLURyX1pwRW9WSEM1dXF0Z3ZVWFNwNU92UURmNndXWkhscERkcmEyNU01TXhoRGZ2TE5nS3ZDS1JYQ0ZOUmZxTElsRVdCUEpEX05Yc0hYY1oxUEM3X01yUQ?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-11-04T14:45:53+00:00"
+    },
+    {
      "title": "RCB vs CSK, 11th Match, Indian Premier League 2026 - Scorecard",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTTVVMWNtbFZPYi1CcF9PM2x1TXFZOU0yRUxOb29JdkJGNGxpdXBHbzYyTnJ0bHZFMWExbDVxYUZnUWdHMk5hNDlvX2JHeTZWOHNqVUxIN0haSHdUTHNxZkhoTkhaYkNrMnBuN2xUWFd0YjNUNTFQYUZQbk9QNEFGbWplMG1GeFVTSFpsc1pFbGNiSVdVYllkQ3RrcnV3dl83cm1URGNB?oc=5",
      "source": "Cricbuzz",
@@ -778,63 +778,70 @@
     {
      "title": "Vote for October’s Women’s Player of the Month",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT2hCLWVwc1Vid1c5R05uMnI0SncyNzN5aVNaVlhPSDh1WnVUZk03Z3d0Zy12LVJjZGMwd0JSWFFKTGlwQzZ0SlIxUTBxYVJ0aGExT1FsWUJiTGJYSldqSWtoNUZEN1M4cm9hLUdiNE54VWoxQk5TbzJxSFZxZGVYakZfRlF1TE4tOHFIRXlYYw?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T14:22:28+00:00"
     },
     {
      "title": "Ticket Info: Everton v Arsenal Women",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY2tsSmZxeVRvWXFmZmhxZkF6RFFHMWU1a2ppanU3NzB5RjBIZXNnTE5ueU95bEdHQU9mU0dfVHFaZ1Zia2RNN0cyeV80Umg1NG02QWVHSHZHaW1Xend3M3lhUTZIZ1lWUHZ3OEdKaGhIMmU5dWp1bVJYLUpuSFViejFpVXMwY0Y1cHZtVFhiXzRPVUpBTVE?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T13:38:47+00:00"
     },
     {
      "title": "Suresh Raina wants CSK coaching role ahead of IPL 2027, says ‘Yellow is everything to us’",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTZtRFhMVHVoS2RKeC1JVHpRWlRmaXp3TnR6Z2ZIdG1pZFJEU0RTOW1Ecko2UG96Q3RiZTJ2cHFTSmp2aGlDVE1lYmJFOFBtaXNiY211eHVJVXdVWXlvNHZKdVVNS3M2NGFiNWJqXzh1czh5OXNneUNDM1cya01BeWlMMmZ6Wll2NUlja0trSzJURy1QYVg3aEt2ckV3SXY4WmFyZ29WdERyZnBfMjQ2QUlpVVVPeUlySDhHeGV6UHhtV0JZUElHUHlCQ0PSAdIBQVVfeXFMUGU0dnY1VTJWRUoxaDdUS1hvandlVTF5Z0NMZTJHS19JRDlRc3Utd2U0VTB2YVJBUVljSGJyeFNQN3BUbXFXSzhhYkFZVldFd3M1S0ZiZV9mMmRibWdUT1o5LXZQclJ6NlZLUW4zQ2JPZERLXy1HbmlMQ0RQbVhyYUJKTlAyUzJvZDA5LXhQR0FPemhDWUhaLTlEMGlhRnJlNWcxMkVvcmU2aDd5MVpaM1hfaXpUZXZ1eWlGOS1pVlpHYWc1Wk9iQ2tDZEN5ek5sd1F3?oc=5",
-     "source": "India.com",
+     "source": "India",
      "summary": "",
      "published": "2026-11-04T12:07:52+00:00"
     },
     {
+     "title": "Surprise! Arteta reunited with former Arsenal striker before Champions League clash",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWVYd1didmFPdURJNUVFYUtnellEdWs5MXpfeXZxWGEtN09haDFYQ21ld3VZdnBxZ01pUm91VWVqVEJWVl94RHREUnVOVWxjMWhIVHRKSzU3OGRZMDA2NGt4ekloUTFOZWpmMEtjQmhjRDd5c1pYb1M3a1k4MzE3d3VvSk9HSUJPXy1NOERJVzB6dktIa2Y4ekJDVEJ3anQtMlFCamZEOHZ1QQ?oc=5",
+     "source": "London Evening Standard",
+     "summary": "",
+     "published": "2026-11-04T11:48:29+00:00"
+    },
+    {
      "title": "Inside Training: Preparing for Prague",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2VXZG0xVlZ3N3RqLTAzUk4zeUFHVGN3M0hPLUdKX1ROMWdJY0Y0WkFyZ0FLTzBmSjJjbEtJcHAxdTNTYkctWFBvZkNoNnpWTGwyTVdnSWtZSG8yRFBYVWJQbEY2eVdiWU1RS01TbjdzYUFvdTlYd2JJR2tiWXlfaWVHWW0?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T11:32:23+00:00"
     },
     {
      "title": "Ticket Information: Arsenal v Brentford",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORkQxNEpFbi1EWFphdF9ldU1MTmMtU0U4ZE5ESTJnRUlhMDhNNHBlMlAyTVBnbFRudFFBeTZJTVFWV25rR3JOQzhGdF9jZ0dseVR0Vk9YS2lGQ0xLbXpFbUF1LW84ZHBGS0FnNnE0WjMxUEpXbHBlSlYyV3hja2RmMURnNnlKckkwU01HR3daUy15WWpjUmhLaFh3?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T11:26:20+00:00"
     },
     {
      "title": "Preview: Slavia Prague v Arsenal",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mdmZPYk93bjN1dFNVREFraVpCNTdEUEtfQTM4UVV3UzIwS2xnNEdVLTJaWlJPdUhJM0FmYkpFOVJwM3lkT0JvTTB1Ukg0WWZ6UENybW1OYnp5dlhrOEI1N2lkcjNDNHBuYmp6c0NfV3lKQTRLbWl4ZjZqeXJuUQ?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T11:24:38+00:00"
     },
     {
      "title": "Merino on Prague memories and our pride in defending",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczFUWmZFMzdDX3BhNFdobm5Kd19CRmhnUHFhdTE5MFQ1VVhIRGtNRGRkUGhiVHc3RWpKQ1J6MDMzWlctMWR5b3lKeVJEQ2otX2VCcGhkNk1tVXFJRHNQRXh5S1BtNUZrMVF1dGVELXpLNzRrRGpXVEtiU29NRTZQSzhRY1NSSnZsSERwNlVYN1ZnaE1fNmdxQnR3?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T10:28:46+00:00"
     },
     {
      "title": "Disabled Supporters' Ticket Info | Brentford (H)",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1hWQ25ZT29GSkptQnZMaTNiclRRREE4am8wOEYxdk5MUXhDMlY5WV9LU2FfeEVBTjJ0YlFFczc0OFFRV21Lc1JCenRVeXVqWVRRUlBHcndJNDRCV3lWMmJHNEc0N05ublJmc1pWNUlSYWwzNW9YZmg5bWVqR0VSemlmRWFiM1d4eXJkTXFB?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T10:06:46+00:00"
     },
     {
      "title": "The night Thierry Henry made Arsenal history in Prague",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2ZZcmIwQWg5ejRVMVdWcWg2dkFwNnVjQlZXVTFLaWdqazZyUW1pVm85TWFiOEMzXzJjcEMwVFUtWERTYWFDSlBGcVljNE5EOEhMbW5xZDM4NllXYkMxalZJYm1mLTdTaDNlcWdyc2JsN2FMeUR0NUl5dWY2UFR4MFJmOGUxbW9EV09aYkVVd1FacVdlTXQ5ZUpCM1gxSXlS?oc=5",
-     "source": "Arsenal.com",
+     "source": "Arsenal",
      "summary": "",
      "published": "2026-11-04T09:56:57+00:00"
     },
@@ -853,18 +860,11 @@
      "published": "2026-11-04T09:19:09+00:00"
     },
     {
-     "title": "Surprise! Arteta reunited with former Arsenal striker before Champions League clash",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLWVYd1didmFPdURJNUVFYUtnellEdWs5MXpfeXZxWGEtN09haDFYQ21ld3VZdnBxZ01pUm91VWVqVEJWVl94RHREUnVOVWxjMWhIVHRKSzU3OGRZMDA2NGt4ekloUTFOZWpmMEtjQmhjRDd5c1pYb1M3a1k4MzE3d3VvSk9HSUJPXy1NOERJVzB6dktIa2Y4ekJDVEJ3anQtMlFCamZEOHZ1QQ?oc=5",
-     "source": "London Evening Standard",
+     "title": "“Yellow Matters To Us”: Former CSK Star Opines On Coaching The Franchise",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGVnallqdVVXUHZQbHdDcG4wOTNEOEdubV93Nk5QdGl0S1RZb3dLYTU3ZXdzOXpJYks4eHBGVGw2QWdnUk1oel8yUnc1VXZubFZlSjlpOF9hVmJ2RzBXeC00RXRYVl8yQmp5Y2NuZmJWdDJnbk5GTmNsc2t4VHY0TXNBMmdhd3FHYmNvYVdTdnFKdjNYVUx1U2dfaV9uU01xUW82d0hrQ2Y3ODR3aWpzc2hjR1Npbnl6Rk92U0F3QQ?oc=5",
+     "source": "Sportscape Magazine",
      "summary": "",
-     "published": "2026-11-04T08:45:44+00:00"
-    },
-    {
-     "title": "Seven players set to miss Slavia Prague vs Arsenal clash in Champions League",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOF9YdGFJcDV1ODhzY3VudnlQMG90Qzh2THlZR1gtVUF4RS1lNjFJcUxSWlJTRDBsWkQ0YzdoLURNcWxxdFVwRnBGeWlUdUVneE5FWFhfTERBOXR0aHg5SGpEd1pzQzhaWWJEc3pHOXlUeUFNdTI1bWlFd3R5akdENmNBemNSZmlBXzJWYkdIbFhFRTR5RFHSAZsBQVVfeXFMTjh0LVYyN3ZnOW4zelZNdVhMSEV0NjFVSmRPd3VHWHhaOUFfQkRuVV93b0RfNzItbEs2a0pPNGFWNW1tY2RuMXNRUVBiUjNibldERlloVVhxRG9Fc2FmalFVRVVIM3c4T0ZFdDlDYkhfWFBQNW1abU9hMjJFM05sMVFXWThfeVE0N2NwMWlVTDBqbS0ybXlkam5kbGM?oc=5",
-     "source": "Football London",
-     "summary": "",
-     "published": "2026-11-04T07:56:25+00:00"
+     "published": "2026-11-04T07:55:06+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -873,6 +873,13 @@
   "tech": {
    "title": "Tech & Azure",
    "items": [
+    {
+     "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+     "source": "The Verge",
+     "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash…",
+     "published": "2026-11-04T22:42:15+00:00"
+    },
     {
      "title": "17 better ways Elon Musk could have wasted $446 million",
      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
@@ -883,7 +890,7 @@
     {
      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
      "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
      "published": "2026-11-04T21:38:49+00:00"
     },
@@ -897,7 +904,7 @@
     {
      "title": "AMD's record quarter: Data center business doubles, while gaming craters",
      "link": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
      "published": "2026-11-04T21:29:46+00:00"
     },
@@ -911,14 +918,14 @@
     {
      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
      "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
      "published": "2026-11-04T20:55:50+00:00"
     },
     {
      "title": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
      "link": "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "\"Data centers in space looking pretty appealing right now.\"",
      "published": "2026-11-04T20:36:05+00:00"
     },
@@ -932,7 +939,7 @@
     {
      "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
      "link": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
      "published": "2026-11-04T19:08:23+00:00"
     },
@@ -988,7 +995,7 @@
     {
      "title": "People say they want small smartphones—the Enough Phone will put that to the test",
      "link": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "It won't win the specs race, but it will actually fit in your hand.",
      "published": "2026-11-04T18:00:40+00:00"
     },
@@ -997,13 +1004,6 @@
      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
      "source": "The Verge",
      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here.…",
-     "published": "2026-11-04T18:00:00+00:00"
-    },
-    {
-     "title": "ChatGPT will now make you animated GIFs",
-     "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-     "source": "The Verge",
-     "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual…",
      "published": "2026-11-04T18:00:00+00:00"
     },
     {
@@ -1016,28 +1016,28 @@
     {
      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
      "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
      "published": "2026-11-04T16:06:03+00:00"
     },
     {
      "title": "What I learned driving the Slate electric truck prototype",
      "link": "https://arstechnica.com/cars/2026/11/what-i-learned-driving-the-slate-electric-truck-prototype/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "After 45 minutes behind the wheel, I am more optimistic about the $25,000 EV.",
      "published": "2026-11-04T15:42:18+00:00"
     },
     {
      "title": "The DEA banned a drug some opioid users called a miracle",
      "link": "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
      "published": "2026-11-04T15:08:48+00:00"
     },
     {
      "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
      "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
      "published": "2026-11-03T22:39:37+00:00"
     },
@@ -1065,7 +1065,7 @@
     {
      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
      "link": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
      "published": "2026-11-03T20:39:55+00:00"
     },
@@ -1093,63 +1093,63 @@
     {
      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
      "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
      "published": "2026-11-03T18:30:27+00:00"
     },
     {
      "title": "Buttons are back and storage is king when it comes to car interiors",
      "link": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
      "published": "2026-11-03T18:19:31+00:00"
     },
     {
      "title": "Google will let schools skip AI tools, but they have to give up search, too",
      "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
      "published": "2026-11-03T17:54:43+00:00"
     },
     {
      "title": "Another child dies of measles as CDC reportedly holds up health alert",
      "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "NY governor pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
      "published": "2026-11-03T17:21:29+00:00"
     },
     {
      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
      "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Google has cut ties with the company behind the botnet campaign.",
      "published": "2026-11-03T17:08:21+00:00"
     },
     {
      "title": "This space company is betting its future on a propellant available everywhere",
      "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
      "published": "2026-11-03T16:50:32+00:00"
     },
     {
      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
      "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
      "published": "2026-11-03T16:03:13+00:00"
     },
     {
      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
      "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
      "published": "2026-11-03T15:39:30+00:00"
     },
     {
      "title": "EPA throws in the towel on policing air pollution from factory farms",
      "link": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
-     "source": "Ars Technica - All content",
+     "source": "Ars Technica",
      "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
      "published": "2026-11-03T14:49:00+00:00"
     }
@@ -1317,9 +1317,16 @@
     {
      "title": "Apple releases first iOS 27.3 developer beta, here's what's new - GSMArena.com news",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSklaZjNwZ3gxbDYzQThxbE5NZzZ5S01NalQ0MFlvMWhwUnpmX1VNVEFpejJ6ZUF4MTF6bVBLdzFfM2xkbHhZVFgtWkRubERGMlc1Qk5pNzA5cF9YRFpqemlpN1oyT3ZsTXc4WGstTGpfQks3ME1oSE1kNFhoMUV3eVF0UlhUTmlOM0JPakx0Q0ZXSVRNTUxzNWhDSGJvZUp50gGcAUFVX3lxTE1FV0RQUkRtcVNnendmalZrTFN4OFg3MkI1RGViRVlDeWxuenl2TFdYNGlRMDFqUEV3THg1cENNU2R6UUI1SDVOcnI2WkIta0s0VGk2REVBSUpjQlBtaEVuaXhHRzRRdi1JQjdGZVJxaEpMY1k0VzdkRmZSeHdSbnBVT3ktU05ZNkcwal9QWFdLeGg1c3AzS0VCY2ZwSQ?oc=5",
-     "source": "GSMArena.com",
+     "source": "GSMArena",
      "summary": "",
      "published": "2026-11-04T19:44:01+00:00"
+    },
+    {
+     "title": "India’s Aditya-L1 Mission Reveals New Details About Solar Eruptions That Could Improve Space Weather Forecasting",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaURXZ0F4RWtrMTFTemhlTU9rUGFvZmNsdkJuS0o5ZzJtbE9qSlBDOFpSTmQzWktMem5MVVEwUEpKQkg3bHV4UURJOUxRUHVfLVlPbkxJYzEtU0JTMld1aUNwWmg0SkQycHNQcVRkRFhpUEVsTWZiQ1Zjdll3V2ZKTWtONy1lbGdmMk9LWWdCZ1MtQmFWRk1WT0lKLWt3MmhDREFuSk5faWJGdkVuWDdsdm1BdHhXSUk5eTBhaW9YNnFZeDFNNkI4MzdGaGpzQmJSU01QNlZzRQ?oc=5",
+     "source": "INDIA New England News",
+     "summary": "",
+     "published": "2026-11-04T19:43:52+00:00"
     },
     {
      "title": "Two 17-year-old students sexually assaulted at party, two booked under PoCSO",
@@ -1432,13 +1439,6 @@
      "source": "India Latest News: Top National Headlines Today & Breaking…",
      "summary": "",
      "published": "2026-11-04T19:17:07+00:00"
-    },
-    {
-     "title": "Toll plazas on Chennai-Tiruchi national highway gear up for Deepavali rush",
-     "link": "https://www.thehindu.com/news/cities/chennai/toll-plazas-on-chennai-tiruchi-national-highway-gear-up-for-deepavali-rush/article71666789.ece",
-     "source": "India Latest News: Top National Headlines Today & Breaking…",
-     "summary": "A source in the National Highways Authority of India says that the contractors ensure that the toll operators and security guards do not go on leave. Boom barriers are positioned vertically so that no time is wasted in…",
-     "published": "2026-11-04T19:16:10+00:00"
     }
    ],
    "feeds_ok": 3,
@@ -1448,16 +1448,9 @@
    "title": "Richmond",
    "items": [
     {
-     "title": "Richmond Dem-Socialists eye future races after Jackie McDonnough’s sweeping win",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGRId29DYjJrc182cTJvN1l4TDd1Y2VXTnhObWYxS2M1UndqNWxMcG15U0tleXEyYWZlbUJzMkJ2TEVWX1h5UG1HbFptNkxCQWpQclhRQWRkWXpOOGNIUEx3dUxqZkNjWkN0WElQaHVwdU9NRk55NDd3OGI3SlBuVm1lcmkxYVAtTmpMX0l2eDRwSTQ4WXZ5ZEFseHlRb19sSUVESVpWVGQwOW5vaUE?oc=5",
-     "source": "Virginia Scope",
-     "summary": "",
-     "published": "2026-11-04T22:41:24+00:00"
-    },
-    {
      "title": "Faye Patron Hopkins Obituary (2026) - Richmond, VA - Joseph Jenkins Jr. Funeral Home",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTVlTGhCeXNIczRGOE5ZWG16MDk1bXVCaEliNGZIeHVia25FYnE3N0I5N3Nxa1FVU21pYUYzX2NnYmR4VUhONzhlRVpFQXJWM0FsWmVJWUtBNW5nOVJJc1hkSFlfVmZKdnZOSUFtRFM2X042bGJ2M2V3NUNXUmxNUQ?oc=5",
-     "source": "Legacy | Obituary",
+     "source": "Legacy",
      "summary": "",
      "published": "2026-11-04T22:28:54+00:00"
     },
@@ -1478,9 +1471,16 @@
     {
      "title": "What happened in Virginia? Political analyst explains midterm election results.",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaU1GRFNYNEVtLWEwZWM5OExQZHo5NWI1RHhmejMxcGZvSUlSSTZnb29fdTFHWTdUUGhDMV9HTTAwckplY3Q4a25VUWRKV3h3SGFVWnlPdGZvNlhxb0ctdlpualUxc0tOeC1CV1NjX2NPT3JqeGhwVGlWSF9SOS0tSEhXbEpFSXNsRUpXTjNSNWFRamQtUTZXNklMX3F6RWZELWZoc2JuaXZYVG1tZVFKMTJZcw?oc=5",
-     "source": "WTVR.com",
+     "source": "WTVR",
      "summary": "",
      "published": "2026-11-04T20:50:34+00:00"
+    },
+    {
+     "title": "NASCAR’s Elton Sawyer Teases Real-Time Penalties to Eliminate Post-Race Drama",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWnBMcHVkOWxRRk1xejFLWlhtSlBsRTN6RDluLVRrWWFCLW5DQjFyY3VWNEhoN0VvVWlQRFIxRjItTUFOajRxN3NBNHVhd2NYQWdIdjczV1ExODdMTklZLXd2R1gzSjBpWmU1Qi1zaThiUlRGN283VXNrdUlVQU9QVjd4R2E0alk?oc=5",
+     "source": "Yahoo Finance",
+     "summary": "",
+     "published": "2026-11-04T20:50:21+00:00"
     },
     {
      "title": "Richmond, Chesterfield defy Virginia's school tax backlash",
@@ -1492,7 +1492,7 @@
     {
      "title": "Marilyn Jackson Obituary (2026) - Richmond, VA - Richmond Times-Dispatch",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkFjekpUXzVTSW55N2FXb0lhc1BYWkliZmlTUjR6LWdvd2pYekNtS0F0VUIxSWZqeHFOVWlyZURraUI5bVhpaHNienpud01mWUpIRHEzUHpUSUV6RnFoY1R2cURXUk9wTmVrOVRILW40LWc1Q05saklScEVYOGtMUkE0UVhucUZPckNqUk9mOER1RVloQ0Nv?oc=5",
-     "source": "Legacy | Obituary",
+     "source": "Legacy",
      "summary": "",
      "published": "2026-11-04T19:21:14+00:00"
     },
@@ -1504,53 +1504,53 @@
      "published": "2026-11-04T19:09:29+00:00"
     },
     {
-     "title": "Shannon Taylor declares victory in race for Virginia's 1st Congressional District",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaTI1dzJQZF9JMmw3M1R6R0dka3o4bEFhLVp4c1RtSF9aQnMzSW56Z2dFZGtaZ21wS29udXdhRVAtQ2NKaTlpRnhmNFl1VVZsQ0RkUXAzbFNGUVNLanpTQTExdzVaeTRJUXpLRnpJMFR3WDBWYV9rMVllSnJPMjZ3MnFYSXpLYlpKLTcxYUg2ZW5wLVFMR3lwWVVRVFR3Q25Kb3RESDduamJUa2ZmVFFiUExiSEJSeXJI?oc=5",
-     "source": "WTVR.com",
-     "summary": "",
-     "published": "2026-11-04T19:07:08+00:00"
-    },
-    {
      "title": "Shannon Taylor declares victory over Rob Wittman; what's next?",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HZGlqVkRNZ0hpQXR5cFRvdktxb2d2Z0xOeUxsQWhVVjBSd05ERVF3c0ZoQy1ieTZTQUI4UkVLUU9mUUk5TjlYWHU1b1liczFpQVh1NDU1NzNHLUhyRDRCZ3ZQdWhPb0NTUlJCbmE0WG9ZMGU3bzZaQUthNDZHZw?oc=5",
-     "source": "WTVR.com",
+     "source": "WTVR",
      "summary": "",
      "published": "2026-11-04T19:04:18+00:00"
     },
     {
      "title": "Richmond’s biggest pickle celebration, The Richmond Pickle Party!",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVVFMjRveTNVS0JkNl9IV2JLQmJUMHJqNGhscDBBOEVZeDFWcjZ3TXZhTENMbXZock9HVjVUTkZKZFUzeGlfTXZHbEVvQUlLMnU4RElWZkJUQThsWUM2emtsQkh3dnFEQVhVUUVsck5WZk1xVzhBZ3lzQ3kweGpIMGNObkNGRXZtS1d0Q3AwSllnRDBmT041LVZpeUtLTVZiRjhzVEVodU5FTlVmSVFYVU9n?oc=5",
-     "source": "WTVR.com",
+     "source": "WTVR",
      "summary": "",
      "published": "2026-11-04T19:01:41+00:00"
     },
     {
      "title": "Donald Eugene Lake Obituary (2026) - Richmond, VA - Mountcastle Turch Funeral Home & Crematory, Inc. - Dale City",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vVGtid3owWlBmb2hGcnlDMzhRd0hFbjVkTHRJNkZlQ0lsUUdaNFFaejBYVEtJRFJqWHhrLThfeVhCU1haa2hHVFBjaUhKbXRFcm1YaDMwTmZOQUFvU2poWjhGZzVlVGo0WVlKaGNXN3dIbHc1bE5mQmlvQVRnMDQ?oc=5",
-     "source": "Legacy | Obituary",
+     "source": "Legacy",
      "summary": "",
      "published": "2026-11-04T18:31:19+00:00"
     },
     {
      "title": "Start your career in business & information tech at Bryant & Stratton College",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWc0emY5SGItSXdjNFVscHQ5czF1VU1aMlRoQnFiYVVPcU1nUW9UQm13b2F2MHNkUThXVG5nMjFTUVNvVFp5MFgzbHoxVjVtR3FKOENJU3d5SnQyNi11dk1iVE9wUWhwcXRtSXpnRkZNUEFFLUJxZ0ltTVVFOTJDV3R4N3RJbWZYdlpXTmZMSUdlNzR4SWlYTVBoV1pCR2RGMmtmeGxLdzRrWXpwOU0ydDFSS1NtT0NHdGYwUXF2SHE?oc=5",
-     "source": "WTVR.com",
+     "source": "WTVR",
      "summary": "",
      "published": "2026-11-04T18:09:10+00:00"
-    },
-    {
-     "title": "McGuire declares victory in Virginia's 5th House District; but Perriello says it's too close to call",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmtYWTdzdzlITDFSWGo0cTFocVVMT0lJYTBJa1pNY3V3SjhYYWRaU3g1N0pleHRQWWlHc05tVW9iZUgtWjdNMmNzazZ6WnF1NnlfU0JKZUtFNnpTZ0g5aGpzS1NSYzNjenViWTh4d09aQldvV2J1WEdPWHk2bnYwakNKU3RwdmNTMUFTZzFvOWNLZWQyelM5NmVqTDh4ZVdkM2RTRzVVRUxWaDZSQmxoSm1HbWQxZEZBc1JUaGxIVkg2QXZGZkpsTVFSQ19fRmc?oc=5",
-     "source": "WTVR.com",
-     "summary": "",
-     "published": "2026-11-04T17:34:40+00:00"
     },
     {
      "title": "Preview: Men's Basketball Hosts Southern Virginia Thursday",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcjF0VGw0NEZpMzRIWmcxOV9Jckt4dnV5Njg0TDZRSkRScGN4ektTMXZzVmx0Nzk2SzRxUHhXUksxTWFvSzBTSVV0QmRhd3hpM3NrSWtvV25NalRmX0NnYTA2ZjJDb1FIakNqR05UUHhNdmJxMVV3TmpDSVpCZWtqcUJPRTdVQnFLb3NuV3FISnRSdVlFRGR5WGgtRXFpQ1ds?oc=5",
      "source": "University of Richmond Athletics",
      "summary": "",
-     "published": "2026-11-04T17:06:38+00:00"
+     "published": "2026-11-04T17:43:09+00:00"
+    },
+    {
+     "title": "McGuire declares victory in Virginia's 5th House District; but Perriello says it's too close to call",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTmtYWTdzdzlITDFSWGo0cTFocVVMT0lJYTBJa1pNY3V3SjhYYWRaU3g1N0pleHRQWWlHc05tVW9iZUgtWjdNMmNzazZ6WnF1NnlfU0JKZUtFNnpTZ0g5aGpzS1NSYzNjenViWTh4d09aQldvV2J1WEdPWHk2bnYwakNKU3RwdmNTMUFTZzFvOWNLZWQyelM5NmVqTDh4ZVdkM2RTRzVVRUxWaDZSQmxoSm1HbWQxZEZBc1JUaGxIVkg2QXZGZkpsTVFSQ19fRmc?oc=5",
+     "source": "WTVR",
+     "summary": "",
+     "published": "2026-11-04T17:34:40+00:00"
+    },
+    {
+     "title": "Shannon Taylor declares victory in race for Virginia's 1st Congressional District",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaTI1dzJQZF9JMmw3M1R6R0dka3o4bEFhLVp4c1RtSF9aQnMzSW56Z2dFZGtaZ21wS29udXdhRVAtQ2NKaTlpRnhmNFl1VVZsQ0RkUXAzbFNGUVNLanpTQTExdzVaeTRJUXpLRnpJMFR3WDBWYV9rMVllSnJPMjZ3MnFYSXpLYlpKLTcxYUg2ZW5wLVFMR3lwWVVRVFR3Q25Kb3RESDduamJUa2ZmVFFiUExiSEJSeXJI?oc=5",
+     "source": "WTVR",
+     "summary": "",
+     "published": "2026-11-04T17:33:21+00:00"
     },
     {
      "title": "Everybody Deserves a Second Chance",
@@ -1572,6 +1572,13 @@
      "source": "Richmond Times-Dispatch",
      "summary": "",
      "published": "2026-11-04T15:45:00+00:00"
+    },
+    {
+     "title": "Richmond, Chesterfield approve 1% sales tax hikes",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZy1aRmMtQmVBbDlTdkV2bWEyeWczZU80Sm9XQjZMUW9pelpGZEtHcjh6eDJKTXE2SGlYaVlaakFpbFdIOC1Jd2ZkbzlFLWd4OW90SXZ6dVBEWC1jZVdVRkhCU2t5aXJyenVVT2d2SExjeEc4b3pPWFlXdUQzOTN0SXphV3Zjbnl1a3NhOHAzZ3BtdmhGc3dtNDhFekFtZ25WMm4w?oc=5",
+     "source": "Axios",
+     "summary": "",
+     "published": "2026-11-04T14:51:06+00:00"
     },
     {
      "title": "Virginia projected to pass all three constitutional amendments",
@@ -1625,14 +1632,14 @@
     {
      "title": "Barbara Gross Obituary (1935 - 2026) - Richmond, VA - Richmond Times-Dispatch",
      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQmtrdUt5RThhRUVHRURMaW1nYUhzYkNmTFJfaDJQcHU4X2VXVnFfaWVBQjFWZUE2NHFVaVNTTFVkTkZDUTMzMEpNM2trOV9GR1FQdkNsTnh0TUlHSmNnTEhoS1dtMUFUUF95a0hWckthMWpxR2JWZW1Pdk11UFJvUWdwb1N0YW9PMWxseUNGNnppdmd0?oc=5",
-     "source": "Legacy | Obituary",
+     "source": "Legacy",
      "summary": "",
      "published": "2026-11-04T07:29:15+00:00"
     },
     {
      "title": "Brett Lawson Obituary (1964 - 2026) - Richmond, VA - Richmond Times-Dispatch",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjZIajU4RE8tWVFoRzNjc0FzSVAwbmpjLWFNQXk2QlZkRDBhc19KMks4RXQ3eWRoRmx1WTlNZF9oUjZaNDBVWklxSDVuS1pUOGRMUDRUN3FWenhWWWRuMllCT0MzNVZydzVqVTFLSmZ6N3ZIYU5CTm4zVEpJTmZJQlJmUFJoWE96LVJYOUdBUkJpRGs?oc=5",
-     "source": "Legacy | Obituary",
+     "source": "Legacy",
      "summary": "",
      "published": "2026-11-04T07:20:56+00:00"
     },
@@ -1649,13 +1656,6 @@
      "source": "Virginia Scope",
      "summary": "",
      "published": "2026-11-04T05:43:01+00:00"
-    },
-    {
-     "title": "Sales tax increase passes easily in Richmond, narrowly in Chesterfield",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb0pjQ2ptcklERkxxTTA3eFFiRFB5Q2RCdVFpZnUwQm1xS2ZiR2g4UG84Qi1tdG9yaDRHd3h1SWNPZHBlSnBEMzJxMmljalk5SGpuSUdhalhsVDF0Z1pNUDg0QUxaWUFHdmdTLXI0OHpnWG9KZjFzRENXd2stSUN3d1JJNWp0dk5PdFprMHg4eUFLQjlJSGdpOEU0QXExdw?oc=5",
-     "source": "The Richmonder",
-     "summary": "",
-     "published": "2026-11-04T04:54:02+00:00"
     }
    ],
    "feeds_ok": 2,
