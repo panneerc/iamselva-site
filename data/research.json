@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:27:31.822402+00:00",
+ "updated": "2026-11-04T23:29:40.175649+00:00",
  "finnhub": "ok",
  "analyst_moves": [
   {
@@ -327,18 +327,6 @@
    "ticker": null
   },
   {
-   "title": "JP Morgan maintains Calix at Overweight, lowers price target to $50 from $58",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbE5DNDg4VE9iVkxSRmk1Rktya3dzbmM3eHBBRGh2ckxSS1pfRTluclEya2o0MUxqcGhfTUJrME5CTVIxLVVPenJWY1o0c254LXJjUzR3YWw4MzMxbnhMRmt4LVJKemZoakVRT2VzZ25jU3N2SEdaeEN1OVNzUG5TMjg0Ukl2MlVqSkFQMHVwYnY3c3pDckxJZzI3LWZIM0YtR2Zyc3pKWmR1WWgxemV1eWVMSnRiMy16VFJkRE1tYXZiMnRLbUVBajJYeTNmLXBL?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-04T20:16:11+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": "Overweight",
-   "target": "$50",
-   "ticker": null
-  },
-  {
    "title": "JP Morgan maintains Graphic Packaging Holding at Overweight, raises price target to $12 from $11.50",
    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbG5BdjJvX01BbFNfc25xTXIzbVNZUDJ2WFV5TVJPalFGRXdNOUdkbDMzS1BVc19GVkMxUUZJWHZzNllpZ1lZelAxbkxnc1p2V2RCdDlQNHlveDdxNWtpek4wcHJaaUMxNWZ0LTRQejYwVlZqejdaS1RjQW1XRHUwY3RSQ1dIemhTSjdTamRPcVYwblNUdnpFcm16eHpVbzRQU0R3Ukh6NWRPNVNOTlliTVh2Y2x3ZEhGZkFiZFpOUlZ1RDlLUkhSaUlORVhLLVhlWW5iQmVUQnVqeXVGNlZKdGZkd2pTUDR2LWNYVDRibw?oc=5",
    "source": "TradingView",
@@ -612,6 +600,18 @@
    "action": "Target cut",
    "rating": null,
    "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Stifel raises Procore stock price target to $85 on execution",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmtZMGdKcXZCSndCSTNfa2FCejV5dXg3cldJNmtvMkV0eW44bWlXY0FJTGNwR2ZobDdyWkVxQVo5eldKLXRIbHhxRTIxWWdhUEZKT2N2Wkgyd2xzdWp0UUxybXc2Tl9CejRZNFJqT2xhNVUzcThESTlNSHZJOTFxRmJ2TGZwYXd6Z0ROeDZOazhlczJjVUVVNUltWm1uNnhUYlRBZkdjSkNZTGY2eENJay1IZnNKRU5kZkRz?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-04T19:03:33+00:00",
+   "firm": "Stifel",
+   "action": "Target raised",
+   "rating": null,
+   "target": "$85",
    "ticker": null
   },
   {
@@ -1191,6 +1191,18 @@
    "ticker": null
   },
   {
+   "title": "BofA upgrades Seagate Technology stock rating on valuation By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3B4a3loWHA2ZXhhUnQ5SUs4VHp0Q2hHbjh6UTdfQ3JMMEVwcEk5U2NDY1ZiR2hFSVV5dlV4U1I4UE5SRkdqNmk0V2pOZTRlczQ4S2xrSldqMEstby1VQWJFUzB0cEtrbGF3dnFGeDgwcllZYzl2V0YwdVE0V3R2MWZEdG1pOUVnNzBiUGtXOW9TOGhZRFdIeVNwdjRycTl5cEJmT2kycWFCbmJqSk1SWGhtbXZmOHlHRlhZ?oc=5",
+   "source": "Investing.com Nigeria",
+   "summary": "",
+   "published": "2026-11-04T13:01:21+00:00",
+   "firm": "Bank of America",
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
    "title": "Guggenheim Initiates Coverage on Lockheed Martin With Buy Rating, $735 Price Target",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaTcwWHdiNEJYZ3VfNjc2a3ZXdVlOODJZa05DOFJhQ2gtejhhSmpNTTMxOU5JMVY2UWd6V1NJM1dCd0Y1Yzlvb2ZCZVNsMWlGTGItZDh6WnF3czZrS05JX3hWQnpLT0JLQnVxLXhKQktyMWwwN0QxWGw1eVhrMWFOR0loLVpEUG1rVVVfQ3hXM0xsOGR4aXZKazQ5VGY5dUNCS0VVYmF4NHpRUlJobXpYQUxjV3k5RVBYVkdiY2FBM0phNmFsZ1lRdFRndHg0SHM?oc=5",
    "source": "www.marketscreener",
@@ -1426,18 +1438,6 @@
    "published": "2026-11-04T11:59:29+00:00",
    "firm": "JPMorgan",
    "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley raises Flywire stock price target on growth outlook",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0NHdHFTOXRaYUV4VGFGZS1RQUktQjhlSjZuelFXc2pkZmpKdGpPU181VmVUeTJRNW1PTEk5RVBZb2xlblN2WjlXbmZTaHowazl3Vm92dGkzWk5teThqbVhDWWZqeHVSVlZrelgtWDAxRjlvX0VZd0p1WkNuTGZmdHZCME9WMXBMTkpfWXI1S19mdWRNVDJCOGh0LTFCek9xbWhsZERaZDBmVE0wdTVxRTItcmRwdk5HLU01dmlsN0tWNGNE?oc=5",
-   "source": "Investing",
-   "summary": "",
-   "published": "2026-11-04T11:57:39+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target raised",
    "rating": null,
    "target": null,
    "ticker": null
