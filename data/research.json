@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-04T23:15:11.244220+00:00",
- "finnhub": "missing_key",
+ "updated": "2026-11-04T23:20:05.597622+00:00",
+ "finnhub": "ok",
  "analyst_moves": [
   {
    "title": "UBS maintains Public Storage at Neutral, raises price target to $334 from $294",
@@ -118,6 +118,18 @@
    "published": "2026-11-04T21:59:23+00:00",
    "firm": null,
    "action": "Target cut",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Jefferies raises Nomad Foods stock price target on volume improvement",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckQwN3JtdWpzUjA0Q3Ixem1fVjd1Y3FhUFBPQXZGUnpvaExTbjd5MWkzOGZXbVhLelVYUWtDYVd5dS1fNWwzWllIX0VaMTFDMXphVlZmMW1GXzVFUWJYaGJfQXRRdHdrQnJlOWdOdjR2Z1JqUGhFZGVtSl9aYTZjU0pHX0tBdWVkUUI5blFSQmdWd1ctZVZSZUtrSjhPOVAxNTZNTWlsQmFyUk8zbldWc3lXNFhzMHlvd29TQnlrTjhxWHFNdWtmRg?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-04T21:59:23+00:00",
+   "firm": "Jefferies",
+   "action": "Target raised",
    "rating": null,
    "target": null,
    "ticker": null
@@ -241,6 +253,18 @@
    "rating": null,
    "target": null,
    "ticker": "KMX"
+  },
+  {
+   "title": "Calix (NYSE:CALX) Price Target Cut to $50.00 by Analysts at JPMorgan Chase & Co.",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYzcyWVNGbHZBR2Y2YjRMUlRGejUtVHR2TWRwNGVIQ3RmYl9rLVo5WWx1RUdiaHlBX1R6ajNEbDJQWGs2b0ZHVVVmcGFJS2lNd0tOWVk4T0hMaGNQSU9IOWhZX0NSYTdnRW9WaTJxcmM2RlY0MXJZRmtaeWVkZDRxOTJJcmlXM281aERIcDBqb2t4WmNtUXNjWnNqY3ZKbDlpV0dWbUNxeW1GVkdVV3dZS3doLXVBQnFVdUNuaU1jemZyQjZLaThYbkFFRzB2RXNK?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-04T20:30:50+00:00",
+   "firm": "JPMorgan",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$50.00",
+   "ticker": "CALX"
   },
   {
    "title": "Booking (NASDAQ:BKNG) Price Target Cut to $205.00 by Analysts at JPMorgan Chase & Co.",
@@ -420,6 +444,18 @@
    "action": "Target raised",
    "rating": "Neutral",
    "target": "$65",
+   "ticker": null
+  },
+  {
+   "title": "JP Morgan maintains Expeditors International at Neutral, raises price target to $220 from $214",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdG02MV9IWDZiVGxyS1hKUW1xS0kwaWMyTFptcFVoUzBDZ1lQdXJkeUIzTXYxUEtpaVVqYTUxSG1wOWtLaWpad21fVlVyemVMODBuVnVtOGVaUUZHZHlBSjl1cVdUeFJIRnA1eVhQMmVfT1NYSGJlRnVPdGNMUlZzSy13VmlEdzRacmJpSkZzVGVFSXB6SndxdF9UT19HTWEyS0NVbmVzeWNKWFIwQ0Q5U18wZk9hRnMxRkxYYzlGckQ2a3BVTTRLX21oTENXOVRmb1g1TEU5OWZabmN3Uk03VTAtU0RuUVhz?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-04T19:44:27+00:00",
+   "firm": "JPMorgan",
+   "action": "Target raised",
+   "rating": "Neutral",
+   "target": "$220",
    "ticker": null
   },
   {
@@ -660,18 +696,6 @@
    "action": "Target raised",
    "rating": "Outperform",
    "target": "$470",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains Keurig Dr Pepper at Overweight, raises price target to $40 from $38",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNV1BYcEIwcFpIQVoyRENxcUlYZEo0b2trUVRLQmZXemdTODdKZUpfUXRXNk16RmdNTkI0V3pzT3M3WUxXY3ZBUV9ubFVkdnl3MUdpcTdmdDBfb3FSeXloVVAxTTczRU9WX3JOcFh6UHZ6bmExajQ2V0RkM0NDQ0d1ZWN0WGR6dExMVldqUUlpSHB4bEVGX2lMU3Y0cm16UExYSVk4WklHVWRzNW4tVURtTlRFbXFSSnBmZVhJSHBmRVpIX2FaWThoc2Q4bUFlVFJ0RG1JTDJ3SE50aFpaZFhJVFFidGVEZw?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-04T18:11:52+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target raised",
-   "rating": "Overweight",
-   "target": "$40",
    "ticker": null
   },
   {
@@ -963,18 +987,6 @@
    "ticker": "FLG"
   },
   {
-   "title": "UBS raises DuPont stock price target to $182 on margin strength",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUozWmRwOHJqb05QQzhtTDY0UkxlY0t4ek1QaUk5dlFQX0VGUmh6Y2N6NWFQRlE3LUs1TmZQcE44S3R3X1V5RmZVb1RCM0lKNERfSEJDWEo2amM2RkxFcHpNeUdmT3JmQ1NSZjZqUWtVOXlsU29DaVVXMUJNbEhfdnF2LXJNWi16cHlJcDNzSGd2MmZTSGVOY1FLeGYtZHI3ZUxEdHVqazJ3eWR2VGlrWkxwajFSV01tMlZyQzJtRQ?oc=5",
-   "source": "Investing",
-   "summary": "",
-   "published": "2026-11-04T15:08:18+00:00",
-   "firm": "UBS",
-   "action": "Target raised",
-   "rating": null,
-   "target": "$182",
-   "ticker": null
-  },
-  {
    "title": "Vistra downgraded to Sector Weight from Overweight at KeyBanc",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2pJVzV2aGpKdkZkUHRuM05aSTgtTDRNQ1RWWnNObVVDQUpaREdZNXYwZXNUemVzVHpDN0xJeHpObU9VcGlmUlJJd2NLREJFOGc4TmZuRVBrdlljYTVXZFZmOW1WWE9aN19LUUVLSzdBeTVkQlNDRUdrOWVUSlJWZ2pEXzByLXl0SWZOZUNVVDVaWUJ6R092YVY1U1VRSldfdHVpM1A5eFU5NTl1LXlyVg?oc=5",
    "source": "TipRanks",
@@ -1153,18 +1165,6 @@
    "rating": "Neutral",
    "target": null,
    "ticker": "STZ"
-  },
-  {
-   "title": "JPMorgan Downgrades AutoNation to Neutral From Overweight, $185 Price Target",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU3N1MzYyLXMyZnNsdzZMdTlheDRSYng1RTdxc0hCY3RrcTIxcU01WGZRU0Q2U041QzNVelcyNDNadTZvbEliaHB0ZzNZTHROd0lIdl93ek1SUC1JU01QREZTODVVS200SlFtWVE0ZWhpNEVoaW85anB6YjdwMll5eTUxT3ZkQzVZeDNlazBmTWZXSHRpNEFLTXhLeDA1WklQc1pUeGt1V1JfUk1xNThPYnk4blExZEpXQjlmRnBJU3RZRGYtbGc?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-04T13:18:00+00:00",
-   "firm": "JPMorgan",
-   "action": "Downgrade",
-   "rating": "Neutral",
-   "target": "$185",
-   "ticker": null
   },
   {
    "title": "Wells Fargo Initiates Coverage on On Holding With Overweight Rating, $48 Price Target",
@@ -1443,8 +1443,2341 @@
    "ticker": null
   }
  ],
- "consensus": [],
- "earnings": null,
+ "consensus": [
+  {
+   "symbol": "AAPL",
+   "price": 349.51,
+   "change": 17.61,
+   "change_pct": 5.3058,
+   "prev_close": 331.9,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 11,
+    "buy": 19,
+    "hold": 15,
+    "sell": 3,
+    "strong_sell": 1,
+    "score": 0.73,
+    "verdict": "Buy",
+    "prev_score": 0.76,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "MSFT",
+   "price": 555.8,
+   "change": 34.81,
+   "change_pct": 6.6815,
+   "prev_close": 520.99,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 22,
+    "buy": 40,
+    "hold": 3,
+    "sell": 0,
+    "strong_sell": 0,
+    "score": 1.29,
+    "verdict": "Strong buy",
+    "prev_score": 1.29,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "NVDA",
+   "price": 200.13,
+   "change": -6.56,
+   "change_pct": -3.1738,
+   "prev_close": 206.69,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 25,
+    "buy": 41,
+    "hold": 2,
+    "sell": 1,
+    "strong_sell": 0,
+    "score": 1.3,
+    "verdict": "Strong buy",
+    "prev_score": 1.3,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "AMZN",
+   "price": 266.03,
+   "change": 15.34,
+   "change_pct": 6.1191,
+   "prev_close": 250.69,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 19,
+    "buy": 48,
+    "hold": 3,
+    "sell": 0,
+    "strong_sell": 0,
+    "score": 1.23,
+    "verdict": "Strong buy",
+    "prev_score": 1.23,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "GOOGL",
+   "price": 288.93,
+   "change": 8.9,
+   "change_pct": 3.1782,
+   "prev_close": 280.03,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 20,
+    "buy": 41,
+    "hold": 7,
+    "sell": 0,
+    "strong_sell": 0,
+    "score": 1.19,
+    "verdict": "Buy",
+    "prev_score": 1.21,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "META",
+   "price": 630,
+   "change": 8.97,
+   "change_pct": 1.4444,
+   "prev_close": 621.03,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 20,
+    "buy": 41,
+    "hold": 7,
+    "sell": 1,
+    "strong_sell": 0,
+    "score": 1.16,
+    "verdict": "Buy",
+    "prev_score": 1.16,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "TSLA",
+   "price": 385.19,
+   "change": -13.31,
+   "change_pct": -3.34,
+   "prev_close": 398.5,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 10,
+    "buy": 19,
+    "hold": 23,
+    "sell": 2,
+    "strong_sell": 0,
+    "score": 0.69,
+    "verdict": "Buy",
+    "prev_score": 0.59,
+    "trend": "up"
+   }
+  },
+  {
+   "symbol": "AVGO",
+   "price": 325.48,
+   "change": -6.65,
+   "change_pct": -2.0022,
+   "prev_close": 332.13,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 17,
+    "buy": 37,
+    "hold": 3,
+    "sell": 0,
+    "strong_sell": 0,
+    "score": 1.25,
+    "verdict": "Strong buy",
+    "prev_score": 1.23,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "AMD",
+   "price": 488.78,
+   "change": 4.88,
+   "change_pct": 1.0085,
+   "prev_close": 483.9,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 17,
+    "buy": 33,
+    "hold": 10,
+    "sell": 0,
+    "strong_sell": 0,
+    "score": 1.12,
+    "verdict": "Buy",
+    "prev_score": 1.12,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "JPM",
+   "price": 352.11,
+   "change": 14.13,
+   "change_pct": 4.1807,
+   "prev_close": 337.98,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 3,
+    "buy": 15,
+    "hold": 13,
+    "sell": 0,
+    "strong_sell": 0,
+    "score": 0.68,
+    "verdict": "Buy",
+    "prev_score": 0.7,
+    "trend": "flat"
+   }
+  },
+  {
+   "symbol": "NFLX",
+   "price": 66.39,
+   "change": 2.97,
+   "change_pct": 4.6831,
+   "prev_close": 63.42,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 13,
+    "buy": 26,
+    "hold": 15,
+    "sell": 2,
+    "strong_sell": 0,
+    "score": 0.89,
+    "verdict": "Buy",
+    "prev_score": 0.98,
+    "trend": "down"
+   }
+  },
+  {
+   "symbol": "PLTR",
+   "price": 171.7,
+   "change": -3.7,
+   "change_pct": -2.1095,
+   "prev_close": 175.4,
+   "as_of": "2026-11-04T21:00:00+00:00",
+   "consensus": {
+    "period": "2026-11-01",
+    "strong_buy": 12,
+    "buy": 19,
+    "hold": 8,
+    "sell": 1,
+    "strong_sell": 1,
+    "score": 0.98,
+    "verdict": "Buy",
+    "prev_score": 0.95,
+    "trend": "flat"
+   }
+  }
+ ],
+ "earnings": {
+  "fetched": "2026-11-04T23:20:05.597622+00:00",
+  "from": "2026-11-04",
+  "to": "2026-11-18",
+  "days": [
+   {
+    "date": "2026-11-09",
+    "total": 171,
+    "items": [
+     {
+      "symbol": "KSPI",
+      "date": "2026-11-09",
+      "hour": "bmo",
+      "eps_estimate": 1571.7598,
+      "revenue_estimate": 1270562137416,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "JBS",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.2883,
+      "revenue_estimate": 23221562338,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CEG",
+      "date": "2026-11-09",
+      "hour": "bmo",
+      "eps_estimate": 3.8857,
+      "revenue_estimate": 9465329917,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FERG",
+      "date": "2026-11-09",
+      "hour": "bmo",
+      "eps_estimate": 3.3656,
+      "revenue_estimate": 8908220112,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BAP",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 25.5872,
+      "revenue_estimate": 6707701890,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CNH",
+      "date": "2026-11-09",
+      "hour": "bmo",
+      "eps_estimate": 0.0996,
+      "revenue_estimate": 4201884234,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "KKR",
+      "date": "2026-11-09",
+      "hour": "bmo",
+      "eps_estimate": 1.605,
+      "revenue_estimate": 2622445052,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DOLE",
+      "date": "2026-11-09",
+      "hour": "bmo",
+      "eps_estimate": 0.3468,
+      "revenue_estimate": 2406690000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GMRS",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.5156,
+      "revenue_estimate": 1620365196,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DDS",
+      "date": "2026-11-09",
+      "hour": "",
+      "eps_estimate": 8.1642,
+      "revenue_estimate": 1493567800,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "LINE",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": -0.1311,
+      "revenue_estimate": 1390920735,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "EQPT",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.109,
+      "revenue_estimate": 1334319936,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "IHRT",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": -0.0714,
+      "revenue_estimate": 1074069435,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "HSAI",
+      "date": "2026-11-09",
+      "hour": "",
+      "eps_estimate": 1.2175,
+      "revenue_estimate": 1044885450,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "EQX",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.2576,
+      "revenue_estimate": 1010320675,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "HIMS",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.0649,
+      "revenue_estimate": 910745841,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BALY",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": -1.4765,
+      "revenue_estimate": 820219230,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GBTG",
+      "date": "2026-11-09",
+      "hour": "",
+      "eps_estimate": 0.0306,
+      "revenue_estimate": 817030200,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AGRO",
+      "date": "2026-11-09",
+      "hour": "",
+      "eps_estimate": 0.2346,
+      "revenue_estimate": 692951280,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FWRD",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.125,
+      "revenue_estimate": 690895725,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AMG",
+      "date": "2026-11-09",
+      "hour": "bmo",
+      "eps_estimate": 8.8737,
+      "revenue_estimate": 661631557,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CNCK",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": -0.0304,
+      "revenue_estimate": 654047184,
+      "quarter": 2,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "AAON",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.5848,
+      "revenue_estimate": 611664858,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AMCX",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.6528,
+      "revenue_estimate": 605489003,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AMRC",
+      "date": "2026-11-09",
+      "hour": "amc",
+      "eps_estimate": 0.5426,
+      "revenue_estimate": 584352441,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-10",
+    "total": 279,
+    "items": [
+     {
+      "symbol": "SE",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.8158,
+      "revenue_estimate": 8286492479,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "VG",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.5134,
+      "revenue_estimate": 4828067762,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CRWV",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": -1.1831,
+      "revenue_estimate": 3618066041,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ATAT",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 4.2262,
+      "revenue_estimate": 3315771252,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "TDG",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 12.3286,
+      "revenue_estimate": 2976769495,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BN",
+      "date": "2026-11-10",
+      "hour": "",
+      "eps_estimate": 0.7442,
+      "revenue_estimate": 1853619930,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GO",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.1563,
+      "revenue_estimate": 1202094305,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "REZI",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.7004,
+      "revenue_estimate": 1044480000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SBH",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.6052,
+      "revenue_estimate": 959573477,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ONON",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.4038,
+      "revenue_estimate": 947642056,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SGRY",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.1228,
+      "revenue_estimate": 842161347,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BV",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.263,
+      "revenue_estimate": 745775723,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BRSL",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.0788,
+      "revenue_estimate": 623017530,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "WIX",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 1.4035,
+      "revenue_estimate": 571641466,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "STUB",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.1049,
+      "revenue_estimate": 524155560,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ALH",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.3229,
+      "revenue_estimate": 465567438,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ITG",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.2531,
+      "revenue_estimate": 451009187,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BGS",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.1489,
+      "revenue_estimate": 439365826,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CCO",
+      "date": "2026-11-10",
+      "hour": "",
+      "eps_estimate": 0.0007,
+      "revenue_estimate": 433088000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "LEGN",
+      "date": "2026-11-10",
+      "hour": "bmo",
+      "eps_estimate": 0.0013,
+      "revenue_estimate": 368851492,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SONO",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": -0.1836,
+      "revenue_estimate": 347134560,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "LDI",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.0034,
+      "revenue_estimate": 333624886,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "NLST",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.612,
+      "revenue_estimate": 314772000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "RDNW",
+      "date": "2026-11-10",
+      "hour": "",
+      "eps_estimate": -0.0068,
+      "revenue_estimate": 293746740,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "LMRI",
+      "date": "2026-11-10",
+      "hour": "amc",
+      "eps_estimate": 0.1862,
+      "revenue_estimate": 275292104,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-11",
+    "total": 258,
+    "items": [
+     {
+      "symbol": "NIO",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": -0.0167,
+      "revenue_estimate": 33668882128,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ECHO",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": 0.1693,
+      "revenue_estimate": 3599414250,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AGBK",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 1.4969,
+      "revenue_estimate": 2278783020,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BHF",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 5.2352,
+      "revenue_estimate": 2205840000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CTVA",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.0969,
+      "revenue_estimate": 1799571720,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "TTEK",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.4777,
+      "revenue_estimate": 1173680003,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ENS",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 3.2118,
+      "revenue_estimate": 976266000,
+      "quarter": 2,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "AEBI",
+      "date": "2026-11-11",
+      "hour": "bmo",
+      "eps_estimate": 0.2285,
+      "revenue_estimate": 530370930,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "PLGO",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.7018,
+      "revenue_estimate": 522307830,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SENEA",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": 3.9346,
+      "revenue_estimate": 521180000,
+      "quarter": 2,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "TTEC",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": 0.2074,
+      "revenue_estimate": 489807743,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "TDW",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.7171,
+      "revenue_estimate": 374068852,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FOSL",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": -0.0434,
+      "revenue_estimate": 253631415,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "RAMP",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": 0.7065,
+      "revenue_estimate": 222238110,
+      "quarter": 2,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "BMBL",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.2257,
+      "revenue_estimate": 213659032,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AADX",
+      "date": "2026-11-11",
+      "hour": "bmo",
+      "eps_estimate": 0.1,
+      "revenue_estimate": 173791241,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BWMN",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": 0.374,
+      "revenue_estimate": 162037200,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SPNS",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": 0.408,
+      "revenue_estimate": 159528000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AVEX",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.0798,
+      "revenue_estimate": 152431656,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CINT",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.1002,
+      "revenue_estimate": 149104477,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DGII",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": 0.7793,
+      "revenue_estimate": 143140170,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ODD",
+      "date": "2026-11-11",
+      "hour": "bmo",
+      "eps_estimate": 0.3027,
+      "revenue_estimate": 140069931,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ALVO",
+      "date": "2026-11-11",
+      "hour": "amc",
+      "eps_estimate": -0.0476,
+      "revenue_estimate": 118376100,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "INVA",
+      "date": "2026-11-11",
+      "hour": "",
+      "eps_estimate": 0.5253,
+      "revenue_estimate": 117605184,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CSTE",
+      "date": "2026-11-11",
+      "hour": "bmo",
+      "eps_estimate": -0.1632,
+      "revenue_estimate": 107304000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-12",
+    "total": 404,
+    "items": [
+     {
+      "symbol": "NTES",
+      "date": "2026-11-12",
+      "hour": "bmo",
+      "eps_estimate": 16.4943,
+      "revenue_estimate": 30836708737,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AMAT",
+      "date": "2026-11-12",
+      "hour": "amc",
+      "eps_estimate": 4.1345,
+      "revenue_estimate": 10504570449,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "NU",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.2327,
+      "revenue_estimate": 5856378635,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "STNE",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 2.59,
+      "revenue_estimate": 3813800063,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "INTR",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.9836,
+      "revenue_estimate": 2759301450,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AMZE",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": -0.1632,
+      "revenue_estimate": 2675304960,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "RLX",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.2323,
+      "revenue_estimate": 1765045700,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CSIQ",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": -0.8486,
+      "revenue_estimate": 1408382676,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ARCO",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.1564,
+      "revenue_estimate": 1349741010,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ADIG",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.442,
+      "revenue_estimate": 1281171000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "LGN",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.6521,
+      "revenue_estimate": 1273911373,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "MWH",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.5898,
+      "revenue_estimate": 1201741288,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FLO",
+      "date": "2026-11-12",
+      "hour": "amc",
+      "eps_estimate": 0.1533,
+      "revenue_estimate": 1193477004,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "NIQ",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.2363,
+      "revenue_estimate": 1119753942,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AFYA",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 2.0877,
+      "revenue_estimate": 1020554706,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "NBIS",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": -0.7021,
+      "revenue_estimate": 924130138,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "YSWY",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.3922,
+      "revenue_estimate": 879314460,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BSP",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 0.3198,
+      "revenue_estimate": 753148112,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SPB",
+      "date": "2026-11-12",
+      "hour": "bmo",
+      "eps_estimate": 0.9693,
+      "revenue_estimate": 729743937,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BRC",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": 1.5251,
+      "revenue_estimate": 720893560,
+      "quarter": 1,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "AVAH",
+      "date": "2026-11-12",
+      "hour": "bmo",
+      "eps_estimate": 0.2118,
+      "revenue_estimate": 693095406,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "KLC",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": -0.0024,
+      "revenue_estimate": 675460053,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GLOB",
+      "date": "2026-11-12",
+      "hour": "amc",
+      "eps_estimate": 1.5081,
+      "revenue_estimate": 623501203,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "YETI",
+      "date": "2026-11-12",
+      "hour": "bmo",
+      "eps_estimate": 0.8577,
+      "revenue_estimate": 533640672,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SY",
+      "date": "2026-11-12",
+      "hour": "",
+      "eps_estimate": -0.3368,
+      "revenue_estimate": 524805600,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-13",
+    "total": 38,
+    "items": [
+     {
+      "symbol": "RMIX",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": 0.0845,
+      "revenue_estimate": 150083442,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "NDLS",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.2142,
+      "revenue_estimate": 119646000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "PROP",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": 0.1015,
+      "revenue_estimate": 108324000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BASE",
+      "date": "2026-11-13",
+      "hour": "amc",
+      "eps_estimate": -0.0364,
+      "revenue_estimate": 58410881,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SBC",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": 0.1131,
+      "revenue_estimate": 49403342,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FSI",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.0303,
+      "revenue_estimate": 14046070,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BEEM",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.1632,
+      "revenue_estimate": 7357596,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "RENX",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -1.4484,
+      "revenue_estimate": 4712400,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "MSGM",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": 0.0816,
+      "revenue_estimate": 3862740,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ASST",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": 1.6014,
+      "revenue_estimate": 3060255,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "PWCM",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -2.091,
+      "revenue_estimate": 2040000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "PMI",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.0303,
+      "revenue_estimate": 1565500,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "MIST",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.22,
+      "revenue_estimate": 1165717,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "PAVM",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.6018,
+      "revenue_estimate": 25500,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ACTU",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.1734,
+      "revenue_estimate": 0,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ARAI",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": -0.0816,
+      "revenue_estimate": 0,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ASFH",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CHAI",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CMDB",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CPPTL",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CREG",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DAAQ",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DYNR",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FBYD",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GRML",
+      "date": "2026-11-13",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-14",
+    "total": 2,
+    "items": [
+     {
+      "symbol": "ALLR",
+      "date": "2026-11-14",
+      "hour": "",
+      "eps_estimate": -0.2142,
+      "revenue_estimate": 0,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GMEX",
+      "date": "2026-11-14",
+      "hour": "",
+      "eps_estimate": null,
+      "revenue_estimate": null,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-16",
+    "total": 122,
+    "items": [
+     {
+      "symbol": "PDD",
+      "date": "2026-11-16",
+      "hour": "bmo",
+      "eps_estimate": 19.213,
+      "revenue_estimate": 117133197205,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BIDU",
+      "date": "2026-11-16",
+      "hour": "bmo",
+      "eps_estimate": 6.8564,
+      "revenue_estimate": 31457260968,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "XPEV",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.9066,
+      "revenue_estimate": 23869999710,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "LKNCY",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 6.4525,
+      "revenue_estimate": 18714021590,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "TSN",
+      "date": "2026-11-16",
+      "hour": "amc",
+      "eps_estimate": 0.5963,
+      "revenue_estimate": 14451658730,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FUTU",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 23.0877,
+      "revenue_estimate": 6887940996,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "IQ",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.0532,
+      "revenue_estimate": 6304694508,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ARMK",
+      "date": "2026-11-16",
+      "hour": "amc",
+      "eps_estimate": 0.7693,
+      "revenue_estimate": 5408601091,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "PAGS",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 2.1434,
+      "revenue_estimate": 5288877480,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BZ",
+      "date": "2026-11-16",
+      "hour": "bmo",
+      "eps_estimate": 2.3352,
+      "revenue_estimate": 2543431427,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ACM",
+      "date": "2026-11-16",
+      "hour": "amc",
+      "eps_estimate": 1.5938,
+      "revenue_estimate": 1944146576,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "NIU",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.1475,
+      "revenue_estimate": 1666500000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "POWL",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 1.5893,
+      "revenue_estimate": 341813046,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "TMS",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.0337,
+      "revenue_estimate": 178692230,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "MGIC",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 0.2978,
+      "revenue_estimate": 173910000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "PERI",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.0204,
+      "revenue_estimate": 120611093,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BAER",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 0.6052,
+      "revenue_estimate": 83683860,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ULBI",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 0.255,
+      "revenue_estimate": 57120000,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GRRR",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.5896,
+      "revenue_estimate": 52956972,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "WYY",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 0.0505,
+      "revenue_estimate": 40927220,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "RCAT",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.2074,
+      "revenue_estimate": 40297435,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SMTI",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": 0.0612,
+      "revenue_estimate": 30260003,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ZYXI",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.0612,
+      "revenue_estimate": 28019400,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SHAZ",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.5202,
+      "revenue_estimate": 27475332,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SHAZ",
+      "date": "2026-11-16",
+      "hour": "",
+      "eps_estimate": -0.5202,
+      "revenue_estimate": 27475332,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-17",
+    "total": 120,
+    "items": [
+     {
+      "symbol": "NVDA",
+      "date": "2026-11-17",
+      "hour": "amc",
+      "eps_estimate": 2.5263,
+      "revenue_estimate": 111356225808,
+      "quarter": 3,
+      "year": 2027,
+      "watch": true
+     },
+     {
+      "symbol": "HD",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 3.952,
+      "revenue_estimate": 44033075934,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "DIS",
+      "date": "2026-11-17",
+      "hour": "bmo",
+      "eps_estimate": 1.6946,
+      "revenue_estimate": 25439119035,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "TME",
+      "date": "2026-11-17",
+      "hour": "bmo",
+      "eps_estimate": 1.5022,
+      "revenue_estimate": 9231371518,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "QXO",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.1371,
+      "revenue_estimate": 4894775120,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AS",
+      "date": "2026-11-17",
+      "hour": "bmo",
+      "eps_estimate": 0.3575,
+      "revenue_estimate": 2201026570,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "WSM",
+      "date": "2026-11-17",
+      "hour": "bmo",
+      "eps_estimate": 2.2005,
+      "revenue_estimate": 2016749032,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "HUYA",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.1785,
+      "revenue_estimate": 1840256970,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "FUBO",
+      "date": "2026-11-17",
+      "hour": "amc",
+      "eps_estimate": -0.5176,
+      "revenue_estimate": 1539205724,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "AUNA",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.8527,
+      "revenue_estimate": 1244625930,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DOX",
+      "date": "2026-11-17",
+      "hour": "amc",
+      "eps_estimate": 2.0065,
+      "revenue_estimate": 1206638920,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GRAB",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.0306,
+      "revenue_estimate": 1094338008,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "KLAR",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": -0.1345,
+      "revenue_estimate": 983075041,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "MAGN",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.4957,
+      "revenue_estimate": 940403280,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ENR",
+      "date": "2026-11-17",
+      "hour": "amc",
+      "eps_estimate": 1.309,
+      "revenue_estimate": 818140400,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ATKR",
+      "date": "2026-11-17",
+      "hour": "bmo",
+      "eps_estimate": 1.8421,
+      "revenue_estimate": 802461030,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "JOYY",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 1.4219,
+      "revenue_estimate": 623990100,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "LUXE",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": -0.1275,
+      "revenue_estimate": 611031000,
+      "quarter": 1,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "LZB",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.4814,
+      "revenue_estimate": 511716166,
+      "quarter": 2,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "IHS",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.303,
+      "revenue_estimate": 424657530,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DLB",
+      "date": "2026-11-17",
+      "hour": "amc",
+      "eps_estimate": 1.207,
+      "revenue_estimate": 376487852,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "SR",
+      "date": "2026-11-17",
+      "hour": "amc",
+      "eps_estimate": -1.0721,
+      "revenue_estimate": 278934300,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "MFP",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.5212,
+      "revenue_estimate": 222139400,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "GBDC",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.3337,
+      "revenue_estimate": 191379713,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "OPRA",
+      "date": "2026-11-17",
+      "hour": "",
+      "eps_estimate": 0.3386,
+      "revenue_estimate": 186083526,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   },
+   {
+    "date": "2026-11-18",
+    "total": 106,
+    "items": [
+     {
+      "symbol": "TGT",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 2.0676,
+      "revenue_estimate": 26710649880,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "LOW",
+      "date": "2026-11-18",
+      "hour": "bmo",
+      "eps_estimate": 2.8946,
+      "revenue_estimate": 22628838829,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "VIPS",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 2.8254,
+      "revenue_estimate": 20862047872,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CSCO",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 1.3512,
+      "revenue_estimate": 18479907548,
+      "quarter": 1,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "TJX",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 1.3523,
+      "revenue_estimate": 16026664658,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "RERE",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.9078,
+      "revenue_estimate": 6541428300,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ROST",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 1.8791,
+      "revenue_estimate": 6339258628,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "GAP",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.7873,
+      "revenue_estimate": 4056464212,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "PANW",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.9908,
+      "revenue_estimate": 3372983960,
+      "quarter": 1,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "VNET",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": -0.241,
+      "revenue_estimate": 3001794108,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "ZIM",
+      "date": "2026-11-18",
+      "hour": "bmo",
+      "eps_estimate": 3.8456,
+      "revenue_estimate": 2536528342,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DAO",
+      "date": "2026-11-18",
+      "hour": "bmo",
+      "eps_estimate": 0.2212,
+      "revenue_estimate": 1669264036,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BBWI",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.1148,
+      "revenue_estimate": 1580810422,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "P",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.7842,
+      "revenue_estimate": 1356986702,
+      "quarter": 3,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "UGI",
+      "date": "2026-11-18",
+      "hour": "amc",
+      "eps_estimate": -0.35,
+      "revenue_estimate": 1355925000,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CPRT",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.4066,
+      "revenue_estimate": 1208985222,
+      "quarter": 1,
+      "year": 2027,
+      "watch": false
+     },
+     {
+      "symbol": "CPA",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 3.8679,
+      "revenue_estimate": 1187660302,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "WWD",
+      "date": "2026-11-18",
+      "hour": "amc",
+      "eps_estimate": 2.5827,
+      "revenue_estimate": 1152631270,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "DOYU",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.0806,
+      "revenue_estimate": 862094820,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "BRBR",
+      "date": "2026-11-18",
+      "hour": "amc",
+      "eps_estimate": 0.2327,
+      "revenue_estimate": 665915017,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "CAAP",
+      "date": "2026-11-18",
+      "hour": "",
+      "eps_estimate": 0.5953,
+      "revenue_estimate": 558108636,
+      "quarter": 3,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "EZPW",
+      "date": "2026-11-18",
+      "hour": "amc",
+      "eps_estimate": 0.4233,
+      "revenue_estimate": 435708810,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "JJSF",
+      "date": "2026-11-18",
+      "hour": "amc",
+      "eps_estimate": 1.3551,
+      "revenue_estimate": 405778950,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "KLIC",
+      "date": "2026-11-18",
+      "hour": "amc",
+      "eps_estimate": 1.4586,
+      "revenue_estimate": 384336000,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     },
+     {
+      "symbol": "NJR",
+      "date": "2026-11-18",
+      "hour": "amc",
+      "eps_estimate": 0.1313,
+      "revenue_estimate": 343677750,
+      "quarter": 4,
+      "year": 2026,
+      "watch": false
+     }
+    ]
+   }
+  ],
+  "watchlist": [
+   {
+    "symbol": "NVDA",
+    "date": "2026-11-17",
+    "hour": "amc",
+    "eps_estimate": 2.5263,
+    "revenue_estimate": 111356225808,
+    "quarter": 3,
+    "year": 2027,
+    "watch": true
+   }
+  ]
+ },
  "penny": {
   "news": [
    {
@@ -1483,6 +3816,13 @@
     "published": "2026-11-04T21:15:00+00:00"
    },
    {
+    "title": "INTC Stock Dips Even After CEO Lip-Bu Tan Buys $9.7M Worth Of Intel Shares",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0NKVDl6cDU0RXFoT2dROF9HRUxFLWZMLWVXSHpaazI3NGRpcXJwd3RWeHVqbUNNZTNueGZhSExZeGRUTXpHRGl4U01UaERXTXYwMUZIMEtoSVJfSnhpekg5TDVobjNXSDdEakJsTHktNm9uMXFXZDBFcjNSclA2WUZrdW1Od2tPeFFuUEhWX1JVVzQ?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-04T21:07:35+00:00"
+   },
+   {
     "title": "Qualcomm tops Q4 estimates, offers better-than-anticipated outlook",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ2wwZHd5Q09FSzA1Y2pjZzNta3lURklSN0JrRE83OWNSeXJQZHVzSy1LT0JkWU15Zk5uNzR2cUdtYnBPNlpjd2QteG9BemFNNUhZelpEWFJrWkxfQXctQTJHblU5TFJKQnJCQ1RrNG5zTGN2QWNLek1OekVCU0VKWnc2eGkySGxzdmRYX2V1d29JWDVHZ25MdFV6WUlWOWlTXzQ3YlF6R29Iem1hZUNyRVdJTUdidE5ISGlfSzB5c0JIUHM?oc=5",
     "source": "Yahoo Finance",
@@ -1512,7 +3852,7 @@
    },
    {
     "title": "Country Garden Services Holdings Plus 2 More Financially Strong Penny Stocks",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMUhxTWx5dVBQNzQ3Rm5ocWktMFdjNDJ0eDlVWGg2LXJvZUlSb3dFZVdoU1NaYnZiVlhmMXhCeFYxZGs0aHhaaUVxbEhyc0U2MWdoRGJlc0s4ZTFfUms3eUZ2M1hqNkR6R3FWeXFfMHYyZXFGUGg3T09ZbHQ0SjhOVkMxYnNERUEzdWlrQW84cw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUzhFbHh4N3gxa0JVd0lBLVVpS3hNRU9CbjNKTWpFbVl1dDlsekZnak1XZHRlMFhxZUpTQWUxSjdjSVMtbVFZTGNZNzdienc4NEtDMEhST1B2UzBlODdyVEd6MFh6NzhMNnhNTnVkSGFOTUNWVVh0Y1JHX2hDQzBuczA1eGNqRGhIY2FxXy1hdVJxVkVReVdZVXk5X1ZDbXVDMkZIQg?oc=5",
     "source": "Yahoo Finance",
     "summary": "",
     "published": "2026-11-04T19:12:45+00:00"
@@ -1714,22 +4054,690 @@
     "published": "2026-11-04T12:31:39+00:00"
    },
    {
-    "title": "Top 3 Canadian Penny Stocks To Watch In November 2026",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcE93aVZ5MWdVSnlpQ21NNTZmQWtXMDV1N2ZyLVBic1FTbU90T25ZUnlKUnV2UHBfSGg5c0xXUDRTVlFWTjBDQ3BxZkNXeC1FQ3JrMkIxZHRQR3VadnNOdTBrY3RTQUxQbjJwUEtuWGd4MnprNTdUQVhSNThqNi1LSFRtZ2pWVG5WUlhOM2ItWG5WZFFHT0tj?oc=5",
+    "title": "Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before They Skyrocket Once Again",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYU8zTTBndXIxNE15NDJrVHRDMmlnNlJGUFlyak1TS3ptSVVsamdCeFhUTkVFSHI0dUNpZi1hZjlHTjlSY1Bhdmx6bVduejN2eVRTc3B0YzNfaXdMS3FrYzBzVlVzdTFHd05iQ05ZN29OZHZFYWhsSFdfVWRJXzdkSmFyNUtHQzZtdklmeUkyNHpVbkp2cm14dnNhSHB1UQ?oc=5",
     "source": "Yahoo Finance",
     "summary": "",
-    "published": "2026-11-04T06:17:59+00:00"
-   },
-   {
-    "title": "Chinese fintechs look abroad as Nasdaq tightens the screws on penny stocks",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNGRHQUxwdlZlZDNGQWdLUHVHblRCUzh3VHN5QWNWNzI4NS1BWHMwWmJSbm5OZDJBRGFDQ2pYcHBzb1hjbEh2NWh3OUZjTS1PZUtZYjNILUg5OFRQQnllNXgtYTl0dGk1eWFsWTJ2SlFrQUdUYV9uN1hwWmxkQXFUWmdlSTVOM2lxOW5tdjNoRm1SSkNmNEtRV2FRcHFBeGdEREgxeA?oc=5",
-    "source": "Bamboo Works",
-    "summary": "",
-    "published": "2026-11-04T05:40:12+00:00"
+    "published": "2026-11-04T11:56:02+00:00"
    }
   ],
-  "stocks": [],
+  "stocks": [
+   {
+    "symbol": "ABOS",
+    "price": 0.2163,
+    "change": -0.0181,
+    "change_pct": -7.7218,
+    "prev_close": 0.2344,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "consensus": {
+     "period": "2026-11-01",
+     "strong_buy": 1,
+     "buy": 1,
+     "hold": 4,
+     "sell": 3,
+     "strong_sell": 2,
+     "score": -0.36,
+     "verdict": "Hold",
+     "prev_score": 1.42,
+     "trend": "down"
+    },
+    "mentions": {
+     "count": 2,
+     "headlines": [
+      {
+       "title": "Which Penny Stock Looks Riskiest: Acumen Pharmaceuticals (NASDAQ:ABOS), Senti Biosciences (NASDAQ:SNTI), Theriva Biologics (NYSEAMERICAN:TOVX), Context Therapeutics (NASDAQ:CNTX) or Hain Celestial (NASDAQ:HAIN)? -…",
+       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPR1QxeFJhM1MyYkViMWhTYUlJb3ZobVZuTVFzb05pLUdnUXdHQUpjd3N2MjBKcUx0MjFLN0RmOFJqS3hYeF85SGx1Sk5YWkFvNGRDbThrWUVhM3Q5VmQtUUJGOTJJZ0JmUkU3ejN0N3NlWm5WMHRGd1dFNVYxY00wVEthcHBEQTk0dmZwa1dpVmMtSDNFbmlqV2ExRDhpaFNBUEhubGFJZnktQVZTZ0VOZnoyMmdPbGxFS292ajhFbm9vajFfOW1GUEZGZWJ0cHhld0VRckEzVnlwNTFJTjJwbVFKR29TNFZ0UW1nbTE5dFdrd1kwNnk0RXhvMW9CWmxFeEljQW9pMXhSaXNjcDdPWTY5SWprRDQzeEVHRUwyRWJ0VnFvTlFHWlZoODkxVTdRUU9QUm1oZ3VwOW14RVBRamJManBRb2xNTS1TMA?oc=5",
+       "source": "kalkine.ca"
+      },
+      {
+       "title": "Can These Penny Stock Gains Last: 22nd Century Group (NASDAQ:XXII), Hain Celestial (NASDAQ:HAIN), Senti Biosciences (NASDAQ:SNTI), Acumen Pharmaceuticals (NASDAQ:ABOS) or Context Therapeutics (NASDAQ:CNTX)?",
+       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZzNSY01ZREZlaV9GRzROel9EVU1hQnB1UFpNdDdTWHdsRWNhejFsWGxWMG82aVFIU2pROWwyT2h5Mi1BSmhXT2xDSDFsb0dBbjdnOElkMTA4QVRjanRrdUNfNzJqZFE2UjRUNkVrWHRaUElRODhuT2s5d0dTX29LQmozVE5GUmN0ekJNY3hVQXhWcGlmZ09PbUR6alp2Yzc3NS1ZMHlERTFSTVRCM1RVd0daSVkxc0gxa0FqeVVZcTZSV0M0VktYaFJoWWtLeXo0YlVQT1JuV0c0Y09VdG9YazBORHdmeW45SUswMlJFeUJVV2dFUl9zNlN0eGZpbUNaMWszRzN2RU5wZE9HMnhQaS03XzZkeGhWQ3I2MjNVeFp2eEt2bl9nX2NtU0ZUcE42bVhraVJuVGdvRXB0SmlXSFQzQnNudw?oc=5",
+       "source": "kalkine.ca"
+      }
+     ]
+    },
+    "watch": false
+   },
+   {
+    "symbol": "SNTI",
+    "price": 0.1766,
+    "change": -0.0013,
+    "change_pct": -0.7307,
+    "prev_close": 0.1779,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "consensus": {
+     "period": "2026-11-01",
+     "strong_buy": 2,
+     "buy": 5,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0,
+     "score": 1.12,
+     "verdict": "Buy",
+     "prev_score": 1.12,
+     "trend": "flat"
+    },
+    "mentions": {
+     "count": 2,
+     "headlines": [
+      {
+       "title": "Which Penny Stock Looks Riskiest: Acumen Pharmaceuticals (NASDAQ:ABOS), Senti Biosciences (NASDAQ:SNTI), Theriva Biologics (NYSEAMERICAN:TOVX), Context Therapeutics (NASDAQ:CNTX) or Hain Celestial (NASDAQ:HAIN)? -…",
+       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPR1QxeFJhM1MyYkViMWhTYUlJb3ZobVZuTVFzb05pLUdnUXdHQUpjd3N2MjBKcUx0MjFLN0RmOFJqS3hYeF85SGx1Sk5YWkFvNGRDbThrWUVhM3Q5VmQtUUJGOTJJZ0JmUkU3ejN0N3NlWm5WMHRGd1dFNVYxY00wVEthcHBEQTk0dmZwa1dpVmMtSDNFbmlqV2ExRDhpaFNBUEhubGFJZnktQVZTZ0VOZnoyMmdPbGxFS292ajhFbm9vajFfOW1GUEZGZWJ0cHhld0VRckEzVnlwNTFJTjJwbVFKR29TNFZ0UW1nbTE5dFdrd1kwNnk0RXhvMW9CWmxFeEljQW9pMXhSaXNjcDdPWTY5SWprRDQzeEVHRUwyRWJ0VnFvTlFHWlZoODkxVTdRUU9QUm1oZ3VwOW14RVBRamJManBRb2xNTS1TMA?oc=5",
+       "source": "kalkine.ca"
+      },
+      {
+       "title": "Can These Penny Stock Gains Last: 22nd Century Group (NASDAQ:XXII), Hain Celestial (NASDAQ:HAIN), Senti Biosciences (NASDAQ:SNTI), Acumen Pharmaceuticals (NASDAQ:ABOS) or Context Therapeutics (NASDAQ:CNTX)?",
+       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZzNSY01ZREZlaV9GRzROel9EVU1hQnB1UFpNdDdTWHdsRWNhejFsWGxWMG82aVFIU2pROWwyT2h5Mi1BSmhXT2xDSDFsb0dBbjdnOElkMTA4QVRjanRrdUNfNzJqZFE2UjRUNkVrWHRaUElRODhuT2s5d0dTX29LQmozVE5GUmN0ekJNY3hVQXhWcGlmZ09PbUR6alp2Yzc3NS1ZMHlERTFSTVRCM1RVd0daSVkxc0gxa0FqeVVZcTZSV0M0VktYaFJoWWtLeXo0YlVQT1JuV0c0Y09VdG9YazBORHdmeW45SUswMlJFeUJVV2dFUl9zNlN0eGZpbUNaMWszRzN2RU5wZE9HMnhQaS03XzZkeGhWQ3I2MjNVeFp2eEt2bl9nX2NtU0ZUcE42bVhraVJuVGdvRXB0SmlXSFQzQnNudw?oc=5",
+       "source": "kalkine.ca"
+      }
+     ]
+    },
+    "watch": false
+   },
+   {
+    "symbol": "CNTX",
+    "price": 0.2035,
+    "change": 0.0095,
+    "change_pct": 4.8969,
+    "prev_close": 0.194,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "consensus": {
+     "period": "2026-11-01",
+     "strong_buy": 4,
+     "buy": 11,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0,
+     "score": 1.19,
+     "verdict": "Buy",
+     "prev_score": 1.19,
+     "trend": "flat"
+    },
+    "mentions": {
+     "count": 2,
+     "headlines": [
+      {
+       "title": "Which Penny Stock Looks Riskiest: Acumen Pharmaceuticals (NASDAQ:ABOS), Senti Biosciences (NASDAQ:SNTI), Theriva Biologics (NYSEAMERICAN:TOVX), Context Therapeutics (NASDAQ:CNTX) or Hain Celestial (NASDAQ:HAIN)? -…",
+       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPR1QxeFJhM1MyYkViMWhTYUlJb3ZobVZuTVFzb05pLUdnUXdHQUpjd3N2MjBKcUx0MjFLN0RmOFJqS3hYeF85SGx1Sk5YWkFvNGRDbThrWUVhM3Q5VmQtUUJGOTJJZ0JmUkU3ejN0N3NlWm5WMHRGd1dFNVYxY00wVEthcHBEQTk0dmZwa1dpVmMtSDNFbmlqV2ExRDhpaFNBUEhubGFJZnktQVZTZ0VOZnoyMmdPbGxFS292ajhFbm9vajFfOW1GUEZGZWJ0cHhld0VRckEzVnlwNTFJTjJwbVFKR29TNFZ0UW1nbTE5dFdrd1kwNnk0RXhvMW9CWmxFeEljQW9pMXhSaXNjcDdPWTY5SWprRDQzeEVHRUwyRWJ0VnFvTlFHWlZoODkxVTdRUU9QUm1oZ3VwOW14RVBRamJManBRb2xNTS1TMA?oc=5",
+       "source": "kalkine.ca"
+      },
+      {
+       "title": "Can These Penny Stock Gains Last: 22nd Century Group (NASDAQ:XXII), Hain Celestial (NASDAQ:HAIN), Senti Biosciences (NASDAQ:SNTI), Acumen Pharmaceuticals (NASDAQ:ABOS) or Context Therapeutics (NASDAQ:CNTX)?",
+       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZzNSY01ZREZlaV9GRzROel9EVU1hQnB1UFpNdDdTWHdsRWNhejFsWGxWMG82aVFIU2pROWwyT2h5Mi1BSmhXT2xDSDFsb0dBbjdnOElkMTA4QVRjanRrdUNfNzJqZFE2UjRUNkVrWHRaUElRODhuT2s5d0dTX29LQmozVE5GUmN0ekJNY3hVQXhWcGlmZ09PbUR6alp2Yzc3NS1ZMHlERTFSTVRCM1RVd0daSVkxc0gxa0FqeVVZcTZSV0M0VktYaFJoWWtLeXo0YlVQT1JuV0c0Y09VdG9YazBORHdmeW45SUswMlJFeUJVV2dFUl9zNlN0eGZpbUNaMWszRzN2RU5wZE9HMnhQaS03XzZkeGhWQ3I2MjNVeFp2eEt2bl9nX2NtU0ZUcE42bVhraVJuVGdvRXB0SmlXSFQzQnNudw?oc=5",
+       "source": "kalkine.ca"
+      }
+     ]
+    },
+    "watch": false
+   },
+   {
+    "symbol": "HAIN",
+    "price": 0.1502,
+    "change": 0.0054,
+    "change_pct": 3.7293,
+    "prev_close": 0.1448,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "consensus": {
+     "period": "2026-11-01",
+     "strong_buy": 0,
+     "buy": 1,
+     "hold": 3,
+     "sell": 2,
+     "strong_sell": 2,
+     "score": -0.62,
+     "verdict": "Sell",
+     "prev_score": -0.62,
+     "trend": "flat"
+    },
+    "mentions": {
+     "count": 2,
+     "headlines": [
+      {
+       "title": "Which Penny Stock Looks Riskiest: Acumen Pharmaceuticals (NASDAQ:ABOS), Senti Biosciences (NASDAQ:SNTI), Theriva Biologics (NYSEAMERICAN:TOVX), Context Therapeutics (NASDAQ:CNTX) or Hain Celestial (NASDAQ:HAIN)? -…",
+       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPR1QxeFJhM1MyYkViMWhTYUlJb3ZobVZuTVFzb05pLUdnUXdHQUpjd3N2MjBKcUx0MjFLN0RmOFJqS3hYeF85SGx1Sk5YWkFvNGRDbThrWUVhM3Q5VmQtUUJGOTJJZ0JmUkU3ejN0N3NlWm5WMHRGd1dFNVYxY00wVEthcHBEQTk0dmZwa1dpVmMtSDNFbmlqV2ExRDhpaFNBUEhubGFJZnktQVZTZ0VOZnoyMmdPbGxFS292ajhFbm9vajFfOW1GUEZGZWJ0cHhld0VRckEzVnlwNTFJTjJwbVFKR29TNFZ0UW1nbTE5dFdrd1kwNnk0RXhvMW9CWmxFeEljQW9pMXhSaXNjcDdPWTY5SWprRDQzeEVHRUwyRWJ0VnFvTlFHWlZoODkxVTdRUU9QUm1oZ3VwOW14RVBRamJManBRb2xNTS1TMA?oc=5",
+       "source": "kalkine.ca"
+      },
+      {
+       "title": "Can These Penny Stock Gains Last: 22nd Century Group (NASDAQ:XXII), Hain Celestial (NASDAQ:HAIN), Senti Biosciences (NASDAQ:SNTI), Acumen Pharmaceuticals (NASDAQ:ABOS) or Context Therapeutics (NASDAQ:CNTX)?",
+       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZzNSY01ZREZlaV9GRzROel9EVU1hQnB1UFpNdDdTWHdsRWNhejFsWGxWMG82aVFIU2pROWwyT2h5Mi1BSmhXT2xDSDFsb0dBbjdnOElkMTA4QVRjanRrdUNfNzJqZFE2UjRUNkVrWHRaUElRODhuT2s5d0dTX29LQmozVE5GUmN0ekJNY3hVQXhWcGlmZ09PbUR6alp2Yzc3NS1ZMHlERTFSTVRCM1RVd0daSVkxc0gxa0FqeVVZcTZSV0M0VktYaFJoWWtLeXo0YlVQT1JuV0c0Y09VdG9YazBORHdmeW45SUswMlJFeUJVV2dFUl9zNlN0eGZpbUNaMWszRzN2RU5wZE9HMnhQaS03XzZkeGhWQ3I2MjNVeFp2eEt2bl9nX2NtU0ZUcE42bVhraVJuVGdvRXB0SmlXSFQzQnNudw?oc=5",
+       "source": "kalkine.ca"
+      }
+     ]
+    },
+    "watch": false
+   },
+   {
+    "symbol": "TOVX",
+    "price": 0.19,
+    "change": 0.008,
+    "change_pct": 4.3956,
+    "prev_close": 0.182,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "consensus": {
+     "period": "2026-11-01",
+     "strong_buy": 2,
+     "buy": 4,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0,
+     "score": 1.14,
+     "verdict": "Buy",
+     "prev_score": 1.12,
+     "trend": "flat"
+    },
+    "mentions": {
+     "count": 1,
+     "headlines": [
+      {
+       "title": "Which Penny Stock Looks Riskiest: Acumen Pharmaceuticals (NASDAQ:ABOS), Senti Biosciences (NASDAQ:SNTI), Theriva Biologics (NYSEAMERICAN:TOVX), Context Therapeutics (NASDAQ:CNTX) or Hain Celestial (NASDAQ:HAIN)? -…",
+       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPR1QxeFJhM1MyYkViMWhTYUlJb3ZobVZuTVFzb05pLUdnUXdHQUpjd3N2MjBKcUx0MjFLN0RmOFJqS3hYeF85SGx1Sk5YWkFvNGRDbThrWUVhM3Q5VmQtUUJGOTJJZ0JmUkU3ejN0N3NlWm5WMHRGd1dFNVYxY00wVEthcHBEQTk0dmZwa1dpVmMtSDNFbmlqV2ExRDhpaFNBUEhubGFJZnktQVZTZ0VOZnoyMmdPbGxFS292ajhFbm9vajFfOW1GUEZGZWJ0cHhld0VRckEzVnlwNTFJTjJwbVFKR29TNFZ0UW1nbTE5dFdrd1kwNnk0RXhvMW9CWmxFeEljQW9pMXhSaXNjcDdPWTY5SWprRDQzeEVHRUwyRWJ0VnFvTlFHWlZoODkxVTdRUU9QUm1oZ3VwOW14RVBRamJManBRb2xNTS1TMA?oc=5",
+       "source": "kalkine.ca"
+      }
+     ]
+    },
+    "watch": false
+   },
+   {
+    "symbol": "XXII",
+    "price": 0.042,
+    "change": -0.0063,
+    "change_pct": -13.0435,
+    "prev_close": 0.0483,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "consensus": {
+     "period": "2026-11-01",
+     "strong_buy": 2,
+     "buy": 4,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0,
+     "score": 1.14,
+     "verdict": "Buy",
+     "prev_score": 1.14,
+     "trend": "flat"
+    },
+    "mentions": {
+     "count": 1,
+     "headlines": [
+      {
+       "title": "Can These Penny Stock Gains Last: 22nd Century Group (NASDAQ:XXII), Hain Celestial (NASDAQ:HAIN), Senti Biosciences (NASDAQ:SNTI), Acumen Pharmaceuticals (NASDAQ:ABOS) or Context Therapeutics (NASDAQ:CNTX)?",
+       "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZzNSY01ZREZlaV9GRzROel9EVU1hQnB1UFpNdDdTWHdsRWNhejFsWGxWMG82aVFIU2pROWwyT2h5Mi1BSmhXT2xDSDFsb0dBbjdnOElkMTA4QVRjanRrdUNfNzJqZFE2UjRUNkVrWHRaUElRODhuT2s5d0dTX29LQmozVE5GUmN0ekJNY3hVQXhWcGlmZ09PbUR6alp2Yzc3NS1ZMHlERTFSTVRCM1RVd0daSVkxc0gxa0FqeVVZcTZSV0M0VktYaFJoWWtLeXo0YlVQT1JuV0c0Y09VdG9YazBORHdmeW45SUswMlJFeUJVV2dFUl9zNlN0eGZpbUNaMWszRzN2RU5wZE9HMnhQaS03XzZkeGhWQ3I2MjNVeFp2eEt2bl9nX2NtU0ZUcE42bVhraVJuVGdvRXB0SmlXSFQzQnNudw?oc=5",
+       "source": "kalkine.ca"
+      }
+     ]
+    },
+    "watch": false
+   },
+   {
+    "symbol": "LABT",
+    "price": 0.1914,
+    "change": -0.0036,
+    "change_pct": -1.8462,
+    "prev_close": 0.195,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "consensus": {
+     "period": "2026-11-01",
+     "strong_buy": 2,
+     "buy": 4,
+     "hold": 1,
+     "sell": 0,
+     "strong_sell": 0,
+     "score": 1.14,
+     "verdict": "Buy",
+     "prev_score": null,
+     "trend": null
+    },
+    "mentions": {
+     "count": 1,
+     "headlines": [
+      {
+       "title": "Why Is Penny Stock Lakewood-Amedex Biotherapeutics (NASDAQ:LABT) Down 7.69% Pre-Market?",
+       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHVrdVpYdU5YNEVhSnZSR1VZWjUwU0s2S0hzbG9TOUFUdk1QcUs3SEFUMFdxc3Q5d1RObHhGenI5Y0xJVkRvVWZYUkV1NldXaUhPN1hrWS02V0pfMmZrR0FtQWFNb0E1WXgyeHdWRTlmMDkyNnFWZU8yVWFkeFhkUk95WHVadGJfMnZCNE45cDloZW9KSHhUZFJUOGRWRGU1VmhxbDBPR01LY3VVS3oteGZoYTcxeUMwbUkzQTBBbw?oc=5",
+       "source": "Kalkine"
+      }
+     ]
+    },
+    "watch": false
+   },
+   {
+    "symbol": "SLGB",
+    "price": 0.2203,
+    "change": -0.0545,
+    "change_pct": -19.8326,
+    "prev_close": 0.2748,
+    "as_of": "2026-11-04T21:00:00+00:00",
+    "mentions": {
+     "count": 1,
+     "headlines": [
+      {
+       "title": "Is Smart Logistics Global (NASDAQ:SLGB) Penny Stock Down 8.04% Ahead of an April 2027 Nasdaq Deadline?",
+       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVZZTmN4TVlScmhGNExNYU9QbGZiT0VzcG1seDYydEpVRXVpZU5DZXBWVnR3QmxSQ0dxdWtJYnJiWFRhWXFvdTZzV19KVDhpeUhmQS16cGUybWFFczVnS3pwelltcVhTa2JiMGtTamdoeE1VUkNKdGpmLXR3NEQxT1R1SEs2RWZzeEhISFBabDQyaGNmNFRXbm5jRlJRMTRJSEhNQWtDb2QzVmp0SkdBckl4YnR0Rkh1Ul9FUWpqcEp4cDQ5aXNwYlRWeWVLRFNJN3Nr?oc=5",
+       "source": "Kalkine"
+      }
+     ]
+    },
+    "watch": false
+   }
+  ],
   "max_price": 5
  },
- "_rec_cache": {}
+ "_rec_cache": {
+  "AAPL": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "AAPL",
+    "period": "2026-11-01",
+    "strongBuy": 11,
+    "buy": 19,
+    "hold": 15,
+    "sell": 3,
+    "strongSell": 1
+   },
+   "previous": {
+    "symbol": "AAPL",
+    "period": "2026-10-01",
+    "strongBuy": 11,
+    "buy": 20,
+    "hold": 14,
+    "sell": 3,
+    "strongSell": 1
+   }
+  },
+  "MSFT": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "MSFT",
+    "period": "2026-11-01",
+    "strongBuy": 22,
+    "buy": 40,
+    "hold": 3,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "MSFT",
+    "period": "2026-10-01",
+    "strongBuy": 22,
+    "buy": 40,
+    "hold": 3,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "NVDA": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "NVDA",
+    "period": "2026-11-01",
+    "strongBuy": 25,
+    "buy": 41,
+    "hold": 2,
+    "sell": 1,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "NVDA",
+    "period": "2026-10-01",
+    "strongBuy": 25,
+    "buy": 41,
+    "hold": 2,
+    "sell": 1,
+    "strongSell": 0
+   }
+  },
+  "AMZN": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "AMZN",
+    "period": "2026-11-01",
+    "strongBuy": 19,
+    "buy": 48,
+    "hold": 3,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "AMZN",
+    "period": "2026-10-01",
+    "strongBuy": 19,
+    "buy": 48,
+    "hold": 3,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "GOOGL": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "GOOGL",
+    "period": "2026-11-01",
+    "strongBuy": 20,
+    "buy": 41,
+    "hold": 7,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "GOOGL",
+    "period": "2026-10-01",
+    "strongBuy": 20,
+    "buy": 41,
+    "hold": 6,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "META": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "META",
+    "period": "2026-11-01",
+    "strongBuy": 20,
+    "buy": 41,
+    "hold": 7,
+    "sell": 1,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "META",
+    "period": "2026-10-01",
+    "strongBuy": 20,
+    "buy": 41,
+    "hold": 7,
+    "sell": 1,
+    "strongSell": 0
+   }
+  },
+  "TSLA": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "TSLA",
+    "period": "2026-11-01",
+    "strongBuy": 10,
+    "buy": 19,
+    "hold": 23,
+    "sell": 2,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "TSLA",
+    "period": "2026-10-01",
+    "strongBuy": 10,
+    "buy": 17,
+    "hold": 22,
+    "sell": 5,
+    "strongSell": 0
+   }
+  },
+  "AVGO": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "AVGO",
+    "period": "2026-11-01",
+    "strongBuy": 17,
+    "buy": 37,
+    "hold": 3,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "AVGO",
+    "period": "2026-10-01",
+    "strongBuy": 17,
+    "buy": 35,
+    "hold": 4,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "AMD": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "AMD",
+    "period": "2026-11-01",
+    "strongBuy": 17,
+    "buy": 33,
+    "hold": 10,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "AMD",
+    "period": "2026-10-01",
+    "strongBuy": 17,
+    "buy": 33,
+    "hold": 10,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "JPM": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "JPM",
+    "period": "2026-11-01",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 13,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "JPM",
+    "period": "2026-10-01",
+    "strongBuy": 3,
+    "buy": 15,
+    "hold": 12,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "NFLX": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "NFLX",
+    "period": "2026-11-01",
+    "strongBuy": 13,
+    "buy": 26,
+    "hold": 15,
+    "sell": 2,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "NFLX",
+    "period": "2026-10-01",
+    "strongBuy": 14,
+    "buy": 29,
+    "hold": 13,
+    "sell": 1,
+    "strongSell": 0
+   }
+  },
+  "PLTR": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "PLTR",
+    "period": "2026-11-01",
+    "strongBuy": 12,
+    "buy": 19,
+    "hold": 8,
+    "sell": 1,
+    "strongSell": 1
+   },
+   "previous": {
+    "symbol": "PLTR",
+    "period": "2026-10-01",
+    "strongBuy": 12,
+    "buy": 16,
+    "hold": 9,
+    "sell": 1,
+    "strongSell": 1
+   }
+  },
+  "ABOS": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "ABOS",
+    "period": "2026-11-01",
+    "strongBuy": 1,
+    "buy": 1,
+    "hold": 4,
+    "sell": 3,
+    "strongSell": 2
+   },
+   "previous": {
+    "symbol": "ABOS",
+    "period": "2026-10-01",
+    "strongBuy": 6,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "SNTI": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "SNTI",
+    "period": "2026-11-01",
+    "strongBuy": 2,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "SNTI",
+    "period": "2026-10-01",
+    "strongBuy": 2,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "CNTX": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "CNTX",
+    "period": "2026-11-01",
+    "strongBuy": 4,
+    "buy": 11,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "CNTX",
+    "period": "2026-10-01",
+    "strongBuy": 4,
+    "buy": 11,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "HAIN": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "HAIN",
+    "period": "2026-11-01",
+    "strongBuy": 0,
+    "buy": 1,
+    "hold": 3,
+    "sell": 2,
+    "strongSell": 2
+   },
+   "previous": {
+    "symbol": "HAIN",
+    "period": "2026-10-01",
+    "strongBuy": 0,
+    "buy": 1,
+    "hold": 3,
+    "sell": 2,
+    "strongSell": 2
+   }
+  },
+  "FSLY": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "FSLY",
+    "period": "2026-11-01",
+    "strongBuy": 4,
+    "buy": 7,
+    "hold": 6,
+    "sell": 1,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "FSLY",
+    "period": "2026-10-01",
+    "strongBuy": 3,
+    "buy": 7,
+    "hold": 7,
+    "sell": 1,
+    "strongSell": 0
+   }
+  },
+  "TOVX": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "TOVX",
+    "period": "2026-11-01",
+    "strongBuy": 2,
+    "buy": 4,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "TOVX",
+    "period": "2026-10-01",
+    "strongBuy": 2,
+    "buy": 5,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "XXII": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "XXII",
+    "period": "2026-11-01",
+    "strongBuy": 2,
+    "buy": 4,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": {
+    "symbol": "XXII",
+    "period": "2026-10-01",
+    "strongBuy": 2,
+    "buy": 4,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   }
+  },
+  "LABT": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": {
+    "symbol": "LABT",
+    "period": "2026-11-01",
+    "strongBuy": 2,
+    "buy": 4,
+    "hold": 1,
+    "sell": 0,
+    "strongSell": 0
+   },
+   "previous": null
+  },
+  "SLGB": {
+   "fetched": "2026-11-04T23:20:05.597622+00:00",
+   "latest": null,
+   "previous": null
+  }
+ }
 }
