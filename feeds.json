@@ -7,7 +7,7 @@
       "max": 40,
       "feeds": [
         "https://feeds.content.dowjones.io/public/rss/mw_topstories",
-        "https://finance.yahoo.com/news/rssindex",
+        "https://news.google.com/rss/search?q=site:finance.yahoo.com+stocks+when:1d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=stock+market+when:1d&hl=en-US&gl=US&ceid=US:en",
         "https://news.google.com/rss/search?q=options+trading+OR+earnings+when:2d&hl=en-US&gl=US&ceid=US:en"
       ]
