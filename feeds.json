@@ -63,5 +63,44 @@
         "https://news.google.com/rss/search?q=%22Richmond+VA%22+OR+RVA+when:3d&hl=en-US&gl=US&ceid=US:en"
       ]
     }
-  ]
+  ],
+  "research": {
+    "_help": "watchlist = stocks shown on the Analyst Ratings and Earnings tabs. penny_watchlist = penny stocks you always want checked (leave empty to only use stocks mentioned in the news). Live prices, buy/hold/sell counts and the earnings calendar need a free FINNHUB_API_KEY secret (see README).",
+    "watchlist": [
+      "AAPL",
+      "MSFT",
+      "NVDA",
+      "AMZN",
+      "GOOGL",
+      "META",
+      "TSLA",
+      "AVGO",
+      "AMD",
+      "JPM",
+      "NFLX",
+      "PLTR"
+    ],
+    "penny_watchlist": [],
+    "penny_max_price": 5,
+    "penny_max_lookups": 15,
+    "earnings_days_ahead": 14,
+    "earnings_per_day": 25,
+    "earnings_refresh_hours": 4,
+    "analyst_feeds": [
+      "https://news.google.com/rss/search?q=upgrades+OR+upgraded+stock+analyst+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=downgrades+OR+downgraded+stock+analyst+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=%22price+target%22+raises+OR+cuts+OR+lowers+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=initiates+coverage+stock+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=JPMorgan+upgrades+OR+downgrades+OR+%22price+target%22+when:3d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=%22Goldman+Sachs%22+upgrades+OR+downgrades+OR+%22price+target%22+when:3d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=%22Morgan+Stanley%22+upgrades+OR+downgrades+OR+%22price+target%22+when:3d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=%22Bank+of+America%22+OR+BofA+upgrades+OR+downgrades+when:3d&hl=en-US&gl=US&ceid=US:en"
+    ],
+    "penny_feeds": [
+      "https://news.google.com/rss/search?q=%22penny+stocks%22+when:7d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=%22penny+stock%22+NASDAQ+OR+NYSE+when:7d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=%22stocks+under+%245%22+OR+%22stocks+under+%2410%22+when:7d&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=site:finance.yahoo.com+%22penny+stocks%22+when:14d&hl=en-US&gl=US&ceid=US:en"
+    ]
+  }
 }
