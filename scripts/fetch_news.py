@@ -390,7 +390,32 @@ PERIOD_KEYS = {  # Finnhub /stock/metric field names, first one found wins
 }
 
 
-def performance(fh, symbols, quotes, cache, metric_max_age_h=3):
+HISTORY_FILE = DATA / "history.json"
+
+
+def record_history(history, sym, price, ts):
+    """Keep one closing price per trading day (the last price seen that day, New York time)."""
+    if not price or not ts:
+        return
+    ny = datetime.fromtimestamp(ts, tz=timezone.utc) - timedelta(hours=5)
+    day = ny.date().isoformat()
+    h = history.setdefault(sym, {})
+    h[day] = price
+    for d in sorted(h)[:-400]:
+        del h[d]
+
+
+def return_since(history, sym, price, days):
+    """% change from the close about `days` calendar days ago, if we have saved prices that far back."""
+    h = history.get(sym) or {}
+    target = (date.today() - timedelta(days=days)).isoformat()
+    older = [d for d in sorted(h) if d <= target]
+    if not price or not older or (date.fromisoformat(target) - date.fromisoformat(older[-1])).days > 5:
+        return None
+    return round((price / h[older[-1]] - 1) * 100, 4)
+
+
+def performance(fh, symbols, quotes, cache, history, metric_max_age_h=3):
     """Today's move from the live quote; week/month/year returns (as of last close) from /stock/metric."""
     rows = []
     for sym in symbols:
@@ -418,14 +443,18 @@ def performance(fh, symbols, quotes, cache, metric_max_age_h=3):
         if q is None:
             try:
                 qq = fh.get("/quote", symbol=sym) or {}
-                q = {"price": qq.get("c"), "change_pct": qq.get("dp")} if qq.get("c") else {}
+                q = {"price": qq.get("c"), "change_pct": qq.get("dp"), "t": qq.get("t")} if qq.get("c") else {}
             except Exception:
                 q = {}
         row = {"symbol": sym, "name": c.get("name"), "price": q.get("price"), "today": q.get("change_pct"),
                "high52": met.get("52WeekHigh"), "low52": met.get("52WeekLow"), "as_of_close": c.get("fetched")}
         for period, keys in PERIOD_KEYS.items():
             row[period] = next((met[k] for k in keys if met.get(k) is not None), None)
-        row["month_is_mtd"] = met.get("4WeekPriceReturnDaily") is None and row["month"] is not None
+        record_history(history, sym, q.get("price"), q.get("t"))
+        month = return_since(history, sym, q.get("price"), 30)
+        if month is not None:
+            row["month"] = month
+        row["month_is_mtd"] = month is None and met.get("4WeekPriceReturnDaily") is None and row["month"] is not None
         rows.append(row)
     return rows
 
@@ -451,12 +480,15 @@ def build_research():
             out["consensus"] = old.get("consensus", [])
         try:
             quotes = {r["symbol"]: r for r in out["consensus"] if r.get("price")}
-            quotes = {k: {"price": v["price"], "change_pct": v.get("change_pct")} for k, v in quotes.items()}
+            quotes = {k: {"price": v["price"], "change_pct": v.get("change_pct"),
+                          "t": int(datetime.fromisoformat(v["as_of"]).timestamp()) if v.get("as_of") else None} for k, v in quotes.items()}
+            history = load_json(HISTORY_FILE, {})
             mcache = old.get("_metric_cache", {})
             out["watchlist"] = {
-                "stocks": performance(fh, watch, quotes, mcache),
-                "benchmarks": performance(fh, rcfg.get("benchmarks", ["SPY", "QQQ"]), {}, mcache),
+                "stocks": performance(fh, watch, quotes, mcache, history),
+                "benchmarks": performance(fh, rcfg.get("benchmarks", ["SPY", "QQQ"]), {}, mcache, history),
             }
+            HISTORY_FILE.write_text(json.dumps(history, separators=(",", ":")), encoding="utf-8")
             out["_metric_cache"] = mcache
             log(f"  watchlist: {len(out['watchlist']['stocks'])} stocks")
         except Exception as ex:

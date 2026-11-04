@@ -343,8 +343,8 @@ function benchName(sym) { return { SPY: "S&P 500", QQQ: "Nasdaq 100", DIA: "Dow 
 
 function fillWatchlist() {
   const w = RES?.watchlist;
-  const plabel = PERIODS.find(x => x.id === period).label;
-  $("#wl-chips").innerHTML = PERIODS.map(x => `<button class="chip" type="button" data-p="${x.id}" aria-pressed="${period === x.id}">${x.label}</button>`).join("");
+  const mtd = w?.stocks?.some(r => r.month_is_mtd);
+  $("#wl-chips").innerHTML = PERIODS.map(x => `<button class="chip" type="button" data-p="${x.id}" aria-pressed="${period === x.id}">${x.id === "month" && mtd ? "Month to date" : x.label}</button>`).join("");
   if (RES?.finnhub === "missing_key") { $("#wl-bars").innerHTML = keyNotice(); $("#wl-table").innerHTML = ""; return; }
   if (!w?.stocks?.length) { $("#wl-bars").innerHTML = `<div class="empty">Your watchlist fills in after the next update, within a few minutes.</div>`; $("#wl-table").innerHTML = ""; return; }
 
