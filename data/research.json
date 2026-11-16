@@ -1,49 +1,1081 @@
 {
- "updated": "2026-11-16T09:29:59.813023+00:00",
+ "updated": "2026-11-16T19:48:47.856557+00:00",
  "finnhub": "ok",
  "analyst_moves": [
   {
-   "title": "Deutsche Bank upgrades Croda to \"buy\", raises price target to 4,100p",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHB1T25IWngtYWltaFlKNzZlRjhUM0h3UE5WSTM3Q1F6T3IxQWtYdG1abUM4cjdZUWxxUG9SdTB0MEtCa1c3QlpSWk9OMFBUZmlvS0U0Q1hUd0g4SUlSb3ZyWnlWX1JQUER4VDFXUzlsYmZoOXJvdm9HZGpCSm5iampGM0RFeWtnR2FSMWtIa0lZaDVPbVBab3E2VzEyQ3RqU2FYSnRuNGtQTS1wQm00YVBZTm5oTVVBSEtlRzFB?oc=5",
-   "source": "Investing",
+   "title": "Morgan Stanley maintains Brown & Brown at Underweight, raises price target to $60 from $55",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zN0IyTzdIaG1KVjJneTF0ZEFKNmNqTlR6WV9zVWRlblN4RHNITnkwRklFRWdaZTdaNXJ1SWRDMnFzQXNYajl5T3o3LXBvTHNDX2ZFZWlNRlJ1aS1xWmtxd2o3RktieTZfcmtGZXhR?oc=5",
+   "source": "TradingView",
    "summary": "",
-   "published": "2026-11-16T08:54:49+00:00",
-   "firm": "Deutsche Bank",
+   "published": "2026-11-16T18:36:30+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Underweight",
+   "target": "$60",
+   "ticker": null
+  },
+  {
+   "title": "Q2 (NYSE:QTWO) Stock Price Target Raised at JPMorgan Chase & Co.",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3BxWDJ5Vlp2SEhhNUFqcEh6NktqTUxXQlJsbWptWGVLdEhCNVdsM0ZIZHFZMFROMkdteGYzZjF2QVNXUnBxLVRaNnJxWUY4dTBaVE1meUNLS21VeHh2MTZfRWI5UHdUZkdPanNxTXlheVlIV3VvUnFtV0FTUjlpRjRyQlVnM21UdDdSSDk2d0QwTU1nNVhOLUV4MWIwT1dwUUlsS1VwbkN6TG9mZElERmdORXhoUTFhTWx5U2F3?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T18:34:08+00:00",
+   "firm": "JPMorgan",
+   "action": "Target raised",
+   "rating": null,
+   "target": null,
+   "ticker": "QTWO"
+  },
+  {
+   "title": "Allstate (NYSE:ALL) Price Target Cut to $291.00 by Analysts at JPMorgan Chase & Co.",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ0Q4NFhIdHBPOWo4ZV9jRlhEN3gwT0VnOGVyOUhfblgyOW5LcndVdEZHRTZlcHEyQkpvQlVNbmwwSzNtTDJvS2pqdDEyT0FZR1V2b0N6dlo5X0c5N09qZmZGVVRxYkVDc3R5VG9hUnI2QVc3Vmp1eHdRSDltLVVDRm9XYUIzeFJYM1VZWGp0bmdnTHlzRHhrR05lRnRyRFBINWdwcmEzbnRiTG5WejdoR05sSlV6ay1reDM5QXpxVG51NEwwZkh3dUdlV196cWlVZ21Jdg?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T18:34:08+00:00",
+   "firm": "JPMorgan",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$291.00",
+   "ticker": "ALL"
+  },
+  {
+   "title": "UBS initiates coverage of OFG Bancorp at Sell, First BanCorp at Neutral (OFG:NYSE)",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcm53NkpYcE1OOEp0a055b0JWRFJtOGZyczdnSVE4QmZrY25FYlZ5T25sVGFTMTkweTVNTW5RY0hzcF9rbmFyUUlhQ0xHVHVGOU5FUnAySW8xQmJfTWl1NzFZbHpUT1BaMFlFYzVHMU5EM2RVUl80X3hldXpvVl8xbzFIS1lSbml3alVjQTlkTGdjR1hfWDhFMExwaHZTMW9HanR2THpvNVF0elVERllrd0cyRW9hRnNNOE1DQnRmdk56eHlGVkRpWWRMZGJzRF9Ba1VwZFd4NnhKZWRKbFd1WVFIcVVkUUJjT3Fra1MwazEzV1hCMVA4QTJ0NGJ1WHRKSm9R?oc=5",
+   "source": "Seeking Alpha",
+   "summary": "",
+   "published": "2026-11-16T17:52:05+00:00",
+   "firm": "UBS",
+   "action": "New coverage",
+   "rating": "Sell",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "NBHC Initiated Coverage by Hovde Group -- Rating Set to Outperfo",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUhwR3VvOWlIZ1Jxd08tZjFnWHFHMDNJeFIwTHJ4bGhFWVplc0p2TG50Sy1SOW9KUTlwMDRRdGpFUjQzS09GazE0dk1tck1CbGVLbFRfbU1kNm9LZXJKSjRicTVmdHpTUHVDOUdIU2Y0bjBUbHZMazVsQjdxY0duS2dXZldiellsc3ZSTlpoeUJOZEhzLWtETXBISHNSckV2UlpoMg?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T17:49:23+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "YETI Faces Wall Street Downgrades As DTC Sales Slow, Goldman Sachs Warns of Limited Upside",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYWIxeGlmR2N1R2UtLWhXU2FNdFJibFhnYXh2ZGdibTNSWnhVWW1BZ0FkZGRfcEFtVlVkVV9MejR1YkZMTDNvU3Frd0FZTTNZd1ZJZGt3YkJaYnNtU3dCRURIOXFFMkEzMGZubHowQlZSaEpFb2xFVUZyMVFyeUpfVXUtd0p3NkRROXlVU1puOGgyd2h0X3VlenY2Yk9DNXlPdkhOdzd3Qmlodl9hVnVmdmd1Mk96YjkxMXo4di1MRWF1TWhfTlRnbDlRMzZRbVVZVGVYZmpJQnZDeVlpRkFlV0RSbmdjQy1LUnI2aVZJSnlTTWNL?oc=5",
+   "source": "Benzinga",
+   "summary": "",
+   "published": "2026-11-16T17:48:50+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Quebecor downgraded on regulatory/transaction risk from Telus deal - analyst (QBR.B:CA:TSX)",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2lPbkVDSkd4aFZ5bFUwS2kzU213RXpQOXZHUHZRdjN4a3lJa2wyNjhLUEVSR2pxNzZGNGZJTUE5SURRa0x2V3o4ajFlMHdQMVdqZVF3cjdYRFZjWWJaSXJQMWZtYklod1dySmNJVERmSkVCUHlQSlpodDY0NTRvX0lRRVltWjFMaUdkU0lIVmxEc0dsdmtKVHlOQWNfak1raVU1THZDM25RUmdZY3I5eUtJcw?oc=5",
+   "source": "Seeking Alpha",
+   "summary": "",
+   "published": "2026-11-16T17:45:05+00:00",
+   "firm": null,
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Katapult Group upgraded by Stephens with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzZSWFU4TDFSWEp1anVvdU01MGRBT1BIZmlLZVRja0VMU2V1Y09zODhEOTgxZWQwSENlbnZZRHVMU0EtaFBlaHhQTFk2dldwTkdSUzI1VnFIOGd0NjNtT3Z2VDk1VjBjQ2xhelQwMXh4WllfaVBiNHFGeUxtRWZ3bFI3MDk4czhBdEgxRFhUWEVSZVhSWXg3NFprcGFxdElsanp0bQ?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T17:31:52+00:00",
+   "firm": null,
    "action": "Upgrade",
    "rating": null,
    "target": null,
    "ticker": null
   },
   {
-   "title": "BNP Paribas raises price target for Asmodee to SEK 225 (200), reiterates outperform - BN",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdUFWdjRzYjZvX1REYV9kb2N4Sk9tdF9PaEwwTGNCWkU3QVZxc3N0Uk4ySmhPanFvdkcwRFZHMjJWSnNCMXBRdkt2UjQ3M3cwU0c4U1ptRE4wZUMyczd1QTRVZXFDVzVWeWNzWnF3SlJTSWFuNEdQQWJKaWVDZ0ZuM3J5U2Jsd19nblVabTB5a2s3c0RDb2pHUHNnVFl0a0dEc2VMNGNFQmdCZi1TTkVxZ3UwVGd5enh0cVNNUW54NDZYcUZFT0Ixa1NJcmNZSHpkSnc?oc=5",
-   "source": "www.marketscreener",
+   "title": "Willis Towers Watson Public (NASDAQ:WTW) Stock Price Target Raised at Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNzRKZk1wN09JcFYwX3psanFMU0U5YnVVU0lfcThFY2cwTzU5QkZNOU1Ob3hOeTNvWUg5YmZ2cUhFQWg3cGVEZm9aWDA2aHpid3FLM3hialBxRkxaelIxNEdwOXdqRmxieUtaREhtWnRYNjFNYW90V2hUdVEyNjMxLTd3M0ZJVHE5NjBLd1UwMkdOcnhSdU1GaGthSGU3WFc3czZJbmw4a3I4bkgtNVJ1TVUwQjJxb0YxbF9FNlFsZ2w0LTQtcC1Zb2llRnd0V1dzTTlibF9rQUZsTnBM?oc=5",
+   "source": "MarketBeat",
    "summary": "",
-   "published": "2026-11-16T08:44:19+00:00",
-   "firm": null,
+   "published": "2026-11-16T17:08:09+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": null,
+   "target": null,
+   "ticker": "WTW"
+  },
+  {
+   "title": "Morgan Stanley maintains Watsco at Equal-Weight, raises price target to $340 from $330",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMVBzLXBWLUVacHZKZEYzZDAyWkZjUWg4X29DeW9SclU2ZGtlT2NMTkhBdjFVLWpacHdWTWI1TUw2Wm8yWjFVWTJORnhmNDVKOENuSzFrbWZuYjBkaV9GRUlFb19HSlVBNmw1ODhMc2RJZVJyRHJBeU5TdGNiOVZLTjQ2UFYyRXF3Qi0tR2p5VllaWXBSeXFTbGhqX1Y5ZUtTb0UxcE1iM1lXTFFwdmowY1JfZm1aVE5FYWZKY1dVU04yOUd2RGVfajlTaDJPTmwxS2twaEZmVlpteE4ycmc?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T16:43:54+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Equal-weight",
+   "target": "$340",
+   "ticker": null
+  },
+  {
+   "title": "Nordex stock: Goldman Sachs lifts price target to 53.50 euros",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRU5zNUpDLVRlTktHSnctSmlsQWYtb3ZkbmdnRWN1cUdwLW1rdkpZdDEyVnlhd0dXZXZTVkV2cG1zNDlZcDhDTUtZalJYVEFUU2NpSFNwTFRoaXdTcWNIeUxUU1lvU1FhRklwRUJ5aVdFWU1WaFotN1RwYmZHVFBoSEgycElORlBtMTU4aXZsV1EtcWVCOUo5cm0weTV0OWo4ODZLUXROWG1RR0N2RUVZdGM2dk9aQUxuYi1vdk5oSWg?oc=5",
+   "source": "ad-hoc-news.de",
+   "summary": "",
+   "published": "2026-11-16T16:34:50+00:00",
+   "firm": "Goldman Sachs",
    "action": "Target raised",
    "rating": null,
    "target": null,
    "ticker": null
   },
   {
-   "title": "Tata Motors PV shares fall over 8% after multiple price target cuts on Q2 loss, JLR guidance revision - CNBC TV18",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWNUWE9fQzNRRndET2IzU0EzTnV1em1OMjY3MDZMQktZN293VVBrd1o4Mi1KMlAwd2NrNHQ1WTZISWFqM2xsRnI1UzJLR0FYQ2o4b2U5aHd0NWwwRUJHc3JwdVpkaXhBUU9wb3pLVC1WaHJFVTNLTHJNZmJuZFo4eVhrNTVFRGF6VXVFaWVpX1ZYMGEtV19oLWg3czBQSWZ2RGp2WXkxY0ZwZVNGMzdPSy1Wcm0?oc=5",
-   "source": "LinkedIn",
+   "title": "Hovde Group initiates coverage of National Bank Holdings at Outperform, sets price target at $42",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOXN4ejBxa3hyOG8yWUdXTHBPMkhMUzJweldmOXBXYnJJN2xQS2FtY09COVBld0xiRHZvMkVTdnZLQm4wS25XMkZ4Mm95dmRSZWxLclJoM1dfQVJuc0F1cUpJSXBVYVB3RDJnQjdrSkhBdHRzYWZJOGd2Z2tZR3d6VG91N1czWFl1eF91MmtNQlprekdMemxkbDhxbFdLZnJXX25VaEROZF9fSGZLb0RoUEVMY1FIb1hyXzgxczc0QnZjOFRYOUhOeUk3dlZwNWx1ZWlGWEZmd3lwbVloWkZRN2tFN2o1YVVwQ0tDMA?oc=5",
+   "source": "TradingView",
    "summary": "",
-   "published": "2026-11-16T08:16:06+00:00",
+   "published": "2026-11-16T16:23:44+00:00",
    "firm": null,
+   "action": "New coverage",
+   "rating": "Outperform",
+   "target": "$42",
+   "ticker": null
+  },
+  {
+   "title": "Republic Services stock: JPMorgan upgrades rating to Overweight",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmF3c1MzRmFlRC1DVWV0YzFhVUlwaTVRdlhsMmhlQnV5OU1zRjBMVE1QVlVZRzY1STJKZ1FmYWhPQWdydkJ0S3hXRTV3bk80cHV3WG9hcG5BcDY2c0NnS2V4TzFVYXdRQjNlQl9MNDd1QUQzX1dSeWczT05CeFdiOWUzUUREVkRIWGZNYzdxaGdEWm9kOUdjN2M1QkxkMFJrR3VlVjNLUWJWQlNfcGlwRHZXakpnSTgxVjc2Sl83WEcxSnM?oc=5",
+   "source": "ad-hoc-news.de",
+   "summary": "",
+   "published": "2026-11-16T16:15:23+00:00",
+   "firm": "JPMorgan",
+   "action": "Upgrade",
+   "rating": "Overweight",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "J.P. Morgan cuts IREN price target to $55 from $65, keeps Overweight",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9hSkgya20wZWtEcWxsUUhkY1I4bHBWOE4wYzVIUkdTXzBQeUZUdlJDdkFnVFZOTE55YlhtTlhHZDdaM01BOWxZcS1ZR0hDcWF2U3JDMEZnaGhyMTRoVVU0UXJqQ01ySmROYzB6dm1OMXBPSTQ?oc=5",
+   "source": "Blockspace Media",
+   "summary": "",
+   "published": "2026-11-16T15:58:12+00:00",
+   "firm": "JPMorgan",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$55",
+   "ticker": null
+  },
+  {
+   "title": "Goldman Sachs stock: Bank upgrades China and India to overweight",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUlxeTNRRzY3Z0M1REFsRkxDSnBKT3FScGxUOXFnSUc5ZWlFRnNrVl9jOGx6SWxtUVFZSkZzNVlEcUhYR0E3bldKek85WmZIcTc4QU1JbGl1RWlyM0VYd3FHbzh6RVR3SVAyRUV5Vlo1WEdFNUh4YnlISEpXNFcwVE5oaTE2WXJ4cTZVV0R3ME9lTDRmNG9BOHNYMEthZ0dXdnljUFFJZGM3VGZhdXZrRlBXNDBRUF9sYy1ZQ0lrWXhOYUN5?oc=5",
+   "source": "ad-hoc-news.de",
+   "summary": "",
+   "published": "2026-11-16T15:48:48+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Upgrade",
+   "rating": "Overweight",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Enovix Retreat From Smartphone Cells Triggers Analyst Downgrades and Fresh Share Slide",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSHE3TVFqMDBSeWM2ckV1M0xkeVMtQVNQaVA3bExaOWNRSnVsWmNiUjNZcElPSS02TjRxdm9WVGd4SXdfMExWdTYwdUg5SVVzLXMxRnd5d1VObTdtWnVIWFdXLVpQcTlWS19OUTVIZGN2M1VFUkphQ3dIU3JiRk1fMktVX3BxMi1fRTc3a1hGT2djN3FMQkp4bmhRWGZZWXc1ZzN6U0JYdGRKNU5Pd2tBU0FzZVdkaTdlOG9MV3ZxRFFKODdhdUVlSF9CMDRxU19aWkdrVnRYRDJzYUFXTVV1bzdkdWRrQlRqM3pGcmpIOA?oc=5",
+   "source": "ad-hoc-news.de",
+   "summary": "",
+   "published": "2026-11-16T15:41:47+00:00",
+   "firm": null,
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Ross Stores (NASDAQ:ROST) Stock Price Target Raised at Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQemNtVlNWeTBkQ09GQUxPdG1FTFBxZDdVY0xtNTQ0djFGbUNvSkRtWmRmQ251MktGWU01UGtTbmtIODJaY093YzdPeWtZZlRsbDlrUXFWX1hneGUtb2tIQjZUNExpRHR6ZlVRNWJIQnlCb0o3RjdKMktIMTJibGJiZlA0ZGM0TDZvVngwekdVOTRIUnlSdU51VnpRMGdicE5iZGlZZy01Yl9oNDl4WHFXaFFZM0ZSMFdNeU84RVVuZUo3dEFaWjR4NA?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:41:02+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": null,
+   "target": null,
+   "ticker": "ROST"
+  },
+  {
+   "title": "Semtech (NASDAQ:SMTC) Price Target Cut to $176.00 by Analysts at Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcXViOGdMRlNsZXVnX1VKUlNDNTgyX1JMSjBNZWZ6aG90X3hMa1prTGdvakZCRHhOWUJraThWcG9rUWktMVp3SEg0bkl1bUpjUHlPaU9oc2ZTLXhmVnNJRi1ad1JTeHItMkNRNUZvZHFWLW42WTI2XzNNUlVERXBOYmdjaTRmRV9wRDFQRE84WDZ6VTZORVc5cWR2VU9LYW1hT2NDaEc0bS11dUxiaUtYX3JzRU1IR0t0VThkNXQ4YVRqNzJsT0lxQjlwUGlQX3p6OGJV?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:41:02+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$176.00",
+   "ticker": "SMTC"
+  },
+  {
+   "title": "Kennametal (NYSE:KMT) Stock Price Target Cut by Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYVhaVnN2cDllb1ktNVg2U2pfY0NGaWdwWVhKa00teS1lQmdRMTluQjJVY0FIVXRMT0xhZTRmMjhFaDRnZzJDVWd4ZWlNZTk0X19jOW82Q1BITzh0d0RBLTVlS1htdWVyeE5PX3FiWGIwbG14MUJzeVFtdkc1RXVvWEFSa1ZVU2NwcHpaVG90bmpkOVYzUUxVZzRiSmNXNXZKN05RN05kcllWQm4tczctd0F6X1lhbXlZLU9ZMDhpUQ?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:41:01+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": null,
+   "target": null,
+   "ticker": "KMT"
+  },
+  {
+   "title": "HP (NYSE:HPQ) Stock Gets Price Target Boost from Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSmt5TnVuRS1US0lORXZvMGh5czhzVTI4UUNsTVFDMEltTkVNTWMtTmdod2o4U0lCOFB6SzczSFZfanYwUzlnRmVnT0tKVkp2V1dlQTJ2NUQxSmNqWHZGMFVDOHFMbWVDc2ZXQUhvcENQc2dwTHNaa01hckN5NklPazlfak1Mc1poWnVsTEtNa0pVaWpWNHFJWWNFZ2pIS3dWcGRfVHpST3Q0WDBXZXBxcWdoWUFvQnBrV0pId2ZPVl8?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:41:01+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": null,
+   "target": null,
+   "ticker": "HPQ"
+  },
+  {
+   "title": "Morgan Stanley maintains TJX Companies at Overweight, lowers price target to $166 from $178",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR25nUXFfUVE1TXlqMi1nWEQ2MWxvLXRaM0tsazBpdmptSzE2VjkySmY4UDFneDg1LWZQZlBpeDVGb25WQlA2UGtyaG9BTWJjU1lfa09fZVlCOEd3cDdRaGtaQmVsSGFzaHJlbGQxOEpyb1pzR05oUTRKTXFHVGhtVXA0aWRDSUZnUkowRTVsZURyNl9lQ2YtU08zZldDRHQ0TF8wanoxZzVuQzg4d0JnellCUmtqYU1BMHlHM2hqV1ZZUkRMR3pTOGNyYjh4dDVaYUh5YWh4bllpOUJqdEFmc2dUTXA?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:28:37+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": "Overweight",
+   "target": "$166",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Target Hospitality at Overweight, lowers price target to $21 from $25",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTEFGVU5Vdkd6Nno1MTFwUm5UOW41bjRhWS1XUDJYMVpPMUlBcUcxWUctenRfMjFxd05jcF8yVjNPaG9PUzFYdDlfXzhwWjJNNW4tNkUyU2hyeUV2dUdTODlDeGY3VWhfMDFsY1dleTJVdEhBSWhla3pueng2SVI4TFVvM0RQZE44R0doQVFiZGFCRmVabWVKN182WFVBMS0wUGVoRFJPLVhiTFJBTVR1U2NVQUZvRzlqM0VweWlQbGdVTjJrN2tTNjJtaVJHY21GQk1maWZRVzIxVmJUeGNyQUJEQ1l2Ym56?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:27:40+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": "Overweight",
+   "target": "$21",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Semtech at Equal-Weight, lowers price target to $176 from $205",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONExpcXB0OUprTEJzUG9VclRCVVVlVlBEQUp6VVNWWVBxS0tsTTlmZHNTYlFOampDYmhlYi1TNzdYdDk0d1ZObHNTdWpJLVlwQUNxQW5YWFI3V3M1UHhNcTNsZHJRcFctQzBPbUpWT2xzc2hsMGFCRksxdlRVZFZUUEJNbWdqVGFnbEQ2MjZrZXRoeFBHVWZtOGEwTmE4bFBNWkpNdldPWGNFWVpnV29la09naWtJOFg3RXA3d0ZJT1lZakp1OFNJOXlGZTlmdlR0eDJxeW1FVzZSNzlvUW1F?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:26:39+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": "Equal-weight",
+   "target": "$176",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Sana Biotechnology at Overweight, raises price target to $13 from $12",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObGxQaE1XMGpFbmFIUDdEMGhHekxIcGhfZ0lrRHRnSkVoYnlCUDY4Q3BSMjYxUjRGRHJiREJzejJrbjBheGFXVFVkWjgxRXBaOUptMk84YVZlemFjYUJyNUoyeUp1ZjloWld2UjltZW9DUVZEYUUxendCNlI4UkJGQW9HU1lzSFVJTU90SUQ5dkJucWFqakJNRlRkRkdNV2tweWVHM2RGS2UyTXp0dng5SF9xbjhHZkhLbU96WUJkVnpLQVY5MjVhY2c3SWtTVF9icFFDV01xTWhGbW1OLTR1aUNpRDZ1RzBV?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:25:55+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Overweight",
+   "target": "$13",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Ryan Specialty Holdings at Overweight, raises price target to $55 from $50",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd1laR2VGNjhucUZQT19DcWxTZW9jejFLZmV2LV9JUHpFWDRHSWZFaDJQclpWUlRVMXlMT3RkeGZsMmVnQnBIV1g1OHZjQm80LWtVek5WQkctTnV0TUMyVkVYWVE2MC05d1BFVHluRVlxSmpCLV9yenlTc0NMajJJVi00Nmo3ZTVYSng0a2h1Z0ZNYWlzMnhjMWZCbEtfclhrTWdCZThCWmt0X2JfN1dEUXFiVWtGOGpUdEtESjRXbWNxY3ZLSjB3eE5PdkcxZkE2NXJJMUNRNnl4aWFNTmtYUW1MX0NYT1dhVzAtX2x6QQ?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:25:11+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Overweight",
+   "target": "$55",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Ross Stores at Equal-Weight, raises price target to $235 from $234",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdV83RVFjNEtlaTk2SEZnN0NRNVRSS283UjJBRmh5V0s1MlZPbUFxeFprcXNoQ2hjVkN5ZVRjSnZtSFhpV1FRaGFYbWFpZzJBaWxJMUdsM2xBZVdhMkNHZ3ZhUVRwNWhxalk3QjYyS24wMURlT3VpdVZFQ1gtdXk3LUlZNVc2bENmenlPLW5GRTNUM3JLWGJBeGJmcy10MEJrMVNCUDI0X2Jsc2FJMUMwNnF4d0pyOEZ0SmQ1THhNbENnbmIxMUx2TGNxamUtX3poZnFfd1A3V2EtcFh2RWg5bkZzUVY?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:24:30+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Equal-weight",
+   "target": "$235",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains NVIDIA at Overweight, lowers price target to $267 from $300",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNN052SU4tNTdaa1pDTXJTS0lRVlcyQkxlWlpDWXhVRW9DLVQwY1RuS002S0ZrUFEyZDA4N2Y5RkY0ams4a1RwYS1seGhJdDZuTTRYTXdpSGpwM084V1hvWTZ4WTBqVmxfajRCVklkMDVGdVFyWTZjU2xZdUxHXzhPcGVDMm5jREN2X1Y5TG9mVUc3UjNsaEotdXpDOXdCb3V0R3Q5ZzFqLUxCYTZBbWdITk11TFMtTEphR0t2a2k1Z25KaVpGdG1XU2pNbm82WHdSSW43a01LYjN1ZWM?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:23:32+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": "Overweight",
+   "target": "$267",
+   "ticker": null
+  },
+  {
+   "title": "Arthur J. Gallagher & Co. (NYSE:AJG) Stock Gets Price Target Increase from Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSzBvUldVTklYSHFyNE5JWnJpcHFmMDdMQ3BSVVNNdUd4NXh4MlRsd0toNWF3ZWxtN2NGcW9FZkVoTUNvOFdxb1Q4MEtPUjFYVHRQaE42WkI1SEhCR0dfdzR1N1Q4MENCOF9WMmdKZURPbWp4Y1dXM2drZHJILVJSdWtPTFdQOXFzV1ZTNFhjVzNvUnJTUnN0YVk1YzgwTnFYR2QtMVNzWFRTb3ZaZ1lMRGZmWTBYbFhTNWlLWmh5WjZyTGZQUHJYQW5LZkhwLWJMSDhHZktWdnkwbjFrR2c?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:20:59+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": null,
+   "target": null,
+   "ticker": "AJG"
+  },
+  {
+   "title": "Dell Technologies (NYSE:DELL) Stock Price Target Cut by Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSW92TzVYQmF3WUlvcjBUNTVZUzJGZ0puZi1tLXVSaW9IVmV1b01FbWJuWXMxUi1xNi10LWNpYXgzbUJKcHRBU2FuTnFQNUJ5V2pGWWpaR1VQbkdycUVvWkUyTENiNFpOV001UUhuSzgzRm5YTHdhaDNtbnktdy1vckRKcFduS2dadEhTRlFSdEJsREp4SXpzVUlMSmtDaFpVdVVmV3dZRkFLRlRScHRwQXYzdGwyRFJYeERiNDJkUXk2MXhtbFY2aVl3?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:20:58+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": null,
+   "target": null,
+   "ticker": "DELL"
+  },
+  {
+   "title": "Burlington Stores (NYSE:BURL) Stock Gets Price Target Cut from Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXZJWVRoOFdJMGJJZkVoVmlWN0pvVWpRYm9OT0M0ZlI4Z1JYOFFYUkRYN0R3VlAtWVJjZTlYSXBmREZYNmF2ZURrY3BQbkRiOTVWNUc2T0hFd3B2Slg2ME0ycU9EYmhtN0FrbGdnLWVhTUY2TGh0eEREOEt1RGpwWVBMd2ZhUUF3R0k3SkxhSzMwQlNFUmRZTC01WmpYYXF2Y1NnZ2NJTDh2YjE5dDJFTm5XRTZDOFNfS2s3NkUtbmZFNXNUb0RWV3kwQkdmcmFzMmVJ?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:20:58+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": null,
+   "target": null,
+   "ticker": "BURL"
+  },
+  {
+   "title": "Avalyn Pharma (NASDAQ:AVLN) Stock Gets Price Target Trim from Morgan Stanley",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUZZODBuNUVIWDc2RVJTX2pkcDQ4VmY2WnJJVnVnRlVteXRyUlFCc1FxRXk0dHlILVVVNVZ4V2hPOHcwOGJKNFRfNmdFQnliOGFBT3pMYzY0R0dkMWFuWmtsWTBhMi05RVNEOFFoUXROaHpZQk96OHdydi1qQ2NDd3pTMUs2MFp1RG9tSS0tdWlfemdQOE9ZakF1dFMxWGJTQWdHSmFGN3p2d2VaWW9uUTNlV05peFpCTFB2RXFWdmhQSng0UVVoLUZQTkNkZm8xRWc?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T15:20:58+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": null,
+   "target": null,
+   "ticker": "AVLN"
+  },
+  {
+   "title": "McKesson stock: JPMorgan lifts price target to $1,255",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd1Vzbm9iZnNHVWVxbHE4Qy1sWXU1SXRHR0ZaUTUxS201X054bnVKQjNoTXZCaUIzczJSNVA2WEEyVkhXZ2ZsbncyclNVeF9vRmZlREdlR050RVU4ZWxRVzNYRDV0MEZkMU1nLTAxNXV5eGk1V3dSbi1ycmtSMzNQdVphX1ZMYmpXeWpIY2hEbFVZQk83ODBEUTVOUjBRd3hrNml5UklPNHVneEI5LS1Yd3ptY0o?oc=5",
+   "source": "ad-hoc-news.de",
+   "summary": "",
+   "published": "2026-11-16T15:19:47+00:00",
+   "firm": "JPMorgan",
+   "action": "Target raised",
+   "rating": null,
+   "target": "$1,255",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Lakefront Biotherapeutics at Equal-Weight, raises price target to $27 from $26",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTExZWEZmM0NsOVZORl9ueUVPWFc3OWdENV90c2doNUpIV0l6cXNtdDlGUlNWUURZdWRVeTZFeWJpUVNCWThvZ0NTbGV0bklDbnNJMWplcjJYSHlpVGxGVl9POHBTUGVfeXNmejVsLTVuelY3LU1kOHp0UmppVHJXdDJqQ3RMbm9veVp4LWtITWNYdFotS01xbWlFZFhudF9rcGl5aFNjSmI0QlctSThWdWxheGFCb1R2SXBNaldUaUJhVTdpQTlmTDBVaERIMHpoLUltei1jemFnbHJLM2kwUHVuR1pXNVN4MkRJSW0xdXVOMDR1?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:19:24+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Equal-weight",
+   "target": "$27",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Kennametal at Underweight, lowers price target to $20 from $27",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR1Y5TFB0WGhLd1NZRTZNeEx6R1QwaGo3SjJ3TkhtQy0xM01EY3hXR2Q3Zm56QkZZWC1CWXZnMVpNRnozWlU0ZzdZVkIxSjJxZjBhWWtFRm5NWnduLW1NTmswVmJGcEhiMnNvZ3FKRFRIdVdLOVdqMmozaXJ0Tk9BV3Z5M3VZNENpQmNKTWg1VjJrVkFLWVd3YTRNREFfUFlEU25ydWVGUWdQclcxRVRtV1VCS3NhNnNDd0lWY2dZN3dkM1FPS3RLdDhXRFNPTnJNcnJwNnFsLTRSZzJ5MjFr?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T15:17:09+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target cut",
+   "rating": "Underweight",
+   "target": "$20",
+   "ticker": null
+  },
+  {
+   "title": "INVZ Maintained by Goldman Sachs -- Price Target Lowered to $0.2",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3pyQzFIYWR0bEhVSjJvMTBwNzNESE1kM01oVDZYYUEyZWlfWVAxRVRQVllvMmFIU21TbnBWdHUxT3JVeFhqLVo5aGFGZjU5UHJ5N2pJV3ZRZ0RmY2lXZ0hnRDMzOFZRVmxOazVYSHM4MHFyYWFoTHA4NVVIX0hrSVRXc0FBZ3JLLWtJM3laS2FkS1lGYW5nNF94Zk83d2F1?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T15:06:56+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$0.2",
+   "ticker": null
+  },
+  {
+   "title": "GEMI Maintained by Goldman Sachs -- Price Target Lowered to $3.7",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkNkV1VjckxpRlRaU2dhazlYQmxhR2puTnNWQUkteDBzRDlVSU93Q3BxRER1dFlmdVRUbUxaWkxDekVDS0Z6cXIxMlluM3M5ZEtJWW4wb1o3Vzllczc3UnUtQUpwc0Q3Z1hhOXBjNFdGdWlzNUVrWnQ2U0dxWGc2LTZPYUlCWkpaU3NmRGgyMUVKZXlqTllhWXExdkMwWS1m?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T15:05:46+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$3.7",
+   "ticker": null
+  },
+  {
+   "title": "INTR Maintained by Goldman Sachs -- Price Target Lowered to $8.0",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa0EzRjB6S1V3NEtTdFcwWWFNUkduM3dTT29hY3JnSG9XUWRqUloxRVNrTUxvLW5BTF9RcGhPUXlwY2pBX3N4QWZMV0NBN1I2bHk1TVlTX2Q1NlBYSHdKandyZzYtMW5VLXAwSWVwZF83YVlnbUtDQ3FSUlpYS2JxNVBsb29MQ0V2a0JhdG5haHlIN3dnbGVBaUVkOXQ1b0wz?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T15:01:11+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$8.0",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley maintains Atea Pharmaceuticals at Equal-Weight, raises price target to $8 from $7",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWHRSd05TdHVpaXk5Y244YUFHNnpVY2Q5dnQyMDhWcDYtaXNVOV9GTWt3Y0tWUFRJX2NIbTdYUWg2elZIdGpONzZzQXVQYmFrbzRTYUdnb3FhMHptSTBxS1BJdzBjeThqQldMS25wN0w2U3l2R2dYX1MxWjl6YWgxbzZqV1VYdVlsQ1R5YjZTX0tycUdGYS1ZbGsyT1BWdFYxQWJ5UlZmUW9yU0o5dTk2cy1sVHBPZUtWcldxNi1TWU1XSTJlMld5TXAxZlVENkQ4Yi03VDZlcGVyOWFJSWtPVFZ0dnNMeDE5Z0VF?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T14:58:52+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": "Equal-weight",
+   "target": "$8",
+   "ticker": null
+  },
+  {
+   "title": "Sell Alert: 10 Stocks Analysts Downgraded on Friday",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3pmdDBDUEJIaWlERUFqZDhBc1pwQV91azc0aEFqaTNLZlhIRFE3WHowZFByWkNCZ3FHdEU5Mm9fN3kxM0NlZU10cHhOVzhTcWJCd3pMcWJRQWFCU3FRdE5CLUwzdGo2R1RMTFY1TE9FVUpGcDNxT1ZqVjJNWVlsNE1RMzA0MnF0VG51RzhiQ1kyeVpGZWpqTWFB0gGiAUFVX3lxTFA1Y3ozNFBrQWF0TEt3UFN6WkJsMmpkb2sxUXRqMDlGQnl3WFIxTzFVRGZPaENWSFRQZ1lQS0NKaS1LWldXeGZLMjAzTHptV1NNMnZ1T0VRc2ZtS3VtaVp4UHBsNDh4bzh0dzc0Ynkxam9lUWcxRkRxY1pVZlEzaVh5QlBsM0VJV0ZVWXBxU2NaRWsxbmpueGd2V0xTczV3V3E1UQ?oc=5",
+   "source": "Insider Monkey",
+   "summary": "",
+   "published": "2026-11-16T14:53:52+00:00",
+   "firm": null,
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Yeti downgraded, Humana upgraded: Wall Street's top analyst calls",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOemNpQzVUT3dueHZUSF96SlBYR3pxdUZRY2thSGRIR2dQTE81MllhRER4TmVNeThKcFNtc2FlckVVRTlRQlBQZjl2czA0V2FOdkl6LXlXOWdKbkVIMjdfWnEtT3Q1elgzTWNoNXdFSV9mcWRWVUJkQ2RlWmdLSzExRjQ4MzM5enRIX0FKeS1pMXkzN25WbkVWOTFITFdJMXFtanBnWnhzcw?oc=5",
+   "source": "Yahoo Finance",
+   "summary": "",
+   "published": "2026-11-16T14:53:03+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "PFG Initiates Coverage On Principal Financial Group -- Rating Se",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWZwMjI4WGhiUVhrb1lJdE80Y19pSDhIVmkwVk1IMWJuR1ZiWmhqSkwzZGNRMWhmcXpnMmJ0WVhzdzYzYnVScHVqV25WTllZYkZta3ZDMlpUb0pfNFRqX3JuckY2S1kwLTFsUy1YdHRMQkE0cExMSEJMYmFlN1cwcjRLRDB4MzFPMGcyM01BLW95bTdGdnpOa2dPbWpWNGdsaDdXNw?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T14:40:48+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Buy Alert: 10 Stocks Analysts Upgraded on Friday",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd2FHWkI2LTRya2hfNEkyV0V0UmwwRi1XcWNkX2laejhFemZTTGZob2RZbC1Td3ZxVjVZalEwc3BsajFBMXl6U3BjTUFNVmtsRzNDako4bXYzUXFQb2J1UVhsMkVxMUhpZm1EQnY2emhEdGFWWUhZMXhQaTVIc3owTldMRHVDcUMyR19mX1VGakVkMzdXVmfSAZ4BQVVfeXFMUHEzQkpJeVpjUEdwX0VpVzVVUFJMT0dtQVl5enYybUJJWDZxTlJadFNXeXdlQ01sV0xuY0t6c2luNllGbENPYWJtdEI3OGZEeHcxQ3BFRGdKR3NtVTFMclc1U0RXNVd1N1pnMURTSjE0bW5CRFJZTlRVU3Byam1ncjc2UkdnbHpwODczWjF5ZGhBVW1wekFUTkZRVXlCNUE?oc=5",
+   "source": "Insider Monkey",
+   "summary": "",
+   "published": "2026-11-16T14:34:02+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "PVLA Initiates Coverage On by Leerink Partners -- Rating Set to Outperform",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS2s5UDBFdnV4OTBBR2pEbUpzZUlpNW1fYU1UZXFvdDJiTUlGb1JWYW1pRGxYTS1oNEotZmY0M3FROV90STNIcTJTaEtTV0lEc193OVE4cUJlVmh2cWRVTnVtMThTWGQ4d3daV180VzhzcUY5V0tZSGhLRXFoSDZyeS1jdERVbWI3TFd2Yk8yQ0V6cEVHS2xEMGFQVnhvalRjSXhDamdRYlRBRHJDY3V3?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T14:26:45+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": "Outperform",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "YETI Downgraded by Goldman Sachs -- Price Target Lowered to $41.",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHl1MDhkTDhKOFNzckVHaklhLXpTcUg5Um1uaGJQNWNTRENjOFI4bXE1OHM1bnR4OFQ4XzVsWmZvMjdTcTVTcXNkd1NveG5GZldxeVF4eWdwcDNtQ2VHZWxEbE1oUEpSR0MxdmJqT0FQR0NPOFhvZkJMckNmeUhHZ19ESUFLM2JfeWRhU2gyMEJoZXpKNTVzRjBOVlZpTnNUMVE?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T14:16:41+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Downgrade",
+   "rating": null,
+   "target": "$41",
+   "ticker": null
+  },
+  {
+   "title": "Kinetik upgraded by Wolfe Research",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVJ4OHluenZnLXhod1o5eFF0ZUgwZUJrNTYtZk02ckZLcFFIMllMXzNxMUk4OUFkU2lxd19wQ1NuV2JscUUzNnB5TmUzR3luazZ1S1JRQmpTTWxKa2NGUGJDZXpxaXoxcGVZRDFja1kwTkVBZGM5TFRyWWJQazRTQTJZQQ?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T14:07:18+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "This Nucor Analyst Turns Bullish; Here Are Top 5 Upgrades For Monday",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOFhETjNXX1FlYmlCTlpFdzczcTdQQy1mWmxfb2NQYlM2bXFWUkg4eFJSWTMxUGxlRUZBUHl3WnYwOEJ2VWVoX3JDeklmY1cyOERtWi00YzlGVENjbWZKVW9yZWNjRlJvOElsWlNHdGlMNjNjMjZiOTNGLVRhQVIwaUZnUGg5ZjJSc0pEUnNFOS1Pb3lkZkpLZUp6bGd3bTNVN3NRNzdwZ3NzMDhyUUs0d0toWjMzMlRlejhhckEtQk4tU3BqLXpNb3NqZ1I5T2RhNjd4cHA3MA?oc=5",
+   "source": "Benzinga",
+   "summary": "",
+   "published": "2026-11-16T13:43:52+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "This Centrus Energy Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSG85YTZjUjV4Z1RQRmJJdEs4aS1wdjRpZ3psODhfZUhEN18tbmhfWTRodkhFWXJOTkZYc0lZc0pmaGxqLTdqd3FOb3dyNFg4cG5hZ05fZF9xd2pwclZ1WGRVcmx5UUVBNjJ5Tkx4clhZSGQ3WnVhdlpNZFB1bTBVcEVEZ1lHUmxwNlVTSEpILUhiMVZFdmtuZDN3Y2xpZGFGNjZIQjk5TVA2cFNpbUEyVUg1QjliWndDRzZyYmh0TFBISnRSZWk4T2VaTzlxYzFDTjB0Z3FnejI0SFhJRGVCQ1FKWGM2U1pIa3F2Uy1IMEpPVng5N19ZbVhkdjQ5QnlF?oc=5",
+   "source": "Benzinga",
+   "summary": "",
+   "published": "2026-11-16T13:33:55+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Telefonica Brasil (NYSE:VIV) Stock Rating Upgraded by UBS Group",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOalByaTBCU243WmwyUEZvYW52dGtsTGNmZ1FNekphbmRRMFRkQnJBTVRVakhDOVAtanlzTzZoX2VFQVRqNmk2alVlUmpxUGpZbWR4VHBqeG1nLVFWbUpSNHpnaEo1eHFQaFF3T2JraFVMcHA1elh2Z1M3RklzdnVQajhub0VLN0M0Qms0MUtmbWNEb3p4aHZkdjIzc0N6Znl6VFRIdGZsWV9OU0dlRmlURTZIVU9yX0REaFd6MG1hSDU?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T13:27:56+00:00",
+   "firm": "UBS",
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": "VIV"
+  },
+  {
+   "title": "This Lowe's Analyst Turns Bearish; Here Are Top 5 Downgrades For Monday",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVlTSGNpVlhORTNsQnpuenIxZHdGZUVCY1VndmpzbDNrcExWY055ek8zaUtielptOUtJV2lCOWN1bXQydHEzemhKajN3NHcwU0QtNXlnMlJhVU1xdW9MNVpsZElBWEhHU0twTlZvdmRrUm5OU2lRMVJpQ2R0NTBuMDBMNDdoQ0NMTHZHUnNIZnJWNVlUeTFSMXBKeGt4UGFvcVlUUjE0b3pReG1Ca3B3czdPRXlScWNCMzBQTWdaSUlMM1RkOTNtSUQtbktCbjIxZF9QeXNhMjlYdw?oc=5",
+   "source": "Benzinga",
+   "summary": "",
+   "published": "2026-11-16T13:25:15+00:00",
+   "firm": null,
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "SM Energy upgraded by Seaport Research Partners",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQU1qN01GN3U3WVdkRjlhb2hndUZGcTJHaEtIOFQwUnk0di1pS0VPTHNHVGdvU2xNN0NaOTJsSFVDM2lpa2JIWWswcm1jYWlYNGo1eFh3RkJsUTZyWGlYczg1b09yRlR4QTV6cmIycHhiX0ExMVlxeDJ2UVpadE9CM1M0clJPZFRIMjRmY3Fob1dYLS1J?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T13:21:51+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Magnolia Oil & Gas upgraded by Seaport Research Partners with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2J4WS1BQ2ZtQUxreTQtMHppcF8tVkw0TTdGcFZROFhHZnNfWWw1UWZDM3pMVWhCUVpuWGVtTDJHcl9QMTRGakZIdFJ0UVZESlNmNHlGbGFuMUk0V1BtYzNUNE1OZnNja1NMMmdFbjg5N1VIaGtCVXEtb2pnM1FXYzRHaVUwZnhpZHpzcEV1ZHJLeVdSdjAyWk5GRlRJcHdQTkRVczJ0bw?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T13:21:51+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Occidental Petro downgraded by Seaport Research Partners",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdTJtMURCVGtKc2N3ZUZxVHBGRWpSREJha2w4eWFYcTVRR0Fab3dHd21ZUlJGMUZxZVBWdGQ5cElkUVJBNjUyUFItaXctdmxhaVFFTnE0eEFlMjdMdU5kNml6VFI2SndBSjFNUk9rVjFDeTdubTB0Z1JUeU5kdjh0VGJUTjJ6RDZzeG9mUEhRYTF4a2tCOGg1czZXMTcwSDdW?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T13:21:51+00:00",
+   "firm": null,
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Viper Energy Partners downgraded by Seaport Research Partners",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRS1tUktLbzZpOG1TV1QyWDBUWnJtSEZSTWI4WDd1VWZ0SUduOGRKbGNtRWxUWW1tOXk0YTBEbXFrcGd4MG5IRXh0M1FQOE1YZ1FOSGZHLXJqTUxZcHQ2X3k0Yjh6RExtZkx1cm1vdTFDR19tTXYzMTJMQndPeUlXVG1KYXgxa2g0TS1EcGhNN1o1dUhwWWlfNFQ4RG5NRmJvWFhRYXFOSQ?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T13:21:51+00:00",
+   "firm": null,
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "EXE Maintained by Goldman Sachs -- Price Target Lowered to $103",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMFk1MzZUUzlWUFI0ekNfY0p3YjJtSkRsMU1USGhSWEUyYTBvNjIyLWlpSFVYMFhtNFRSY201TTk0d0ZhWVNXVGZ0bUh4UjIxMDk4c0VJUnI4ajVOX0dLbjhHeE9YY21NZUVadnYzeW80YlJubFNCMGFOYksxeFRXUnNEYTFPRjlDUVYzcEZrdDkzLXYwZklPWUg1TE93TEU?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T13:18:22+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$103",
+   "ticker": null
+  },
+  {
+   "title": "Expand Energy (NASDAQ:EXE) Stock Price Target Cut by The Goldman Sachs Group",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTnp4bkJOVHItc2N1S3FnNnFETi1RT0NKdjRaajZkX3ZNNFlYbU9qZmt0QXZCQl9tc05rM3A4R0pvdUlSVUEzaFhkZFhkV2RJRExUcXNqUWV3MW9uVnRMaXhKQUgzSGd4b1dEa3A4Wl9VX0h1S1pXOWczNnVWNTd2MHlmWVU2VUd3Q2NwZVRkSDFRV2w0R0FUZVhINWVobWJMYmt0cTVoanBWOWJTdHpKU014R1VTQXhOV1llUzJoV1hUUzktUUJLZFlyMnlDTmI0VGc?oc=5",
+   "source": "MarketBeat",
+   "summary": "",
+   "published": "2026-11-16T13:17:09+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": null,
+   "target": null,
+   "ticker": "EXE"
+  },
+  {
+   "title": "UBS initiates coverage of First BanCorp at Neutral, sets price target at $27",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWlLeWYxcnVnNkg3RVFvNFB5MXhOOXJYZWxXdFFaSnBad2c4Y0ZUTE80Q1lTSkR5N2Q2NXJoZWZUR1R4VlcwTXd1dUdXdWZCaGtvZGZQNlZoZnhYdUZhenprQ19Qa1l2SjIwVmFGQ0ZlM1AyUV9QMGxjUUpqT09xVHFyajZaZHU1V0RWNEdwZmIzdDBWRm55ek9vVWZDYmRwWTlDV0x1RzBtX3locTJES2xBSUtiWEZZMks5R0NIOF9aNU91QjgzcWNqVkhiR2cwRXc?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T13:15:31+00:00",
+   "firm": "UBS",
+   "action": "New coverage",
+   "rating": "Neutral",
+   "target": "$27",
+   "ticker": null
+  },
+  {
+   "title": "Goldman Sachs downgrades SCA to sell, 'higher containerboard prices already priced in'",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnhXbUxKdDM1akpYQ3M1SFllbG5xaVZqX2tYYWtSY3RrX2xaT0ZneTB6ZG51VVFfdnV0djRqdEk1NHA3VDB4RHNYN3NQRzlKQXZYM3RCRXVrS3lHUzgwRUtJM3RqRjRzX3JFQjVjb1pzM0Z4RVplNTVfVWhfVkJrTkJQc1dqSXFncTZob01ua2lEUmlyMUszTXpSN3JTalRJNmUxQ0dscG9PS2k4UnoyT1QxMDQtWWhMU202U3ZhZ1pxNnl3d0hiZjRTdjFCckNhcmc?oc=5",
+   "source": "www.marketscreener",
+   "summary": "",
+   "published": "2026-11-16T13:10:20+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Downgrade",
+   "rating": "Sell",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Wells Fargo initiated coverage on Super Group with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTBuaFlVd2VJWGpuS2Y5NkJFVWxXQk9VczR3ZUxxbzhKYnVuSVpOM3o4WXBtdWk5NTV3LXR3MWRPVjJzak9NbER3Q2pxajRGaG9ZamtuZHUzSWJtWGo0SUFqLXR6T0Z5M2pja2M4cmZuOFA2M3A0eEhkeXFpRWwwSlRKTThsUGRKTVpQRjRUbXEwRWpXTVNHYlczMA?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:47:32+00:00",
+   "firm": "Wells Fargo",
+   "action": "New coverage",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "CVR Energy upgraded by Mizuho with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPampTbUxnMmVpU3VEc3NTbFZKXzRsbElQQnFjc3k5eDc4T3RnOGJEUnZvTzhLWi1PTmtUUFY1Z0RfdFl5MXZpbVY3Ni1vRG1kcmd2RkNSUUVxM3NNOE5XMTVGNTQyWW92NFJqZUM4UTdRd3UwNkZPNmlLVG1SN0NoRU1KQUIzN0dNVU1hSVk4a0JiUUlxbEd1STFJcDI?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:46:51+00:00",
+   "firm": "Mizuho",
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Stantec downgraded by Stifel",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EZUl5TjVNUE04WFk3c0tYc1dvSi1KWEZCQTNrY1JLYzVaOEdfa3p5X2VfcTM5Y0R4TmpMUy1GdjFqeEgwZnJJR19wVUtkM0lSQlQ4ZzY2X2M1bkVOVHNQLUd0RmdFUEpxWDgwendTS282Vk1fSXRFRHRHaw?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:46:51+00:00",
+   "firm": "Stifel",
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Encore Capital downgraded by Truist with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlJDcUhlU1hSQkVTdkU1aGFVUzhZTGtwTzQ3a0VDRm1aOFNlZXFWb2g3Yi1RWV8yd0Y2Z0ZUZkFnWW4zUVNDWUJpOExBNVBqcVhZTzZhamdGUUVJb2ZpTk9QQ1d2dkNSb293QU9nTERYRU5LbXdCaURDVEpxSUJWdHg0N0laZlNOX3FNSmtHN0N5d0tJcVpzeXZxdnhjVFZuZUV5Qw?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:46:51+00:00",
+   "firm": "Truist",
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Cogent Communications downgraded by Wells Fargo with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUFZxem9fdGdNZTZDZ1VldDh5dnJnLTNvcTRIT180THFLZmQ5MGhXLWNjMmlod0xnZ1RKRmxVMmdtaEUtaDI4eTREWUZEV094dVNpcGZXeFlDcVdCa3hsVHcxV2VmeWJQX3JaOHRQd09Pd2d4NF9GT1N1NW9XMG9xd0UzRlFOTFpEVVdMV0gtLTNXYkxOMnZ1cTdoQnp6NGNXcWVlellzangyemc?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:46:51+00:00",
+   "firm": "Wells Fargo",
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "William Blair initiated coverage on Neuronetics",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORExjbmJRYWI0Mk53U1VyU2hOUGRQd2Q0bkhkWHdKVEE5WVZCczhfcXdfbVROX19XcjYtTjdwb2xnUVRZeE4yNnFUYzFvZTN6U3dlMnI3TXRIaU91LTR2bzVuTGJmQUpwUzMyMkxvN1VOQWIzNzVjcnZ0ZGpiUVRJNGVlNGFISklEUVM3SU1EVVhFeDVa?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:46:51+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Leerink Partners initiated coverage on Palvella Therapeutics with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbERVU1ZYX1ZYSmdtUzFjVW1JeWQ4V2ZBQ2NfMTRuWkNfSGZ0UVVabGZYQUJtUFlOeUJqT2ZBbkZadkhvVkJCcE9GdlRILUNFRGhBMHpQd2t3Qll3Q0c2aGFGa0c2RkQ5MWdsRFF1VWVKTXBGYzZ2WEVPME9icXBtSUFkWmlLSjcxWk1XNkJmRld6OXFpbVIwbzRRWURBdGRBSVlzd25KZExNN2NJV1FJR255X1Y?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:46:51+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Costco downgraded by Northcoast",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NNVJtTGxVNmFyNEM3eHlyeUNHdjNjaVdzX1Izck1JMldnRHhEaFh3dGJLdWdnb2hHQ3RHeVAydUl5bURoODV2Y3YxSXhkYkRycGo0RE1OSmNBM25TOXAyVDFxQ2x6SHhJX0tUQVY0YWo3S0VXRmgzQXhB?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:42:29+00:00",
+   "firm": null,
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "YETI Holdings downgraded by Goldman with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONG1iX3NlMjJaNmdkTG9vVFhoSnJHNjcwQUFTdW5ZQVpWdVdMWGp0MWZCUmQ0QzYwZ2xBTlUtdXVocWlQOXBVU0dmZlZWZ0xtTUNVaFJ0cFVoTXU3bWh5VHBRSnhKaHJEYm80Vk13cVA4N0lVbFlwaGwzTzc2cjFtNGlNZ2tQbGNOUDRpbGVvMnhmcm9DQ2RjYUF2Si1NdkNDMk5PUg?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:41:51+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Goldman Sachs Downgrades YETI Holdings to Neutral, Price Target is $41",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaU5xTVQwcVNVaUFyZzJQWTU1OUVLaW1PSE5MNHQ0Y0lXMFN2dTFTaG5BYkpzNzRNVDVlLTdGNUt4QXdmUHpvZDF5T0lnOTl6X2hWbEtuMG54bDQ2S28zTHNReGE1N0NxSldUT0lMdkF1RE9OVXlkeGhsVVh4YmZzTGxLekxibEx3RGRlSC00cWdWSmREY2ZVejdZNmdUUHhEdlk4Nldtck1ibVZuX3RrRGxsOVFzQm56QXQ5dVp3?oc=5",
+   "source": "marketscreener",
+   "summary": "",
+   "published": "2026-11-16T12:37:54+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Downgrade",
+   "rating": "Neutral",
+   "target": "$41",
+   "ticker": null
+  },
+  {
+   "title": "Goldman Sachs maintains Expand Energy at Buy, lowers price target to $103 from $117",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd0F1bHBXQS0zUTVPUjh3b0FpZ0w3WlVkVVM0WVB3ZXVjbG1FTERVcmRYcTloQTBpU195MWZZU3FJN3E1eklsRmdhcDVicUUzT1E3d2hjR3VOTEFRazExeHZ1SVFvSk85QWdyUkVhcXZ1ejBtcjFRR1BDRjhWeElIWTJNWTN4LVpwVGdFRnpDTjFtaEpTVUU2VHQzRGYtTTQ3R1JydkQyQTVvaGpveGRDS3VqRnNULVczdWpLWjItUHhSWEZEZHNMNTctdnM1TmI5NlBkN3lDenozQQ?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T12:37:46+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": "Buy",
+   "target": "$103",
+   "ticker": null
+  },
+  {
+   "title": "Telefonica Brasil upgraded by UBS",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeFRXelgzVTUwcnFjcUNwT2cwVWtWR3EwZEFkNm1xemh4TWRFTzJJNjhkM29tYlBaVndBNXl4LTZJdnFEZDJXUG9TYlo0cm00OUZacmlGVTc2cmpNaWV0S2tiSGJYWkVJb2Y0dzNfWlhCcnNoZ0JLQ21SOGZqekJhY3hn?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:36:51+00:00",
+   "firm": "UBS",
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "SPX Technologies upgraded by TD Cowen with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFBuaHM4MkpHU3JxVEJBc1J1NHJDcXQ4M0ZiM1I0VjhWcjlvX0xIX0xSWXBUM3Bucm10TmZ3MElyTG4zTjV1U2pSalJ5VmQ5bGZTTi1aWTdXT2p1NV93cVdOaE1QR1RFRXc5OWpiMl9PQm9KY3lpaEZnTDJUZlNUemNJSUhLQXdBZkpkT2xvekRPclZFMUFjVHpLdC1Bdw?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:36:51+00:00",
+   "firm": "TD Cowen",
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Amrize downgraded by Jefferies with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0thaU1nUHJKR3l0bEUyZmstdlhINnlEYWJGRDdmRWc4dGZKUGYyNFRFaVBiQ2Vtbl9XblRtMWgtM2ZPd3A3bk55bGpuLTUzYV9PNkVwdk91SmFpTUV6eEs4eHhsU3BkNWQxX0NxdC1MMDExZktiNGhCaVFDR3piemJ4N0hEek85N3piSmFnWUZleGZOczV1RFIySXVfZw?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:36:51+00:00",
+   "firm": "Jefferies",
+   "action": "Downgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Texas Roadhouse upgraded by Gordon Haskett with a new price target",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2ZjZ0p4UHN6aVdDanJBSEh3bldQMTcyUFhXOHZ5aXZweWpHZUY4NDFDbW5nV2I0VTdGNFJfSll0WWx6cU05NjNNWnJyeFBPSF9EQUhCWS16NGNFN18yM01JY3FZZ1JqUHJPV3I2UThFSUxJQ3FwQlFGdnVWUmxSM242UXVRZ2dXRWhFM3RTeHNFN1FFN29Vb2FRN3YtWGt0a09BaA?oc=5",
+   "source": "Quantisnow",
+   "summary": "",
+   "published": "2026-11-16T12:31:51+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley Adjusts Price Target on Kennametal to $20 From $27, Keeps Underweight Rating",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYU9LZGFBcmxSelpsSl91VUFDQkZyMEFxWWc3NHVaQmE4a2hjVF9TZ0ZDT3g4emNiNWZLZThRSElWWXZBVDJWN1FnaTFhd1R3NEdMZGdvc202NGJKN1ZxSjY4ZWkzYnJNdDdnOEI2bVZVck5LRHZXb0VMXzB3Qi1fV0VnQ3dnR0U0ejFhTzRaRmVFcFJZbjlWZWE1NHNtTGtaa0NJSEdPcjBDV1huVGVWSS1qSy1TQmtucGNBdlNNRFZEeFRzZkpPV3YyWEJZOU85Zy1QcjZ0UXg?oc=5",
+   "source": "www.marketscreener",
+   "summary": "",
+   "published": "2026-11-16T12:28:27+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Reiterated",
+   "rating": "Underweight",
+   "target": "$20",
+   "ticker": null
+  },
+  {
+   "title": "Marriott International stock upgraded to buy by Wall Street Zen",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRkJMRmNGQWF0S2tRRlRIelBJSEd3TklBUVR4ZmlaSUs4TFlsYjdBMkxvRm1Qem00LXdXNWxxVmNLR2pIN1EydXdncXUxM251VjhRNXlhUHNQbl9nVnNhU2lLTUZRemgwaHhXZXV4OUdfOUd1YV9nTkdLeEVqYTdCdl8yaEcyWHg1OHQ1OHNkNFo1NldWUDh1OTFLZTM5dWUyaDdoOGE1N1FRYnZ6dXVaRjlaazVlc1ZPOEJhaVMwTUp2YU5x?oc=5",
+   "source": "ad-hoc-news.de",
+   "summary": "",
+   "published": "2026-11-16T12:27:02+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": "Buy",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley Adjusts Price Target on Target Hospitality to $21 From $25, Keeps Overweight Rating",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWTNvRDhOdWpHQUhSMzJwa21zZWhKdVh0R29DakNXMkhkRXpGSG5QVWdKeFN4SnBWWEtMQ2JRT251TzRnTDdUaGo5bmtLeVBBNHdwbHVCWDg3QXdLVkpOa1UyNzMwNzdlT19ITTlHYkxSNDBpWlVDRzY5aWZXSmhyaWotd1MtTkMzaDlPNVh4YnpYYUhqRExiV1Nyd1N5UWI2ZnRpY1V5SUVKUmUyOE5wdVhzb2lPT0QwLXlzOEFqX3BnQ1kxOGhWdXhOQ1NNNWNmZV9NYXNWN2JIZmltRFFraWNn?oc=5",
+   "source": "marketscreener",
+   "summary": "",
+   "published": "2026-11-16T12:26:04+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Reiterated",
+   "rating": "Overweight",
+   "target": "$21",
+   "ticker": null
+  },
+  {
+   "title": "LEU Initiated Coverage On by Cantor Fitzgerald -- Rating Set to Overweight",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWGpydDc3QXoyYTFPNmE1d2R6NkxpQUVpYkxzV2RrejRJeTYtcl9xbjFmd2o4Ty0zT1ZKcmc5X1RiNmd6UU9iRDFOTHVsc3J5TUdzMUxvdFFSR09jZ09DOGpndWpwenQtZk9jeFc5S0hZYloxQ01EZ0NoaXdDdnhlSTF0Q0xXUVo1UlduV0s0bTJNVU4xQ0RfWEJQaGs1Z0F6cVdCRnRMNXNISjJWYkhZ?oc=5",
+   "source": "GuruFocus",
+   "summary": "",
+   "published": "2026-11-16T12:20:09+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": "Overweight",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "JPMorgan lowers Telephone & Data Systems price target on valuation",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWI0QkdTdkZBYWJOaU9nYWdDT29IQnZNWG5RWmRtZTRER0NUQm15dFJaNzQzR0RremdxUlNYcnNtemFHQkZYUWYwYzhraFVNeUZ4TjlYMWNuaWxKb2JsVWZDVkk5WTBxU0pFS1dMZWtCS2hkQzZ4bTFycFYxdHo0amY2ZVZ4MUNoUUV3OVFyMFV0aGNaQjA1WHRnZHlYd2tPOVpwSmhwQkhrSmZoSTZyR2phLWYzeHN6OGVOSmVEcEl6alE?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-16T12:18:56+00:00",
+   "firm": "JPMorgan",
    "action": "Target cut",
    "rating": null,
    "target": null,
    "ticker": null
   },
   {
-   "title": "Morgan Stanley upgrades Japan equities to overweight, sees 22% TOPIX upside By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0VuTUl1S3ppVXdHaWhHUGtTLWRHZWw2SmJzSDB3U1BvU3EwVUFrbnF3eDVka0xNdm90NTNSX3FzRFNiUm1UMVgzRHBrRFlCOTZmQUUxT2dFTHNjeFVhOEtIakNfaWdoalh4czlrdlNOYVJfenFmNFVwREJHel9WVjhmOERLWWxtdkQ3NmdFWVRGQU5PbG94UFZhTk1nb3dYUnVscXpfMjYtaFBYdkpRNTdEN0xGZkNtQXFfeWJMOWltNGtad1R0VA?oc=5",
-   "source": "Investing.com India",
+   "title": "Mizuho Upgrades CVR Energy (NYSE:CVI) to Neutral",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTlhiUE81T3RnZHJzT2NJVmRya3JuTjFnVHJXQmF3OXNkMFlfb2lLTzNsTGxaYUU4N1NTT0tScEdsbU4xM3JULVA0Nk9Mdi1ldFUyc1VLcnAteklKOEtLajBGMlFSSGlrb1ZaZEhkSjZzSlJHeHVCSFctZ1FxSFVONTBkWHFUZjN4M09heEo2XzY5WXhLRjZ5Y3BDck1ZZHUxTklnUXlNcDNzbXJp?oc=5",
+   "source": "MarketBeat",
    "summary": "",
-   "published": "2026-11-16T08:11:01+00:00",
+   "published": "2026-11-16T12:16:50+00:00",
+   "firm": "Mizuho",
+   "action": "Upgrade",
+   "rating": "Neutral",
+   "target": null,
+   "ticker": "CVI"
+  },
+  {
+   "title": "ThinkEquity initiates Deep Fission stock coverage with buy rating",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVkdZMnRqcnBXX05hT21wQ1JjWTItMWxrUURuY0lPME9hSEZvbVZtU2dtV055TDRneW9RbTRCVTY3RXBQYjBOZEdfY1VkbE1zeHNHMEY1MGVVR3lhZW81ejFLSU9KalBRdzRzSHZNclRydVNJRzFheTRMckJVU3pwcTVoVEwtV2dkX2l1QUh6REtsdS10NXhrVW5hZDRKZ0pGMmVPaTNzd3BSTFhUbDFwSHV5ZFI4XzdqSzk3WmNIV21tSE0?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-16T12:10:48+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": "Buy",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "JPMorgan cuts Array Digital Infrastructure price target on valuation By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQW9jOS1nZElxUU51bjlsbnRJblpnOUJDTm5McXVzdE1IcW5XYURVZTNXckhEUEZ5dGxwS1h0SWRuVVBhYTdzaXhxRVpleHdSZ3ZEVTJuUzZ5dkNnSFZkcE0yNVZSRW83aWhqRnZEeTlmcE8wQlY0Z2NCOFYtUlQzWXZuU05Xakkwb1ZjN1Fnanh3NVAwMmNISEYtY2UxQ0pVUWhwS2MxUnpKLUx2TFZ0d0dGTTZveUFqRVd1b2kwNU9iVEQ0WXJvUQ?oc=5",
+   "source": "Investing.com Nigeria",
+   "summary": "",
+   "published": "2026-11-16T12:10:47+00:00",
+   "firm": "JPMorgan",
+   "action": "Target cut",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Goldman Sachs maintains Innoviz Technologies at Neutral, lowers price target to $0.20 from $0.40",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZTBIalpZaWJkNGZmUDJpc3VtZjNma0NWMXU0NEJfbjB4NGNOc1BGMExJckFlWGhBS1AtNlVxRGpPX1h4Ymt4VGxRdDBZM1pUazlyZjJHVmxPN2g2VmNaT3locGotdDRLQ1NsNkhZdDV6RkNWYUV3Zk0tNlJaU2FqTWdEMVM2bG5HYXRVdXFIX3h5RzdBZy1CZXhRQmpsRDBJb3ZGQ0JBRlpkU0lNdnFma2hGYkJBSFE2R2FhMXlsNXM1R0VzWVlUdUdTYzMxRlVUN2haR2dzTWZVdWZPNGpCd3ZHeC1HWG93M0s0?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T12:06:11+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": "Neutral",
+   "target": "$0.20",
+   "ticker": null
+  },
+  {
+   "title": "Goldman Sachs maintains Gemini Space Station at Sell, lowers price target to $3.75 from $4.25",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTVVKQXJwT1Vrc0lPTGZrNVhCWUhZekRPUDRQTXJsLXk5WFFfbDJQaEQ4Qms0aW9iQy15NzUyVTBlM1JsWF9yaHQtY1hSUjJBMzlySkFNdmg5dUxha0FQTUxfUEM0bGVVV01FZkcxRnNtTGNaSlgyeUpab2prN0xwZ2lEbzQ5bTlULThUdHRLeWRmOEpmYk1FbjJ6dkg3TUFzQzhQc1phNXZHc2hFTGx2NjF0UGk4RGFMQUoxWDFya0lpVGY0LXlyTVdkWlU5ZlNsbmdLN3RzbEVwWkVwaWhibmM4YTEwV0k?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T12:05:07+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": "Sell",
+   "target": "$3.75",
+   "ticker": null
+  },
+  {
+   "title": "Goldman Sachs maintains Inter & Co at Buy, lowers price target to $8 from $9",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaW5jMnBYVkRQXzRZdy1sRm9neXJxOW5DU2k4ZFZ3ZVEzUGdwd05SU2c4TUx1NU81TkltWkxpSTU1b1BDWlJ6MlFIZHEzZkVacE9iemdoVTR6cmhzSXhQNjVWT2FROHJKNHR1Mzd0TlpHY29yTGpqbHVtM2Y4cXNRbzhfUVNsTkRLVHVMSkdsTnk3a2MtYUpoU01oeU5zbTJvdmhEMTlZazBSQXZ1MWxISmc2aTRLTWkyeWQ3bS1ZZ3A0N01kVmY4WXBxVUFVdw?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T12:04:14+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": "Buy",
+   "target": "$8",
+   "ticker": null
+  },
+  {
+   "title": "ThinkEquity initiates Deep Fission stock coverage with buy rating By Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZjFLSEFEUDJMOTJ4NEJSMHFoSENQbXk0c05iMHBWeF9MVHlFV05GTUs2ZlZKSGFxVU01a3FCTWcxMXJZTnE4YkdqVnNkTWRsSUlMQ05zeE1ha0FqemhaT09zTFpERXVZNkNfbmJYZHJDOE5DaXYxSGhRYUd4SFNNcVdRZm9RS2kzNDFVX0NQcHlkYTBQbVlmeDF2SWpGQVA3cm1MMm96Rm1peDJwbjI2SndTckg2c2xCUURscU9TdEVVa2k1?oc=5",
+   "source": "Investing.com Canada",
+   "summary": "",
+   "published": "2026-11-16T11:52:21+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": "Buy",
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Monday’s analyst upgrades and downgrades",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2ctbFo4Qmd2Q0dxbWd1dlg0ZjVNcDlkLWM5M2NLVjhvaUdOUDlSbE5QTExhdEN6Ti11cXB2TjVEemhKVU1FMV9HU1BzVGZfdUc3YWxRdERJMmlPemZkNzh0cFhyWVQwSi1PbnAtUWhHbXlKV0MxUG1hRU0zZ1hXdXJIYUtsTEFENVI2YzFseFJZNUZtOE5yRjFQblVGNUxpeGJQZGItcGdkTkNQYXBZdTlFYVVWVUZFU2h1Vg?oc=5",
+   "source": "The Globe and Mail",
+   "summary": "",
+   "published": "2026-11-16T11:50:30+00:00",
+   "firm": null,
+   "action": "Upgrade",
+   "rating": null,
+   "target": null,
+   "ticker": null
+  },
+  {
+   "title": "Cantor Fitzgerald initiates coverage of Centrus Energy at Overweight, sets price target at $130",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU0s1MTVpLVN2SVJHUk1HMHVxeHdSMlFzYVdGT0hMQnd3MUxBWG1QdHVYaEg1bWc0ZUo0SmJDYVZkSTlmNFFRN09PMlpKNkJCSFM3MVVkNi04NEhVMHFhUWlXdEN6THRYeTVNa2lTMDlRcTJmdmNubzdCMmdtQkEwdVZ2Uzlhdzh3MXBSaEVhY1dVSWhvQlBUSk9sRkNEc0l6UTFYOXBzdVlCZDgwU1lJOG9SeXhrWnZSWDBqREZ2WWl2ZnFNN0V5TWM0YzJCSktFdDNZeVJ6cVNaYkV2dTFkMmRGY1hOVVNLUGY0?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T11:37:06+00:00",
+   "firm": null,
+   "action": "New coverage",
+   "rating": "Overweight",
+   "target": "$130",
+   "ticker": null
+  },
+  {
+   "title": "Expand Energy price target lowered to $103 from $117 at Goldman Sachs",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0FNdEZTZy1SWDRwNjFqblhmX3htandLSHQ3ZWwxd09Bc1RKejBQcnJoZ0o4ZmdEY2FCS2pwUXppM2ZqSTZ2cUlYUFczYmhvOXByampiQmlNNXJfWlVHSHdHYzA1NnBCZ1dWUVAtT0VaUVRHR3ZxcDlTQXpJUXFSNUxoY2VxZ1lYQkkyeUlsRkY5YnNxcnhUWjd6WXBHYjBlSEc0ckdaWUYxNmg5aHpJT091dEFjRWVz?oc=5",
+   "source": "TipRanks",
+   "summary": "",
+   "published": "2026-11-16T11:35:52+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Target cut",
+   "rating": null,
+   "target": "$103",
+   "ticker": null
+  },
+  {
+   "title": "JPMorgan raises Ovintiv stock price target to $84 on inventory gains",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR1prcnlObm1taUh3SU9XRlhUUlc5WTVRX0tJSlhXbGJfQkVVSWhaYnd5R2xZeWh0SHpLWkt4aktiV0xJb0o5cExqamV1S3dtaWtra2t2YUJ1YmxnOVh0aEV5Um1qaTI1OHpYRGs5WlBlb2J3MG0zaTI5SWpHclRfZGRDRUJHT3pkTDR1Yi1ISWJfNTJicnIzMjdYbElWVjF5azNkRU9PVlZ6REstSkNJSlJtdGFTR1JlMzU4MGRBUjc5NDRwdFE?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-16T11:24:32+00:00",
+   "firm": "JPMorgan",
+   "action": "Target raised",
+   "rating": null,
+   "target": "$84",
+   "ticker": null
+  },
+  {
+   "title": "Weekly Recap: Morgan Stanley raises price target and firms bring $1.15B",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM25mQUE4M2lEbnlLRXVFZG0xR2Fnb1dQeTAwYzZSOUd2aFN6R1A1X1lHR3MtTXdzdERuaDEtT095OU01QURqNVVBbzFDODktRk1XYjRiemJLM0JBRmFvcG5aZG9DcWgzc3AtbUxoUjUtbUtnejYtZDVTbDBKMk82anNzcnRTOXBNSDNkbTdnanRyRmcxZm44YXRqNlprWE5CV3YtWW8tdVBuc3l3ZTlyOXJWTmVILXI2UUlPSWNodEtfVkhubFFVbk1yOA?oc=5",
+   "source": "TradingView",
+   "summary": "",
+   "published": "2026-11-16T11:00:00+00:00",
+   "firm": "Morgan Stanley",
+   "action": "Target raised",
+   "rating": null,
+   "target": "$1.15",
+   "ticker": null
+  },
+  {
+   "title": "Morgan Stanley upgrades Japan equities to overweight, sees 22% TOPIX upside",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmtyc01Xd3ZfWXRfdUVfSFJ2NHNETGVZNWJ5V2J1c2NWM1RjdW5vZXJfaF9TUHNkR0tHbGIxM3ItaEFoZTllUE1UZ1EyMG84dmxNelk3YWNkdlhmZ1UtN3RtcFE4OVRBMVdfaXFIRXRlRnFZa3BxTmdlT3lPaDFBbFhkSHBIT09od2ZhU284YWcyeU11X1AxX2RBLUdaNnJhaTRlQ19oa3JGdUEtZXlNdlhXdkNLMXdadmRBYXBqeGhSdmw0X0NQVXR3?oc=5",
+   "source": "Investing",
+   "summary": "",
+   "published": "2026-11-16T10:45:29+00:00",
    "firm": "Morgan Stanley",
    "action": "Upgrade",
    "rating": "Overweight",
@@ -51,50 +1083,38 @@
    "ticker": null
   },
   {
-   "title": "Key facts: Phillips 66 Reports Borger Refinery Emissions; Jefferies Cuts Price Target to $265",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTHVlbXE2c2IxZVlhMHZrdmNhaDI5dUtxem9WMFVDQU4wblZ1YVNaYVR0Um00c3dyMGtuaTliUk5QWlVmZjFaWmd1R1pmMWUteUZ0S3dId2FyUWkxbkg1NmhzdVVFSS1sTUdKaGhva2NVV09RNXd5ZUdicUZQNGN5Y1Zma1REYjB4S1FYSmdEaG1ZWGhlTUppY1MtNVVBbWt6XzIzT2JJY2JwQUlnMHVJTDdvT0lRam9Qc1NQNUVKekwyWDhxT1UzUmtXeG9BbnBvaS1YRmxOekxoTnJZQUZGODlIb3I2dVE?oc=5",
-   "source": "TradingView",
+   "title": "Goldman Sachs Downgrades Yeti Holdings Inc. (YETI) to Neutral",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXNacUNPRTBRWG1Eelg2ZW0zZmdfNzdSMk5jSW4tX25qMy14VXNQb2w3M1RNenpTT0pvUzcwR2J6cE1xVHI1azJIZm1xX1ZzWXdhQktiOEg4NXAtdjVMenZKc1Z5ajJtcHQ0RWhxOHhpQ1FLSEVmMFp3Qnd4TWxPNkZrSHpkQl9ydF9wbzNYMnQtYk9jNUIyRjM5U1ZnQ1dtZkdJZ0J0Z3JHX0xpdHJONGwzWTJzZXdwcnB1SUNkS2QzNEdP?oc=5",
+   "source": "StreetInsider",
    "summary": "",
-   "published": "2026-11-16T08:00:00+00:00",
-   "firm": "Jefferies",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$265",
-   "ticker": null
+   "published": "2026-11-16T10:20:56+00:00",
+   "firm": "Goldman Sachs",
+   "action": "Downgrade",
+   "rating": "Neutral",
+   "target": null,
+   "ticker": "YETI"
   },
   {
-   "title": "Pareto Securities lowers target price for Akastor to NOK 10.50 (18), reiterates buy",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQnVyM3VOM0V6SEc1RnJqSk1uY2w2TWdaZDg0UlItVGpaS09KWE1VZzB0R1BDZVVxdmxkc2V0b09lcjRuVkxrazU4Y2RYMHVfR0M3TUhITWVudDdWTXpKakpzOVJZUlFsbkszbmNycEhIdzd5eF9YVEYwaHBNRDhqQnpVWGZZeklyVnU2MGpUTVRJNmpGZzU2M2hiTUJPSllUMXp4M0ZaODBxYkVscVhUamhxNC0tY3FOYjhvNnJoN0pOUXNSRmZIcmZ4dXBHZw?oc=5",
-   "source": "www.marketscreener",
+   "title": "USA Rare Earth downgraded to Market Perform from Outperform at William Blair",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmtfa1NxS1ZXUTltdjhEa2lJSlZORzFkSnBSNnNlM2JSUEFqRUdhcXlNU0VtSWFmY3NPTXZ0SkFaNUhPTHZyajYzUy1LT3BlQ24yVzNVMkIzbTdmdGhIX3ByUzBJVFhGUUlMdlZnZm1kNFE3SlNwZFI3dGZVRHRyZXZjRWVCemtTWDlIMm5TalBFdVZVVHlGY3I0SkdTMlVTZ2tCMF9hRkF4SWxkZC04d2prQ3hEWl9jaUpral9YSXRDM19H?oc=5",
+   "source": "TipRanks",
    "summary": "",
-   "published": "2026-11-16T07:57:24+00:00",
+   "published": "2026-11-16T10:00:13+00:00",
    "firm": null,
-   "action": "Reiterated",
-   "rating": null,
+   "action": "Downgrade",
+   "rating": "Market Perform",
    "target": null,
    "ticker": null
   },
   {
-   "title": "HSBC downgrades NVIDIA to Hold and lowers price target to $170",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUWlTWG1YTUt1XzctZnRldlBBMnhMdUkxSGFYQTFhdEdhclYtbm4zN0NVeGxYV1pIU1ZuRS1FVGcxWDNtbGlObTB3aE5tclVFbUZCZDE4VVdiMnpLa0hTbzdJb3dhWkcyWEgxNE9pOFpGOWVvMTJmUFRUTmRxSnNYUDM4N0xvUkNvRWJudEpzX1pnMFU?oc=5",
-   "source": "KuCoin",
-   "summary": "",
-   "published": "2026-11-16T07:53:09+00:00",
-   "firm": "HSBC",
-   "action": "Downgrade",
-   "rating": "Hold",
-   "target": "$170",
-   "ticker": null
-  },
-  {
-   "title": "SB1 Markets raises target price for Elekta to SEK 70 (60), reiterates buy",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHQ5RXRnX3k1aHRaakxvR1hZZld3WHRBQkI3VkxvdVY1VUItMU9oUmlyenp1dU1OakJzbFJXN0lFOTRkMWNzSVhTcGVjMm9wc1FHSFNnaUFJcG9yQXJlcUJibG9xcXF3cktuUURlLXJkc3RNRmdQMENpZEg2eXJzOHFXUm14MmxIUmRka25UYm9RREpOQUlCd1VXQ1N4eXJhbmZ4ZmRaZ3ktZjdIS1VrTUFoTmY3R3QyWWFIOTlLMjI?oc=5",
+   "title": "SB1 initiates coverage of Xvivo Perfusion with a Sell rating and a price target of SEK 180",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS21SM0YyRGFVWmhOc2VPYW5LN25fc0VmWXVWUUhHLXlNY2ZLS1hKZXNFSUktWVd5UW5pTGtYendPMjlyYUdvUkhUaUt0MmRya2VhZ3I4NjBoc2h4clg2UWpTVEZxUjZDUlg0T0NFME04YTFfcHhVc2M2d2o0N051cW9SbkZNU3hRM1NZNkJXMUcwRFJBcHRZZnh2MjFKUVYtemtqb04tNGFoZ2I0dktPd0xxVXJtNk1DNklmVkg1VjZOR3VlZmRxM1hpWFB6MXd4S3pzZFVESlk4aGc?oc=5",
    "source": "www.marketscreener",
    "summary": "",
-   "published": "2026-11-16T07:52:44+00:00",
+   "published": "2026-11-16T08:01:35+00:00",
    "firm": null,
-   "action": "Reiterated",
-   "rating": null,
+   "action": "New coverage",
+   "rating": "Sell",
    "target": null,
    "ticker": null
   },
@@ -111,42 +1131,6 @@
    "ticker": null
   },
   {
-   "title": "SB1 Markets raises price target for Asmodee to SEK 200 (190), reiterates buy",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcjIxQUdNbkNqRnVPYU1JTjRfeGtDVjQyenRaVVRJcy00cnQtTllyMkV6d0hXdDF1RXZiRGhJZlota1RmSUVQREdNT3BCUTdmb1FWT2FsZGdNal9oaTc1dkNoVVJZWG5ZWVR0OGstS0J0b1dpMlRxUzE0R001V2psZkRFdUkzZ2dURm5pNk5odlZWdmZMODJZcXlsT21TTDRqaU1MV0NsTjBDSUxnSnI5cV9KQnB6MHVBVXRIYXdwdmhVX2Fr?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T07:50:44+00:00",
-   "firm": null,
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "SB1 Markets raises its price target for Eolus to 50 kronor (45), reiterates Neutral",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGZLXzJNclhqemt0S0dpaUNkbFNXbXJFTTBCZnNTRU9QRjRGM1lSd2h4b2hRaFlzZDlVUVZFWnhjcHV3dEM5UXFtbFhNdEdTM1B0ZDI4c19uX2MtazcxdUlIT25DZDhLYmtvMzE3cTdKcmJqX2hIeldkTWdtLWNremtLaGJXcjNtOWxvYm1pbjhqdU9ZOV9HSC16UVgtX1lKdGo2YjI3TkluS1p1aGJtYkR5dnB4MDNScVhYVG1lQXg4Vi1MUEtJMGtTcTNfUQ?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T07:50:36+00:00",
-   "firm": null,
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "KeyBanc downgrades FMC stock rating on turnaround concerns",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTFCWXM0bGFnTGt5cTJXdUd2MzdNMXN4cUpsSmdndHBkaFM1b25hc0diTG55QXR3cmxLcG51Rk5CM1FpLXJaYkJTS0w4ZUtla2ozNEZRM05zTnNPYnl0X2lidG16M3RxODJyQkZtR0hzSUJ0ZTUxc1JYeEVOV0hpcDN0Wm1XR3RfZmxlR3VLVUNGRWFYOE8tQ0t5MWFVOHpvREtCVnNkZ2EwQkxYektpbjJnS2U4Z1h2YXc?oc=5",
-   "source": "Investing",
-   "summary": "",
-   "published": "2026-11-16T07:49:43+00:00",
-   "firm": "KeyBanc",
-   "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
    "title": "Goldman Sachs cuts its price target for FLSmidth to 705 Danish kroner (720), reiterates buy - BN",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQc2RMaEpMUV9HcXZ6b0k0VlQ0cXVNbXV6Q0ZNOHI4eHJKRFcxbUdGbzdJeTA1UHRGR0JKVlQzRmFoX241UVJNV1dySHEzT2hSemt1NV9OZmVTZ0ZUdjU5WlZxNGhKaDQzdlgwMlN1bzVuUUNPMGdack8wSjJSeXV0Z1V1WHhMeWZZakNwQ0h5Mm1FS1Rra2xpWXdrS0hWMWNyWUNzanZHOWlqM0tqSlNITVV5Z002elh1VzN1MjdBXzhiMVFiUWR1NWZsZERBLVBRSW1XTTBaNGtNNDhq?oc=5",
    "source": "www.marketscreener",
@@ -154,102 +1138,6 @@
    "published": "2026-11-16T07:37:29+00:00",
    "firm": "Goldman Sachs",
    "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Phillip Securities raises Palantir stock price target on strong revenue growth",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0s2VDdFeWk2X09WSDZmWWxYZHpDZHZUNzgzTGFJREFaUXBSZU4zeWpUV201NF9mWGFqNW9EalRoanU3Nk9tSkNEQ0EzcnlhZFJ6YnRKLVF1dnFYZHdrMXljNlN5d2U3REQ2YWp1VERHTnl5Xy10cFdPbXhLX0o4NUpraHVOTElhcmFwMlVFaWR0YjZCM215NGF4cXd2OVY3dGRqSFJWVW15SGdXeGFVbzBMY1FDaktqSlF1TWJ4ZTktNW9kWk1ScnZqWUtXMDdfTkxSSC1B?oc=5",
-   "source": "Investing.com UK",
-   "summary": "",
-   "published": "2026-11-16T07:28:00+00:00",
-   "firm": null,
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Phillip Securities cuts Sea stock price target on credit costs By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWtXZ2txNkN0RE1uN3VxZTNSNDZoMndZb2ZyRUlVS1VadngzQTk5NGdjLW5HdTZldWgyaWxqQTJBZGRWTFVKMnd0VXJLWVhMOW5UY0hBMUVrUHpQajZlbHpvei1XUnNWcHR1bV9QNFR6Ul9TRnltMnVTb3JkaWFIM0hCSlR5RmxGa1AzcUFOVi1yUEFsOXJQWTVOZkpBMzg5elBKMkYtcWVrT19SckxnNGM0VTRuaTJvVGdpSTVqWFQ?oc=5",
-   "source": "Investing.com UK",
-   "summary": "",
-   "published": "2026-11-16T07:28:00+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Target Hospitality Corp. Stock 12‑Month Price Target Cut to $23.5, Implies 103% Upside",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNenFaQ3d5RzNrS1ljUlJxNHRMZkp1dzlnQURldlNYMlNLa0RpNDhxTkdraklNUzJPazRQQlZBRGxwLVdBZ2pBM2lpOHMxTWpNdmg1UlJpQ3FOVkpKQ1RzY3FONTVtQ2wtQU5NWk00Wm1PaVlid0R0c1JONFZIZXFESlFqTUJGdnhqYktJa3hGZ3dEeXpoZ2E0eVhIbENUQm5hRXI0d0d0dmJKNjdpUl9kemo0aWtwel9fa2RPaGtkcmp5ZjdocHFjYjFFRVo4UEhnbVp5Q0pfcExDN3V1?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-16T07:20:00+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": null,
-   "target": "$23.5",
-   "ticker": null
-  },
-  {
-   "title": "WEC Energy Group, Inc. Stock 12‑Month Price Target Raised to $119.21, Implies 1% Upside",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2JMb1Z2dS13N3RNczNmY0lHVHcxeHJKVU9WWXpKaFF3U3gxTjUwLU1UYnh1OWNFMFhUbk5iUm1EXzBCYUZaUHpVeUxjV3VLdXFEdGVDelBpUG1wX2ZDa2xFRnpKYTdlS0lmR2FrMmtWMGZ0cmhCVVh2cVRzZkxsR2FPWlNmOE9fWTc0aWhXZnU3QlRtZFhXQUdTLWpKbjJfLUdYNl9UYWZ0NTJzZFBpY2RNYkpCSkxHVi1rclB5NFVScGZuT0NmWkEtZWphNGw4bjBXVGhSRlZkUExK?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-16T07:20:00+00:00",
-   "firm": null,
-   "action": "Target raised",
-   "rating": null,
-   "target": "$119.21",
-   "ticker": null
-  },
-  {
-   "title": "Semtech Corporation Stock 12‑Month Price Target Cut to $207.8, Implies 81% Upside",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFRMU1BDWm1QNXB2NF9WNVdMdEtwRl9OU1A4RHYxd25iRDNpb0o5LUFGU2tTNTU2MUZjREI4emZpTVBoSHFEVzNSVXdDN3JqRWdvV24ycHBMQ1IxVkNCdGsxVTJZZWw0S0ZHbzBBM0dKRWFTT3BCWDRlZkktUHF2QlVsVUxGYjdKZWVadTdqd0l5RldXT2t3TEctXzRXaTh4LUxRamVhMm5PU0V4T1hQSkVERDBTWmEwQ2tRSkVCX0VnQ1NUSFFhTVVFbUwtRF9XMUFkekQ2TQ?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-16T07:20:00+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": null,
-   "target": "$207.8",
-   "ticker": null
-  },
-  {
-   "title": "Arctic raises its price target for DOF to NOK 138 (137), reiterates hold - BN",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTkVmSjNsWkZvclZaMVJYMHRvdExRTGMyS3k4WmNJNE5HYTdUNHJTSjdYT0pfZ0pNT2RnWTFkYU44XzRtZHhKVXhsRHItOGIybDlhRGxrel9Tc1hwRkpVTGszdnJra1NZNDNlc01xcWdDVTFhQ0lqQXhNeTk2dldEQlRKM3JRVW1uMHNlMmtBNFpWclF3MEdYZVpaa085bHVQTnZVOHc2RTNPS1ZwTU5rYi1obUZ3NFNIYWEyZTJsaktrczg?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T07:18:20+00:00",
-   "firm": null,
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Jefferies initiates Yarrow Bioscience stock with buy on Graves’ disease drug potential By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1Y0b2EzSGVMbVlsdmJsTEVhd3pvM3lRUDBVczhMWExNOVN5MjNWdmdQUGs2UXE5Vk11MGtLVTBpRmZLQWd2bnpBeExQR093dmt2bnBSVmpWR25DMTNLdzRjblVXN0hpbF9YTFNidzRfN01wY3lWamZ6dmxnV0hHbUt6VTVOaTk5QTVKWXF4eWZXNGJYODZBMGRTRWp2bEhvemh2UERnMlBSbjVVZkR0WWlmVjZyZTZPUjU3SEpBVVJxNzRKMXZxWmI0eURhaVVYbzJMeS05eWxNSld4aW80?oc=5",
-   "source": "Investing.com India",
-   "summary": "",
-   "published": "2026-11-16T07:01:05+00:00",
-   "firm": "Jefferies",
-   "action": "New coverage",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Jefferies downgrades Amrize stock rating on margin concerns",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZkJFYllHNmpiazVON185b0g0MWxYMUJXTFE3VW91eFVqNThUNzE3RXgxTFMtdEMtc3BfVmVIajdkUU1kSVRmcm91cnhpYnlXWTBEZ0xGS2lWMkRfcnU4ZE9JN1IwSkZMRGEzbGdjcWxldnBRNE5CQkVXQ2E4ZmJrck5EdlBsWmNqWGZBaE9aaVBVem9KaTY5bkkxVVFiZEV5OERsQklpQ0ktR3pCenExenMzTi1HM19sVThZ?oc=5",
-   "source": "Investing",
-   "summary": "",
-   "published": "2026-11-16T06:55:15+00:00",
-   "firm": "Jefferies",
-   "action": "Downgrade",
    "rating": null,
    "target": null,
    "ticker": null
@@ -267,30 +1155,6 @@
    "ticker": null
   },
   {
-   "title": "Nordea: Asmodee's valuation remains attractive - reiterates buy and raises price target",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVzUzQWlMNzVPUUFYMXgtZkxYcDRkcm5QUVFfMUZ5d2JtaC13Y0hGTmpYZ1l5M3pRb05DdXA1MkJTcnVVcFRVNm5lZGtTMnhtVjBiM1VobHNSZVRUcHpsWGNmSWN6SGlhb0xGbVZHQ1dRVEJneUcwQWcyOUxyQVhqYjFwcmhjNVY5bzJKOFBLcE9UeFJEZlpJRGZGUXhzWm9iYzNRTWdMWkFqMnVzNWotcDZsdG1PUENvdlJMdDdaUjlBTG5keVk4ZnR1Y2MxejVpUkxZ?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T06:28:22+00:00",
-   "firm": null,
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Pareto Securities lowers price target for Pierce to SEK 11 (12), reiterates buy",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYlgyNWdaSXdLS0xndk41NWFadEN5am9CbWhacDB2eFIySTF3blZmMXp2NG1tYndMdTB4cVJxRnlFbWhWT19ieDlQSi1kSVpUbldzUFI1Sy00ZFd4TE5tajJGYUUxbE5SRFNtM29DbnFlU3hqUFhzdEhqaTA0V0lGc00zY3VpeXBKb1Nzanh3RUtocVlNTWdpUUwzRHUzaXZfZ0E1MXlhVDhIakNPZkU4anBlVWFpRWYwNWZMRnJ0Y200cEoydmo0Uw?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T06:22:25+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
    "title": "Kaltura (NASDAQ:KLTR) Stock Rating Upgraded by Wall Street Zen",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkRoSFZiWFhEUUxXREppa0ZPMklVTngtM2dva1FlNm1Nd04xNkY0dl9uaUczSy1sYUxnaVlmaERjbGNyUFJad3RhQVlFSklOVVhRMXByZ2JzYVN6VHZWcFlRbE5jaEZQcHJKUS1Od2ZFMkdQbTQtX2x2ZHozb2ViN0wzM3BBYUFWU1B2bURfS19PbU9SUVJ0MWdIdS1VajVSTVhRZkxxWFkzcl91cUJTTjlaZ215U3Q3TTYzLS1jVQ?oc=5",
    "source": "MarketBeat",
@@ -301,30 +1165,6 @@
    "rating": null,
    "target": null,
    "ticker": "KLTR"
-  },
-  {
-   "title": "Wall Street Zen Upgrades Rush Enterprises (NASDAQ:RUSHA) to Buy",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDN1T191bHljTEVhblN6ZlFyNUp2OWdXVktmYmJlOVRDODJaQ1J3UlRQa3F1SHlucDhJMXI5U0VHTG54TGhJVzY5cXZDeFJkZ3Y2bGQxNGFRVWlDRllhc3BRVDYwdmJDUXJydWRkTEU3b09OQXZEbnJKT2JfSmNnOWQ1NnA2cGdNUFB5QlBCOUV3ZmUyTHhldHc4ZTlaREVBbWtXa1FDbUp6NE11d2gzcE5jTHcwakZrcDUtcGlCVU0?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-16T06:21:43+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": "Buy",
-   "target": null,
-   "ticker": "RUSHA"
-  },
-  {
-   "title": "86Research Upgrades KANZHUN (NASDAQ:BZ) to \"Buy\"",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcF9vZVBIUjY5WmRMXzRMeUFTQ3J4ck5ETDZhSTdFNDRoeDliQ1hQbG9QQzNKdzNsclhUUDhkY2ZEV1JyTzd6dlNOUWY2bDZlMGFJcERGenQtdmRTM01oM0tlc3VidWhqLWNYVzN2azNJOXdQWXlVUUd3anQ4c1FYdFJ3OUVCYXBuanVoQ282QmdIVXlwczY1Z2RmMWgtWUt4dWxyNkhtNlN4QQ?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-16T06:21:42+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "BZ"
   },
   {
    "title": "Goldman Sachs downgrades SCA to sell (neutral), price target SEK 102 - BN",
@@ -339,30 +1179,6 @@
    "ticker": null
   },
   {
-   "title": "Inderes lowers its price target for Sunborn International to €0.10 (€0.12), reiterates Reduce",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSG9HWDc4alJBdHFYak1NVlF0S1NwZVcxNVppWWhTRFVqQWZsU0t0cEtBX1pTMldtYjRNVU9ERURJSmdGREppVjZuWnlzUEFxLWRGcjd1bkdBY0RhbXhaamdINVd4UFAxTDhPdE9wX3pJYVNBYnV6YmlyQkI5ZV9RT2VvQXRTWlZXcmxyOGVTdnFzcXpGX1c5Z0M4N1NaVE12Z1JHam5QYXhRS0o5cnVIS0k5Sm51S0ZsaTd3TmdlNVdCeU40dUxqcVpFUDRpS3YxeFZEcnhoZUtpTGVXdDFr?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T06:07:15+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "ABG Sundal Collier raises its price target for Morrow Bank to 22 kronor (20.50), reiterates buy",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYWc1MlM4V3dyU2JLRjdmajMwMVdoZzBXeGJKaFZOM3c1ZU9zVHl1cEZQRFZQbWdPS2F1YzlIb29USXhrSHN6UUU4aG0xZl9rMURtNmM2Y2lSd2pDdU0tRmlPSm5CcXlKMF9jSWxjUlljYUFGMEw0ODdOUjliNDA2U3dKdFJmV0g1a3hVSlU2MlVTOWNZNERyOUdTRm5SaHo1ZE41cVVKWmxCcTdFcE1iNzJfRDFTVHg5TTNzcDdpdFloc1VKcVJISVVtMVJ2YlRvYmtXTUszd2V5MEV2cXc?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T06:05:19+00:00",
-   "firm": null,
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
    "title": "[Major Banks] Goldman Sachs Cuts NVIDIA (NVDA.US) Price Target to $220; Management Transition Seen as Limited Negative",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRkFwWmF5QnE3UkFRb2JfWHRIZjRNT3VxWmlqdE5VenVhRDZrOE9aMW5JbEtQNmlvWEZkaGVBNWlLZ2Y4dmZhc2l1a211eEVXWE54b1lLLTMteHFQeHdtMk1Hckd4MGlfRzdzTHJCanl4RHA3N2hocDJnSkFpZngxSXBORmxVZllRd21PdUU5X042YzRELU1mbHFCVmY3U2U1MHAwa1pn?oc=5",
    "source": "富途牛牛",
@@ -372,18 +1188,6 @@
    "action": "Target cut",
    "rating": null,
    "target": "$220",
-   "ticker": null
-  },
-  {
-   "title": "CLSA downgrades Nvidia stock rating on leadership concerns, cuts price target to $255",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON2FfVnBpRVh0MDhsMWF3NmhkM0J4amlQb2NMT0hHSUJwRnJ5bTR2c09IbFZJREhHUHVLQlVURVlSMmZPM0oyTWJMZHBRMkxubG5nUWFvOEJsS2lrV0ZWMXRJbkN2dlRRNlpXMHJ5RHVDdVBZVk1aRWQwOWpqeUpONnpUMEk0M2FuX0VjdlVyMURJeUg0cHlTbEktOEtLcmJhRFB5M0ZBWTc2djJ0YW1QNGdHMGNPMlZZbjJaZG8tRHhQN1ZST2lUS0xrRXozc25JNnhNY1dzR3ZGYTFM?oc=5",
-   "source": "Investing.com UK",
-   "summary": "",
-   "published": "2026-11-16T05:56:00+00:00",
-   "firm": null,
-   "action": "Downgrade",
-   "rating": null,
-   "target": "$255",
    "ticker": null
   },
   {
@@ -411,42 +1215,6 @@
    "ticker": null
   },
   {
-   "title": "Citigroup raises its price target for Pandora to DKK 960 (860), reiterates neutral",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcDNnQW83Rm4xVy1mclNMTXRCWGRYdldQRUxTNk1Ub1FqWDRVRGZkdlRObkhscEpvNUpPR0gtcXdsOEdLVWtaWjNkaTRBMzhndnhZWXl5UzMxVGpkUklVQ1lIUlNUVmNkRjZ3c2E0M0paelhhVXZKdVIzX1N5eXpCRXZDQlRScFdoMnFhdDAwS1Z3SlBNOXBVLTNxbjdLRTVNeTZTazFwWGtEMkZORGpydnBreEI5ZHJEUHVCVG5haWRCeVVJeHYyS3R4WUo?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T05:49:12+00:00",
-   "firm": "Citi",
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Bernstein raises price target for Royal Unibrew to 555 Danish kroner (540), reiterates outperform - BN",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNX3FxdVhNYmY2aG9SNUQ5S0toQ1VRN2h6elhaQWcxSDE2M3oxekZFM3NfTFBJQjhjR1ZPY0pkQTRUeUFSNmVrN2QtQlBVT21EdzcyMlVzM0Q2QjJtWThhci1xaWtTZkRyQS1TOU5aY3hjU3A3NmJTZFdIeGpNLUxNNk0xcm5YUFQ4VkVxQ19VakdFb1UzVU0zUWpvdXkxNzVldFRSYzJRWGp4M1FGZkxkb0VXX2JVcDVjUFFYQUR4NXcxLWdQaHFINWNSWk1oUUZ1UWhfUFhTOWxjR2QyMmtDck1n?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T05:43:24+00:00",
-   "firm": "Bernstein",
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Pareto Securities raises target price for Endúr to 163 Norwegian kroner (140), reiterates buy",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVWFrdTdrRjQ2cDdMUVd1YzJuR0FZcXdxc1RYbmpyN1VNbmZuVWtrWUxyUXVwYUpROTRRMVJUNC1pMko0QmMwSVRTVHFhaGFYNC1laC1mbGllN0RNYVZGSVJVY1QySnNsblZnc1Etcl9LVHltbEN4UExMWWItMllteVlkNzhNOVhGdkh0UXdBUGdJTkNmUHNyaUxRdHRqWU5PTFVGS0RTdGdDOUdpYWhkVXd6d3BpdWVVcjBra05vRXE2VC10X3JaMnVpeWZmTFQ0ZFowbHBDR1dWUG8?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T05:36:31+00:00",
-   "firm": null,
-   "action": "Reiterated",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
    "title": "William O'Neil initiates coverage of Telia with buy recommendation - BN",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakNyWTliTEl2bElxN2ZKMVJzb0R0RXVra2htUHNUZG9RSlZjRFJ3NzI5NF9ZNV9KMUJJenZaY3lxc21YVkNnMXNvV1p3ZlljS1RjQU5NVkNCd3czc2MzejM2ckxjcWFOSlZOUHhUTy1PRWN0MEVJRVh0VjJjVklkcVpobVA2X1FyTVFVU3NDSXVialNIVjJrQnU3cXFEYW9RRzZmT2NwMGtiSXBWUE1zRXNpWUFuU2dBNU4wRUR2Zw?oc=5",
    "source": "www.marketscreener",
@@ -454,54 +1222,6 @@
    "published": "2026-11-16T05:10:11+00:00",
    "firm": null,
    "action": "New coverage",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Pareto Securities cuts its price target for Qleanair to SEK 30 from SEK 32, reiterates buy",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWFBpYXMwWlc4SU9Td0NfUWlLVTMtR3VqS3lxai1MbE5RSjNpbkhBSjZPWDNEWlg4THRvaURGbkp1N3MtajNGUEhsaFhyREFWNzhzUFppMko5aUd6WnZlVkc5aWpXeHdIYldPVVFFVXgyNHo1MDRRcUVvTG5MWXdBMk5Eckd5VFBQMzlEQWlxeS1xOUZINTBuckhYTDlRM3hFcWFBVEF5Q3p5ejBSeUo2VzVIbWhheV9RWERGTUdhbGZ2Y2sxaDNQRmVhY0NRRGZGamJwbkR6ZTBEQQ?oc=5",
-   "source": "www.marketscreener",
-   "summary": "",
-   "published": "2026-11-16T05:04:15+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Indo Count Weaves In Dolat Capital's 'Buy' Initiation, Sees Up To 31% Upside; Check Target Price",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUjRTSklmcHF3c2Y1Ml94VEhEVXN3ZVFZZWFSMXVZTlg4SHBmcUpXSjl2bmpiTTk1MEl2TFBKMTRtTnNQXzZiN1o0SU9xaDVWNlg5MS1Xb0QtelRla1RZTEgzQ3NqNXJsenptNjQyTVZaVHYweHRJbmtjaFR6aFRJWG9HZUZkT1l0cWNQNnA0S01wNTA2VWt4U2hDWGVSSjNoYW1GY2tLbjktNmhGTFBRSUdmRGVrUkFrMDU2ZjFPX2w1bFhyWGJ5MVNvdEZHaGZBWVotYThZZzB0LWN3RVg2dkFR?oc=5",
-   "source": "NDTV Profit",
-   "summary": "",
-   "published": "2026-11-16T05:01:15+00:00",
-   "firm": null,
-   "action": "New coverage",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Weekly Recap: Q3 results and analyst price target cuts",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFU0RnlpcmFBQ0xhNjJPS2F1TkxPWVNWZ251VU5kSkRvQlZFaDF4LWlCaHRCaU50QkUzS180cW50TzhpX1BTYTdVb1ZQTW5qbkhJNmY1cmZVQVJrZDh2U0ZUS1J5aUhudWhnbjhBeUM5aE0wbnRSQldyYzBIX3J0eWZONE9BSmhhanFsV19GR1pZS2NteDR3bnJsVEYxMzRNRDB4OEhvMTI3Q3VvV0F3dUJaWC00Zw?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-16T05:00:00+00:00",
-   "firm": null,
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Weekly Recap: 2027-28 cost risks and lower price target",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUG5Ld0hkVFlHemplUVpaQUNzY3FxZFlLOV9PbFNxZFR1empONU92TVlUcHNHdzctV3dld0Vvb281UTZVLWQ2dFlxNXplYzJldS04b0VlbTVyVUdyQk9KVDd3RDRnY2otZXRDV21IcXpUS0VwZEFVeXE4WnM4ZkZyZG4ya0Iya01RRk0xWlZRcE5VR0o2RlIyR2JwNVJQZUhfM3BjMmk5a0FsWHZGeEtyX1E1eHZ0cVU?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-16T05:00:00+00:00",
-   "firm": null,
-   "action": "Target cut",
    "rating": null,
    "target": null,
    "ticker": null
@@ -543,18 +1263,6 @@
    "ticker": null
   },
   {
-   "title": "FTC initiates consent resolution process for chauffeur service providers",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sUUNrVTdYdXlkalZFRUVwMW5pczhkdzgzdEtBUTBNbnYtdTNMMVhBX2VhWEhPNmpvLWIyN0hSWlZ4Wm10dUFKUllMTVhyaW5zSUFoRHMzMEc0QQ?oc=5",
-   "source": "Yonhap News Agency",
-   "summary": "",
-   "published": "2026-11-16T03:00:04+00:00",
-   "firm": null,
-   "action": "New coverage",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
    "title": "Uranium Energy Keeps Its Buy Rating While Goldman Trims the Target to $12",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT0llRjUwbFZNVzhGdEZ4RUdwQ09PNmU4OXdYQ1FtVnJXbGhIVk15QndiMFNDMlY4VFR4bm1DVExfZ3hxdWVCWVpHQ0tkUHpZbFA3Z19CVTRVTDRFOVg4VVJFUFVTZ0pGTGNrZVMzcWNGUWNZMHdDWWdlWEdFdDVFS2FkemNheldsamhKTThnQ0gtRHB3V0ZuRGRYLVF2QUcxUnBtek1XREN4T2NiMmRmdXQ0cXlVeFlxaHNFeFhJNjNFSlpmMzdmNDczWEZEVE43TE1TOWU2QV9SbEpj?oc=5",
    "source": "ad-hoc-news.de",
@@ -565,42 +1273,6 @@
    "rating": "Buy",
    "target": "$12",
    "ticker": null
-  },
-  {
-   "title": "Nvidia price target lowered to $267 from $300 at Morgan Stanley",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdzBPb05HNGxvb1l1TzJUMkEwS0gyenFrdUViSHZER0dVdTdkQ3ZxNmRUMWdhbE1LeGw1eUpGQ2V2aGY2UzlHNlMwVmM5TWZiS01hSGZ4VUpablVzMENVaGZXSWVZTnZYeHFKN1BvZ0FMT3hrMnNZajRFczA0cTFZNkhydEZOYi1ZYWZwWkFYTmJHend4bWxhbXBGeXhOcjZlSGc4S3IyZ2ZIS3hjMEM3dA?oc=5",
-   "source": "TipRanks",
-   "summary": "",
-   "published": "2026-11-16T01:09:49+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$267",
-   "ticker": null
-  },
-  {
-   "title": "Baird lowers YETI price target to $50, keeps Outperform rating",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlBmR3l6ZUFQY29CWHFTT1p4Z0JOdEpxb2hiYWNuV3FQTjVKcTd0bml3S3RPWVY1SDVSUVR3dGFSb1BvbXByNzc4RURDd1E0YXdTT05pVWYyOVpjQ2JTYXVkMFByR05iaThHeUJfRDJuaWVKYVp3UkxndGxfNm9WeGxtV1h0dUFEUWtVM0tQaURPVWNuSGFiZmZBanBCc2tGQ0FhNjEyUEVZVUYzT1lGSWFFeW05clYz?oc=5",
-   "source": "scanx.trade",
-   "summary": "",
-   "published": "2026-11-15T23:28:29+00:00",
-   "firm": "Baird",
-   "action": "Target cut",
-   "rating": "Outperform",
-   "target": "$50",
-   "ticker": null
-  },
-  {
-   "title": "Rogers (ROG) Faces A Valuation Test After Argus Cuts Its Price Target",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEluSEV3WkRVSWE4WnBEaTRmS1BUaUVMOGpfRHc4SXd3NEJZVTAycldvR0dlUUZuaWlXYVp1OGdvd0FFSDNOSkdqSUp3Nmw0bC00YmotZ3RWbmRVVkMtUG1JRmZURGRVcGtvRFdtQWNRT1FTUmJjdnoyaVY4NXRLeHQxWi1FS2NpeXI4NnlSNUg2ZXBDTUlsMkdFTWF0dFJCV2xTUkFPNFhTa2hic0lxemxYR0pwWlIxSnfSAb8BQVVfeXFMTmJKMXpramlVUU5nbXM4TUJBYlpFc2llMjNKZzM5N1hoZHZRQklScHdzdjdsOWJWV3RNbFhGeUVHQ3J0S19mc3VqOENOVG45WU02TTBqdk44aDhnNkN2RktUY2FvV3p4eXFhYURWSG1sOFdWd0Q1cU5TR3VKU3U2eU5SOFk4b1VMVzNTQ1EybUl3dzdybXl5SHFlZF9hUGQwY2R5SXBtNmRVNHBLaW1vTFd3VnZCdW1acEdsbmhUWDg?oc=5",
-   "source": "Simply Wall St",
-   "summary": "",
-   "published": "2026-11-15T20:19:29+00:00",
-   "firm": "Argus",
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": "ROG"
   },
   {
    "title": "Texas Capital Bancshares (TXSE:TXCP) Coverage Initiated by Analysts at Jefferies Financial Group",
@@ -651,42 +1323,6 @@
    "ticker": "LQDA"
   },
   {
-   "title": "Dave (NASDAQ:DAVE) Upgraded to \"Strong-Buy\" at Freedom Capital",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTzk0eWFGLWpveS0wbE1HRFFiNFVfWW8ycHNGVFhoZUhPV0h2em5zQnZSUU1qR3NxMlRONWFNclVRY2VLbFFaQVZWVEVvbThqZkFXWFlvY0hWZm1HbElqdU9PU2xpYzR6X3ZIemN6S0x1OTRuaHNKa1VTMWJER0NpSFNoUUNtNHYxMVdhczdPZFJuN1ZNQXAwb1dMTENCSGx3ejlCa0JmS1hjUGhrcWdhUk9tdW5vWEdtTm1GUg?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T16:32:37+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "DAVE"
-  },
-  {
-   "title": "Camden Property Trust (NYSE:CPT) Upgraded at Wall Street Zen",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0FXdXk3NG9zME5OcjBNamZTd1Z4M3NwMElmbU5HWncxNEdsdVFSc0pmTmUtUUxFVGh6Mkg0YTBudVR3a3JRa09BSVpiYTZTT1d4RWNLVmlyTUVlS3ZjZHByMHB5UFlZYXNnbGwxbVRpc2VzZjFHeVdEUFRwMDAtNllpM0RNUlJwbWhveDBMeUJCNGxJOWstNEk1YUROYzRkZlFrMldQX0FMeHA1M1Y0YlhramxhVlh6OF9jcw?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:50:26+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "CPT"
-  },
-  {
-   "title": "Autohome (NYSE:ATHM) Upgraded to Hold at Wall Street Zen",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ0R6SENabkJlaEZZTGt3SlhpdGpwV0xzakJzQlpqSll2S3N3U2NqQTIzN2dtbGJHNzdaOEtrY01FaFFFVVlIbVZUeFI2ajhPLWZTOEFWTUtJWF9WUTRoTnE3elhFOWtXaktaWEFrTEtWYlBEeUYzX3lMb2YyeEFBdjJ2WFhHRUtXZmJ5ZUU4dFlhOHBfUTlFYjJSNXZYWVlsS2tYSGdpVDI4eEhMSHp3cGx3TnpmM00?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:28:20+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": "Hold",
-   "target": null,
-   "ticker": "ATHM"
-  },
-  {
    "title": "Stoneridge (NYSE:SRI) Stock Rating Upgraded by Wall Street Zen",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLS04NDFKeEtXX3Z2cjNYVmE2VHNSQ1NvZjRQWVROakNoOG1GR1Q5VW9Zd3hsMjlmd2ZIdEphYlVrRUdnY1RyVlZ3V1pjQ3hscl9UdkpUc2NXQXpKRm5UdWwtVVRWUExId241X2FIMlkxVTNyZTd4TUROMElGbEtWakpNNGtFRXpnNk4wMW51eVlLWHpseDJxSXNLTkY0OFk5amlvVjQwSnZGMXcydGpkRmVGXzhzMGlNNkswTlJvMA?oc=5",
    "source": "MarketBeat",
@@ -697,42 +1333,6 @@
    "rating": null,
    "target": null,
    "ticker": "SRI"
-  },
-  {
-   "title": "Arrow Electronics (NYSE:ARW) Stock Rating Upgraded by Wall Street Zen",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVuNjd5R1ZHcGpDQzFfNVpHdmpwZS1SeFEtMjFrUlNUWDhCdzYtdGd3Tzd2XzhocXNyU0lqSE9ZeldMdVNnYk9TYUEzdHA0NWlqZ01ZckZ1Vk5SVFZMVXNVQXRPSEppWnhKYld2RmZscTdpTVpmaXJDYk5hbEJwRV9XMEdWVm9mSW1XczVxTzNxX2xhT25Ddlg1T2NBZ2tDXzljRkVzTVlNWlVYRkZkb0NIdXdSakNJOFgtM2ZuemZvRkdkeGh5OQ?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:28:19+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "ARW"
-  },
-  {
-   "title": "Cisco Systems (NASDAQ:CSCO) Upgraded to \"Buy\" at Wall Street Zen",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYTRmLVZDMzFjSWdlOVVzTGxuOGRxS0RjSlFXb2cxUjJDdmRQcE9mY1U4Wk45TkNIQnQyM1ZFcG90RTJyWmNJTndmX08yc25jZUxMTmRwUk9wY3YtVjloUUlrd0xjT2hPazRzbWJiZlI1YnpzUjFNNDg5eXllTVRmVVJSNEg5MEdDZktqaFR3bEJ3X3hKTDFvRE1wOE82NGk4a0hNMmJ2UUQxMEwyemNMeVdGbWVUOU01XzlkdlpCdw?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:28:19+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "CSCO"
-  },
-  {
-   "title": "Arcos Dorados (NYSE:ARCO) Downgraded by Wall Street Zen to Hold",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNlJCZGVUZmVGQjNOb0NIS3I5cHdyRWM1a3VyY2xfNUFnZUhDTDJBSUozSE15cGlFOWlVdmR1VEhCTXFaWHlBcDJiUFVVNlpUMVB2MkdrNWdnRFVZRENxQlFOa25DZFVSd2pkbVR6ZXdBSjZGc1plem44ejdRa19MWGRsV0dwYlFXME51akRnOUNmTEE3aVRyM3ZIaEd2ZnFmQy1kMkNSeGY2TjJIU3U5eTRtZGdrVVM5MWlIb1QtS2E?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:28:19+00:00",
-   "firm": null,
-   "action": "Downgrade",
-   "rating": "Hold",
-   "target": null,
-   "ticker": "ARCO"
   },
   {
    "title": "MetLife (NYSE:MET) Stock Rating Upgraded by Wall Street Zen",
@@ -747,30 +1347,6 @@
    "ticker": "MET"
   },
   {
-   "title": "Global Partners (NYSE:GLP) Upgraded at Wall Street Zen",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVFVrUmViZUZYTVkxT3FOUWtpajBldXVJVzBVajVWSDJJbmpqcDc4OHBKZjFWSnNNWUYtdlRZaWF4ODlZeEhodnNxMHYyQ01QaUotM3lGeW1XRW05SHpWcmREZzhoNEc5bThSRGwtTHdVYktRZlE5b21ydkxHZUdKbjdONVdYYTNvUkVfY0FCNlQwSlJiMHJmRDIyV3JKTTB0QUxiZDJ4X0VkR3Y4bTBwMXNiYWY?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:28:18+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "GLP"
-  },
-  {
-   "title": "Granite Ridge Resources (NYSE:GRNT) Downgraded by Wall Street Zen to Buy",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0J0QzBTRFZzUFNFeTdGM0ZZQUZIT1Voa1BuZEFWRnQzLUZlemFWZnA3bXlSaTF3cEJYbXZXd2VzOW5mYlVpRHNsUU1Kb2lYMjVQYzZBczV4dDVHZkVHTXhqRkpIaFdtVTQ2OC02QTAwUzBBWGJEZ3BwZkZrV2FRdDREUGpCZGRfR2xOSmVaSGtGekVWbnJaSURXNjdQSlQtTGhzVEVTMjFRSnRab3NweGRrOU0zbmhVVWxIMFhxS2o5a00zWmRnNVBldEU?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:22:19+00:00",
-   "firm": null,
-   "action": "Downgrade",
-   "rating": "Buy",
-   "target": null,
-   "ticker": "GRNT"
-  },
-  {
    "title": "Novanta (NASDAQ:NOVT) Downgraded by Wall Street Zen to \"Hold\"",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNUFfSC1neFdmeGRKeVV1NUltU3pGay0tWkt0bVgtMWdudHJvVVh6OEVsM203QjdUWkY1OTFlWWNYMkFjTi1HeHFCbEs5aHV0Z0FhZDJpTWFYUXlrTlFwQ3BIVzdmUGpNV21KcWUwT0dFSXdKQWFzY1RrSjJvVi1JTnZnNlRGNlh3eXNCc3lWS0VlbzFGTEFucGF4UDZHdDd2RTk1dmc5VWN2TV9RM3dOZXFudXoxVDZYNllB?oc=5",
    "source": "MarketBeat",
@@ -781,54 +1357,6 @@
    "rating": null,
    "target": null,
    "ticker": "NOVT"
-  },
-  {
-   "title": "Silicon Motion Technology (NASDAQ:SIMO) Downgraded by Wall Street Zen to \"Hold\"",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTWJKWEc0TnpFU0tkdWFNbHQ3OVlhNm1oc09IVkNRTzlTeEs2cE5jeUFWdTVzeHN1MC1PREhkOUlLR2lkcDY1S1pUV1BnQnRLVVdQNDd2QmpjSU5BWk53TkZkZkZCVlZaNVNXMTNVbUlNWGRzS0dvSnVIVmR3WFB4akdUbVlqSGpXdzdlMWZmcjh4WEl0SURsQ3l5Q3VENGpSdnJYTEdMbnRYUFZPUHFiTUdaTXFZZFByV0JCNGxvZ2NsUFRxdFVxVHJsQ0ZXU1NwVE1n?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:10:17+00:00",
-   "firm": null,
-   "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "SIMO"
-  },
-  {
-   "title": "LendingTree (NASDAQ:TREE) Downgraded by Wall Street Zen to \"Hold\"",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT2JuRXRPTTRJSGI1aFl0YmdxcEVpZmswWUxwLXU2bmROUFg1cG00LU5HcjlVRGlxZlhZbFJvcXV3TzFETFd0WFFxb1lQeE5YWmJFbnk3OXA3YlBZS0I2eTVvRFFXTUJ2b0xxSUpWbWN1aWZaSXJPa0dCdjI2Ulp6RXNrSEpENmw1cElraURycDY0enFNbDV0YkVBTjZtQkpGbUQ2cDV3YnRUSHBnd1ZlYXlCTEs4akFQa3UzV1ZoYm8?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:10:17+00:00",
-   "firm": null,
-   "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "TREE"
-  },
-  {
-   "title": "Remitly Global (NASDAQ:RELY) Upgraded to \"Buy\" at Wall Street Zen",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0FzRHJlNE9lZ1hUTC16ME5jTmNrSjlOdE45S1l0MEtpQlpBTU1fZzJ0ZEJ6Z3E4cHVIRmdwTlB3VGRISkNyXzV6QlZZeVgtQzNOTi1BakNhakJ5RDRYdVVGcUlyRnI4TXRkRFlMRGRrdHh4TXlSQ3M5WFBrLXlVMFBIZjVfV1FBQjFsT1NncDZmQ0ZwRTNWWTlLeGdNZEphRS1HckRCWU5Ob0JkLVpubGMzdVBfeEttbVN0djgxSGc?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:10:16+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "RELY"
-  },
-  {
-   "title": "Perma-Fix Environmental Services (NASDAQ:PESI) Upgraded to \"Hold\" at Wall Street Zen",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZmdfRmtzUVBncFRscDNQQnZVV1pVaWNScC1RRHA4VF9oVll1NXVjNERTdXBFYUVaX3NsT2hDeWpZUlJyVnQ5azd3SXNodERKYkpWUVhQUW1pT3ZxY1ZxZ2xsSk80VEpNbmdEVlkzV25fR1FhVE8yZ1F5RHJrMXdxb0FQYnRsLXBQZzA1S1lDTmJrOFJWcEtYdnpVWkJqNUxXNjR4TW1Famc1RVk0T2s2WDYxYUVIa1dxUDN0RGtqTURBYnBJaWtDaklJRTVnOHBqR2hFekgxNGFCZw?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-15T15:10:16+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "PESI"
   },
   {
    "title": "Vonovia Balances Digital Upgrades Against Analyst Downgrades and Executive Turnover",
@@ -903,18 +1431,6 @@
    "ticker": null
   },
   {
-   "title": "5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFZYQ2lOelR5ZHl3X2NnSlJ2SU9IbFFfamVHU3h0TUtLRFlwLXNlNEZVbk5OdUliU0RxbHlVS2d0Y1dkU25yV0ZFUGRLRzBkU2I2QkhBck0yRFRqNDJHVjNlVU82Rm80cnVIX3dFaEthWENMUXNMeEc3NGpaX19iSy12M055Vl8tRTlnOElhUF9CdHpiVjNISFAtMXoxa1lCMmZzVHM4bnZZWndJT1pNZzBOY0dnd2YwcU9xYllTbmlFZw?oc=5",
-   "source": "Investing",
-   "summary": "",
-   "published": "2026-11-15T09:02:06+00:00",
-   "firm": null,
-   "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
    "title": "Time To Worry? Analysts Just Downgraded Their Altea Green Power S.p.A. (BIT:AGP) Outlook",
    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV3BLWGxoS0F0RmphQmJNbWdVa2hzSDh2THdpdDdKZXV5dk9ZQzJiZXFKUnNUNEZydndEYjJ3TVVpTGl6alhkRjV5VGxZVUtaSVBIYl9uZHF5bFEzcHhFSkducmNXb1hSLW9td3R3YU9vbjRTY2FwdkdSSk9XdUNTWTFwaTNEc2E2ZUJ3dHU5X3lrSFhtLVllS2RkVVpFLXMxU29KbHIxWjhSRDl5dGw1MWZRMWpmMlV1MFhIdXZkdkstS1NtN3c2U3BSdUx1Tmk3eDc4MlY1Y2VDamt0VDU3T1lB0gHiAUFVX3lxTFBXcEtYbGhLQXRGamFCYk1tZ1VraHNIOHZMd2l0N0pldXl2T1lDMmJlcUpSc1Q0RnJ2d0RiMndNVWlMaXpqWGRGNXlUbFlVS1pJUEhiX25kcXlsUTNweEVKR25yY1dvWFItb213dHdhT29uNFNjYXB2R1JKT1d1Q1NZMXBpM0RzYTZlQnd0dTlfeWtIWG0tWWVLZGRVWkUtczFTb0pscjFaOFJEOXl0bDUxZlExamYyVXUwWEh1dmR2Sy1LU203dzZTcFJ1THVOaTd4NzgyVjVjZUNqa3RUNTdPWUE?oc=5",
    "source": "Simply Wall St",
@@ -925,532 +1441,16 @@
    "rating": null,
    "target": null,
    "ticker": null
-  },
-  {
-   "title": "HSBC Just Downgraded Nvidia and Cut Its Target to $170",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWJwb0wxb3BYSHRSenBZUElKTHNFNWM0TDd2akZPUDMtSFluTllVMnh1bUxPLUhGY19weVFzY1FpOFowZTE1VFRPdno1cTZLUkpqUktOZ2pEWmRtLU1rZ1hnRFlUN2xWUEdWYUpVcFpLbklaTVkyenJRYWZLdUFvUzVVc2Z4ZG1SVU8xN1Z6anNNU1U3TUhzYWg2d2tVQQ?oc=5",
-   "source": "24/7 Wall St.",
-   "summary": "",
-   "published": "2026-11-14T17:03:00+00:00",
-   "firm": "HSBC",
-   "action": "Downgrade",
-   "rating": null,
-   "target": "$170",
-   "ticker": null
-  },
-  {
-   "title": "Analysts Just Made A Massive Upgrade To Their Super Micro Computer, Inc. (NASDAQ:SMCI) Forecasts",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXcyNWJIR29feEJvOEJvcXgtQ3UxTU5NUTV3YlhwYnlNd0JFeVhzSE0xdEJTZE5zeHBUTWhGajVsWjFCZUg1cHNiRVFCbkw1bmNXSFVmRGdTSThIenlKX2hoNHFNdllsRTduNHBJSGEyODNndHowM1YwODFMQ2Z2dUJoallZZzZVU2lwN0Z1ekxWRU5zYzlFRk1WeHRkeUZlaXRxSmx1cmd1T3psN3E1cVJUWUp5RTVVMko3R0thQlI4MFZKeGFNeTlxZktXR3hE0gHWAUFVX3lxTE9EYjlBeEZkWl8wTW1JMkdSWlBlMFZEMFNpNEJyaXlfTWdJeW5LOVhNam04Wm1PUEtlRDZsWjdXeVRDZ1pZaXhMa0tJQW95amczdFVtQmYyMndaOFQ1YVZ4cnFsNGc4MjZpbXBmRnI1c2k1eWIxejVwYnFGcTN2OVg0Q0VfbHlCTF9STDBIVGpraDBNQ2ZqQVpsOHJ3YU5uSzF0c3FGRmxZdEJqSEZoWHgxVzg1R08tNmNqMjZIZW15SkQ4Z1F6dGZsdmlmdFJMOHVrWnI1cFE?oc=5",
-   "source": "Simply Wall St",
-   "summary": "",
-   "published": "2026-11-14T14:51:00+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "SMCI"
-  },
-  {
-   "title": "How Analyst Upgrades At Eagle Bancorp Stock Have Changed Its Investment Story",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOXJIRkRwQXZYN3I4b3UxNlpoNzd6aDNxdzkzQjl2RWdQQTg2Zmp2MVhxUHpxTnloZ083eWZxdnEwWWxjQlZHNkdrSlNSZEJoLXJOLVhOQk12TVFkVGVPaTZMTWVDSjNkYTB5M2diUFdRbEZaUVlibWVYSFZ4NEJSYVlwYXhLM0U2RmFqRjdjS3hhR2VHN1c4ZUZCdkxUTXVjend1WUFNS3lVc2lLbnpUelN6dHlVTXRkRzVfOVNCemJuWDNYRU5wetIBzgFBVV95cUxOWGE5TXdqLW9YSDZGQ2NqcDRxM05uT3l1WFA0TVQ2cEpya3hoWjlXbUF4S0w5TEhSZUFhd25zeFhXWG9LR3pBTTUwUkJYRUlkLWVFUTBRZi0xdTNOem1iTjdaNzhkSTFjdEZiOUNqSUVCVTd3YjJtaEhFajNMT0FGN0tld2ZxNzI2UENpYzU3cWVhRUJxVDkwNWtDd2FCQ29fM09hWEV0V2dURlFaQWw0YkdvWWdrLWpyTThaYzh2U0Zqdk1BbExVeVhSWi1BZw?oc=5",
-   "source": "Simply Wall St",
-   "summary": "",
-   "published": "2026-11-14T13:22:51+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "100% Buy Ratings: 2 Under-the-Radar Stocks Analysts Just Upgraded",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDAzOEhkdzRFanF2ekxHWkFyaXpQUmdVOFpVZVpLUWRMTjRsOUNDRzh5RThqT3JQOFRIaUNxNXk4Wk42MHlQem5SM3RXaDdPd0pMYnJWRllKYWt0RmF4bV9xSklYOWMyMjJaOTR1VEZHTFhGclM1RDVneU5iRGJPTFFPZlg4Y0xJcURZV3NjYVZCRHhob0o3NmdR?oc=5",
-   "source": "TipRanks",
-   "summary": "",
-   "published": "2026-11-14T12:00:44+00:00",
-   "firm": null,
-   "action": "Upgrade",
-   "rating": "Buy",
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley Upgrades Fox Corp-A(FOXA.US) to Buy Rating, Raises Target Price to $90",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWl3YW8tanRfMm41YWowYnktWmEzSkdkQVFoT1hXbjFzVHpKLXE4cTB2VVZiX3VXMFp6cW1OcnYyb0cxRkpfOXFNemgxT1dfemplMmVQcHRrMXF6dDF5STIySnIySER6dF9NV0ZJZldKc19sTU9DR1M2bi1ZaDQ4MXNVNGpKY0hINk05Rkc4OGtIa0xTcWJ1OXRGWGhQZ2FT?oc=5",
-   "source": "Moomoo",
-   "summary": "",
-   "published": "2026-11-14T08:49:37+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Upgrade",
-   "rating": "Buy",
-   "target": "$90",
-   "ticker": null
-  },
-  {
-   "title": "Goldman Sachs Slashes Partners Group Price Target, Questions Durability of Recurring Fee Income",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX1g2SmRndHJlX3dqUFRtd1hCQmt4MnJVWk1GbFU0dU9rblUyN3lvUWMyR1lUVmo1cXE0aXZKY1FCYjhCN192azYwd19DaTQtMVF6cmpSUHJUOVB6UDBoZXRyUjF6UEMyOXRlTjI5TVhnMWc4S09uem5Gc2dVdXV4T3k2OFk4bEs1OVc4MWxPUWhxWWV6VmxwRFFRUS1ROGcyc1hLaDZMNUtRY2huSFNESzJxQzFSZTJTTDZ3RXV2OEpkYngwdlZXc0xtWXhla0xHdkctR1JsbzNxbmdwdVIwaE05emJfNzVZYWlOX0pfNDNCYmFaLW1LdGZn?oc=5",
-   "source": "ad-hoc-news.de",
-   "summary": "",
-   "published": "2026-11-14T06:30:53+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Neurocrine Price Target Raised to $191.00/Share From $185.00 by Morgan Stanley",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjV6VFJqR2R6Z3NRbHNkeUFmQzNWODBUZHlmU044bkR6Vi1iSGpkcEJKUmFkXzNXNHNUaUhXWnFOZ2JfWEpGZXFMWnd4QXh2RXdjLTdpci12dUEwOWlESnhWcV96T215UzMxOVdFVjh2OVhRTXhDVTNMNWFNdFlGMWxXTWlrc1JKX21GTnJ5VjBoa0dHRnpPUlVLVkttNTFz?oc=5",
-   "source": "Moomoo",
-   "summary": "",
-   "published": "2026-11-14T04:00:39+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target raised",
-   "rating": null,
-   "target": "$191.00",
-   "ticker": null
-  },
-  {
-   "title": "Goldman Sachs Downgrades Partners Group to Sell, Citing Pressure on Evergreen Franchise",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ0tNOWFGWkp1MFhOOGQ5Y2Ntai0wZzVibXBRT21QMFJzWXVVMk9QVkZRakl2bWJ2QVVLY012VUxwaFNzdWxyc0xWOExZS21oTTBoeXZPY29Lc3VZM2NRYV81cGNEVGs1d0R2bkI1WS11eE80S2pjYXlDVVF6elpSZFpkcVJpNlJpSlFnSTU3ZWxWUkw2dzk0WmlzWVlCcDdYcXl2TDFSODdqOUdiQ29zc1J5T1RNVFlSU3BVaFY1UEw1N2Z2UFlCTUhEa2psSDNkU2diVGtIQU1zTVczUXJlVlctNl9sN1YydkpoYmdtOA?oc=5",
-   "source": "ad-hoc-news.de",
-   "summary": "",
-   "published": "2026-11-14T02:50:36+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Downgrade",
-   "rating": "Sell",
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "SpaceX Stock Price Forecast: Morgan Stanley Maintains Overweight Rating, Sets $300 Price Target, Sees Over 100% Upside",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcVpidU5HenBaS1lnN1RWUjBsRXZ4SHB0MGl0d05OV2U0VjZhYkExWlRMWW1FbkVZRk1NZ3JlWE9FYTFiWjRzektHbnFKMUdtS3NfbEI4SnJ2bHR1UTRsa2VoTGw5aWJ6NFlVSF8zSi15Z0IzTjh6bGt6WTJ2UnI4LUJYRmczazRLOVFkbkg4YzktWi1qdTBvT1lmdXUwOTE1cDE1ekp6TWpTS1huUzE4YWNMcU1fT2N3OHQ4aGw5UUxpRXRHbndTb090ZzBFalFKUWlzQXZLdVNweGM?oc=5",
-   "source": "TradingKey",
-   "summary": "",
-   "published": "2026-11-14T02:04:04+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Reiterated",
-   "rating": "Overweight",
-   "target": "$300",
-   "ticker": null
-  },
-  {
-   "title": "BofA Securities Downgrades Kite Realty Group Trust(KRG.US) to Hold Rating, Announces Target Price $28",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjZlY0o5MW9hSW5KOVlNY3hSYThOa3RsODlGd0FTYVFVVElEbUVGQzZkd0xxQXh0VU1Wbzh1U3AwOXl5aDRKZEFqeEJfQUhhR0l0d2lBYjI3SVByZUZHb0tBMlRCU25DVUdJM3NXc2s1R3d0Z3VRWUtUSjBEVHd6M1R3SVI0OFpxdTQ5R0hYTDVISWdHU2s5Mm9SMUFOWW5FOWJuNzdDc0F1LTY1?oc=5",
-   "source": "Moomoo",
-   "summary": "",
-   "published": "2026-11-14T01:56:12+00:00",
-   "firm": "Bank of America",
-   "action": "Downgrade",
-   "rating": "Hold",
-   "target": "$28",
-   "ticker": null
-  },
-  {
-   "title": "Goldman Sachs upgrades DT Midstream stock rating to neutral By Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlBfTXd2Qi0wcmZzSUxnOUJOMFNmYmdvZVlxVkxsanZGQWNfWlVCb1pIc2RCMVZrMkFWZVZyUzRfTDJEOGZST3FJWWlFbmREWldoYUFQemZlMm5tZ3NNekp3Q2xTRmRFMmVmcVpiTmE2bFU2NWEtRUgweTM0SlRqNVJPblpDcmlRZDdURElBSU5XOFM3YkVmNE93azBOQjJXeUJ5OWQwVkh5UXVZZHhDdDJlanc1SFBnT1g0Vg?oc=5",
-   "source": "Investing.com Nigeria",
-   "summary": "",
-   "published": "2026-11-13T21:01:12+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Upgrade",
-   "rating": "Neutral",
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "SEA (NYSE:SE) Stock Price Target Lowered at JPMorgan Chase & Co.",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUdfQ0xiQTFjQ0tQOGV2U3ZndDlvM3BuY0l4VVdIejJDOXk2dlE3UUhNU0VrR1hTbzlVcG04amhVaXl4aEVYMVJMMVFVcHpiVWtYVDIwaVQ5ZlpJNFE1SC1xMGtvTzRlUVg0dEJzVmNIZWhMWnZsaE9QemZCUVJ2ZjhhZDlBR2YxcFlFWUNoV2VhU05mUmo5TzZNUTFOZjZHTEQ2NUwtb1gxaGJNNXZZTUNkOS1PSTVUSTBRMzNB?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-13T20:39:34+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": null,
-   "target": null,
-   "ticker": "SE"
-  },
-  {
-   "title": "Mobility Global (NYSE:MBGL) Stock Gets Price Target Boost from JPMorgan Chase & Co.",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmxJdjJ6RXNuY2RnZWhLM191Qjk1RWdqS1hzU2xvUWdJOVJfVE10SjM2V0s2c1U0NHFNQ3RNMkx0WEdublpIM3pVYk5DRnl3cVVLaUpQX0xPRkp4OEhabWlEcGJRb01YZjFfRFdXUVhsNVpBWTlHNERSbVhkSklYTk5nSHc0ZnhOaURVQUpVbFZtd01XVDdyQ1BfX09mcW1WeEgwTjFVaFIxMmZGNE1MWEdQdi02TVVxNHk2M0VUakg3Z2VhcnJrOVRqYnBobmdhdHFvSlJzYw?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-13T20:25:36+00:00",
-   "firm": "JPMorgan",
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": "MBGL"
-  },
-  {
-   "title": "Cellebrite DI (NASDAQ:CLBT) Price Target Cut to $15.00 by Analysts at JPMorgan Chase & Co.",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT0RlcFlQdFJuOHhuVURJNHNzSWVaLTNzY3lQMWVNX09RcXV6VDhVS1hQX0hTLXFqNU1pQzBwWGtuNkcxcnBjVlJDVnRaSnY3Q19CcUwtbmR4a3dDWlpMTTJRT19HM1ZUeFpvVHhEZFhGUE1LclRsRF9qTmdocmdxUGplVXlmbFRVRU9kRV9sNkNGUFE4V2pLSVVtaUhpQjJWcFhGMEJZbkF1amlnMlZkc0RqQW5hLWs3bFZYdmc2cEU4alYyUWJON3YwcHJQMTh0XzBaUVhQVmEwcl9vMHc?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-13T20:15:38+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$15.00",
-   "ticker": "CLBT"
-  },
-  {
-   "title": "JP Morgan maintains Sea at Overweight, lowers price target to $132 from $149",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTXpBVWs3YWJINjJsOG90T2FVN3A2aTlJUUZOak43X29rVHBCMHBzLTd5Nndad0VIbWsyRDlvTmlveG5iRlp1YlRQZmVnUUpnQ3hKY0o1SUN3V1B5OGRlWE4zYjdoQ1dYNXRfXzZBdkFwUFdYY1B3TUZtYXBDZGtWdC1mSzRJT1E4bDlaYkY0bjk3NlNEcHIzX2xBUnBSVFp2aklkQVRTTW92dkEwdEExTGxTaDRoSmFEMDdpUWl2c3Z3Q2QteUZyVGhoeEZhNjBH?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T20:11:59+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": "Overweight",
-   "target": "$132",
-   "ticker": null
-  },
-  {
-   "title": "JP Morgan maintains Brookfield at Overweight, lowers price target to $64 from $65",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcmlrSnA0NldyVXJodjdyMzFYTU9GVTBYMnZOSWFIT2hBREJWdDlUMUZILW9LNWVSRWhVUk1vWHVHS0pWa1dWbUc3bktrS2x4LVd6dXN1VjJYX0lZMElsWWpFYklBUFJmZ0dMdmpiQmhSQy1vWkI0eXlxZ2hKSDloNXB1SnVZdEdBZGpLWkR4eXRUQVBsMzY3eUxHeFRCWWpNOXdDd2tPQk5IRkV1WHFCb0xuM2swa0NzdW90Q2UzaUVMaXFsZmRhMEY0Q3ppX041TjZFNWw5Zw?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T20:07:02+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": "Overweight",
-   "target": "$64",
-   "ticker": null
-  },
-  {
-   "title": "JP Morgan maintains SOLV Energy at Overweight, raises price target to $36 from $34",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZzNuRVVJcGVOM0tkc1MtblNLMjd2MXhzMkxQeFBsYWpfb29RZVVBaEN0eTBfcmVsX2tmXzlTYVU5SFh1dVRIc0xyS25NZmJhRElQX1Vpb1pTQmktQnp6UmtOM013dllEbHhTbDFqWEd0UHY1WExaTWtBeTBEUkNsS3F2dngxMkVsNXZMX0dnaUJaSjhDZ2J4OFQzOXZDWGFYRnJ5bG0xaDRjZ2dOUzloNGRCNm85NTdFVkF2bkNnMkFUdDRHM0J2MkxTVFh6MEJZQVhXdXpwS0Q?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T20:04:30+00:00",
-   "firm": "JPMorgan",
-   "action": "Target raised",
-   "rating": "Overweight",
-   "target": "$36",
-   "ticker": null
-  },
-  {
-   "title": "JP Morgan maintains Mobility Global at Neutral, raises price target to $25 from $21",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLXZwVFphTy1XVGZjU21qdU5YQmxyemhUdElUSTlfT25KdjUwVU5uSWZrQWQ0UF9SemtLal9ZZlJFRE1adllMZldkWm40Vkh4a3BOal9pZFhBaFpQMWU1TlBUeUMwRWdrczJnOXA4cVhrbmFYOXRvVVVkWFVMZlBqX3p5SzRteGQwbm5UQTh4QW4yaTN3WHdxNGdaN1NUaHJ3a21wWVE5VmJQLWlhaEpsZm5BRktIYm1MZUNFQUtOQl9UWGlqV2VybHFWOTVGUmJxZVVqTThiTzlJdw?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T20:02:30+00:00",
-   "firm": "JPMorgan",
-   "action": "Target raised",
-   "rating": "Neutral",
-   "target": "$25",
-   "ticker": null
-  },
-  {
-   "title": "JP Morgan maintains Applied Materials at Overweight, lowers price target to $500 from $660",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNVdDall2bENsbkRkRDFjQTBWTy1za0pHdzNGRU5NM1ZBcVpNWWlNZVJLb0JFS0poVC1VUi1YOTNld2l1d3FweGstcVNLUENNNF80ZnBTR2RuRkN3R2ZvQmRhRjNOZVRuNURpWUtyczdzVmxXTVNPbjVxM0lQd1o2emxqWkYxdnZwRmt1T01pRmFxbkpSc3JCZmwtUHhDY0tHbHBkaUs3d0tFTFRPV01xN25QV1h2cWdJWU1SMklrQ3JVU0hGQXB2ek9odXJKVlVSUGQyWTJYYWNuMW5zU0hla09zVQ?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T19:57:46+00:00",
-   "firm": "JPMorgan",
-   "action": "Target cut",
-   "rating": "Overweight",
-   "target": "$500",
-   "ticker": null
-  },
-  {
-   "title": "NBIX Maintained by Morgan Stanley -- Price Target Raised to $191",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHBRTVU4bU4xS252VFctdW9qdEhfYjVCcC05VGx4WFk1NklBRWp4X0czS0hFSkN2R2UxUHpUUUZsN3RoRGZXOTBTX3NvZ2dZTzl3VTZ3ZUFNa04zRnpjTUh2R19xTXJhaWtLbG5zcTVyWXNtUTJxdGtXRkFWN2ZidUxBSjdsUFp2aWlyNm9uMVhFaDYtTWVBWTkzbXAtV3d5?oc=5",
-   "source": "GuruFocus",
-   "summary": "",
-   "published": "2026-11-13T19:40:42+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target raised",
-   "rating": null,
-   "target": "$191",
-   "ticker": null
-  },
-  {
-   "title": "Goldman Sachs Downgrades Accelevation Holdings(ACCV.US) to Hold Rating, Maintains Target Price $22",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUldWSGpoX2x5MmQ4S2hnbXV5VVl5QXFici1pU2dzVllIUGhSMVktRFhFTTV6aFY0b2VpWm5EYWt3aV9UWVN1WWF3ejRHcEd6WGduOW45SGhqS2lmODRnaEk1bWptZXhFSm5KcjBWaDBWOGZpeHR3YjNFLTFKQUQxUnNrZnFuVTI4RXRzdURMQ1lRQTk4M1ZMNUNJMGNYemJJcHBaTFdtTU1RMmNJWlVUU0lJMnNkZ3JtOEt6LWE4SQ?oc=5",
-   "source": "Moomoo",
-   "summary": "",
-   "published": "2026-11-13T19:12:08+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Downgrade",
-   "rating": "Hold",
-   "target": "$22",
-   "ticker": null
-  },
-  {
-   "title": "ACAD Maintained by Morgan Stanley -- Price Target Lowered to $24",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWloc3VRS3JKRTZSbTNDaFREbXByU2pOajhIVGtlZnVyYTBVNDRST09iSlFXZmxpM2dnTHEtM1lVM1N5bWdRZkVRTmdfUVY1T2pKWFVDUXc1enBUam5lUURlNUJMdG9scmt0TlFoYVZsSWhkb0xTUHVjTktZenlmWFdYaVl2bWhEQ0Vvd2R3RFNmSXBwVjFWY2R2RWlmVGUw?oc=5",
-   "source": "GuruFocus",
-   "summary": "",
-   "published": "2026-11-13T19:10:37+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$24",
-   "ticker": null
-  },
-  {
-   "title": "AXSM Maintained by Morgan Stanley -- Price Target Lowered to $22",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSlhGR0RWWlZ0dHdoaFlPb3NpVk9EZ05xY2t3TVZNcFJoRVZvLVR3NllKYmhkSm52bFI2MHU1MkhKRlN5X2NnRUJET25memxET1FoOUJuWHB2N0M5Tmtta3R3X1hVTElTTTFyUlF4RGhrMHlydmVIMDM4NU9zZU5SZWdJNmJqUVYyQUk0a093NWs0MUFFRWphMVJZR0l5WG1WTFE?oc=5",
-   "source": "GuruFocus",
-   "summary": "",
-   "published": "2026-11-13T19:10:37+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$22",
-   "ticker": null
-  },
-  {
-   "title": "BeOne Medicines (NASDAQ:ONC) Stock Price Target Raised at Morgan Stanley",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMENxUGo1UG5mU0hKNWVDOElLTE5QR2ExVkNhUi1KQWJyOFNZUmFaQ3Z0azlJMjlGQ1E3N3NyU3hicWZIUTNxa2lfaWpqZE10X21ENHpMbjdtTzdjbDV4cVBmc0d2ZTI0dFhIMDN0VDBzaDRQb20wX1lXd0tjc1M2Q2dPRmpFalBHNVJySks3X2J4Y1JJYzB2WWdzcWd1bUpoeWJ5UlRqMWRvV1BrbmhVY0RNN1BtX1dXVEk4aDZiS1RFR1dsWWp0SVJXQzM?oc=5",
-   "source": "MarketBeat",
-   "summary": "",
-   "published": "2026-11-13T18:15:40+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target raised",
-   "rating": null,
-   "target": null,
-   "ticker": "ONC"
-  },
-  {
-   "title": "Morgan Stanley maintains Exelixis at Equal-Weight, lowers price target to $57 from $60",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ2dYbjU5c2pzdlkxd0J3WERsZ2NSWk5zS0hSVjJQVnpCZkpLUzBIRzZYNkktbVE3RXRXeWg3cFhUMEdPZW1Dd2FkU1YwUUlMOXA4YkZxVjBsdGRFa1ZMcWxSaG9hdGNwUThzQnE0YkVjc2ZrOHFGa3VROHlwOEpMLWxEYlNYZjAxb3dlREFoUno0V05SbHFyS05JYXpUN3p1RElvS2RGTnN5VXUtN2s1eXNfSXgxazJHZjVXVnhrLS1UcUtLNjVkNlN5Z0hSMlRCdEpyLWlmaFBpQVZ1dkE?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T18:15:09+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": "Equal-weight",
-   "target": "$57",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains Neurocrine Biosciences at Equal-Weight, raises price target to $191 from $185",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPckJvZDhEZ0t4YV9lUHg1MzlXbW1VeFRrYmpTUVJ4RXZ3UHd5a0RGME9MdjhGcWJ6UlZfZWlxNkp1Z2ROazBxN2ZkZE1fcERZMk1mY2tsdmRPeHJDVkoycFJpcFVNUFNPb0VRaDlqRjI3OUdwTGNOa1NlWVhaRFNIZUZqeTI5STBkT05NX05QYzMxSktneHdCWG5lTzE3dnA3a29iRnRPb3ZndGtncE54TUE0bnlkN0hpSllvOTJxbFp6YjhwS2owQUhtbFlrOTJSWnNuWG9DUEo2WWRxem5VN3k5YktVR3RkaTV5SmZveDBtcE0?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T18:15:09+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target raised",
-   "rating": "Equal-weight",
-   "target": "$191",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains Jazz Pharmaceuticals at Overweight, raises price target to $324 from $319",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNnQ0S1NnckE1d1Z0ejRxamo3Q04xandiMzBMMDZTa3l3SGtYa0pybk5SdUI4YmZ5Y3NwSWRNUHFwYUdVT2lrclVZa2t6ZDJlTUd3LTVicjlzd2Z6dmRaUE0xSTk2cm45NkFTVExsaUZmYi1sNlpxYjRLVldRNEFrTTBUR2FXUDNnOTNya0I0ZzYxaHVXYS1wcXoxMGctdjZyZlRHak43bTQ5NG9IT0lIYTdxSjFmWVM2Rkt2YnVaT0g2M1ZfTGRMcGRJN2R1UEV4S3FmNW0xZnJFR2NFVVBSQUxMaUE5TEwxY0c5NDZR?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T18:15:09+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target raised",
-   "rating": "Overweight",
-   "target": "$324",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains Denali Therapeutics at Overweight, lowers price target to $37 from $42",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNR01tanQwSFppeHpRSjVJdG9CVExERnJRclFNY2RkZEhHYnl2SE1hRERTa1Axc1pTYm10ZkpGRVNlcFYyQVc0cEZvZGdZWnl5dTV1RGNaenhLalJRcXl0ZXR2NDkwTDY3ajUySGJ2eEh1VVlYbmppc3c0YWl4TnY2dnJPRzVxb0t1eUlmcVlOUG5ZSGhTRXdnVXBxSmstMTRnRnpCV0xsQ0d0MVlsMU5Ya2oyOWtVcWYweGFzLTMtb3VNQ0xVcDhJMENpWjFuaTFSbU4wRjEwcGN6YXZtZmVlTnQ0cjJSZ0hTdVE?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T18:15:09+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": "Overweight",
-   "target": "$37",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains Immunocore Holdings at Equal-Weight, lowers price target to $42 from $43",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVHpsVThRZ3RNMkdYT0FBU0U1cUQ2S3IwTHhva1FWMTZ0emliaVpnOVBrTk5QWThJdFZPbVFKTVN3ZGpZdXI1RUlFajNIRnJKOGZMTnVMX0lPa2R5MGxuVm05OHNUeTA3VC00eDhMQ2oyQUV3Q1BJZEV5VzBSU3VoYTVfTk1jOWRKSUl3MHZxVUwxVGZ1WEFkeTN6YVNncmJuVXBWaDdSdC1kZzFUZW1TaW04MGNUck93V1lWYkc1SWx4NUU0UDBPOXBTY0FrdjlYd2I4d0xiSWxkcHNCT1hJNURfWEJGcVF2XzVyQQ?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T18:03:30+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": "Equal-weight",
-   "target": "$42",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains Axsome Therapeutics at Equal-Weight, lowers price target to $223 from $249",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa3RkM2pYT0gwU2ZmejNpVXZZU2dpZnVVWkxTRVVqOHdzM2pZeC1HT1JiMjBLd0dOTC1tS0Z6U0ZVaFB3MG1JR1FWUDZTeGVIY0hDRWQyUkF4NWJ2U2JFdGtEUVFqVk5GU04taEt4dU01M1lRY0tUdENnV1FMeWlBdkRMU1ZxVnN0TzlkdlVjcGR6dWZLYUxBZWVxaW5OOTNoVUM0dzNLdEJUelp5UTdBdFctUGpoMEsyaVlMb0Y1SnNIMXJ5QWNHSldVOGNSODJlQnZydXJ0ZlZuWHZlZVVYUHlxNU9jX3VBSzRub1lrWQ?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T17:54:28+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": "Equal-weight",
-   "target": "$223",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley MUFG upgrades Japan Focus List with AI and insurance plays",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZnhHZzVFNi1OOHVQbmxMUERyNzVaRTFQRDEtdlp2eS1XM3l6VlMwNVJaQl9zdjJsT01JbzQ5cmVXaVgzTUYxaGw1ZXRwMnZnaTRmeS13N05lLVQ3WGV4Tm01QmdVRmFfeS1BYUdpcGFlV1M4bVhPcFFnbVdYZ1JUUlpwTGxRVU1fUWJnQ2ZBRmp2aTh6WlJiNlVpWElMRV9UbFRoQl9KMGtoZDBqNWdmWF9qVU0xUDJDZ2RLRGhrNW80bTlwbUFobC1B?oc=5",
-   "source": "Investing",
-   "summary": "",
-   "published": "2026-11-13T17:54:02+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Upgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains BioMarin Pharmaceutical at Overweight, lowers price target to $103 from $119",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX3NGSUl5anhkS01hamNkaVRkbnRQQ1p1azl4bENseTRVQ0hFOXRZMEZaU3VXNzhNQ1JTczM3bUo0eHJBZkFhdTAxelBBQTNHSUpTX1JlRlh3SEhjVlBWdllvMVl5NEZWN0RKaUZsRlFBUVhNaFM2MTY1RlU4Zm5GWkhEa1ZGUVd1RWxFYzJKU0xYalk5S2tIXzhVZFhHeHl5b1NKdVB6QURnTTZqcGNJV0t2eXFSNWNPcTRTZXFWQlI5WENBRXNnSWRSZ1ZZMWFodVRBV3hoQ010VUhySjRVMXFYeUdORUxMYVg0NDNPc1Rldw?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T17:46:56+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": "Overweight",
-   "target": "$103",
-   "ticker": null
-  },
-  {
-   "title": "Morgan Stanley maintains Acadia Pharmaceuticals at Equal-Weight, lowers price target to $24 from $28",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORWNYeHNHNlN0VjYyZm8temw0OE5sOGdra1dTVXRxLUlCS1JCbnhIOXNOcTBDRm9RdmNqcHJTeV9hdDZPQUJKQ21NM0dxMVF2Q2dTVGtXdnltcmVlWXpTelU3UGUyZE5hemlUTkxWb0gxYjVjUEhWeXkxblRfZ0hmZHB2UkVMajhhWFFxSFlUY0VGMmc4bGRwVFJXbHhUZ1FCMU5ITmRWN0labkNqeTJtY1pDU0xvV3NwTnB2WDd0WjVPLWN0RmtGekhnZzhaMUVJQzdkWnhOODEzT1dOZWxtYlFEa0lFWk9nNDl1UkR5OWg?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T17:45:46+00:00",
-   "firm": "Morgan Stanley",
-   "action": "Target cut",
-   "rating": "Equal-weight",
-   "target": "$24",
-   "ticker": null
-  },
-  {
-   "title": "Wall Street Trims Nvidia Bets With Downgrades, Yet Stays Bullish On A 14% S&P Rally: Here's Why",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeFpTdGw2TS0za1U1c0VVdmtzNVVlb3hxNGNlbnNVZWY2eDZiUFRBY3hDTFlHOXhqZWxhSFpraU51R0Q2cG9ycW5oWVhiaXJ0N1FMUW9Fa2VVbmg3Qy1tUVVVc2wxUkJiY3NHWmh2R2tfMzU2NGZLTkUxSDBSY1Bid2RjMWNhNXpMOEFoOFNOWGVRMndiZjRPSWYwN3J2SVV2dFk5ejY0cHV0djJCTFl1UUlBcE14clU2UENLcHhweGwxV3pRMWZFUFBuYWh2Z9IB1gFBVV95cUxOSzQzVV9MV0I5Y3hpQWJNeTlmaEVoajVHZUg4NzZuQXoyeXhiY3VlZDB5TnYzblRrdzF4VUkxQ3MtLWtrN04wclkzNUJUWEFsTkk0SnNRSy1qOWJfTnZSOThxRlhkelp3aW5kbWREQk92RXctTUhXa0dRLVBPemE2d2tQcW1JeFNPbXFJOTVaTUQ1S1dHR3V2dG1SaVVwNFJXWWlhSk5lUWFXbFdHQXlIYjlOMWtUcTZwMUdrVlExQmN5dExzaUUwdVFLbm1xbDliQ0VIYW1n?oc=5",
-   "source": "NDTV Profit",
-   "summary": "",
-   "published": "2026-11-13T17:37:32+00:00",
-   "firm": null,
-   "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "RSKD Maintained by Goldman Sachs -- Price Target Raised to $9.00",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT0FuY3YzTkxyVjE4ZFNTV0hUaU51dkUySjNUcEM5c0hSZ1B2SFUzcTIyWl9VWUctTTVYN1NfTjRvM3ZkTFFCQmlYSEs2bWQ5UG12WjMzU2JxWEF0SGx4RWRselpVN1g5ZHhXYjNfQmdCMUhIaGl5YXRGMkJ1MlVrdExLN25uaGNzLTMtNHByX0JRSW43cjZubUhxaXhaMWM?oc=5",
-   "source": "GuruFocus",
-   "summary": "",
-   "published": "2026-11-13T17:20:11+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Target raised",
-   "rating": null,
-   "target": "$9.00",
-   "ticker": null
-  },
-  {
-   "title": "KLC Maintained by Goldman Sachs -- Price Target Lowered to $3.40",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM3BFWnpqbG9kSmdPM19XVE9zVm95clBsX2RycDFkU3ZySXIyaGQ2UlRKWjJhV2ZZYkwtQkU3Z3phd2xiaFRrRC1vcHhaSmZ2bG9SY3RuNnhwV3Y1Rk5xMVJfaGFXMGxFM21nSGhMWUhic3djak1tVEEtZnM3Nzd2SE16NGRIbUJlZzFqYjh1VC1RUW9qWHpXNjJWQ3I5UmM?oc=5",
-   "source": "GuruFocus",
-   "summary": "",
-   "published": "2026-11-13T17:04:10+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$3.40",
-   "ticker": null
-  },
-  {
-   "title": "Goldman Sachs maintains Riskified at Sell, raises price target to $9 from $7.50",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV3lZUi1XZ041dWswQnJuSGZPakludk9ad2VRRTZTZzNhZFZOYmhqWUdSazhOOUNCNGc1X2JCTXF5UUlhTXFTOUdIT0N0LWpSQVMyVFo3WnRPdF9VVW0wZW4xd3RrRkRCR3FDVURfQXltdldwdXJEN2RfNkYwdHd0TUo5cW1fY2cydldkSlZJNFNLMERUeDhVc2VBN0FNdEhKU3BzbHlZYjJjakVveXFpaUhMQTY5MnZ2aWhHUkJtWXlvam9lWHVKU0pOYWxVd2tXalRVLQ?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T16:22:56+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Target raised",
-   "rating": "Sell",
-   "target": "$9",
-   "ticker": null
-  },
-  {
-   "title": "Goldman Sachs maintains Robinhood Markets at Buy, lowers price target to $115 from $128",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0ltUGhoQUVDZWVkSUpoeWFiVndUUkdzZUxobUhieVloTi1kSk4xdG9HRkRobUZIU3J1cDlIeE9xR1hIN2FlbnlpOEQ2anF1TlFoZGFMVkNWNVpmX1kwVnZNaXVua2lYcktWeXJmclVSeFNUWlM1bFM4Mm13alJaeXgwYm9LOVhuZWN4VURtT3JBTzNLS3hxbElBd1BQdkNvWlBaOE1LcEZOdU5pVFI0MUhUa0l2clFMaGVfNzMxVmZDRmJ2ajJxR2JFSTZ2Uy05dVpDNXFEX3RrZlYxSUFR?oc=5",
-   "source": "TradingView",
-   "summary": "",
-   "published": "2026-11-13T16:19:40+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Target cut",
-   "rating": "Buy",
-   "target": "$115",
-   "ticker": null
-  },
-  {
-   "title": "Goldman Sachs cuts year-end gold price target to $4,150/oz, 2027 target to $4,800/oz",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQkZKMk5lUVlMdkdFWlJNOUE2UFI1Yk50NHRsZmNwV1kyeEF4eENvVmR3MDNUV1RVbElwc3ZGbXd0OGhRckZ2QTI3Q0NqRFNhSWM4U1NrVUhSVW1FaEVzdGx6N05lTUV3bWJFX0x2YlAtcktKT3U5MHNFcUV4M0pIZTNLbzNmZXNoSF9IMi1EOG1ybXVWQjVFVkhIeDd0LXU0b05fNnZmWTBYSVItTTZFMzUyWXNpZjhF?oc=5",
-   "source": "Kitco",
-   "summary": "",
-   "published": "2026-11-13T15:25:53+00:00",
-   "firm": "Goldman Sachs",
-   "action": "Target cut",
-   "rating": null,
-   "target": "$4,150",
-   "ticker": null
-  },
-  {
-   "title": "Comfort Systems USA stock: JPMorgan starts coverage with Overweight",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFUyem5fcmQtMjRBQm1oU0YxT1g0ZW0tNDZSaFZXOUtzZkM4UUJ1elVGWXM4a3A5V2FtVDVVaGVPWFMyOHdRQThIbGx0d0xsZHFTb09rcFdES0dQWjNqRi1MV3Q3bmE1a3RxaldKNlFSd2VjZnM3R21SVHVDY29jS0VLaUpPLUNhY0I2TWpnNHEwX29tTk9QYWkzdi1KYXc3dDA5TjFKR095NG5QVmpfZHhZTkdGcnNYUkY5aFZ0S2lDRUYtZUtOZQ?oc=5",
-   "source": "ad-hoc-news.de",
-   "summary": "",
-   "published": "2026-11-13T14:43:40+00:00",
-   "firm": "JPMorgan",
-   "action": "New coverage",
-   "rating": null,
-   "target": null,
-   "ticker": null
-  },
-  {
-   "title": "BofA Downgrades National Health Investors (NHI) Amid Q3 Disappoi",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZE9yVFNGdGN4T185YjhSbGpBcEdGVV94Y21RVXQ2SXExUHpVY2dhSFp5ckwwV0lrMllYOHpuSHFmVTB5Sk14c1lNa1BnbFpJMG1yQUtMZ24zRmhmT2hrUks2RVA5aUlUVjJpcTBIUTJzM21qSV92aDVKUmlrUEtNQ1A0Q2JjZXBrSjZnUkIxMUE3SlFubnJIejhINC10V3dGSnJFOXV4aXhRWl9FUWI1MDlXWnl1MXd5Y1Bvd2ZCV21lWmZk?oc=5",
-   "source": "GuruFocus",
-   "summary": "",
-   "published": "2026-11-13T14:42:25+00:00",
-   "firm": "Bank of America",
-   "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": "NHI"
-  },
-  {
-   "title": "JPMorgan Adjusts Price Target on BJ's Wholesale Club to $113 From $100, Keeps Neutral Rating",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNTg2VGM2SFpiOXBxX1RMUGl1a2RjR0dKSjBrVWhuMG9CN2Q4YU9HaXBzLVVxdk95dU5yLWM5SnRTV1hsZm00d2tGYkV5cVdQaEFKekFNcm1ldXh2eUtNczh3V3VJX1B2UExzMFl4bmdrRTQ3WWs2N3BFMVVReWVlRzVLX0tqSWhTbzZ0ZVNFOElKa2FiVHZTVHBfSWo1eGU3cG42dHBXUHVGZWhMWGczSW9ld3RiRkxJR19nbWVtcUZYZEJPYmpGVUtxbUZicjJ0dXl2WUxyazM4Zw?oc=5",
-   "source": "marketscreener",
-   "summary": "",
-   "published": "2026-11-13T14:29:23+00:00",
-   "firm": "JPMorgan",
-   "action": "Reiterated",
-   "rating": "Neutral",
-   "target": "$113",
-   "ticker": null
-  },
-  {
-   "title": "Bank of America Downgrades European Stocks Amid AI Investment Co",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU3JHSmtjNFRLYTc2U2xrMDBpNk56N3U4VTk4c1phc0llWkRzajZFUE9pWFY5Q3B4ODFYaDgwcHBLNXg5WWQyR3pqLURtbjd5eFZEajFaLTlQMjlmZEJsX2dPS0F5dlNYalk3MnVLN0xuVWtSSWZUcUctVVlqM0REaWVNVlRxTTZKSFN1d3FPaDlxcHhuNXEwOWhWaTRYZS1TTU00TmVhT2V3bDJQOXc?oc=5",
-   "source": "GuruFocus",
-   "summary": "",
-   "published": "2026-11-13T14:24:24+00:00",
-   "firm": "Bank of America",
-   "action": "Downgrade",
-   "rating": null,
-   "target": null,
-   "ticker": null
   }
  ],
  "consensus": [
   {
    "symbol": "AAPL",
-   "price": 356.27,
-   "change": 1.39,
-   "change_pct": 0.3917,
-   "prev_close": 354.88,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 351.47,
+   "change": -4.8,
+   "change_pct": -1.3473,
+   "prev_close": 356.27,
+   "as_of": "2026-11-16T19:48:40+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 11,
@@ -1466,11 +1466,11 @@
   },
   {
    "symbol": "MSFT",
-   "price": 523.88,
-   "change": 0.88,
-   "change_pct": 0.1683,
-   "prev_close": 523,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 517.79,
+   "change": -6.09,
+   "change_pct": -1.1625,
+   "prev_close": 523.88,
+   "as_of": "2026-11-16T19:48:40+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 22,
@@ -1486,11 +1486,11 @@
   },
   {
    "symbol": "NVDA",
-   "price": 162.85,
-   "change": -3.34,
-   "change_pct": -2.0097,
-   "prev_close": 166.19,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 155.5,
+   "change": -7.35,
+   "change_pct": -4.5134,
+   "prev_close": 162.85,
+   "as_of": "2026-11-16T19:48:41+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 25,
@@ -1506,11 +1506,11 @@
   },
   {
    "symbol": "AMZN",
-   "price": 266.66,
-   "change": -0.78,
-   "change_pct": -0.2917,
-   "prev_close": 267.44,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 256.85,
+   "change": -9.81,
+   "change_pct": -3.6788,
+   "prev_close": 266.66,
+   "as_of": "2026-11-16T19:48:39+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 19,
@@ -1526,11 +1526,11 @@
   },
   {
    "symbol": "GOOGL",
-   "price": 295.77,
-   "change": -2.93,
-   "change_pct": -0.9809,
-   "prev_close": 298.7,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 283.61,
+   "change": -12.16,
+   "change_pct": -4.1113,
+   "prev_close": 295.77,
+   "as_of": "2026-11-16T19:48:40+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 20,
@@ -1546,11 +1546,11 @@
   },
   {
    "symbol": "META",
-   "price": 641.69,
-   "change": 18.08,
-   "change_pct": 2.8992,
-   "prev_close": 623.61,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 623.87,
+   "change": -17.82,
+   "change_pct": -2.777,
+   "prev_close": 641.69,
+   "as_of": "2026-11-16T19:48:38+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 20,
@@ -1566,11 +1566,11 @@
   },
   {
    "symbol": "TSLA",
-   "price": 390.22,
-   "change": -7.23,
-   "change_pct": -1.8191,
-   "prev_close": 397.45,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 375.82,
+   "change": -14.4,
+   "change_pct": -3.6902,
+   "prev_close": 390.22,
+   "as_of": "2026-11-16T19:48:40+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 10,
@@ -1586,11 +1586,11 @@
   },
   {
    "symbol": "AVGO",
-   "price": 347.01,
-   "change": -17.35,
-   "change_pct": -4.7618,
-   "prev_close": 364.36,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 332.68,
+   "change": -14.33,
+   "change_pct": -4.1296,
+   "prev_close": 347.01,
+   "as_of": "2026-11-16T19:49:03+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 17,
@@ -1606,11 +1606,11 @@
   },
   {
    "symbol": "AMD",
-   "price": 534.06,
-   "change": -51.24,
-   "change_pct": -8.7545,
-   "prev_close": 585.3,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 505.44,
+   "change": -28.62,
+   "change_pct": -5.3589,
+   "prev_close": 534.06,
+   "as_of": "2026-11-16T19:49:03+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 17,
@@ -1626,11 +1626,11 @@
   },
   {
    "symbol": "JPM",
-   "price": 346.19,
-   "change": 3.37,
-   "change_pct": 0.983,
-   "prev_close": 342.82,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 337.43,
+   "change": -8.76,
+   "change_pct": -2.5304,
+   "prev_close": 346.19,
+   "as_of": "2026-11-16T19:49:03+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 3,
@@ -1646,11 +1646,11 @@
   },
   {
    "symbol": "NFLX",
-   "price": 62.15,
-   "change": -0.54,
-   "change_pct": -0.8614,
-   "prev_close": 62.69,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 60.55,
+   "change": -1.6,
+   "change_pct": -2.5744,
+   "prev_close": 62.15,
+   "as_of": "2026-11-16T19:49:02+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 13,
@@ -1666,11 +1666,11 @@
   },
   {
    "symbol": "PLTR",
-   "price": 167.99,
-   "change": -3.59,
-   "change_pct": -2.0923,
-   "prev_close": 171.58,
-   "as_of": "2026-11-13T21:00:00+00:00",
+   "price": 159.97,
+   "change": -8.02,
+   "change_pct": -4.7741,
+   "prev_close": 167.99,
+   "as_of": "2026-11-16T19:49:02+00:00",
    "consensus": {
     "period": "2026-11-01",
     "strong_buy": 12,
@@ -1690,11 +1690,11 @@
    {
     "symbol": "AAPL",
     "name": "Apple Inc.",
-    "price": 356.27,
-    "today": 0.3917,
+    "price": 351.47,
+    "today": -1.3473,
     "high52": 360.83,
     "low52": 243.42,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 1.5911,
     "month": 3.3775,
     "mtd": 3.3775,
@@ -1706,11 +1706,11 @@
    {
     "symbol": "MSFT",
     "name": "Microsoft Corporation",
-    "price": 523.88,
-    "today": 0.1683,
+    "price": 517.79,
+    "today": -1.1625,
     "high52": 559.15,
     "low52": 349.2,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": -3.907,
     "month": 0.3775,
     "mtd": 0.3775,
@@ -1722,11 +1722,11 @@
    {
     "symbol": "NVDA",
     "name": "NVIDIA Corporation",
-    "price": 162.85,
-    "today": -2.0097,
+    "price": 155.5,
+    "today": -4.5134,
     "high52": 243.37,
     "low52": 148.8,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": -8.8543,
     "month": -20.4212,
     "mtd": -20.4212,
@@ -1738,11 +1738,11 @@
    {
     "symbol": "AMZN",
     "name": "Amazon.com Inc",
-    "price": 266.66,
-    "today": -0.2917,
+    "price": 256.85,
+    "today": -3.6788,
     "high52": 287.2,
     "low52": 196,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": -0.1012,
     "month": 10.9465,
     "mtd": 10.9465,
@@ -1754,11 +1754,11 @@
    {
     "symbol": "GOOGL",
     "name": "Alphabet Inc.",
-    "price": 295.77,
-    "today": -0.9809,
+    "price": 283.61,
+    "today": -4.1113,
     "high52": 408.61,
     "low52": 270.7,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 2.6445,
     "month": 5.6925,
     "mtd": 5.6925,
@@ -1770,11 +1770,11 @@
    {
     "symbol": "META",
     "name": "Meta Platforms, Inc.",
-    "price": 641.69,
-    "today": 2.8992,
+    "price": 623.87,
+    "today": -2.777,
     "high52": 779.8192,
     "low52": 520.26,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 0.0499,
     "month": 4.3415,
     "mtd": 4.3415,
@@ -1786,11 +1786,11 @@
    {
     "symbol": "TSLA",
     "name": "Tesla Inc",
-    "price": 390.22,
-    "today": -1.8191,
+    "price": 375.82,
+    "today": -3.6902,
     "high52": 498.83,
     "low52": 297.38,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 3.2192,
     "month": -2.3986,
     "mtd": -2.3986,
@@ -1802,11 +1802,11 @@
    {
     "symbol": "AVGO",
     "name": "Broadcom Inc",
-    "price": 347.01,
-    "today": -4.7618,
+    "price": 332.68,
+    "today": -4.1296,
     "high52": 495,
     "low52": 289.767,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 8.6171,
     "month": 6.4187,
     "mtd": 6.4187,
@@ -1818,11 +1818,11 @@
    {
     "symbol": "AMD",
     "name": "Advanced Micro Devices, Inc.",
-    "price": 534.06,
-    "today": -8.7545,
+    "price": 505.44,
+    "today": -5.3589,
     "high52": 658.52,
     "low52": 188.22,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 5.01,
     "month": 5.7964,
     "mtd": 5.7964,
@@ -1834,11 +1834,11 @@
    {
     "symbol": "JPM",
     "name": "JPMorgan Chase & Co.",
-    "price": 346.19,
-    "today": 0.983,
+    "price": 337.43,
+    "today": -2.5304,
     "high52": 366.5,
     "low52": 279.1,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 1.2015,
     "month": 2.7148,
     "mtd": 2.7148,
@@ -1850,11 +1850,11 @@
    {
     "symbol": "NFLX",
     "name": "Netflix, Inc.",
-    "price": 62.15,
-    "today": -0.8614,
+    "price": 60.55,
+    "today": -2.5744,
     "high52": 116.73,
     "low52": 61.3922,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": -2.8147,
     "month": 0.1128,
     "mtd": 0.1128,
@@ -1866,11 +1866,11 @@
    {
     "symbol": "PLTR",
     "name": "Palantir Technologies Inc.",
-    "price": 167.99,
-    "today": -2.0923,
+    "price": 159.97,
+    "today": -4.7741,
     "high52": 212.9399,
     "low52": 106.37,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": -0.7151,
     "month": -8.7556,
     "mtd": -8.7556,
@@ -1884,11 +1884,11 @@
    {
     "symbol": "SPY",
     "name": null,
-    "price": 754.37,
-    "today": -0.3632,
+    "price": 738.53,
+    "today": -2.0998,
     "high52": 781.62,
     "low52": 629.28,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 0.2232,
     "month": -0.1786,
     "mtd": -0.1786,
@@ -1900,11 +1900,11 @@
    {
     "symbol": "QQQ",
     "name": null,
-    "price": 679.89,
-    "today": -1.2032,
+    "price": 661.43,
+    "today": -2.7151,
     "high52": 762.86,
     "low52": 555.6,
-    "as_of_close": "2026-11-16T09:29:59.813023+00:00",
+    "as_of_close": "2026-11-16T19:48:47.856557+00:00",
     "week": 0.0795,
     "month": -1.5351,
     "mtd": -1.5351,
@@ -1917,7 +1917,7 @@
  },
  "_metric_cache": {
   "AAPL": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": 16.4547,
     "26WeekPriceReturnDaily": 20.8514,
@@ -1936,7 +1936,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "MSFT": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": 5.7489,
     "26WeekPriceReturnDaily": 28.4744,
@@ -1955,7 +1955,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "NVDA": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -27.6737,
     "26WeekPriceReturnDaily": -26.2388,
@@ -1966,7 +1966,7 @@
     "52WeekPriceReturnDaily": -12.8492,
     "5DayPriceReturnDaily": -8.8543,
     "beta": 2.3588552,
-    "marketCapitalization": 3924685,
+    "marketCapitalization": 3924685.2,
     "monthToDatePriceReturnDaily": -20.4212,
     "yearToDatePriceReturnDaily": -12.681
    },
@@ -1974,7 +1974,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "AMZN": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": 1.5267,
     "26WeekPriceReturnDaily": 0.316,
@@ -1993,7 +1993,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "GOOGL": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -14.4926,
     "26WeekPriceReturnDaily": -23.6427,
@@ -2012,7 +2012,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "META": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": 8.7887,
     "26WeekPriceReturnDaily": 6.4163,
@@ -2023,7 +2023,7 @@
     "52WeekPriceReturnDaily": 5.2141,
     "5DayPriceReturnDaily": 0.0499,
     "beta": 1.2809628,
-    "marketCapitalization": 1640314.2,
+    "marketCapitalization": 1640314.4,
     "monthToDatePriceReturnDaily": 4.3415,
     "yearToDatePriceReturnDaily": -2.7875
    },
@@ -2031,7 +2031,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "TSLA": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": 14.0094,
     "26WeekPriceReturnDaily": -9.9735,
@@ -2050,7 +2050,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "AVGO": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -11.7,
     "26WeekPriceReturnDaily": -17.2406,
@@ -2069,7 +2069,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "AMD": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": 3.8239,
     "26WeekPriceReturnDaily": 19.1327,
@@ -2088,7 +2088,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "JPM": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -4.5888,
     "26WeekPriceReturnDaily": 13.5496,
@@ -2107,7 +2107,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "NFLX": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -20.4836,
     "26WeekPriceReturnDaily": -29.1011,
@@ -2118,7 +2118,7 @@
     "52WeekPriceReturnDaily": -46.1532,
     "5DayPriceReturnDaily": -2.8147,
     "beta": 1.6561034,
-    "marketCapitalization": 255208.17,
+    "marketCapitalization": 252764.9,
     "monthToDatePriceReturnDaily": 0.1128,
     "yearToDatePriceReturnDaily": -33.7137
    },
@@ -2126,7 +2126,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "PLTR": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -3.4762,
     "26WeekPriceReturnDaily": 23.5221,
@@ -2145,7 +2145,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "SPY": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -2.8299,
     "26WeekPriceReturnDaily": 2.1932,
@@ -2163,7 +2163,7 @@
    "name_fetched": "2026-11-12T03:37:59.879072+00:00"
   },
   "QQQ": {
-   "fetched": "2026-11-16T09:29:59.813023+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "metric": {
     "13WeekPriceReturnDaily": -7.0007,
     "26WeekPriceReturnDaily": -3.8671,
@@ -2182,7 +2182,7 @@
   }
  },
  "earnings": {
-  "fetched": "2026-11-16T09:29:59.813023+00:00",
+  "fetched": "2026-11-16T19:48:47.856557+00:00",
   "from": "2026-11-16",
   "to": "2026-11-30",
   "days": [
@@ -2373,7 +2373,7 @@
      {
       "symbol": "MNTK",
       "date": "2026-11-16",
-      "hour": "amc",
+      "hour": "bmo",
       "eps_estimate": 0.0374,
       "revenue_estimate": 54335400,
       "quarter": 3,
@@ -4295,53 +4295,263 @@
  "penny": {
   "news": [
    {
-    "title": "Michael Burry Holds NVDA Puts Into Earnings, But Sees A Retail-Fueled Rally — Even As Musk Questions Jensen’s Handshake Deals",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR2N5TVV3SFd1bkFzTm9OLXRwSk53UThFckMwWDM0andUajhSVVRUN2kwRXU2cV85akgtRGdxRGRuS1dJR0NxdnY5VWxxQV9LNEJTc1BRd3ZqZVc1cTZ4Yk5HVzIzbFFhdnphNGowOFBZZ3lpX1o2MFBXVmV3V1owMDJER3FKVmZqMExOaGxJOHQ2d1JBZ1lvbFlB?oc=5",
-    "source": "Yahoo Finance",
+    "title": "Intel Stock (NASDAQ:INTC) Down Over 6% After Land Auction",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQzMxdXFpaG02ZDg5QkY4YnVWaEVyNmVqdUFuUGNhM3lKMGk4Q0tjZ3U4cXMzR1BqODlZMnlKel9QRjh1YzJOTk04MlhHeDZfMjJMMzN5a0dGeUMzNjB6dUVkU1ZpT1A5SmpKaXZJcGJFTm1ORG1NajVEVzNIeGhpS3Noem5ONGxjbjQw?oc=5",
+    "source": "TipRanks",
     "summary": "",
-    "published": "2026-11-16T07:02:00+00:00"
+    "published": "2026-11-16T19:40:47+00:00"
    },
    {
-    "title": "‘The FBI Doesn’t Take Petitions’: Anthony Scaramucci Says ‘Stop Comparing’ Jensen Huang With Sam Altman",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlgzdlo1VUE4OUY5b2hLYUh2UXVtcGIwVS1aZklSTmpfOUtLcjFpMmFEY1JjdExvc21fa0h6RFZJZjdEemk2QmNZQnBXZFE4dTJMNGMzOFo1MXJGV2xocjY5RmYwVmRIQ0tpNkQ3T2NlVmdWQXlTVFpDOFllWXRDUndSdkF0a2pUWjNXbTAwOFdLQVNIdnozajh3?oc=5",
-    "source": "Yahoo Finance",
+    "title": "Take-Two Stock (TTWO) Drops over 5% Ahead of GTA VI Release",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjlGZVd0RHM3NjFZcTF4bWtDdXdwaG9XRjZXbXQ3UGluNnRSMVdWeVVRb0ktS2hGVE85eFhvX3A3Y25pTENRemNWY3VIcGhzVHdEcERjQ3gxeTBHQVdXNkktX0ZiOF82ZzFPWUttQ2xHYkNRUjVTTWVXMUNneTVhNDVRVUVxLV9lUzlua3VCZw?oc=5",
+    "source": "TipRanks",
     "summary": "",
-    "published": "2026-11-16T05:36:10+00:00"
+    "published": "2026-11-16T19:34:52+00:00"
    },
    {
-    "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHVDOWhfTXlvV3JwYlZ6UkhjUlhBWUs3U25lMGROZ1dMd3N3VF9EOThqNndlZ3dscFFvNHJUdFpZZHEwVlVyQ1J6d0dPcFJ5aW1NaWUwZmFvYlZqVHJzUmF2QkdyTWNXQ2J2WW9qaEgzbXVEclVBSUhBMmJqenN3VG1hR1VJN09wbGhpYlNUaGhSZXRQVXJoUWI2MA?oc=5",
-    "source": "Yahoo Finance",
+    "title": "Disney (DIS) Stock Price Forecasts – What Analysts Expect Ahead of Tomorrow’s Q4 Earnings",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0ZuemQzSHRlczZuSGFPRkdIRk9ndDFTSkwyTU1fcWFtc05uOHRZV1Z2TTVTV2VOZE5PelJXTUdkT2FSYzllYzdCaFdjdXdCOEhSMkctMXZzek15dE8wQnJLUWYwNXVVNU5kNUxrc0UzeEVzVms0S0tBcTJPVXVwc2hNRHJ4WW9ob2pkZFpSVkM4Y3paUm9DUDJvSUt2VndQU2c1NHJJOWZtRU03aG41amRYR2w?oc=5",
+    "source": "TipRanks",
     "summary": "",
-    "published": "2026-11-16T05:32:00+00:00"
+    "published": "2026-11-16T19:21:10+00:00"
    },
    {
-    "title": "Advanced Micro Devices And 2 Other High Growth Stocks",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUhzLTRyOXRpNzlWd2hJcmhOS3A3MUtUUXdJQU4wOFpsWFktU0M5RHJMM1pHaDhTNEFLSFp6TEN2SzNVeTQtZ3czSXFqWVlldkJsQnJfLXViWWg5anBQMTdsb2JnTEZwcGFaZHQ0aHk3S2ZLM2VmZ0lBanp4Z1FDN3pUVXgyTTFrSVZxcnhTOUh6U0p1U1Q1d2FKRQ?oc=5",
-    "source": "Yahoo Finance",
+    "title": "KDventures Appoints Johan Dighed as CEO",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY2NPZXRLNGRJenJnVllQSVBBTi10OGVnU1FBZ1k1NUVSTFhKbEJjelo5dDJ0bTRJQTFIUm9uS0p0QnRrbGx1UDMtNXVLUG9UdUNmRkxDdXF0NVlCX2FXSG9FbG5KNFpkZXoyTTVOYjZ3d0ozQXR4RW5ZTEZCcVBfVzBobTRFMVNab0tVVUUzQUhFcXUyeFE?oc=5",
+    "source": "TipRanks",
     "summary": "",
-    "published": "2026-11-16T05:31:06+00:00"
+    "published": "2026-11-16T19:02:56+00:00"
    },
    {
-    "title": "3 British Penny Stocks With Up To 74% Net Profit Margin",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONl9KN2dKZGYxM1NSSE1NYjE2azBJOGNYM2R2T3ZWQVV5YUNBSWpCVFItSC1Jb25zcEN4SFhBRVgyUl9MNWlRWFloUnMxaGM0WHU3cnFvYUU4SXVmZ2xHR1lxRENveDBpMDgtcXRCWlRUdEFWTW4tQ05tUm9YcUxmZENXTWdONHhTUnBnVTYwZHoyNkZ6?oc=5",
-    "source": "Yahoo Finance",
+    "title": "Why Is Penny Stock Global Mofy (GMM) Up 65% Today?",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR0dyNEdiZWp2LWxsSnNqVnZZWUVWaWxDX01uNVlwVGpJUHJneHc3bnB6U2FWRm9rRXN5eU1KUmp5UU1FcW1ZaWJkYnAxY0JIRFFTNjhRTldfM3ZSd1RvM2hZb09nR0drb2ZubnYwVlRrYTVlTnk5NzZVeVpyMmxSY0JB?oc=5",
+    "source": "TipRanks",
     "summary": "",
-    "published": "2026-11-16T05:16:00+00:00"
+    "published": "2026-11-16T19:01:05+00:00"
    },
    {
-    "title": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEp4WnhDSTdVb19UMGN3OWkwVGFxcGdJS21Edkhya0ZFaGJvMVNpSGt5NjA0bXd5anlYR2lUOVVKTk9hcF9iU0hPWXBsQWhWeWp0a3VPdHhDLWZrQXUwZ2RSdXUwbVhGU1B4S1AtazVWYzM0dVhRMkNDNUg3bS0wbkxjUXZtc0FCcnktZlczbURVRXM?oc=5",
+    "title": "Why Intel Stock Is Falling Monday",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmEwR2NscjluQTVoc2V3eUhyMGdGVkZTUDYtY2lGZlFkcHFsTHBvVGhtZ2hmNm9WSEJkdjFuYVlYTXhKTTZSM1VwNTczVDhaTlotVy1sTE96ZjV6d1h0LWRydFNUMXFuSXVmSW5Jb1NzcXZRRk5VT1dva1A1TkVzelVoTzFwd29nbkZaMWpmdFd6MUpCeGZFeTV2Zw?oc=5",
     "source": "Yahoo Finance",
     "summary": "",
-    "published": "2026-11-16T05:03:00+00:00"
+    "published": "2026-11-16T18:35:02+00:00"
    },
    {
-    "title": "SPCX Stock Climbs After Starship Catch — Musk Taunts Bezos, Boeing And Lockheed Martin For Trailing SpaceX",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1RIYTlNQ1ZnbjUzc0llcF9xVzF1RlNRYnpFYnlwUjU1SzJzU1cxeWxoejRzRFZkeE9LOWhRUFBsckhUY3JMazcwNEtKaTdVb2V1amxSRFdzQktBd2xnVkRFU0Rxcnk0cjRaR2NNR0hzU3FYRk1hbVJGbFBRRkFLUW5OajJZZXhXUERfdmtFMUFPeHJTMnVOYlJmeG5FQQ?oc=5",
+    "title": "M&A News: Eli Lilly (LLY) Buys Calytrix Bio for $1.5 Billion",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVN1Q3RaRlVBbVFsb0U2S05DaVNUZC10NXNBR3RycXU0WmRHSXo3X1E5MGVTUG5Na2FrS3pQYlZHSkQ0WGJNNE1yNEhfZlNvcGs1N0thSUNFZnl4LWpFRnhQc0h5ZFFxQjdKTzJKd005cE53b3NjZ01zLUNKX25Pb2V2S0hhTDBhcExIbWxB?oc=5",
+    "source": "TipRanks",
+    "summary": "",
+    "published": "2026-11-16T18:28:21+00:00"
+   },
+   {
+    "title": "3 Australian Penny Stocks With Up To 72% Discount To Fair Value",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0FxckNyMkJZNXhTSjF2Z2JhYTJmZXhBelc2QXlyUGRqbVBwWXhvZkRWd29PemxpRXNIUVhNUlVjUmRyOThWUzF2QWN1YklRVThrbGsxYVR3bGwyV0R4OFlybmhUaGtpSUNqNFJYaTBwS1RoZWZXUDFZN3kzNU9WdU41UQ?oc=5",
     "source": "Yahoo Finance",
     "summary": "",
-    "published": "2026-11-16T04:28:45+00:00"
+    "published": "2026-11-16T18:18:42+00:00"
+   },
+   {
+    "title": "Nvidia Stock Has a 20% Rebound in Sight—If Bulls Can Clear a Hurdle",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHlZMXdwbHJLTmdVa0lYcE8xRG5pOXlNckticy1NeWhxZWJZZFVaeERFT2wzdzMzS3dZMjVTMUhpZzNEOXgtSkwzdElrd3lCdDctemVDeEJfX2tWVF9wMVNIMHNXZVo1d3l0OFFWazhCQ0xCMFlMd1ZrRkY5RENONFYtYTVoclFHMWxfQTNpVENrbzY5dnpzMThB?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T18:06:03+00:00"
+   },
+   {
+    "title": "New retirement contribution limits give savers a modest boost next year",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlhEUWRXbUN3QUVLWU1GMEw3ZEM0eWpTeFFDd1h1RGU1bHBLeDFzdUpPZnZ6R2lHdE8wdTl3YzdmY050bEdudEZKZHVHUjBXYy1RN2JiNlN0d1FCMEJpS1dSNFZoTjB0eFJsRWZLanBHdFBzV2NTSF81UFpJOEdybTc3dWtBejg5QW1sc0M4LXFBU3dIRkNOX3RsaGFLdEZXb3lMSXVDdGlxOVRZaGkxZ0pBNWZ6X0NuUTRuOXE4Yncta0JSenEw?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T17:57:07+00:00"
+   },
+   {
+    "title": "Eli Lilly is trouncing Nvidia — and the weight-loss drug trade is beating AI again",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2M0a3E3cEtudzlMREwzTDB6N2VPbUNJZXBHbXloQ3hsTjYzemJhNTlXY0VnbFFkNU9mVFVTdGRWZEE5VEduQW12LWQwNGh6aTk4d0YyMFFRMlg1VDFXT0c3Qm1yNnhDYTRtQS1MYk52d2J4UXdYbGJUN3M4WUhmeUU0MUpvRzdxbEo5cG9IRFQ3b0tLd0pvSndyTWo0RGhEZW9RRlBQTEdteW1XWkVuYVVMWmdWdlprb09NbHA5Y1hlYkZySlI0RDZsWnNEdHphakRIVg?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T17:05:30+00:00"
+   },
+   {
+    "title": "AST SpaceMobile Drops 7% as Tech Selloff Hits Space Stocks; Rocket Lab Falls 4%, SpaceX Dips Despite Historic Starship Catch",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVmg3NjltU3hvbHEyVm9MTDRUMTBoeVRzZ19VaTFQcEtTYnVWT1hzeFdSeVF0ckRnY2pxRkZlYk9tV21aSjFVMHVuRVpBbF9Ca1FoSF94MzJkNHpMbWx5YW1Ud1RwN04yRzh2YnNJTWF3N2N6YndyVld3WENLcjVZZ0M4cnRzWlI0Q3JPSVEyOEp1WHc3UUFzMA?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T17:02:44+00:00"
+   },
+   {
+    "title": "Bravida Repurchases 53,000 Shares Under SEK 100 Million Program",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTdmNHRjWVhLRkhJMllNNXo4RDZ0SVMtajVGSDJpaEdxR3JjSDhxWmJ4ajRVa29BYkdQSnlCUkp3eVRBZURMT3ZPSElQRXFjd24yUGp4RGJpSzFaa0NjUmRQOTl1UEItMTVyUnZVVm4xWklwWHVGUG5jZWJTLVRyMkl1S1dPbjZSNzVKOTJubTE4MHdreG1mckotaG9IenplMGlUNzQyS0JoXzlKS1JfdW02RVg?oc=5",
+    "source": "TipRanks",
+    "summary": "",
+    "published": "2026-11-16T16:27:20+00:00"
+   },
+   {
+    "title": "U.S. chip stocks slide as traders unwind Nvidia rival bets before earnings",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGdqTmxUYkJodWxvTzVSRWtrd1hTSktodGtkazVKOUdQLVMwT3ZjMTVmdG5lX0JOeThKTWtzMFhnZHhVbXhWTE5UV2pNc2lGWmE1OWxOX0lBb3RaRFpVdHZhWWM1dEdPeUp5WXc0cm8yenIzVTVXWGN5YXZPdndUTG5mOEpRQ1hWTEg2VlJvOWlUZnRuNFJ3?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T16:06:56+00:00"
+   },
+   {
+    "title": "AI Chip Stocks Extend Their Sell-Off as Monday Opens Deep in the Red",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQi1HVVhHcUtEcUJnMHB6VlA2Y1E0VnZTcDZpbnRaSm5jVDZLZENjMXJqbEFxRXFvV0FObVZZOXVBaFZPVURqRU1nZEdZbkdrbnlPOTlNNjZlSmNuT2NiaktVSWpXNW1wYl9TSXZFRGYwZ3YtNHdnZ2pQWHdfZDhiZW5NV3JfQXgyUzRIWFJDazloTjF4?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T16:00:21+00:00"
+   },
+   {
+    "title": "‘Be Aggressive,’ Says Top Investor About Nebius Stock",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOazRwZEdGbzZrT3BzUTRmVVA3aGZBQm9GS0ZGbmdBOTVmMVYtcEVHZ01rTVpTLVhLVk8tNGZIOGd3Z0FzcWFzLV9aUHJjdTNSTTFGeW5RN1VPc0d4QVdsV3Fnc2VYMTJQa2plclZDY1ZBdmNWaGZLNUppTm5MdFlrX2dNb2FkN1QxQXREeTZfVk54QQ?oc=5",
+    "source": "TipRanks",
+    "summary": "",
+    "published": "2026-11-16T15:39:51+00:00"
+   },
+   {
+    "title": "Wall St falls as Nvidia jitters cloud sentiment ahead of results",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2ppQWhNd3BCUHl0amwxSm9PRGJNekVOUFk5ZTcxZkFvcGJ3LVpnS3AwV1BkR3NEcmdaS2QtV1pSMFUxNmlTN05OeVhSRnVCVEkzWjctNDMyb291VGl2UHlQTTdSMU11MnNreVFnNVVMQUx2Z1d4NG5EYV9OVlJ6eVUtU0ZTaXZZODVKa1IzclpBMEU1QlE?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T15:30:37+00:00"
+   },
+   {
+    "title": "SpaceX's Starship feat should remind investors that the company at its 'core' is a rocket builder",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdFZXMjhUVzFUR2pmVWJmRjBWT0QycHBUeGdhREZkMWg3Ymd5Ny01UTY3bDJBYVlHRmMzSS1aamlqM0M4azlpLWx3eVRTanhWMWNybVh4RDVhUWV0WWNBMEs0VHdRMV9PQXUxYlFGVlBfQ3JjTHJ5ZXlGTDdVM21mQm9saEViTXdpd1E4REhETWdWNE02TE9iT1ZGRTRHbW9hd2pHeU5jVmhTdm5WVDhnTFhIZmplTk9SS3E1eDJBdTh2azk2UkFpTzh6TjJrMXJ2bE0xWmFwNUhEdnJvNHFBdnE5Tzd3bXZTeTlGS3RwZw?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T15:16:04+00:00"
+   },
+   {
+    "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NYQzlGd3NpY1NLcXNmMm84U1pmQ1dKelhJSkRNY09iTHJVbnZfTGprZFNQWXBteHNCbnhmYVJXaDJIUEd6RkxXVlNEYzlVMzBMWnRQc0NZblllQlY3REtxN0hoQ1h2QTBzS3Q1QTh2OWdXbHBubm1IcGhBSndxNkVXa3JIMVpXUG5XV2RHcndCa2UtR1Z6NDkxTDZERXlMNmxFVUJHV2tRTXdpb1FEVkh4RlZZaTBoaWQw?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T15:00:19+00:00"
+   },
+   {
+    "title": "Nike Stock (NKE) Treads Water as it Gets Ready to Face Investors’ Questions on Cost-Cutting Plans",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQelFubFRSY0VlRFdYS1RMYTl3cjdJTVlTa0MyY2h1dXZuMUYzcnVzYzEzbkx5anZ4dFNuV0ZOQURUWEtHSmRuZWNDLUtYVmpScnhFM2NBbXJROHFfT1M2end5NDhzOFpSVVFLMnppc3VoRXpubHBSYUhVNlRJUzRBb3FnSk4tZWY1MUJKUHZxaTNVaDZEOEtEazgtY2NmNDdsNk9EbWptbmhKNW5mWEt2MzZQazVFM0p0OExZSGZlX3NsZw?oc=5",
+    "source": "TipRanks",
+    "summary": "",
+    "published": "2026-11-16T14:58:36+00:00"
+   },
+   {
+    "title": "Existing home sales just hit their lowest level since 2010",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEZuZnN1ODBOdXB6OWtueEZON2ZWczc2bTFGd3dnb0dNNnF1cUx3OWdNU0xKSGhCZ21iT2JVUGRZTjFINkRmRUpBUHhPWDV1eEpDUUZQcW5JZ1lKU3l4R0lkeHI2YkEwV0otdU1IRmVZY3liR05jTDZ0QmdYdzFJNW5GMmNJN3JTUmNjVmFxSnR0anRZ?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T14:51:30+00:00"
+   },
+   {
+    "title": "Best 2027 stocks: Jefferies picks top 3 names to own next year",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1htekxXYjlpUGNPXzVwZDlWVVFhUERSSWE0Y3pRcElYXzRWVGY4Mm1RMlRXOXg1ODVIUmZLVS1XdHdYWVphX2loeFdRNmpoOW1FWVdLYmI0aDEydDRqZmtrYWp1ZGVLNm8taFUycktHbWVBZ2h2NUh2VGJWdTRPZ2QzbUU2NDlNa08wbkJublRwVHRBaldDUWUtM051QQ?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T14:27:02+00:00"
+   },
+   {
+    "title": "AMD, Broadcom stocks sink on tighter US chips rules, CoreWeave drops",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd0VaNXdEN3JiNHZrTzNmSHU2QWpVbkJlYVFfNGZyNndWMEI4S0JjSXliemhiLVpCRDNTSURkdFltLUdCWE5qYVVoSzFRWDFPT2Zva2hmMkgxZnMycmVnWmVMc2Y3SjBGRjRKZlRTYVJMUVhYcWk2ZnM4cXdqVTdzVk93WXNLNmF6ellVNFg5cWtZZi1kZDU3ZmFkTmtmYk5mN2JjY0FCc25fYWI0cThNMTREbjhRUm51OERVREVGTTVKVTk1dHFVc2FibkZPZzlKbEFmNndhTHJCSmdyQVNfT1dCMkliWDNtSmd3?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T14:24:53+00:00"
+   },
+   {
+    "title": "Nvidia can replace Jensen Huang, but not the handshakes behind its chips: Chart of the Day",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaFZ2M3VxVWV2X0QtX0hLUUE3SWszcXZ2MVFKc2NJUU5ld0J5TUx5LWdhcmpFREptUW1UclpCUjkwN2RLUEtOSlk0R3ozZVdEZWlIdV9Hd25kazRLVk1mZTJHR2NoZ01hT05NSFhVVlNLdGZvRWFKcHFTZGlaQW5LcWRLYkp5aVNTQ0MyYUNZeHNtR1hLX3RZVV9BQV8xMVNGQXBoelo4V0JpYm81ZDlnVnFyT3RkNG04eFdaUy1ZSG52cm10bXpxekZWMVlwVUN4QlhyRExMUHJnbVg0dEE?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T14:16:58+00:00"
+   },
+   {
+    "title": "BONESUPPORT Repurchases 25,000 Shares Under Buyback Program",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0gxeUJYc2plSjRmQ181eFBSNWpqMXQwVnlMUl9KQ2pkT0lva05JWDBtU2JNOUxQdFVUQjYxUFBCeXdOOWdrcGZBVDlGRHlaYW9pNVlYaWRwVDRybzJiVU5teVNWcTJwWU1aa2hzWDlSUmRHWkg3ZFdzSWNJMUg1UlJqUHY3Q2JpYTBjb1VOdlo2a1FCeE1ibHlZYmdQbTRJanNFZU85c0tPUzV3NGZj?oc=5",
+    "source": "TipRanks",
+    "summary": "",
+    "published": "2026-11-16T14:02:36+00:00"
+   },
+   {
+    "title": "Anthropic's Dario Amodei is 'just setting himself up' with IPO, veteran tech investor warns",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0VnRWFnN0o3am4ydmh5a3hTenhOU29heTF4MGxYZy03R1VGNC1FNU5Wd2lDRzhMLWJoYmQydTk1ZzlOTXNHaGVhVlFiUmNSUGkzUjdkSGtDemJXTWdITkZGdzlKZDByR2Zhb05pZ1dOOV9yeG9HclNXb2xFbF9yZFMxelMxb0l4SF9RRGFrUnlXa1JQSGR2aFVubW9mNzB2bWZfa0FkMXhpbUx0MVNOYnEyUTRHbFhLOFhWR1AxMU9FTnNTVmJQU3V3WFFpa1JEb2FJb3A1OTgxMFB1RklMTlQzdkVZdw?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T13:52:29+00:00"
+   },
+   {
+    "title": "Top 3 Canadian Penny Stocks To Watch In November 2026",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRWNobGxZbjgtQ25QS2xGQlpkZnBiYjRDT0c4ZnZUTzMwbkxnN2tRUUdJVjhIMUxZRXhwRnd2cUdmYTJqUFZUNjlmc2FZTmZVRE9zZkFQLS0yVkhBTXVlbEZKZjBhd1E4ZDNka245SmhFZWhWTndXenJ5Y0RCcXFaNndn?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T13:08:45+00:00"
+   },
+   {
+    "title": "How Retirees Can Turn $50,000 Into Passive Income With These 4 Dividend Stocks",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSW1lZmNnUDVZQUk5Q0RhR2o3Z2tSaklldFVTQlRJTjFOb0htdVBpRE5YeTEyclBrTFZXQ1o3dW8ySG85UFg0MkpXRVkzZVZ1aTNzN1pWVGpqbWZEWFlBaExqNjc1WGV2LWpGZFZiNHY1VjlXZ3RwNVYtX0VZbEJ6RXc5TVhlZExLNV93YmpSTWdnd0N1dmtLTg?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T13:00:58+00:00"
+   },
+   {
+    "title": "Stocks dip ahead of Nvidia earnings, Anthropic IPO",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T12:45:20+00:00"
+   },
+   {
+    "title": "Why Micron and SanDisk Stocks Are Falling Before Nvidia Earnings",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd0lCOUNPb3d5YlQxLVBYa29fZ2NPaUR0d0tvdkRkelJ0cFd2Z0NvX25WNjdlTkhNOWRadjZiZXZ0Z2dHd3V3UXZRZ01oTFFfZ1R5ZUE0THY1SlE4bDF3VHJBTzY4akZQUWdXT1lLMXc4OFFmSFFjeTBiRjUwdVNReVR5N0J6U1hma2lrNGlpU3lCX2NkdHJZOVh2aFNZMG8?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T11:41:57+00:00"
+   },
+   {
+    "title": "Good News May Be Coming for Nvidia Stock Investors",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXdrRFRfLXR3RnliNUlmYy1VWFNNRXhXemJIMWNTNk11STFTWGkzTzJxRUxYaldYR1hiNHZUTm9mSV9pcUdNOWRWVXNlSU42SmJyXzJZRGxNODVHWTJGdEtaWGRKUU43ak9KWlZpMUtHM2E0UnN1azlvWllEc1AxNlRmVkZGT2Zxdnp4UkJ4dS03Yzg1Sldj?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T11:34:58+00:00"
+   },
+   {
+    "title": "A growing share of homeowners don’t have a mortgage at all",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc0ZtNF9lbHJGSzBKY0t5eDRnSUlUcjE2ejllMExrZ3o5TFBXMnRIbE9aeGtRSVIzMmYtREgzbEh6bGJ4V2dDVHVDNzN4NUQ0dzVCMTI0eHNkaGVOUUxZbGIzWUZ6ZnFfWDdhQ0I0b0VpcXMwU3RBUWxlTTlObW05ZTY4Z25aMFNDRGxFWm1QenZRaTF5VElDd0RnR1h4cy1idFliREw3ZFM2cjJ2YTRvZHdka19ERkNyZnc?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T11:00:00+00:00"
+   },
+   {
+    "title": "Crypto stocks slide premarket as Bitcoin selloff continues",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcEZrWkxybjdGYmN5bE01MlhSREFwV0VuUjhFSHhmZ1p6b3NVcmU1WmN2VFJoSEZpbWdwM3JNMHl6a2diUHNUUUFJZFItWXljMHZoSHd4N0o1b2pGc2JKbXFub3JnZUdBMFVaTkZtVlliQkZycDZPMW5oUGduZFZpWncyUWlSb3dMWk9tZW1KVHJUcUFxbFVIUWJEQThKOGUxNVB5WQ?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T10:57:29+00:00"
+   },
+   {
+    "title": "Nvidia Just Fell 32% From Its Record. Here’s Warren Buffett’s Rule for a 67-Year-Old With $1.6 Million in Nvidia Stock and $2,900 a Month in Social Security",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWNKZUtuakx6dHhUdFNDV0I3Q0dZRjlfUjFxUUs0WnhIdWJncVBBc3pkZ0hEOFFSRmd3WGk4UDltSkxPaWRvbkhWMWxWSFpjNDBvSUI5bzFvUXg2T1dzam1ZRV9EVWJXU3F2ekMyeS1GbGI0M1hPY0FUSTZkOUVDb05qOEVIbGdMTS1BSE1JQW5LdFFZanc?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T10:47:00+00:00"
+   },
+   {
+    "title": "Warren Buffett's Successor, Greg Abel, Just Dropped a $426 Million Bombshell on Wall Street",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHpBYnh5Wmg1eU9SR3hSNk1PRFZkNkhfSWVoYkxoSlExa1pVczdhdVpQTFVYWkZYNHJVdXZtY2FSRkJCQm1fZldGOW5FRHFRaldfSUVOVlNmZG9hRFdnRnhIZDA5YzJ6TmIyOVRVSEtOTUpJYnN1VEJvbEZDZG5XSFRvMGVjNnlQSXNUZkNMancxRFMteFFiMi1TUzZnSm1WUnc?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T10:26:02+00:00"
+   },
+   {
+    "title": "Which Penny Stocks Are Drawing Attention for Stronger Balance Sheets?",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWhuMFBKNEtPclVId0laSWhGdndMYlJxZEZhUWE2ZFYxVk5RUzM4Mkotb29XYjFiTmlQSDhDTzJETUpicXJMazc0SUxBWnkzdmQ3M0l5UjVOSFMyWDVuei1TQUl2MFRTT2FUNXFxdE1NZktJN05OZnBuMG51dkxfdjZUZ0pWNGxFMVBPbkNjdjFKQVZUNzQ5WXNnbGZFcFhOOVJLSXpVM3NZbFlGQ3c?oc=5",
+    "source": "Kalkine Media",
+    "summary": "",
+    "published": "2026-11-16T10:08:00+00:00"
+   },
+   {
+    "title": "Archer Aviation And 2 Financially Strong Penny Stocks",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmltdUpDelBpOG1FeUtfUkRadFA1NTM5VmVVLUtHbmI3ZndHYUlMWWpJX3FaVmVXcEMtYkd3YUhsN29hZjdmOWw0QS1NRGRTNDZmN0syTmRaUTlxUGgtSS1jQXc4OTVxM0o3bVVMLTdmMkV2MENfTk9abEFXdmxHb0pucEJQaDZJUHY1TnNB?oc=5",
+    "source": "Yahoo Finance",
+    "summary": "",
+    "published": "2026-11-16T10:07:33+00:00"
    },
    {
     "title": "3 Canadian Penny Stocks With Up To 28% Earnings Growth",
@@ -4351,13 +4561,6 @@
     "published": "2026-11-16T04:26:00+00:00"
    },
    {
-    "title": "Should Orbital Rocket Catch Require Action From SpaceX Investors?",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTjJRZmU4bldGUFpxUm9JV1JFemJKOEY2SmotTGtvWld1SmRHUVVsMEpNdWNNdVJBLUN4LUV3bHBCRENhdmYxdnp5X3laM3pmQTNPR3FxUHI0bFZ1QlVwNlRzVVJYRG5IR1BjVFJjdmJibkRoRU1WZVFLV01zc0N2dTJhVldwZFNXeEpZbzZKb0tYcmRxV1pHaU5zNTE?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T04:25:00+00:00"
-   },
-   {
     "title": "3 Penny Stocks With Earnings Growth Up To 58%",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSmZNSnVmeDVNWVpqTDBwenc0YmUwMlUyS3dlTElPMExQMXdaelRXSFlsbnhjd3pQX3AyQXhySjBnbmQzU1o4bVoyN0MzbnoxVmwwNXpkSlB1dzhDdkt4WEpkMko2TTg1RmgwbUp1aFFGNy15OUpreUk4R2lJWW9mRXJhcExTTjFLdFFGc2VYa3RJczlrLWZSSXZvVQ?oc=5",
     "source": "Yahoo Finance",
@@ -4365,249 +4568,14 @@
     "published": "2026-11-16T03:56:15+00:00"
    },
    {
-    "title": "Anthropic IPO Reportedly Oversubscribed 7 Times – But Will The AI Euphoria Survive The Stock Market Debut?",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckw3X3Rrb0lZaUgyX3ljNzhPQW1PdUFhR3k2c2txMjdGNHBzQ1JoTXk5NlZLU2xKWlNrU2U0SkZKZzJRNnFycWtjdnVmWmdwTW9adlBubnhvS3Y3VTFsSkY3bzFVRDd1eTZ2ME03RXZNTXRNcHFlbl9GaEFST2VXZ2xkcnkxSXhTUEo3dGZYQngySHpFWkREZ3NPclEwYl9IY1pGNlR4dDJGdw?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T03:56:00+00:00"
-   },
-   {
-    "title": "Sell Alert: 5 Stocks Analysts Downgraded on Thursday",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXQyMGVReTlKVy03dk5ENExQWXJZV29xb2FGMWFMRlJ6d3laMEFOZk4taUpwTjdIQVp0UUJNU3loYXVNdlRuaUJ5dlJlcDIxSE9yUThld0hDYkc4aENLYnFxS2dOS1ZUVmdKQk9rTWxEWjk3VnlWV2RkMU1wYjRZUmRpVDVHUzFLR3VQRm1vUWdqYi13ZF9rVg?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T03:04:00+00:00"
-   },
-   {
-    "title": "Buy Alert: 5 Stocks Analysts Upgraded on Thursday",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnd0Y19vbTA5Qm5YMWFpdmNPNDJwSjdjVmRxbUZuYWx2NXVtSjhXX3dOY3Q5ektTMURZcGhMLWZESzdHTEZsRTJkRGNnV19nOHdWRExDZVJDeGdrLVBuV2UtRGxGNnlrOVBNb00ycVE1SHF4aFZFam81WHJEMTRGR0Z6X3VKRDBNUUppbllhSWhmOVE3QVdj?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T03:02:55+00:00"
-   },
-   {
-    "title": "Stocks extend losses as traders digest Nvidia fallout",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNTBLaEZKUEIxYzI5bmNObGFtVkw5SXJmbS14S2wxLURqcDRRVURJbjZHLWtqbUtlb0NRWVl3SGxTVTFWVmlHS3BmckxBSzRyUmtsT1N5OHA3VTlhTkdzVTRYOE1RaEdzbHVmM0RVNmI5RHNkajBPa21XV1AxS2E1bzNOQ3Q5cU92NTRxSm40NGd3WHcxT0kyY3prRUxDU2VvdHc?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T03:00:00+00:00"
-   },
-   {
-    "title": "U.S. stock futures little changed as investors await Nvidia earnings",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXJyVkc2TDFaclFWbGJJZFpwQlRrenNkazZLZ01QanNxcWF6QlJ6dDNLT1lMODh6aXh4TnFXTlpka0U5a2xKY3lLQVlxT2RObHN6UlpaNlFQQ2xyZVh2dUNvdk9iZ2huTFl2a0M1MEU4cWVxOVlkV3QzTnVxMTlNQWxYc1c3RGRMal9lSXljUGxrOFdhQy1iWVp1bw?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T02:05:00+00:00"
-   },
-   {
-    "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd2FWcktJLVd2aW9ObWxWUGJ4MVBiNDJ6clFlSmRTSjhNSVZrbHlCamNBYUZfeTJ2cjdtZVFZMU40a1Q0dkdRcHlibDJjS20zdW1jYmtOcnkweEx0QzFOUGpFZ2JWN3Jmc1dNakJITW45VG4waDNGU285TlN3el93ZUxzYWxXdUg3eVk0U2NSUGJySFE?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T02:04:00+00:00"
-   },
-   {
-    "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T01:35:00+00:00"
-   },
-   {
     "title": "Alkane Resources And 2 Australian Penny Stocks To Own",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNDkwd210NkZFYkZsd0ZkcW9qMzh5bjJVQnBVNGtIdXBwaG1VbVdETUZ6VHJKM3lLQnhLQkRqVC1aV1IwYUxGOEJJNHhmSFNGa19RSTRPZi1CTHkwdUZCaFlvckxyTzNMemlSZkFWbURJMHRuUzJrenVyNHhEbmZ4alhYd0pub3BSS2tUUTlzZ0pOVzdhdmFVbEl4dmlnTEp2TXc?oc=5",
     "source": "Yahoo Finance",
     "summary": "",
     "published": "2026-11-16T01:30:32+00:00"
-   },
-   {
-    "title": "Why Micron Stock Is a Screaming Buy Before Year-End",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM3hpcF8waGhWQUV0WGRKUnBMdzRnb0hydEItT3ZTMGhlUDB2UG1iUHhFWVZMX0k4VnZXdGJpYXJiREpmcS1RbHdaVXJUMEJ6QzJxb1lsdWgteF9ZeDc0X3hHWHJrZlNPYTZBMUo2RzQ4d2pDc3NTdmxUREdOMi1nd2pZMDVWZTlicjVHb3RhTnlGclN0MG9IZFNpUQ?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-16T01:20:00+00:00"
-   },
-   {
-    "title": "Americans fear the worst after Pentagon doomsday prepping, ‘Black October’ cyberattacks, stock crash, spy scandal, Microsoft outage, and airport chaos",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlVtMGRzTmJLcVctQ3J6VHA3WEpCM1QwVDBYTWZ4LVc3MzlRcDZibEc5NUJtemVSdnpoRTFyMGtsTEhuaXR3MHZUM0N2RDZBVV82SUdabnFydVE2Mmg0TWZBVl9xRkJYdzZ1V0VWYXhmVFRxY0ZkNU9wUjliV19TOWdTdm01TkVwdkRCUF91a3JFTWdPZmxoSGMtRjBJMnBRdXhnVVJB?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T23:21:09+00:00"
-   },
-   {
-    "title": "Musk, Uber co-founder join call for Jensen Huang's return to Nvidia",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUGlPWjVnSXEyWUxXYUgwSnJidmlsdGU5eUNmVDRoWmRmRmI5bC1NSHl2OWJIZUZZTVlOZkVmVlNhS2J6dF9SMU1wUzNRRkpBbjVZbkhORjJBSURzLTdwZ1BiV0NGTGtXUm90aldrLXRCdWR6SnFUMjBYc1NPYmpYR2RIMTVIX2RyT2JldVJmUjB6OG8?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T23:16:43+00:00"
-   },
-   {
-    "title": "Jensen Huang may return as Nvidia chief executive - report",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRF9GYTdma2JkbHpaQzZSVlBzQ0diUlR2Y3o4MkhsUHFGLXpmQzI5M1hMWEdEVHlrTFduajlpMnFyZlVwVlYxSUVvOU1GOVNHX0hKb3hYbkNVLXlHMGpjX1FnTWVzVEE3NEo5OEo2WVFSMVV3V3owbjVmNHBGZXdoa3BGdk1FU3RBRFFjdUNfcUNyNVVlR0Q0cjQ1bw?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T21:09:40+00:00"
-   },
-   {
-    "title": "BREAKING: Jensen Huang Reportedly Plotting Comeback as Nvidia CEO 4 Days After Sudden Resignation",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelROVWZLZy1vRlhZXzE2M0pUQUtQVk5QUVRPcmZfemNPRnFJOVZHYVJzZThvTExuam95TmZqZ1FsY29obHdEWWNneGxMaTVlNmN3MDc4VmtQM2VVbUNXWkVkQTVnRnA0MnFlcmJtZzVGNGszWWN0c0FibThyT0lTQ2E5NTFlOVhJYkd6anNHcE94UVJ4UXE5LXJPRV96OU9wc2JsNA?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T20:32:49+00:00"
-   },
-   {
-    "title": "3 Canadian Penny Stocks With Up To 67% ROE",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWV9TVksyc005NFh5Z0NwdWZQbGlvdU12eEtfWWNoR3Z4MmtvUi1LQk5QNDR1eldIZ3cwRU9QbVBTNXFNZHp3TjdBSE5ldDV0UV9GNUlIdlRuT1BWaXlBOHBhZk1Id2plaUR4OWhhcGw0U0FxbloyYlRKSmNnMTFTZDVabkk1QzJyX3RSbWFRQjdWMUxOREp3aWdQcE4wNURZZkI5Ny1XSWI2TU1xU1JLTTZaZmM5T2lILThfY1lubUxyQ3JNU2NPaW1iNNIB0AFBVV95cUxPZE1FV1FsSmZsbzloeXk5eGNxRzdlNE5CMndtRmc2SWZNaXFKTmpOTHU0MHBoWFZDeVZWczk5S250OFlkTkw4TkZUZVRFcnVNa2JFMlpfNDBDRndFVTNwNkp0ZzBtU2RPbFBHeExPcHhZQUVwb1VYaE9rOHpNMThMWGdLQU1GTS11N0NfWnBNTmNBZmlDNFR6X3lrdDkzbWt6dDZVYnowZ3FzTm1MZHdOX0s1R0NNd290OU1kVkU2RndlTm9udGxJWUFmdEt2Rm1E?oc=5",
-    "source": "Simply Wall St",
-    "summary": "",
-    "published": "2026-11-15T20:21:10+00:00"
-   },
-   {
-    "title": "Top Penny Stocks To Add to Your Watchlist - November 15th",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVF9WNlJ0cEoxekRNR0Q3SUtCUzlrOVJyVkxKdWhnSW9EM0xFX0gteHVGMUFJV3RadXQzcGF0VVpITmVtSnhkNEFIcnNTaS03bjJFMEU2d0VoRjV1SHFMc1l2YnFpR3pidWtSQS0wZF84SXJ1OVhfVE9jYnJjZUI0cXBmOW9ITHpfc0dOSFBOai12MUxqOUVINExxekFPbHIyekpxYnhNMW9Wd3o3Wm9KVW5CLVE?oc=5",
-    "source": "MarketBeat",
-    "summary": "",
-    "published": "2026-11-15T20:17:46+00:00"
-   },
-   {
-    "title": "3 Magnificent Stocks to Buy Before 2027 and Hold for a Decade",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmN0RTViRzgwei1NeVItSjFWenBNdW5xVVZjQWZzX0UxNkFJcDFqN29WWVhsa3FjTEtHX0s4RzAwMWZiNktvM2dWd2tINzlHMVhHZHVkelBMOHVQVEl1dFpra0xERzdJNGNhYkk4QzhoNUdpdGZ5dUptV1dHYkVURWRxRlplQUtCYVRrcDAwcWdubkFNckstYnRn?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T20:05:02+00:00"
-   },
-   {
-    "title": "Should You Buy Sandisk Before Its 8-for-1 Stock Split on Nov. 19?",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmNNVjdtREhCaUNQS3UzRXFBNEQtWDdielVqRFB5NkJfTV9ZWU5OdHNVdXg4UGlIenBvQ092REpTdVVEUzA3OVYxR1ZLN3c1TU9NRUlpOW14dkZ3bFNHZDBubXZFX3FOcnhicDNzNmZzS0ZNWGFaMEMtS3VycV8tRkQ5TmRVYWd4MGZvcWhjbw?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T19:49:02+00:00"
-   },
-   {
-    "title": "Haven't saved enough for retirement? Wealthy people haven't either.",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUUl3aXBoTWJYd2ZFSzZnWjRtUUpjVjA3dEpNbE5mMnc4TFdTNS1MWk9kRC1ORUlKNWR3Mm8zQ0xiQW5BZDJMelJrUFpsWVFUdmk4anhPcldIWVp1WDNOOHFxS1NhUU5OcFhUS2dpNWd4NnF3WjFnTjk5eW5oSFhzdGNhWnNNem1MdUxGaWNDbWFFYWU5TFlTY19xdHk5Q0o5TmN0S0pGRFhSV0lMSG5mcHNIZG1rMzdleF8zZg?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T19:29:22+00:00"
-   },
-   {
-    "title": "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVFmU0JGTEhVbjNvTVhibVVVTVlZYW5WLUtRVTlxRE5DZkpoX3ZpeExnendhWDlKb01lRFkxeGZ4MlVhcVV6Y0s3aFpTcDlCN0RXaENGdUtQVG4zRU5iQmg4Q1l5aGx3WlpRcnAtdE1NWHZtRmt4Z0Y0X1UzWmJQQ2dPYjhzamNLLXoxSk93YlpzbUtQSUV4eDFlbU5DeF96T0c2S3B3?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T19:26:28+00:00"
-   },
-   {
-    "title": "Jensen Huang Reportedly Wants Back In As Nvidia CEO. How Will Stock React?",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHhPNUFLeEpOMmNseG40aV9MMzVpTlhDNUxqOGo2b2lkUjVrUTlqRkQ4QTNxWDJGcTZuM3I5OUJGZzdSLU4yVnVsNkltdUxTQmRFeGNTaUctYUVFNkJ2cFJ4MEkyTHN6Tk9EQXVwcDdEV0RCaUZpaTJDTmVDYjdOdERVVVQ2ZWNLa2d5ZjdvTjRyRVJTZ19lYVoyUHlZYjZ5?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T19:23:49+00:00"
-   },
-   {
-    "title": "US Treasury chief wants answers soon from Nvidia",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTl6U2ZWZ0tvaC1GOXR1bk9mY3JuNDBHYjVHMERqNmM4bkZvSkdkVjdYLURnUDRwOVdIOUR4Szg4Sk9pLVlKVTgzTWo4NExJYVJfdHlkYlgwRTAwZXlyTFFPeHBGY1VWam9EX3k2eGpGeDBsSUs5MXRfMGIzQ1Mxa0tTQTV5RDJXUk9aVklSbFBYckpQZzM1bXJyWQ?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T18:33:27+00:00"
-   },
-   {
-    "title": "Broadcom Heads 3 Top Growth Stocks To Watch",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUzZWYkFHQzhQQWo1blE4TDBpYVFBYUFtR0l6UWlULVk4S0dsczE4WHY4Q1U5RXNfUG9OamU1SGRvUGtxQU50ZjZMQ0VpNnJlTnJoeXBVRGZjUWZ4Vjh3MEt5cWgtUzR4bEI1SXh3d21od253UU1CQzNIdEhlOVQ1c3k4bHFqc0hQXzBzT1c5c3g3dGpIOTdr?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T18:07:57+00:00"
-   },
-   {
-    "title": "SpaceX caught Starship from orbit with ‘robot chopsticks’ in a world 1st — but lost its booster in the Gulf of Mexico",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHc2Umd3dWo3UUQyTHo3amFEVTdobVJQTzlMNV9PZFlGQUdjS1RtazVlNFdRMG5DYW5ocEV0TVp2Qk5fVFFCZnEwZjFaTXNhY0NINWdwVUxyS00wUmFZbGFMeEZFU0NIQk9YOFFtWHV5a2pIZGI5NFppZTQ0WWU3aU5mc2g1ZXZyQmNIckJCVnNtSXBpbVJaZUdmZjVKTGFf?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T18:05:00+00:00"
-   },
-   {
-    "title": "Can Lower Costs and Rapid Debt Reduction Change the Story at KOS (NYSE:KOS)?",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVJsMTBXajdLc01xZURQSWdjZTdFR1Fiam9CaS1DbUFZUmxqS3oyVlo5TXJDUXZtd2E2QXJkVjhobzRZTjBDWGJUMkxvTWpqa2VpdXNnLWU0anJneXVncktJR00wM24tRmJUc1Jqd0tMcHBMemt0Z0tCX2pyLXFmTzlsTDFaUkVQSkZuaEtCbDV4dFhTWkxNNHhqNDUyWDZGeVVZZFgycW5vWk5wTV9MaGp1NA?oc=5",
-    "source": "Kalkine Media",
-    "summary": "",
-    "published": "2026-11-15T17:46:00+00:00"
-   },
-   {
-    "title": "3 Beaten-Down Stocks Under $10 to Buy in November",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1dTa2F1TlI1UjVFakNoMWRBbHdtMks4ZnJLbkZoQm80NmhmLWwtTkIzWmJldlAwSW1kNHN5eHp3Y3Q4ZkdGWktrRWhHNU04cjljVlNiN0lQM3FQVDU4Rzd3a2NtN0dUTGpuN2YySDEzNHdSeWhCYTR0bVp2NXNtT1dUd2k3N1ZhWmZFNWhSQlhKZnVFWnc?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T17:20:02+00:00"
-   },
-   {
-    "title": "‘Bond King’ Jeffrey Gundlach Is “Not Interested in Buying Stocks.” His Warning Points to 10 Years of Losses",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTEzLTNZbm9NekZneTdaSFVhQ0ctajRKaFZTWjdLeURCQkwyeFJFQkU2eWRnakJGUHlWdkcxMUIxYS1sOHZxTWtKbkoxdXZhdVVvc2NYMElWb1JmUGpkdzRtSDl6WkxnNFNxMF9Xd281RklZQ1JMaThId2lPWF9qRkVwczFyaHUtaXh4MkRITmNhd08wWTBDdThxUQ?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T17:12:51+00:00"
-   },
-   {
-    "title": "DRAM Just Got More Expensive Than AI Memory. Here’s Why Micron Could Soar in 2027",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWFVdTN3S2tEZzRVbHFTckQwdU1CSkg4VmtkcV9GM2F6UWE5RENEYVlFTmh0M1BscUV1emV0eVNZbmhQdjYyV0JGUGF6OXAydldtakpxdUd1dFdFTndvMkVZY0pTcVNMVjZWVkRHN2R2VXZEVWl1OGdQOFFmandKOXBNeXc5emthSDFITnZ2RU9EN2N1T1Jzeg?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T17:02:18+00:00"
-   },
-   {
-    "title": "Jim Cramer Says Nvidia’s New CEO Asked the Questions Jensen Huang Wouldn’t Answer",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEpBMmNEeUZQUmgtMDJ1MG92UHVzM3hCMFowTjcxelMyT2RmMS1LdXJ0NmR0TmY2WGNfdlE5QXRwSGRKZ185RTVaRThsRW5sUF9MTnZnUl9iZ09KTzBMdGNCaURKYUlLbmRBNlRoX3ZlVi1JemtDb1hHX2FTdWc4ZkRVWkkwY3F3NlFHaDVUUU5zaDVYT3c?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T16:47:31+00:00"
-   },
-   {
-    "title": "MacKenzie Scott gave Jeff Bezos 75% of their Amazon shares, Blue Origin, and the Washington Post in 2019 divorce",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2R1V2tkdmZwb1NhOHZaMC04YTY3QWkzU0x4d1pKYzl4UWhUenpjdnZITVhtcWpnSXA5S2xmcGdfR01LT2RpUk9sWU1lbUNhY3ZkeTVOZG9JaTIxZXAtMFcxamZ5b0puY3BFRmVWbW13M2pBZ09IdV9PaEwzRER0N1pCSEFGdlJVY1drbG8wZDhsbExJeFV4R2pHTnc?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T16:30:00+00:00"
-   },
-   {
-    "title": "These 3 Dividend Stocks Just Reported Strong Earnings. Here's the One I'm Buying Now.",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2FYY2UyZU5fVk5yVVBUdFJ4RXRMdDMxM2hWVjU3WjUtRXJQalN2NFhDUnBRYTdNSk44UmdOQTI3QXRSaDJYamcwbjVGLVVRcjFQbUcyekxjaDRVbko3b3E5ekoyd3lGdWxYOFNhanJwbGozRllzTlVSV2tHQnlvbVVIUHJMZlFGRG9UUDVpdVo4SmNkMGV0dA?oc=5",
-    "source": "Yahoo Finance",
-    "summary": "",
-    "published": "2026-11-15T15:58:02+00:00"
    }
   ],
-  "stocks": [
-   {
-    "symbol": "KOS",
-    "price": 2.23,
-    "change": 0.04,
-    "change_pct": 1.8265,
-    "prev_close": 2.19,
-    "as_of": "2026-11-13T21:00:00+00:00",
-    "consensus": {
-     "period": "2026-11-01",
-     "strong_buy": 3,
-     "buy": 5,
-     "hold": 5,
-     "sell": 3,
-     "strong_sell": 0,
-     "score": 0.5,
-     "verdict": "Buy",
-     "prev_score": 0.62,
-     "trend": "down"
-    },
-    "mentions": {
-     "count": 1,
-     "headlines": [
-      {
-       "title": "Can Lower Costs and Rapid Debt Reduction Change the Story at KOS (NYSE:KOS)?",
-       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVJsMTBXajdLc01xZURQSWdjZTdFR1Fiam9CaS1DbUFZUmxqS3oyVlo5TXJDUXZtd2E2QXJkVjhobzRZTjBDWGJUMkxvTWpqa2VpdXNnLWU0anJneXVncktJR00wM24tRmJUc1Jqd0tMcHBMemt0Z0tCX2pyLXFmTzlsTDFaUkVQSkZuaEtCbDV4dFhTWkxNNHhqNDUyWDZGeVVZZFgycW5vWk5wTV9MaGp1NA?oc=5",
-       "source": "Kalkine Media"
-      }
-     ]
-    },
-    "watch": false
-   }
-  ],
+  "stocks": [],
   "max_price": 5
  },
  "_rec_cache": {
@@ -5176,7 +5144,7 @@
    }
   },
   "INTC": {
-   "fetched": "2026-11-13T15:33:35.106083+00:00",
+   "fetched": "2026-11-16T19:48:47.856557+00:00",
    "latest": {
     "symbol": "INTC",
     "period": "2026-11-01",
